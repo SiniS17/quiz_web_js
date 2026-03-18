@@ -1,0 +1,41 @@
+During start, in case of ignition delay, the FADEC will(ME Repair)
+Automatically cancel the start sequence after an automatic dry motoring.
+@@Automatically operate both ignition exciters after an automatic dry motoring sequence.
+Automatically operate standby ignition exciter after an automatic dry motoring sequence.
+
+Automatic start will be aborted automatically by the FADEC(ME Repair)
+When N2 is below 16%
+When N2 is below 43%
+@@When N2 is below 50%
+
+The FADEC has the capability to turn fuel off(ME Repair)
+@@Only during automatic ground start
+If engine fire occurs
+If engine master warnings appear.
+
+How does the starter operate? (ME Repair, E&A Repair)
+Hydraulically
+Electrically
+@@Pneumatically.
+
+Which statement below is correct? (ME Repair, E&A Repair)
+@@The starter valve is pneumatically operated and electrically controlled by ECU
+The starter motor is pneumatically operated and electrically controlled by ECU
+Both above statements
+
+Which statement is correct? (ME Repair, E&A Repair)
+The starter  accelerates N1 spool through the gearbox
+@@The starter accelerates  N2 spool through  the gearbox
+The starter accelerates N1 and N2 spool through the gearbox.
+
+If the starter air valve solenoid is INOP? (ME Repair, E&A Repair)
+You cannot start the engine.
+You can still start the engine using manual start sequence.
+You can only start engine by operating the SAV manually using the cranking tool.
+@@You can only start engine by operating the SAV manually using its handle.
+
+The engine manual start push buttons to operate the corresponding start valves in (ME Repair, E&A Repair)
+@@The manual start mode or during an engine cranking.
+The manual start mode.
+During an engine cranking.
+
