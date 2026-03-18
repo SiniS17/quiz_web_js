@@ -1,0 +1,194 @@
+A composite layer is called:
+A sheet
+@@A ply
+A laminate
+
+Approximately, how many percent of composite material is used on B787?
+@@0.6
+0.1
+0.8
+
+Approximately, how many percentages of composite material does 787 have?
+40%.
+20%.
+@@60%.
+
+Disadvantages of sandwich structure:
+Bad stiffness versus weight ratio.
+@@Bolted repairs are not recommended.
+Heavy if compared to monolithic structure.
+
+For a composite part of solid laminate construction, the toolside is the:
+@@Smooth side.
+Side adjacent to the bag when the part is being cure.
+Rough side.
+
+Horizontal stabilizer has:
+05 stringers and no spars
+05 spars and 05 stringers
+@@05 spars and no stringers
+
+How can you locate fuselage stringers from the outside of the aircraft?
+The stringers runs along the fuselage in the middle of the shear ties.
+@@The stringers runs along the fuselage between the shear tie end fasteners.
+The stringers are riveted to the fuselage skin.
+
+How is the tap test?
+Use ultrasonic technique for test.
+Take the sample for test.
+@@Use tap test tool to test.
+
+How many main types of composite structure are there on aircraft structure?
+3
+@@2
+4
+
+How many spars does horizontal stabilizer have?
+@@5
+4
+2
+
+In fabric plies, fiber bundles go:
+In one direction
+@@Two directions
+Three directions
+
+In tape plies, fiber bundles go:
+Three directions
+Two directions
+@@In one direction
+
+Inspection for high energy impacts is new for the 787, it includes:
+An airport jet way that hits the fuselage at more than normal operational speeds or angles
+Ground Support Equipment that hits the structure at more than 2mph
+@@A and B
+
+Interwoven Wire Fabric (IWWF) is:
+Is the middle layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+Is the inner layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+@@Is the outer layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+
+Ram Damage Checker (RDC)
+Use RDC on metal structure.
+@@Use RDC only on solid laminate structure less that 5/8-inch thickness.
+Use the RDC on sandwich structure.
+
+Ramp Damage Checker works on the principle of
+Eddy current
+@@Ultrasonic
+Magnetic
+
+Resin in composite structure is:
+@@The glue that holds fibers together.
+The layers of tape structure.
+Cured in one hour for all kinds of epoxy systems.
+
+The flat area at the border of the honeycomb component that does not have core is called:
+Bag side
+Face sheet
+@@Edgeband
+
+The impact can cause internal structure damage
+A tool is dropped on the composite structure and no visible damage
+@@GSE hits the structure at more than 2 mph.
+Liquid spill on the structure surface
+
+The manufacture's reference document for structural repair is:
+@@The Structural Repair Manual
+The Maintenance Manual
+The Maintenance Schedule
+
+The outer layer of the fuselage that has phosphor bronze wires woven into the carbon fabric is called
+@@IWWF (Interwoven Wire Fabric)
+ORWL (Outer Reinforcement Wire Layer)
+LPOL (Lightning Protection Outer Layer)
+
+The side of a composite part that was cured against the vacuum bag during the manufacture of the composite part is called:
+@@Bag side
+Tool side
+Face sheet
+
+The stiffest composite is:
+They are the same
+FFRP
+@@CFRP
+
+There are two types of composite structure:
+@@Sandwich and Solid Laminate.
+Sandwich and Honeycomb.
+Solid Laminate and Tape.
+
+There are two types of plies (layers) for solid laminate construction:
+1. Fabric - fiber bundles go in one direction, 2. Tape - fiber bundles go in two directions.
+@@1. Fabric - fiber bundles go in two directions, 2. Tape - fiber bundles go in one direction.
+1. Laminate - fiber bundles go in two directions, 2. Interwoven - fiber bundles go in one direction.
+
+What are the types of composite construction?
+Laminate and honeycomb
+Sandwich and honeycomb
+@@Sandwich and solid laminate
+
+What is correct about composite Pre-preg materials?
+When stored at freezer temperature, the resin becomes hard
+The lower the temperature, the quicker the resin becomes hard
+@@It must be stored in a freezer
+
+What is the QCR meaning?
+Quality Composite Repair.
+Quartz Composite Resin.
+@@Quick Composite Repair.
+
+When there is a structure damage found, the first step is to check
+With Boeing rep
+SRM chapter 51
+@@AMM chapter 05
+
+Which component is made of titanium?
+@@Pylons.
+Stringers.
+Spars.
+
+Which component of the wing is made of aluminum?
+@@Ribs.
+Spars.
+Stringers.
+
+Which defect is shorter and wider?
+Scratch
+@@Nick
+Gouge
+
+Which of the defines below belong to a de-bonding damage?
+@@Is when a separation of materials occurs due to an adhesive failure
+Is when the separation of plies occurs in a multi-laminate material.
+Is a line of damage of any depth and length in the material which causes a cross-sectional area change.
+
+Which of the defines below belong to a delamination damage?
+Is a line of damage of any depth and length in the material which causes a cross-sectional area change.
+@@Is when the separation of plies occurs in a multi-laminate material.
+Is when a separation of materials occurs due to an adhesive failure
+
+Which of the following is NOT the advantage of composite material?
+@@Under normal operating conditions, cracks grows faster in composites than they do in metal.
+Composites do not corrode.
+Composites are generally lighter than metal structure.
+
+Which of the following is NOT the advantages of Carbon Fiber Reinforced Plastic (CFRP)?
+@@Easy to corrode.
+Less weight than almost all other common aircraft materials.
+Strong and stiff
+
+Which of the following is NOT the advantages of Fiberglass Fiber Reinforced Plastic (FFRP)?
+Do not conduct electricity and can be used to isolate dissimilar materials.
+Are transparent to radar waves - can be used in radomes.
+@@More expensive than CFRP.
+
+You can find the fuselage stringer location in:
+AMM chapter 20
+@@SRM
+AMM chapter 06
+
+You can use Ramp Damage Checker (RDC) on:
+A and B
+Sandwich structure only
+@@Solid laminate structure only
