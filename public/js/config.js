@@ -160,7 +160,7 @@ export const CONFIG = {
 
   VALIDATION_DISPLAY: {
     SHOW_LINE_COUNT_ERRORS:   true,
-    SHOW_ANSWER_COUNT_ERRORS: true,
+    SHOW_ANSWER_COUNT_ERRORS: false,
   },
 };
 
