@@ -1,0 +1,134 @@
+After installing pilot's seats, you must:
+@@Calibrate the ECU
+Both A and B
+Check switches on the glare shield
+
+After the emergency descent device is used:
+@@The device must be replaced.
+Reset the device reel for the next using.
+Carry out visual inspection then stow again.
+
+Door-mounted escape slide pack inflation cylinder visual check:
+Make sure that the actuation lever on valve assembly do not block the inflation cylinder hole.
+Make sure that the inflation cylinder is stowed correctly position.
+@@Make sure that the pressure gage needle is in the GO band (green).
+
+During perform emergency evacuation system passenger compartment operational test:
+The horn in the flight compartment operates.
+The horn at each door of passenger compartment operates.
+@@The horns in the flight compartment and at each PED operate.
+
+During perform the captain and first officer seat installation, you must:
+Push and hold to test the rocker switches
+@@Carry out a calibration procedure.
+Adjust the FWD and aft stop on the seat track.
+
+Emergency evacuation signal is able to be generated from:
+Purser attendant station only
+@@Flight deck and attendant stations
+Flight deck only
+
+How many bunks are there for OFCR and OFAR?
+@@2 for OFCR, 6 for OFAR
+2 for OFCR, 4 for OFAR
+4 for OFCR, 8 for OFAR
+
+How many emergency exit doors are there?
+6
+@@8
+4
+
+How to remove the galley electrical power in an emergency:
+@@An emergency OFF switch at each galley panel.
+An emergency OFF function in the CAP.
+A CABIN/UTILITY switch in the cockpit (P5).
+
+If RH AC bus loss power, what happen?
+All lavatories loss power
+Left side lavatories loss power
+@@Right side lavatories loss power
+
+If the overhead stowage bin does not open normally,
+Perform the stowage bin latch adjusting.
+@@Use a tool to unlock the emergency release latch.
+Remove the stowage bin cap then unlock the emergency release latch.
+
+In emergent situations, the crew exit by
+Door-mounted escape slide packs on each passenger entry door (PED).
+@@Emergency descent devices on the flight deck
+Slide window.
+
+Lavatories electrical interface connections go through:
+@@Ceiling panel
+Ceiling panel and Floor panel
+Floor panel
+
+Lavatory waste bin flap:
+Fully opened when not in use
+Latched opened when in use
+@@Fully closed when not in use
+
+OFAR can be used
+@@In flight only
+Any time
+On ground only
+
+Passenger Seat is connected with Seat Rail by:
+@@The FWD passenger seat fitting has 1 locking lug and the AFT passenger seat fitting has 2 locking lugs
+The FWD passenger seat fitting has 2 locking lugs and the AFT passenger seat fitting has 2 locking lugs.
+The FWD passenger seat fitting has 1 locking lug and the AFT passenger seat fitting has 1 locking lugs.
+
+Pilot's seats can be controlled by:
+A switch on the seat back
+Switches on the sides of seats
+@@Both A and B
+
+Seat track covers is:
+Made of composite
+Used to cover power wires
+@@Holds wires that connect IFE data and power between seats
+
+Seat-to-seat wiring for IFE data and electrical power connect through:
+Passenger service unit (PSU).
+Wireless.
+@@Seat tracks covers.
+
+Side walls panels are installed by:
+Screws
+Bolts
+@@Clips
+
+When does the decompression warning horn operate?
+PASS OXYGEN switch (P5) is in the ON position
+@@Loss of cabin pressure or PASS OXYGEN switch (P5) is ON.
+Loss of cabin pressure.
+
+When EVAC COMMAND switch at door 1L Attendant switch panel is pressed on:
+Only audio alert at a speaker near door 1L operates
+Audio alert at all speakers operate horn operates and the evacuation lights at Purser switch panels comes on
+@@Audio alert at speakers near all passenger door operate horn operates and the evacuation lights at Attendant switch panels comes on
+
+Where are the Service outlets?
+@@At FWD PED near the floor
+Nearly every lavatory
+Nearly galley
+
+Where is the captain/first officer seat ECU?
+In the sidewall.
+@@Below the seat.
+Behind the seat.
+
+Where is the portable emergency locator transmitter?
+In the emergency slide pack of door 1L and 4R.
+@@In the mounting bracket of door 1L and 4R.
+In the area above passenger compartment ceiling at approximately station 1732.
+
+Which seat can only be manually controlled?
+First officer seat
+@@First observer seat
+Second observer seat
+
+Seat-to-seat wiring for IFE data and electrical power connect through
+@@Seat tracks covers.
+Passenger service unit (PSU).
+Wireless.

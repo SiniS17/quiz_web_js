@@ -1,0 +1,329 @@
+02 PECS loops are used to cool:
+a) ICS SCU
+b) Power electronics equipment and motor controllers
+@@c) Both a and b
+
+A High Efficiency Particulate Air (HEPA) filter removes fine particles from the air pulled in through it:
+@@a) By the upper recirculation fan.
+b) By the lower recirculation fan
+c) By the upper and lower recirculation fan
+
+AFT and BULK cargo compartment temperature is usually controlled to
+a) 270C
+b) 180C
+@@c) 210C
+
+Alternate Ventilation system for 787-9 uses:
+a) AVS inlet door
+@@b) 02 outflow valves
+c) Either of the above
+
+Boeing mmel permits dispatch with a lower recirculation fan inoperative provided:
+a) Fan is deactivated and air conditioning packs operate normally.
+b) Fan is deactivated and air conditioning packs operate normally and at least 3 cabin air compressors operate normally.
+@@c) Fan is deactivated and air conditioning packs operate normally and at least 2 cabin air compressors operate normally.
+
+Compact mixer:
+a) Receives trim air from the trim air pressure regulator valve.
+b) Sends air mixed with trim air to the plenum/manifold.
+@@c) Receives chilled air from the lower recirculation heat exchanger.
+
+Crew rest and flight attendant rest conditioning air come from:
+a) Trim air
+b) Flight deck zone.
+@@c) Zone D distribution system air.
+
+During engine start (MES) the ram fan is controlled by
+a) RPDU.
+b) The CMSC.
+@@c) Ram fan MC.
+
+During usual airborne conditions:
+a) Only the inboard CACs operate.
+@@b) All CACs operate.
+c) Only the outboard CACs operate.
+
+During walk around, you see heat coming out at forward outflow valve:
+a) FWD EE cooling system inop
+@@b) This is normal due to FWD EE cooling exhaust overboard exhaust valve open
+c) FWD EE cooling exhaust is malfunction
+
+Each pump package has 2 pumps that are:
+a) One pump operates and the other is standby.
+@@b) One pump operates and the other is back-up.
+c) Two pump operates.
+
+EE cooling system detect smoke condition when:
+a) There is smoke in the compartment
+b) There is an overheat condition (over 1000C)
+@@c) Both a and b
+
+EE cooling systems normally use:
+a) 01 supply fan and 02 exhaust fan
+@@b) 01 supply fan and 01 exhaust fan
+c) 02 supply fan and 01 exhaust fan
+
+FCAC CRU use to cool air flow:
+a) Water
+@@b) R134
+c) BMS 3-42
+
+FCAC pump package is located in:
+a) LH wheel well
+b) RH wheel well
+@@c) RH ECS bay
+
+Flight deck air is supplied usually thru:
+a) Boost fan
+b) Plenum manifold
+@@c) Compact mixer
+
+Fluid cooling systems for the 787 are:
+a) Integrated Cooling System (ICS) and Forward Cargo Air Conditioning (FCAC)
+@@b) Power Electronics Cooling System (PECS) or Integrated Cooling System (ICS).
+c) Power Electronics Cooling System (PECS) and Forward Cargo Air Conditioning (FCAC)
+
+For 787-9, how many have air supply inlets and outlets?
+a) It has 3 air supply inlets and 2 outlets. There is one inlet from each pack and the third inlet to the plenum/manifold is the duct from the alternate ventilation system (avs).
+b) It has 1 air supply inlets and 2 outlets. There is one only inlet from right pack and the outlets divide into 2 ducts.
+@@c) It has 2 air supply inlets and 2 outlets. There is one inlet from each pack and the outlets divide into 2 ducts.
+
+For the non-normal condition during pack operation if the ACM speed is less than 6000 rpm for 90 seconds. What does the PCU control valve?
+@@a) The PCU closes the valve
+b) The PCU closes the valve opposite
+c) The PCU opens the valve
+
+Galley heater is controlled by:
+@@a) The cabin attendant panel (CAP).
+b) The control switches in the flight deck.
+c) The control switches in the galleys.
+
+Galleys are cooled by ICS:
+a) GCUs
+b) PECS
+@@c) SCUS
+
+How does the channel of a PCU operate?
+a) Both channel operates at a time
+b) One channel operates and one channel for backup
+@@c) Only one channel operates at a time
+
+How does the ram fan operate?
+@@a) High speed on the ground and low speed in the air.
+b) In the air or airspeed more than 60 knots.
+c) Only on the ground to pull external air in through the heat exchangers.
+
+How is temperature selection range of the Overhead Flight Crew Rest (OFCR)?
+a) The temperature selection range is 600F to 850F (170C to 290C).
+b) The temperature selection range is 700F to 850F (200C to 290C).
+@@c) The temperature selection range is 650F to 850F (180C to 290C).
+
+How long does hepa-aps air filter take to replace/discard?
+@@a) Discard the lower recirculation fan hepa-aps air filter every 3000 flight hours
+b) Discard the lower recirculation fan hepa-aps air filter every 4000 flight hours
+c) Discard the lower recirculation fan hepa-aps air filter every 2000 flight hours
+
+How long does Overhead Flight Crew Rest (OFCR) humidifier pad take to replaced/discard?
+@@a) every 4000 flight hours
+b) every 5000 flight hours
+c) every 2000 flight hours
+
+How many are there in the dual sensor loops in the pack bay and the Nitrogen Generation System (NGS) bay?
+@@a) There are 5 dual sensor loops in the areas
+b) There are 4 dual sensor loops in the areas
+c) There are 6 dual sensor loops in the areas
+
+How many CAC are there each pack in the ECS bays?
+a) There are 4 CACs for each pack in the ECS bays.
+b) There are 1 CAC for each pack in the ECS bays.
+@@c) There are 2 CACs for each pack in the ECS bays.
+
+How many channel are there in the condenser?
+@@a) Primary and secondary
+b) Primary and backup.
+c) Primary and direct
+
+How many channel is the PCU?
+a) PCU has 2 channels
+@@b) Each pcu has 2 channels
+c) Each pcu has 1 channel
+
+How many components can control RAM AIR FAN?
+a) CMSCs and RAF Motor Controller
+b) CMSCs and Overide Motor Controler
+@@c) RAF Motor controller and Overide Motor Controler
+
+How many flight hours to replace/discard galley ventilation filters?
+a) Discard the galley ventilation filters every 7000 flight hours.
+b) Discard the galley ventilation filters every 5000 flight hours.
+@@c) Discard the galley ventilation filters every 6000 flight hours.
+
+How many loops is on aircraft?
+@@a) 2
+b) 3
+c) 4
+
+How many modes is the Economy Cooling Valve (ECV)?
+@@a) The ECV has 2 non-normal modes of operation
+b) The ECV has 2 alternate-normal modes of operation
+c) The ECV has 2 stby-normal modes of operation
+
+How many ODS sensor loops are there in each ECS bay?
+a) 5
+@@b) 2
+c) 1
+
+How many part is in the GCU?
+a) The GCU has 3 primary parts, a fan module and a heat exchanger module and fan.
+b) The GCU has 1 primary part, a fan module.
+@@c) The GCU has 2 primary parts, a fan module and a heat exchanger module.
+
+How many positions are there of the CAC deflector door?
+a) 2 (open and closed).
+@@b) 3 (closed, partially deployed and fully deployed).
+c) 1 (always open to prevent FOD).
+
+How many SCU is on aircraft?
+a) 2 supplemental cooling units
+b) 6 supplemental cooling units
+@@c) 4 supplemental cooling units
+
+How many section are there in the ACM?
+a) The ACM has 2 sections
+b) The ACM has 4 sections
+@@c) The ACM has 3 sections
+
+How many sensor are in each of the two pecs systems?
+@@a) 1
+b) 3
+c) 2
+
+How many trim valves are in the aircraft?
+@@a) There are 3 trim valves: 1 controls air to the flight deck and 2 control air to the passenger cabin.
+b) There are 4 trim valves: 1 controls air to the flight deck and 3 control air to the passenger cabin
+c) There are 2 trim valves: 1 controls air to the flight deck and 1 control air to the passenger cabin
+
+How many volts does the scu compressor motor controller use?
+a) 270v ac to control the speed and operation of the scu.
+b) 115v ac to control the speed and operation of the scu.
+@@c) 235v ac to control the speed and operation of the scu.
+
+How many ways to control the Out Flow Valve?
+a) Only AUTO
+@@b) MAN and AUTO
+c) Only MAN
+
+How many zonal dryers are on the aircraft?
+@@a) These are the 2 zonal dryers: 1 FWD and 1 AFT
+b) These are the 4 zonal dryers: 2 FWD and 2 AFT
+c) These are the 3 zonal dryers: 2 FWD and 1AFT
+
+How many zone air temperature sensors are there in cabin?
+a) 5
+b) 4
+@@c) 6
+
+How the Pack Control Unit control the actuator of deflector door?
+a) The PCU uses the position of sensor to calculate actuator control
+b) The PCU uses the LVDT of deflector door to calculate actuator door
+@@c) The PCU uses airplane data from the CSS to calculate actuator control
+
+How to control the temperature in the occupied areas:
+a) It makes the trim air mix with the cool air.
+@@b) There is an interface with the trim air system and it makes the trim air mix with the cool air.
+c) There is an interface with the trim air system.
+
+How to dispatch the airplane with a CAC inoperative:
+@@a) Use MISC SYSTEM CTRLS (MSC) to lock off the affected CAC.
+b) Use special function in CMCF to lock off the CAC.
+c) The relative CBs pulled.
+
+How to increase the temperature of the air at the CAC outlet during operations in cold ambient temperature?
+a) The deflector door move to fully open position
+b) The PCU controls the VDH to change temperature of the CAC output air
+@@c) The CAC add heat valve (AHV) opens to put warm air into the inlet of CAC.
+
+Humidification systems are equipped for:
+@@a) Flight deck and crew rest areas
+b) Flight deck only
+c) All airplane zones
+
+ICS SCUS are located in:
+a) Aft cargo compartment
+b) Forward cargo compartment
+@@c) Bulk cargo compartment
+
+If the PCU fails and causes an overheat condition, the p5 pack switch can send a shutdown signal to the CMSC. How do the shutdown signal transmit to CMSC?
+a) horizontally
+@@b) Directly
+c) Vertically
+
+In standby operating mode, when air flow automatically bypasses parts of the pack because of a defective condition:
+a) Advisory message "STDBY COOLING MODE L(R)" shows.
+b) Advisory message "STDBY MODE L(R)" shows.
+@@c) Advisory message "PACK MODE L(R)" shows.
+
+In the heat exchanger only cooling mode: what is the happened?
+@@a) The Economy Cooling Valve (ECV) and ACM Bypass Valve (ABV) open
+b) The Economy Cooling Valve (ECV) and ACM Bypass Valve (ABV) close
+c) The Economy Cooling Valve (ECV) close and ACM Bypass Valve (ABV) open
+
+Is it allowed to simultaneously supply Pack and LP GROUND cart?
+@@a) No, system damage may resulted
+b) Yes, if only one pack supplies or during long stop in a hot airfield.
+c) Yes, if a cabin door or both over flow valves are kept open.
+
+Is there any different between ram fan operating on the ground and in the air?
+a) Ram fan control is same for normal ground operations and normal flight operations
+b) Ram fan control is different for normal ground operations and normal flight operations but speed no change
+@@c) Ram fan control is different for normal ground operations and normal flight operations.
+
+On ground with APU operation, how do the CACs operate?
+a) All CACs operate.
+b) LH inboard and right outboard CACs operate.
+@@c) Inboard CACs operate.
+
+On the ground during usual APU operations:
+a) Only the inboard left CAC operates
+@@b) Only the inboard CACs operate.
+c) All CACs operate.
+
+OVBD exhaust valve of Aft EE cooling system is located:
+@@a) On fuselage skin
+b) In the EE compartment
+c) In the cargo compartment
+
+Pack outlet temperature is controlled by:
+@@a) The ACM bypass valve (ABV), low limit valve (LLV) and ram air inlet, outlet doors.
+b) The ACM bypass valve (ABV), low limit valve (LLV) and heat exchangers.
+c) The ACM bypass valve (ABV), low limit valve (LLV) and economy cooling valve (ECV).
+
+PECS components:
+@@a) Can be turned on using CMCF SPECIAL function
+b) Operate ONLY automatically
+c) Can be controlled from cockpit by switches on P5 panel
+
+PECS heat exchanger is:
+a) A heat exchanger in side pump package
+@@b) Part of heat exchanger assembly in ECS bay
+c) A separate heat exchanger in ECS bay
+
+PECS Liquid ICS and SCU Supply SOV closed when:
+a) CCS senses a leak in the PECS heat exchanger area.
+@@b) CCS senses a leak in the ICS/SCU loop.
+c) After main engine start
+
+PECS liquid is:
+a) Skydrol Hi-jet V
+@@b) BMS 3-42
+c) R134
+
+Pressurization system is controlled by:
+a) Software in CCS
+@@b) VCU
+c) CCR
+
+Purpose of Deflector Door?
+a) Supply air in to the CAC
+@@b) Prevent FOD
+c) Protect Ram fan
