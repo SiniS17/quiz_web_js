@@ -1,0 +1,1520 @@
+{
+  "generated": "2026-03-19T10:12:00.955Z",
+  "filename": "validation-cache-2026-03-19_10-12-00.json",
+  "config": {
+    "MAX_CONSECUTIVE_LINES": 5,
+    "MIN_CONSECUTIVE_LINES": 3,
+    "QUIZ_DIRECTORY_NAME": "list quizzes"
+  },
+  "files": {
+    "error example.txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 2,
+      "max": 5,
+      "reason": "Too few consecutive lines (2 < 3)"
+    },
+    "17 module 2026/M1. MATHEMATICS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M10. AVIATION LEGISLATION.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.1. Theory of Flight.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.10. ATA 28-47.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.11. ATA 29.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.12. ATA 30.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 48: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "17 module 2026/M11.13. ATA 32.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.14. ATA 33.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.15. ATA 35.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.16. ATA 36.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.17. ATA 38.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.18. ATA 45.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.19. ATA 42.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.2. Airframe structures.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.20. ATA 44.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.21. ATA 46.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.3. Airframe Structures — Aeroplanes.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.4. ATA 21.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.5. Instruments-Avionic Systems.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.6. ATA 24.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.7. ATA 25.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.8. ATA 26.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M11.9. ATA 27.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M15. GAS TURBINE ENGINE.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M17. PROPELLER.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M2. PHYSICS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M3. ELECTRICAL FUNDAMENTALS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M4. ELECTRONICS FUNDAMENTALS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M5. DIGITAL TECHNIQUES-ELECTRONIC INSTRUMENT SYSTEMS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M6. MATERIALS AND HARDWARE.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M7. MAINTENANCE PRACTICES.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M8. BASIC AERODYNAMICS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "17 module 2026/M9. HUMAN FACTORS.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 00.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 21.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 22.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 23.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 24.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 25.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 4,
+      "reason": "Question 70: no correct answer marked (@@)"
+    },
+    "A320 theo (unfinished)/ATA 26.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 27.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 4,
+      "reason": "Question 1: 3 correct answers marked (@@) — must be exactly 1"
+    },
+    "A320 theo (unfinished)/ATA 28.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 4,
+      "reason": "Question 72: no correct answer marked (@@)"
+    },
+    "A320 theo (unfinished)/ATA 29.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 30.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 31.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 4,
+      "reason": "Question 43: no correct answer marked (@@)"
+    },
+    "A320 theo (unfinished)/ATA 32.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 33.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 34.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 4,
+      "reason": "Question 16: no correct answer marked (@@)"
+    },
+    "A320 theo (unfinished)/ATA 35.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 36.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 38.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 46.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 47.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 49.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 51+57.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 52.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 71-80 CFM56.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/ATA 71-80 V2500.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "A320 theo (unfinished)/Documentation.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/AIRCRAFT DIFFERENCES.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA00.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA21.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA22.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 Theo/ATA23.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA24.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA25.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA26.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA27.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA28.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA29.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA30.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA31.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA32.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA33.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 Theo/ATA34.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA35.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA38.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA42.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA44(-).txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 2,
+      "max": 2,
+      "reason": "Too few consecutive lines (2 < 3)"
+    },
+    "B787 Theo/ATA45(-).txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 2,
+      "max": 2,
+      "reason": "Too few consecutive lines (2 < 3)"
+    },
+    "B787 Theo/ATA46.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA47.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA49.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 Theo/ATA50.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA51.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA52.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 Theo/ATA56.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 4,
+      "reason": "Question 9: no correct answer marked (@@)"
+    },
+    "B787 Theo/ATA70-80.txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 1,
+      "max": 5,
+      "reason": "Too few consecutive lines (1 < 3)"
+    },
+    "B787 output (TEMP)/AIRCRAFT DIFFERENCES.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA00.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA21.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA22.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA23.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA24.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA25.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA26.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA27.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA28.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA29.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA30.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA31.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA32.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA33.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA34.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA35.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA38.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA42.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA44(-).txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 2,
+      "max": 2,
+      "reason": "Too few consecutive lines (2 < 3)"
+    },
+    "B787 output (TEMP)/ATA45(-).txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 2,
+      "max": 2,
+      "reason": "Too few consecutive lines (2 < 3)"
+    },
+    "B787 output (TEMP)/ATA46.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA47.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA49.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA50.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA51.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA52.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "B787 output (TEMP)/ATA56.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 4,
+      "reason": "Question 9: no correct answer marked (@@)"
+    },
+    "B787 output (TEMP)/ATA70-80.txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 1,
+      "max": 5,
+      "reason": "Too few consecutive lines (1 < 3)"
+    },
+    "CAAV/A320 Airfame.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/Module 10 Aviation legistlation .txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 5,
+      "max": 11,
+      "reason": "Too many consecutive lines (11 > 5)"
+    },
+    "CAAV/Theory basic maintenance Cat B1_CAAV (-).txt": {
+      "valid": false,
+      "violationType": "line_count",
+      "min": 4,
+      "max": 8,
+      "reason": "Too many consecutive lines (8 > 5)"
+    },
+    "CAAV/787/b787 rr trent1000.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/787/b787 system.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 531: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "CAAV/787/genx engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CAAV/A321/A320 Airfame.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/A321/Engine/CFM56 Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/A321/Engine/PW1100G Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/A321/Engine/V2500 Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/Engine/CFM56 Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/Engine/PW1100G Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CAAV/Engine/V2500 Engine.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Procedure Question Bank 140126.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 399: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "CCUQ/Tech/ATA 06 dimension and AREAS .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 07 - LIFTING & SHORING .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 08 Leveling and weighing .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 09 – TOWING & TAXIING. .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 10 PARKING & mooring .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 12 servicing .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 20_ standard practices & DOCUMENTATION .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 21 - air conditioning .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 22_ AUTO FLIGHT SYSTEM .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 5,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 23_ Communication .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 5,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 24_electrical_system .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 25 furnishing .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 26 - FIRE PROTECTION .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 27 flight control .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 28 FUEL SYSTEM .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 29 hydraulic .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 30 ice and rain protection .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 31 instruments .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 5,
+      "max": 5,
+      "reason": "Question 19: no correct answer marked (@@)"
+    },
+    "CCUQ/Tech/ATA 32 landing gear .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 14: no correct answer marked (@@)"
+    },
+    "CCUQ/Tech/ATA 34 - navigation .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 35 oxygen system .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 36 pneumatic system .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 38 water toilet .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 49 - apu .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 52 door .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 71-80 V2500 engine Difference .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 74: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "CCUQ/Tech/ATA 7180 - POWER PLANT GENERAL engine starting .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 73 ENGINE fuel and control .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 74 ignition system .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 76 engine controls .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/ATA 78 engine thrust reverser .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 14: no correct answer marked (@@)"
+    },
+    "CCUQ/Tech/V2500 QUESTION BANK .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 14: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "CCUQ/Tech/CFM/ATA70 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA71 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA72 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA73 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA74 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA75 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA76 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA77 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA78 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA79 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/ATA80 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "CCUQ/Tech/CFM/Q1 to Q116 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_00 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_26 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_28 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 5,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_30 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_36 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_47 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 5,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP/LEAP_ATA_70-80 .txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP Type A320-321/Airframe/A320 Airfame CAT A.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 5,
+      "reason": "Question 64: no correct answer marked (@@)"
+    },
+    "LEAP Type A320-321/Airframe/A320 Airfame CAT B1.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP Type A320-321/Airframe/A320 Airframe CAT B2.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 4,
+      "max": 5,
+      "reason": "Question 329: 2 correct answers marked (@@) — must be exactly 1"
+    },
+    "LEAP Type A320-321/CFM PW V2500/CFM56 Engine CAT A.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/CFM56 Engine CAT B1.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/CFM56 Engine CAT B2.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/PW1100G Engine  CAT A.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/PW1100G Engine CAT B1.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/PW1100G Engine_CAT B2.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/V2500 Engine  CAT A.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/V2500 Engine  CAT B1.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/CFM PW V2500/V2500 Engine  CAT B2.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/LEAP ENG/LEAP-1A Engine_CAT A.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/LEAP ENG/LEAP-1A Engine_CAT B1.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "LEAP Type A320-321/LEAP ENG/LEAP-1A Engine_CAT B2.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "NHCH AIRCRAFT TYPE/A320-A321 - SYSTEM .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 5,
+      "reason": "Question 325: no correct answer marked (@@)"
+    },
+    "NHCH AIRCRAFT TYPE/CFM56.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 5,
+      "reason": "Question 1: no correct answer marked (@@)"
+    },
+    "NHCH AIRCRAFT TYPE/Module 10 Aviation legistlation .txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 5,
+      "max": 5,
+      "reason": "Question 39: no correct answer marked (@@)"
+    },
+    "NHCH AIRCRAFT TYPE/PW1100G.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 5,
+      "reason": ""
+    },
+    "NHCH AIRCRAFT TYPE/THEO_CAAV_B1.txt": {
+      "valid": false,
+      "violationType": "answer_count",
+      "min": 3,
+      "max": 4,
+      "reason": "Question 94: no correct answer marked (@@)"
+    },
+    "NHCH AIRCRAFT TYPE/V2500.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 4,
+      "max": 4,
+      "reason": ""
+    },
+    "NHCH AIRCRAFT TYPE/VSAE_V2500.txt": {
+      "valid": true,
+      "violationType": null,
+      "min": 3,
+      "max": 4,
+      "reason": ""
+    }
+  },
+  "folders": {
+    "17 module 2026": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "A320 theo (unfinished)": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "B787 Theo": {
+      "hasInvalid": true,
+      "violationType": "line_count"
+    },
+    "B787 output (TEMP)": {
+      "hasInvalid": true,
+      "violationType": "line_count"
+    },
+    "CAAV/787": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "CAAV/A321/Engine": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "CAAV/A321": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "CAAV/Engine": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "CAAV": {
+      "hasInvalid": true,
+      "violationType": "line_count"
+    },
+    "CCUQ/Tech/CFM": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "CCUQ/Tech": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "CCUQ": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "LEAP": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "LEAP Type A320-321/Airframe": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "LEAP Type A320-321/CFM PW V2500": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "LEAP Type A320-321/LEAP ENG": {
+      "hasInvalid": false,
+      "violationType": null
+    },
+    "LEAP Type A320-321": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    },
+    "NHCH AIRCRAFT TYPE": {
+      "hasInvalid": true,
+      "violationType": "answer_count"
+    }
+  }
+}
