@@ -58,6 +58,9 @@ package.json        - Node.js dependencies and scripts
 ## Deployment
 - **Vercel**: Push to GitHub and connect to Vercel. Vercel auto-detects Next.js.
 - **Replit**: Configured with `npm run build` + `npm run start` on autoscale.
+<<<<<<< HEAD
 
 ## GitHub Integration Note
 GitHub integration was not authorized through Replit's OAuth flow. To push to GitHub, use a GitHub Personal Access Token (PAT) stored as a secret (GITHUB_TOKEN), or ask the user to connect GitHub via Replit integrations (connector:ccfg_github_01K4B9XD3VRVD2F99YM91YTCAF).
+=======
+>>>>>>> 371556a (Saved progress at the end of the loop)
