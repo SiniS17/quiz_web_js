@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-20T15:45:45.069Z",
-  "filename": "validation-cache-2026-03-20_15-45-45.json",
+  "generated": "2026-03-20T15:40:22.684Z",
+  "filename": "validation-cache-2026-03-20_15-40-22.json",
   "config": {
     "MAX_CONSECUTIVE_LINES": 5,
     "MIN_CONSECUTIVE_LINES": 3,
@@ -560,14 +560,14 @@
       "max": 4,
       "reason": ""
     },
-    "B787 Theo/ATA44 (-).txt": {
+    "B787 Theo/ATA44(-).txt": {
       "valid": false,
       "violationType": "line_count",
       "min": 2,
       "max": 2,
       "reason": "Too few consecutive lines (2 < 3)"
     },
-    "B787 Theo/ATA45 (-).txt": {
+    "B787 Theo/ATA45(-).txt": {
       "valid": false,
       "violationType": "line_count",
       "min": 2,
