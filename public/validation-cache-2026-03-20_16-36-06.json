@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-20T16:39:12.644Z",
-  "filename": "validation-cache-2026-03-20_16-39-12.json",
+  "generated": "2026-03-20T16:36:06.956Z",
+  "filename": "validation-cache-2026-03-20_16-36-06.json",
   "config": {
     "MAX_CONSECUTIVE_LINES": 5,
     "MIN_CONSECUTIVE_LINES": 3,
@@ -1222,8 +1222,8 @@
       "violationType": "answer_count"
     },
     "B787 Theo": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "line_count"
     },
     "CAAV/787": {
       "hasInvalid": true,

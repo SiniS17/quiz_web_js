@@ -113,7 +113,11 @@ function crawlFolder(absFolder, relFolder) {
     } else {
       const emoji = result.violationType === 'answer_count' ? '🟣' : '🔴';
       console.log(`  ${emoji} ${relPath}: ${result.reason}`);
-      violationTypes.push(result.violationType);
+      // Opt-out files (ending in ' (-).txt') are never shown to users,
+      // so they must not influence the parent folder's flag colour.
+      if (!file.endsWith(' (-).txt')) {
+        violationTypes.push(result.violationType);
+      }
     }
   }
 

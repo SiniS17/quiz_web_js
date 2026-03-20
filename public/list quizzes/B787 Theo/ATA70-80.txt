@@ -1,797 +1,827 @@
-1. 08 EGT probes are connected to:
+08 EGT probes are connected to:
 Direct to EEC
 1 harness
 @@2 harnesses
 
-2. 08 T48 EGT probes are numbered
-From the top in a counter-clockwise
+08 T48 EGT probes are numbered 1 thru 8:
+From the top in a counter-clockwise direction.
 @@From the top in a clockwise direction.
 From the bottom in a clockwise direction.
 
-3. After Fuel Metering Unit (FMU) fuel manifolds by:
+After Fuel Metering Unit (FMU) fuel is divided to the manifolds by:
 @@Fuel Split Valve (FSV).
 Fuel Flow Divider.
 Fuel Staging Valve.
 
-4. At which source, the thrust command from?
+At which source, the thrust command to EEC coming from?
 @@Both A and B
 ASM makes auto input
 Pilot use thrust lever for manual input
 
-5. BAI used bleed air from HPC STAGE?
+BAI used bleed air from HPC STAGE?
 @@Stage 7
 Stage 4
 Stage 10
 
-6. Booster Anti-Ice takes air from:
+Booster Anti-Ice takes air from:
 @@EAI system
 LPT
-HPC 10th stage 7. 1 / 38
+HPC 10th stage
 
 Connected to 22 fuel nozzles is:
-PSEC Pilot secondary
+@@PSEC Pilot secondary
 PPMU Pilot primary and main unstaged.
 PPMS Pilot primary and main staged
 
-8. Debris Monitoring System conditioner
+Debris Monitoring System conditioner is located:
 On the gearbox
 @@Above the tank
 In FWD EE bay
 
-9. During auto start on ground, how will attempt?
+During auto start on ground, how many start EEC will attempt?
 Continuously
 @@03 times
-02 times and then shut the engine
+02 times and then shut the engine down
 
-10. During engine start which engine not control by EEC?
+During engine start which engine parameters is not control by EEC?
 N2, oil pressure, fuel flow.
 N2, oil temperature and fuel flow.
 @@None of above
 Oil temperature and oil pressure.
 
-11. During engine start, the EEC releases switch to the NORM position
+During engine start, the EEC releases the start switch to the NORM position
 @@At 65% N2.
 At 75% N2.
-At 50% N2 when the EEC turns off
+At 50% N2 when the EEC turns off ignition.
 
-12. During GEnx engine start:
-@@The VFSG turns the engine N2 rotor accessory drive gearbox. 2 / 38
-The pneumatic starter turns the engine through the accessory drive gearbox.
-The air starter turns the engine N2 the accessory drive gearbox.
+During GEnx engine start:
+@@The VFSG turns the engine N2 rotor through the accessory drive gearbox.
+The pneumatic starter turns the engine N2 rotor through the accessory drive gearbox.
+The air starter turns the engine N2 rotor through the accessory drive gearbox.
 
-13. During normal engine start:
+During normal engine start:
 Only 01 VFSG is used.
 @@Both VFSG are used.
-The VFSG will take turn to start the
+The VFSG will take turn to start the engine.
 
-14. During subsequent starts, the EEC tween ignition systems every 2nd start means:
-It will use system 1 for 1 start attempt 2 for 1 start attempt.
-@@It will use system 1 for 2 start attempts 2 for 1 start attempt.
-It will use system 1 for 2 start attempts 2 for 2 start attempts.
+During subsequent starts, the EEC changes between ignition systems every 2nd start attempt, that means:
+It will use system 1 for 1 start attempt then system 2 for 1 start attempt.
+It will use system 1 for 2 start attempts then system 2 for 1 start attempt.
+@@It will use system 1 for 2 start attempts then system 2 for 2 start attempts.
 
-15. During T/R Stow operation:
-@@A time delay in the IPA software keeps open for 10 seconds after the stow
-A time delay in the EEC keeps the seconds after stow is commanded. 3 / 38
-Both A and B.
+During T/R Stow operation:
+A time delay in the IPA software keeps the track lock open for 10 seconds after the stow command.
+A time delay in the EEC keeps the IV open for 20 seconds after stow is commanded.
+@@Both A and B.
 
-16. Each thrust lever mechanically connects lever angle (TLA) resolvers, which of statements is NOT true:
-@@If both resolvers fail electrically, the last valid value for 2 seconds, then sets thrust to idle.
-If both resolvers fail electrically, the last valid value for the rest of the flight.
-The thrust control system can continue eration with a failure of one resolver.
+Each thrust lever mechanically connects to 2 thrust lever angle (TLA) resolvers, which of the following statements is NOT true:
+@@If both resolvers fail electrically, the EEC holds the last valid value for 2 seconds, then sets the engine thrust to idle.
+If both resolvers fail electrically, the EEC holds the last valid value for the rest of the flight.
+The thrust control system can continue normal operation with a failure of one resolver.
 
-17. EEC control mode, what they are?
-Forward thrust mode, reverser thrust soft reversionary mode.
+EEC control mode, what they are?
+Forward thrust mode, reverser thrust mode and soft reversionary mode.
 @@Normal, soft and hard alternate mode.
-Normal, hard reversionary and alternate
+Normal, hard reversionary and alternate mode.
 
-18. EEC get power from PMA when?
+EEC get power from PMA when?
 @@N2 speed is 8%
 N2 speed is 7%
 N2 speed is 50%.
 
-19. EEC use P0 pressure for ?
-Primary ambient pressure to control 4 / 38
+EEC use P0 pressure for?
+Primary ambient pressure to control the engine
 @@Backup to the airplane ambient pressure
 Control VBV actuator
 
-20. EEC used PS3 air for?
+EEC used PS3 air for?
 Control engine
 @@Both A, B are correct.
 Idle speed
 
-21. EGT is measured at station:
+EGT is measured at station:
+25
+40
+@@48
 
-22. EICAS Engine page shows engine at:
+EICAS Engine page shows engine oil temperature at:
+Fan case
+Gearbox
+@@Oil tank
 
-23. EMU use N1 parameter for?
+EMU use N1 parameter for?
+Control engine
+Monitor N1 speed
+@@Calculate engine vibration data
 
-25. Engine N2 shaft motoring can be
+Engine N2 shaft motoring can be carried out with:
+VFSGs only
+External tool only
+@@VFSGs, external tool via accessory gear box motoring drive
 
-24.Engine cowl is held in the OPEN position
+Engine cowl is held in the OPEN position by
+Hold open rod only
+Ground support pin only
+@@Either A or B
 
-26. Engine oil is cooled in:
+Engine oil is cooled in:
+Dual VFSG Fuel/Oil Heat Exchanger (FOHE) only
+Air Cool Oil Cooler (ACOC) only
+@@Main Fuel/Oil Heat Exchanger (MFOHE) and Air Cool Oil Cooler (ACOC).
 
-27. Exhaust Gas Temperature is measured
+Exhaust Gas Temperature is measured at station:
+25
+40
+@@48 - HPT exit
 
-28. Fan case has sections:
+Fan case has sections:
+FWD only
+AFT only
+@@FWD and AFT
 
-29. Fan cowl can be open or close with external hydraulic hand pump) method. need to get access to quick-disconnect 5 / 38
+Fan cowl can be open or close with a manual (with external hydraulic hand pump) method. To do this you need to get access to quick-disconnect located:
+On the engine strut
+On the fan case
+@@At the PDOS power pack.
 
-30. Fuel is used to cool oil in:
+Fuel is used to cool oil in:
+Main FOHE only
+VFSG FOHE only
+@@Dual VFSG Fuel/Oil Heat Exchanger (FOHE) and Main FOHE.
 
-31. GEnx anti-ice system includes:
-@@A booster intake anti-ice (BAI) system intake anti-ice (EAI) system.
-An engine intake anti-ice (EAI) system anti-ice (TAI) system
-A booster intake anti-ice (BAI) system anti-ice (TAI) system.
+GEnx anti-ice system includes:
+@@A booster intake anti-ice (BAI) system and an engine intake anti-ice (EAI) system.
+An engine intake anti-ice (EAI) system and a turbine anti-ice (TAI) system
+A booster intake anti-ice (BAI) system and a turbine anti-ice (TAI) system.
 
-32. GEnx combustor has:
+GEnx combustor has:
 @@22 fuel nozzles.
 24 fuel nozzles.
 30 fuel nozzles.
 
-33. GEnx combustor nozzles are:
+GEnx combustor nozzles are:
 Duplex type.
-@@Twin-annular premixing swirler (TAPS)
+@@Twin-annular premixing swirler (TAPS) type.
 Double-action type.
 
-34. GEnx for 787 can maintain a high pressure ratios (9.5:1) due to?
-@@The fact that there is no external taken for aircraft.
-The improvement of the specific fuel 6 / 38
-Chevron shape on the exit edge of er translating sleeves.
+GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to?
+@@The fact that there is no external engine air bleeds taken for aircraft.
+The improvement of the specific fuel consumption.
+Chevron shape on the exit edge of the thrust reverser translating sleeves.
 
-35. GEnx has:
+GEnx has:
 20 wide-chord fan blades.
 22 wide-chord fan blades.
 @@18 wide-chord fan blades.
 
-36. GEnx is equipped with the fan cowls to:
+GEnx is equipped with the fan cowls are attached to:
 04 PDOS control switch for fan cowls.
 @@01 PDOS control switch for each cowl.
 02 PDOS control switch for each cowl.
 
-37. How can you inhibit the thrust reverser tenance?
-Inhibit the IV with the inhibit lever support pin
-@@Inhibit the IV with the inhibit lever support pin and Put pins into a receptacle section of each T/R sleeve
-Put pins into a receptacle at the aft T/R sleeve.
+How can you inhibit the thrust reverser for maintenance?
+@@Inhibit the IV with the inhibit lever and ground support pin
+Inhibit the IV with the inhibit lever and ground support pin and Put pins into a receptacle at the aft section of each T/R sleeve
+Put pins into a receptacle at the aft section of each T/R sleeve.
 
-38. How do you manually turn the HP
-@@Remove the core motoring pad cover then insert a ½ inch square drive tool motoring drive. 7 / 38
+How do you manually turn the HP shaft N2?
+@@Remove the core motoring pad cover on the AGB then insert a ½ inch square drive tool into the AGB motoring drive.
 By turning the FAN blade
 By an adapter tool special part
 
-39. How does EEC control engine oil
-Oil pressure is controlled by pressure servo valve
-Oil pressure is controlled by lube pump
+How does EEC control engine oil pressure?
+Oil pressure is controlled by pressure regulating servo valve
+Oil pressure is controlled by lube and scavenge pump
 @@Oil pressure is not controlled
 
-40. How does EEC control the BAI valve?
-EEC gets signals from PS3 sensor ing schedule to calculate conditions valve
-EEC gets signals from P0 sensor and ing schedule to calculate conditions valve
-@@EEC gets signals from the airplane an icing schedule to calculate conditions the valve
+How does EEC control the BAI valve?
+EEC gets signals from PS3 sensor and uses an icing schedule to calculate conditions for control of the valve
+EEC gets signals from P0 sensor and uses an icing schedule to calculate conditions for control of the valve
+@@EEC gets signals from the airplane systems and uses an icing schedule to calculate conditions for control of the valve
 
-41. How does EEC control the compressor
-EEC control the following system: Transient Bleed Valve 8 / 38
-@@EEC control the following system: Valve and Transient Bleed Valve
-EEC control the following system: TACC Valve and Transient Bleed Valve
+How does EEC control the compressor air flow?
+@@EEC control the following system: VBV, VSV and Transient Bleed Valve
+EEC control the following system: VBV, VSV, HPTACC Valve and Transient Bleed Valve
+EEC control the following system: VBV, VSV and LPTACC Valve and Transient Bleed Valve
 
-42. How does EEC detect an engine tion?
-If either PS3 or N2 is less than idle tively.
-@@If either PS3 or EGT is less than idle respectively.
-If either PS3 or N1 is less than idle tively.
+How does EEC detect an engine roll back condition?
+@@If either PS3 or N2 is less than idle PS3 or N2 respectively.
+If either PS3 or EGT is less than idle PS3 or EGT respectively.
+If either PS3 or N1 is less than idle PS3 or N1 respectively.
 
-43. How does EEC detect an over speed
+How does EEC detect an over speed condition?
 EGT more than redline limit
 N2 speed more than 100 %
 @@N2 speed more than 120 %
 
-44. How does the engine cowl power system PDOS usually operate?
+How does the engine cowl power door opening system PDOS usually operate?
 Manually.
-@@With electric motor and hydraulic
+@@With electric motor and hydraulic actuators.
 With 28 VDC motor actuators.
 
-45. How does the engine oil tank pressurize?
-Bleed air form Engine anti ice manifold 9 / 38
-@@A pressurizing valve above the air/oil
-Pressurized by bleed air form pneumatic
+How does the engine oil tank pressurize?
+Bleed air form Engine anti ice manifold
+@@A pressurizing valve above the air/oil separator
+Pressurized by bleed air form pneumatic system
 
-46. How is reverse thrust produced verse sleeves deployed?
-@@The blocker doors block the flow and direct forward through the vanes segments.
-The thrust reverse translating cowls exhaust and direct the flow forward thrust
-The cascade segments block and fan exhaust through the outlet guide reverse thrust.
+How is reverse thrust produced after thrust reverse sleeves deployed?
+@@The blocker doors block the flow of fan exhaust and direct forward through the vanes of the cascade segments.
+The thrust reverse translating cowls block the fan exhaust and direct the flow forward to make reverse thrust
+The cascade segments block and direct the flow of fan exhaust through the outlet guide vanes make the reverse thrust.
 
-47. How many auto-start tries can carry
+How many auto-start tries can carry out by EEC?
 2
-3
+@@3
 4
 
-48. How many EEC control mode, what
-@@03 Mode, Normal mode - Soft alternate alternate mode
-02 mode, Normal mode - Soft alternate
-03 mode, Primary mode - Secondary nate mode 10 / 38
+How many EEC control mode, what they are?
+@@03 Mode, Normal mode - Soft alternate mode - Hard alternate mode
+02 mode, Normal mode - Soft alternate mode
+03 mode, Primary mode - Secondary mode - Alternate mode
 
-49. How many fuel manifold direct fuel and what they are?
+How many fuel manifold direct fuel to fuel nozzle and what they are?
 @@03, PPMS PPMU and PSEC manifold
-04, PPMS PPMU Servo fuel and PSEC
+04, PPMS PPMU Servo fuel and PSEC manifold
 02, PPMS and PSEC manifold
 
-50. How many hold-open rods are there reverser cowl?
+How many hold-open rods are there on thrust reverser cowl?
 2
 3
-1
+@@1
 
-51. How many T48 probe are there?
+How many T48 probe are there?
 4
 6
-8
+@@8
 
-52. How the engine oil pressure controlled?
-@@Not controlled, oil pressure changed gine speed.
-Engine oil pressure controlled by lator in lube pump.
-Engine oil pressure controlled by a tor in scavenge pump.
+How the engine oil pressure controlled?
+@@Not controlled, oil pressure changed belong to engine speed.
+Engine oil pressure controlled by a pressure regulator in lube pump.
+Engine oil pressure controlled by a pressure regulator in scavenge pump.
 
-53. How to enable the operation of tem?
-The Start/Ignition switch must be tion and EEC is powered 11 / 38
-The Start/Ignition switch must be tion.
-@@The fuel control switch must be in
+How to enable the operation of the ignition system?
+The Start/Ignition switch must be in the RUN position and EEC is powered
+The Start/Ignition switch must be in the RUN position.
+@@The fuel control switch must be in the RUN position.
 
-54. How to know engine start successful
-"RUNNING" indication above N1 tachometer EICAS show
-"AUTOSTART" indication above N1 EICAS disappear
-@@"RUNNING" indication above N2 tachometer EICAS show
+How to know engine start successful and idle?
+"RUNNING" indication above N1 tachometer on EICAS show
+"AUTOSTART" indication above N1 tachometer on EICAS disappear
+@@"RUNNING" indication above N2 tachometer on EICAS show
 
-55. If a TCM event occurs, what does
-TCMA function gradually reduces
-@@TCMA function maintains the engine
-TCMA function commands engine
+If a TCM event occurs, what does TCMA do?
+TCMA function gradually reduces engine thrust.
+TCMA function maintains the engine thrust.
+@@TCMA function commands engine shutdown.
 
-56. Location of engine Configuration
-@@On the aft face of the fan hub frame position.
-On the fan frame at the 6:00 position. 12 / 38
-On the outer face of the fan frame tion, just below the EEC.
+Location of engine Configuration Type Box?
+@@On the aft face of the fan hub frame at the 9:00 position.
+On the fan frame at the 6:00 position.
+On the outer face of the fan frame at the 3:00 position, just below the EEC.
 
-57. Location of fan blade Moment weight?
+Location of fan blade Moment weight?
 Bottom of the blade platform
 @@Bottom of the blade dovetail
 Top of the blade dovetail
 
-58. Location of fuel flow meter?
-On the top of the engine at approximately position
-On the left side of the engine at approximately 8:00 position.
-@@On the right side of the engine at approximately 5:00 position.
+Location of fuel flow meter?
+On the top of the engine at approximately the 12:00 position
+On the left side of the engine at approximately the 8:00 position.
+@@On the right side of the engine at approximately the 5:00 position.
 
-59. Location of lube and scavenge pump?
-On the rearward left side of the AGB position.
-On the rearward right side of the position.
-@@On the forward side of the AGB at
+Location of lube and scavenge pump?
+On the rearward left side of the AGB at the 5:00 position.
+On the rearward right side of the AGB at the 5:00 position.
+@@On the forward side of the AGB at the 7:00 position.
 
-60. Location of the TR sync shaft?
-Outside and parallel to the deploy 13 / 38
+Location of the TR sync shaft?
+Outside and parallel to the deploy hydraulic tubing
 @@Inside the deploy hydraulic tubing
 Inside the stow hydraulic tubing
 
-61. Location of VBV actuator?
-There is one actuator on the aft engine 9:30 position.
-@@There are two actuators at the 4:00 tion of fan hub frame
-There are two actuators on the aft the 3:30 and 9:30 position.
+Location of VBV actuator?
+There is one actuator on the aft engine core at the 9:30 position.
+@@There are two actuators at the 4:00 and 10:00 position of fan hub frame
+There are two actuators on the aft engine core at the 3:30 and 9:30 position.
 
-62. LPT ACC valve control by?
+LPT ACC valve control by?
 PS3 air
 Electrical motor by EEC.
 @@Servo fuel form FMU
 
-63. LPTACC and HPTACC valves are located:
-On the forward RH side of the HPC
-@@On the forward LH side of the HPC
+LPTACC and HPTACC valves are located:
+On the forward RH side of the HPC case.
+@@On the forward LH side of the HPC case.
 On the LH side of the HPT case.
 
-64. N1 speed sensor is located:
-@@On the back of the fan hub frame tion on the engine core.
+N1 speed sensor is located:
+@@On the back of the fan hub frame at the 7:00 position on the engine core.
 On the fan case.
-On the gearbox. 14 / 38
+On the gearbox.
 
-65. N2 speed sensor is located:
+N2 speed sensor is located:
 On the fan hub frame.
 @@On the forward face of the AGB.
 On the aft face of the AGB.
 
-66. Oil educator valve CLOSED when?
-@@When engine power increases and sure increases to more than 55 PSIG
-When engine power increases and sure increases to more than 35 PSIG
-When engine power increases and sure increases to more than 85 PSIG
+Oil educator valve CLOSED when?
+@@When engine power increases and 7th stage pressure increases to more than 55 PSIG
+When engine power increases and 7th stage pressure increases to more than 35 PSIG
+When engine power increases and 7th stage pressure increases to more than 85 PSIG
 
-67. On GEnx engine, including the following assemblies:
+On GEnx engine, including the following gearbox assemblies:
 Transfer, Accessory gearbox
 @@Inlet, Transfer, Accessory gearbox
 Accessory gearbox only
 
-68. P0 is used by the EEC as a backup ambient pressure input. This pressure
-@@P0 sensing port in each fan cowl at 8 o'clock position.
-P0 sensing port in each reverser cowl or 8 o'clock position 15 / 38
-P0 sensing port in each fan cowl at 10 o'clock position.
+P0 is used by the EEC as a backup to the airplane ambient pressure input. This pressure is taken from:
+@@P0 sensing port in each fan cowl at the 4 o'clock or 8 o'clock position.
+P0 sensing port in each reverser cowl at the 4 o'clock or 8 o'clock position
+P0 sensing port in each fan cowl at the 2 o'clock or 10 o'clock position.
 
-69. PDOS Power pack is on:
+PDOS Power pack is on:
 @@Fan cowl support beam
 Engine strut
 Fan case
 
-70. PDOS power pack is serviced with:
+PDOS power pack is serviced with:
 @@Engine oil with all cowls CLOSE.
 Exxon Mobil HyJet V - HYJET V.
-Engine oil with all cowls OPENPDOS nal compression lock.
+Engine oil with all cowls OPEN PDOS actuator internal compression lock.
 
-71. Power to Isolation Valve and TRACK moved
-When T/R sleeve get near to its intended for more than 95%
-When upper actuator LVDT show
+Power to Isolation Valve and TRACK lock is removed
+When T/R sleeve get near to its intended position for more than 95%
+When upper actuator LVDT show correct position
 @@After a time delay
 
-72. The 1st latch to close for T/R cowl
+The 1st latch to close for T/R cowl is:
 No. 4 latch
 BLS
-V-band
+@@V-band
 
-73. The 1st latch to open for T/R cowl
+The 1st latch to open for T/R cowl is:
 No. 1 latch
 V-band
-BLS 16 / 38
+@@BLS
 
-74. The Air Cool Oil Cooler (ACOC) is design heat exchanger that transfers to the bypass (fan exit) airflow. It is
-On the outside of the fan case, aft guide vanes (OGV).
-@@On the inside of the fan case, aft of vanes (OGV) from the 12:00 to the 3:00
+The Air Cool Oil Cooler (ACOC) is a finned-tube design heat exchanger that transfers heat from the oil to the bypass (fan exit) airflow. It is located:
+On the outside of the fan case, aft of the outlet guide vanes (OGV).
+@@On the inside of the fan case, aft of the outlet guide vanes (OGV) from the 12:00 to the 3:00 position.
 On the RH side of fan case.
 
-75. The booster anti-icing (BAI) system air from the airplane engine anti-ice send heat to the booster splitter. Which ing is TRUE:
-@@There is no flight deck control for
+The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE:
+@@There is no flight deck control for the system.
 BAI valve is controlled by EMU.
-EAI valve need to be closed for BAI
+EAI valve need to be closed for BAI valve operation.
 
-76. The core compartment cooling (CCC) cooling air from the fan/booster bypass ponents on the engine core case. It
+The core compartment cooling (CCC) valve sends cooling air from the fan/booster bypass ducts to components on the engine core case. It is:
 @@Spring loaded to OPEN position.
 Spring loaded to CLOSE position.
-Opened by the EEC using fuel through
+Opened by the EEC using fuel through the FMU.
 
-77. The EMU gets power from airplane the engine start switch is set to start, is set to run, or the EMU soft maintenance selected and: 17 / 38
-Power is not removed until 20 minutes down.
-@@Power is not removed until it has (can be up to 10 minutes after shutdown).
-Power is not removed until 30 minutes down.
+The EMU gets power from airplane 115v ac when the engine start switch is set to start, the fuel switch is set to run, or the EMU soft maintenance switch is selected and:
+Power is not removed until 20 minutes after shutdown.
+@@Power is not removed until it has analyzed the data (can be up to 10 minutes after shutdown).
+Power is not removed until 30 minutes after shutdown.
 
-78. The engine Air Oil Heat Exchanger
+The engine Air Oil Heat Exchanger is located:
 On the fan case
 On the gearbox
 @@Inside the fan case
 
-79. The engine used on VNA B787 aircraft
+The engine used on VNA B787 aircraft is:
 GE90.
 Trent 7000.
-GEnx-1B.
+@@GEnx-1B.
 
-80. The exciters are cooled by:
+The exciters are cooled by:
 @@Fan air.
-Under cowl compartment cooling
+Under cowl compartment cooling air.
 CCC valve cooling air.
 
-81. The fan blades are made of with and trailing edges to protect from FOD:
+The fan blades are made of with titanium leading and trailing edges to protect from FOD:
 Steel.
 @@Carbon Fiber Reinforced Plastic (CFRP).
 Titanium.
 
-82. The fan cowls are attached to:
-Fan case with 04 hinges. 18 / 38
-@@Fan Cowl Support Beam (FCSB) with
-Fan Cowl Support Beam (FCSB) with
+The fan cowls are attached to:
+Fan case with 04 hinges.
+@@Fan Cowl Support Beam (FCSB) with 04 hinges.
+Fan Cowl Support Beam (FCSB) with 03 hinges.
 
-83. The fan cowls weigh 68kg each and
+The fan cowls weigh 68kg each and are:
 Interchangeable between engines.
-Interchangeable between LH and
+Interchangeable between LH and RH of the engine.
 @@NOT interchangeable between engines.
 
-84. The fuel nozzles are set at equal spaces circumference of the combustor and
-Counter-clockwise sequence, looking number 1 is at the 12:00 position.
-@@Clockwise sequence, forward looking ber 1 is at the 12:00 position.
-Clockwise sequence, looking forward 1 is at the 12:00 position.
+The fuel nozzles are set at equal spaces around the circumference of the combustor and numbered in a:
+Counter-clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Clockwise sequence, forward looking aft with number 1 is at the 12:00 position.
+@@Clockwise sequence, looking forward with number 1 is at the 12:00 position.
 
-85. The ignition system components side of the engine:
+The ignition system components are on the ...... side of the engine:
 Bottom.
 RH.
-LH.
+@@LH.
 
-86. The leads and Igniters on GE- NX by?
+The leads and Igniters on GE-NX engines cooling by?
 @@Fan air
 Bleed air from stage 7 HPC
-Bleed air from stage 4 HPC. 87. 19 / 38
+Bleed air from stage 4 HPC.
 
 The low pressure rotor system includes:
-@@The fan and a 4-stage low pressure (LPC) connected to a seven-stage low (LPT)
-The fan and a three-stage low pressure (LPC) connected to a eight-stage low (LPT)
-The fan and a four-stage low pressure (LPC) connected to a six-stage low pressure (LPT)
+@@The fan and a 4-stage low pressure compressor (LPC) connected to a seven-stage low pressure turbine (LPT)
+The fan and a three-stage low pressure compressor (LPC) connected to a eight-stage low pressure turbine (LPT)
+The fan and a four-stage low pressure compressor (LPC) connected to a six-stage low pressure turbine (LPT)
 
-88. The oil tank is located on the:
+The oil tank is located on the:
 LH side of the compressor stator.
 @@RH side of the fan case.
 LH side of the fan case.
 
-89. The oil temperature shown on EICAS perature from:
-Oil Supply Temperature Sensor on fan case.
-Oil Temperature Sensor in the oil pipe after the coolers.
-@@Oil Level/Temperature Sensor in the tank 90. 20 / 38
+The oil temperature shown on EICAS gets its temperature from:
+Oil Supply Temperature Sensor on the outside of the fan case.
+Oil Temperature Sensor in the oil pressure oil feed pipe after the coolers.
+@@Oil Level/Temperature Sensor in the top of the oil tank
 
-The pressure lubrication and scavenge gerotor type, positive displacement
+The pressure lubrication and scavenge pumps are gerotor type, positive displacement pumps and are:
 In separate oil pump packs.
 @@In the same oil pump pack.
 Located on the RH side of the engine.
 
-91. The purpose of chevrons on the thrust reverser translating sleeves is:
-@@To gradually mix the bypass airflow pheric air to decrease noise levels.
+The purpose of chevrons on the exit edges of the thrust reverser translating sleeves is:
+@@To gradually mix the bypass airflow with the atmospheric air to decrease noise levels.
 To reduce weight.
-To minimize the chance of lightning
+To minimize the chance of lightning strike.
 
-92. The purpose of Oil Eductor valve
-To act like a venturi to decrease the ber pressure to prevent possible oil leakage carbon seal at low engine power settings.
-@@To act like a venturi to decrease the ber pressure to prevent possible oil leakage labyrinth seal at low engine power settings.
-To increase the bearing chamber vent possible oil leakage across the low engine power settings.
+The purpose of Oil Eductor valve is:
+To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the carbon seal at low engine power settings.
+@@To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+To increase the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
 
-93. The purpose of the chevrons on the translating sleeve is: 21 / 38
+The purpose of the chevrons on the outer panel of the translating sleeve is:
 To reduce weight.
 @@To decrease engine noise.
 To increase thrust.
 
-94. The purpose of the Transient Bleed to:
+The purpose of the Transient Bleed Valve (TBV) is to:
 @@Both A and B.
-Remove the load on the high pressure (HPC) when the engine accelerates
-Remove the load on the high pressure (HPC) during rapid deceleration.
+Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle.
+Remove the load on the high pressure compressor (HPC) during rapid deceleration.
 
-95. The spray pattern is adjusted to efficiency by:
+The spray pattern is adjusted to improves engine efficiency by:
 @@Fuel Split Valve
 Lean combustor
 Fuel Oil Heat Exchanger
 
-96. The thrust reverser (T/R) manual use a drive tool (1/2-inch socket) for of the thrust T/R. They are located:
+The thrust reverser (T/R) manual drive units let you use a drive tool (1/2-inch socket) for manual operation of the thrust T/R. They are located:
 On the upper locking actuators.
 On the T-piece connection.
 @@On the lower locking actuators.
 
-97. The thrust reverser (T/R) T-piece:
-Is there so that if an actuator fails, will deploy the T/R halves.
-Let the LH and RH T/R translating separately. 22 / 38
-@@Connects the T/R sync shafts and sure the actuators move together.
+The thrust reverser (T/R) T-piece:
+Is there so that if an actuator fails, the sync shafts will deploy the T/R halves.
+Let the LH and RH T/R translating sleeves move separately.
+@@Connects the T/R sync shafts and tubing to make sure the actuators move together.
 
-98. The transient bleed valve (TBV) bleed
+The transient bleed valve (TBV) bleed air from?
 7th stage HPC
 4th stage HPC
 @@10th stage HPC.
 
-99. The unit that control the fuel flow
+The unit that control the fuel flow is called:
 HCU.
 HMU.
-FMU.
+@@FMU.
 
-100. There are fuel nozzles:
+There are fuel nozzles:
 30
 18
-22
+@@22
 
-101. There are:
-02 locking hydraulic actuators for
-03 locking hydraulic actuators for
-@@01 locking hydraulic actuator and draulic actuator for each T/R half.
+There are:
+@@02 locking hydraulic actuators for each T/R half.
+03 locking hydraulic actuators for each T/R half.
+01 locking hydraulic actuator and 01 unlocking hydraulic actuator for each T/R half.
 
-102. There is one track lock mechanism assembly, it is in the:
-@@RH T/R upper hinge beam area of
-LH T/R upper hinge beam area of 23 / 38
-RH T/R torque box next to the V-blade
+There is one track lock mechanism for each T/R assembly, it is in the:
+@@RH T/R upper hinge beam area of the engine strut.
+LH T/R upper hinge beam area of the engine strut.
+RH T/R torque box next to the V-blade latch.
 
-103. Thrust Control Malfunction Accommodation activated:
+Thrust Control Malfunction Accommodation is activated:
 All the time
 In flight
 @@On ground
 
-104. To cooling components on the The core compartment cooling (CCC)
-@@Bleed air from stage 7 HPC.
-Fan air
+To cooling components on the engine core case. The core compartment cooling (CCC) used air from?
+Bleed air from stage 7 HPC.
+@@Fan air
 Bleed air from stage 4 HPC
 
-105. To open Thrust reverser cowl, which opened first?
+To open Thrust reverser cowl, which latch is to be opened first?
 V-blade latch.
 @@Bifurcation latch system (BLS) handle.
 Sleeve latches.
 
-106. To prevent the spray of hot oil ishment, do not open the oil service of:
+To prevent the spray of hot oil during oil replenishment, do not open the oil service cap for a period of:
 7 minutes after engine shutdown
 3 minutes after engine shutdown.
 @@5 minutes after engine shutdown.
 
-107. To service PDOS, make sure the and the thrust reverser cowls are in:
+To service PDOS, make sure the fan cowl panels and the thrust reverser cowls are in:
 Intermediate position.
 @@Closed position
-Opened position 24 / 38
+Opened position
 
-108. What are functions of the FMU?
-@@Metered fuel for combustor and servo
+What are functions of the FMU?
+@@Metered fuel for combustor and servo fuel
 Metered fuel for combustor Only
 Servo fuel for engine air system control
 
-109. What are preferred power sources gine start to prevent any load shedding?
+What are preferred power sources for Main engine start to prevent any load shedding?
 02 ASG or 02 EP
-02 forward EPs are enough power start without load shedding
+02 forward EPs are enough power for main engine start without load shedding
 @@02 ASG or 03 EP
 
-110. What control the quantity of fuel fuel nozzles?
+What control the quantity of fuel that goes to the fuel nozzles?
 Fuel metering unit
 @@The FMU through the FSV.
 Fuel flow split valve
 
-111. What data can you find on the blade dovetail?
-@@Part number, Moment weight (gram-inches), number.
+What data can you find on the bottom of the blade dovetail?
+@@Part number, Moment weight (gram-inches), Serial number.
 Part number, Moment weight (gram-inches).
 Part number, Serial number.
 
-112. What following statement is correct Sleeves?
-Their movements are independently 25 / 38
-It holds the inner section of the T/R core of the fan case
-@@Their movements are synchronized trolled by the same HCU
-Their movements are synchronized
+What following statement is correct for TR Sleeves?
+Their movements are independently
+It holds the inner section of the T/R cowl to the core of the fan case
+Their movements are synchronized because controlled by the same HCU
+@@Their movements are synchronized by a flex-shaft
 
-113. What information does engine vide to EEC?
+What information does engine rating plug provide to EEC?
 @@Engine rating and N1 trim levels.
 Engine rating and N2 levels.
 Engine rating and N2 trim levels.
 
-114. What is EEC primary power?
+What is EEC primary power?
 Aircraft power 28v DC
 @@Permanent Magnet Alternator (PMA)
 Aircraft power 115v AC
 
-115. What is important thing do you sure before moving between TR Cowl core?
-@@Hold open rod is in the correct position show Yellow band
-Hold open rod is not in the correct collar show yellow band
-Hold open rod is in the correct position show Red band 116. 26 / 38
+What is important thing do you have to make sure before moving between TR Cowl and engine core?
+@@Hold open rod is in the correct position and collar show Yellow band
+Hold open rod is not in the correct position and collar show yellow band
+Hold open rod is in the correct position and collar show Red band
 
-What is NOT true about the T/R feed-back unit:
-There are two feedback units - one half.
+What is NOT true about the T/R translating sleeve feed-back unit:
+There are two feedback units - one on each reverser half.
 @@They are on the lower locking actuators.
 They are connected to the sync shaft.
 
-117. What is position of the Core compartment ing valve at high engine power setting?
-Open
+What is position of the Core compartment cooling valve at high engine power setting?
+@@Open
 Intermediate
 Close
 
-118. What is purpose a dimple mark spinner?
-It is hole technology when made
+What is purpose a dimple mark on aft of the spinner?
+It is hole technology when made the spinner.
 @@To identify 1 fan blade
 Used for trim balance
 
-119. What is purpose of manual lock the track lock mechanism?
-To hold the track lock in the locked
+What is purpose of manual lock release lever on the track lock mechanism?
+To hold the track lock in the locked position
 Isolated hydraulic from HCU.
-@@To hold the track lock in the unlocked
+@@To hold the track lock in the unlocked position
 
-120. What is purpose of the DMS conditioner?
-Gets contamination data from the
-Changes the analog signal from the sends it to the electronic engine control 27 / 38 debris is detected.
+What is purpose of the DMS conditioner?
+Gets contamination data from the DMS sensor
+Changes the analog signal from the sensor and sends it to the electronic engine control (EEC) when debris is detected.
 @@Both A and B are correct.
 
-121. What is purpose of the DMS sensor?
+What is purpose of the DMS sensor?
 Debris monitoring system
-@@Captures and measures the size of
+@@Captures and measures the size of ferrous particles
 Measures the size of the ferrous particles
 Captures ferrous particles
 
-122. What is purpose of the fuel metering
-Both are correct.
-Supplies servo fuel to control movement tors and the valves in the engine air
-@@Meter and distributes the correct necessary of fuel for combustion
+What is purpose of the fuel metering unit FMU?
+@@Both are correct.
+Supplies servo fuel to control movement the actuators and the valves in the engine air system
+Meter and distributes the correct amount of fuel necessary of fuel for combustion
 
-123. What is purposes of the HCU/IV sor?
+What is purposes of the HCU/IV Proximity Sensor?
 Senses the TRAS position to EEC
-@@Senses the TRAS pressurized or unpressurized dition.
+@@Senses the TRAS pressurized or unpressurized condition.
 Senses the TRAS position to EICAS.
 
-124. What is special about GEnx lean
+What is special about GEnx lean combustor?
 @@No dilution holes
 No cooling air
 Longer length
 
-125. What is Thrust control malfunction tion (TCMA)?
-@@TCMA is the engine control function TCM event from becoming hazardous 28 / 38 while on the ground.
-TCMA is the engine control function TCM event from becoming hazardous in the air.
-TCMA is the engine control function TCM event from becoming hazardous while on the ground and in the air.
+What is Thrust control malfunction accommodation (TCMA)?
+@@TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground.
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane in the air.
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground and in the air.
 
-126. What is your correct action if the accelerometer fails?
+What is your correct action if the No.1 bearing accelerometer fails?
 Replace N1 speed sensor
 Replace No.1 bearing accelerometer
 @@Use the alternate No.1 bearing accelerometer
 
-127. What of the following is TRUE for sensor:
-The sensor monitors the absolute pressure after the ACOC.
-The sensor is on an oil scavenge pipeline, accessory gearbox at the 7:00 position
-@@It monitors the differential pressure supply manifold pressure and the bearing pressure.
+What of the following is TRUE for oil pressure sensor:
+The sensor monitors the absolute supply manifold pressure after the ACOC.
+The sensor is on an oil scavenge pipeline, aft of the accessory gearbox at the 7:00 position
+@@It monitors the differential pressure between the oil supply manifold pressure and the bearing sump air pressure.
 
-128. What will occur if 1 VFSG is used
-The engine will experience hang
-The engine will start as usual. 29 / 38
-@@Start time is extended but is within time limits.
+What will occur if 1 VFSG is used for start?
+The engine will experience hang start
+The engine will start as usual.
+@@Start time is extended but is within acceptable start time limits.
 
-129. When does EEC change the channel
+When does EEC change the channel in control?
 There is a failure
 @@At each engine start
 After engine shutdown
 
-130. When does EEC get power from netic Alternator (PMA)?
+When does EEC get power from Permanent Magnetic Alternator (PMA)?
 N2 >= 5%.
 N2 >= 7%.
 @@N2 >= 8%.
 
-131. When the EEC NO power you can check?
+When the EEC NO power you can used EICAS to check?
 OIL TEMP
 EGT
 @@OIL level
 
-132. When the engine is not running, from leaking down to the accessory
+When the engine is not running, oil is prevented from leaking down to the accessory gearbox by:
 The leak check valve
 @@The static anti-leak valve
 The check valve
 
-133. When the engine is Over-speed,
+When the engine is Over-speed, EEC will:
 Change to ALTERNATE mode
 Reduce fuel flow
 @@Shutdown the engine
 
-134. When you moved the fuel control OFF position to shut down the engine. 30 / 38 in the engine fuel system closed?
+When you moved the fuel control switch to CUTOFF position to shut down the engine. What is valves in the engine fuel system closed?
 @@Both valves closed
 HPSOV in the FMU
 Spar valve
 
-135. Where can you find the HCU?
+Where can you find the HCU?
 In FWD EE bay
 On the engine
 @@In the pylon
 
-136. Where do you attach fan trim balance
+Where do you attach fan trim balance weight?
 On the support ring.
 On the fan disk
 @@On the aft end of the spinner
 
-137. Where do you fine the data moment the fan blade?
+Where do you fine the data moment weight of the fan blade?
 On the trailing edge of the fan blade.
 On the leading edge of the fan blade
 @@On the bottom of the blade dovetail
 
-138. Where is located of the anti-leak
+Where is located of the anti-leak valve?
 @@In the oil filter housing
 Inside oil tanks.
 At top of the oil tank
 
-139. Where located of the T12 SENSOR?
+Where located of the T12 SENSOR?
 Between stage 3,4 of LPC
-@@Inlet cowl of the engine position
+@@Inlet cowl of the engine position 11:00
 Inlet cowl of the engine position 2:00
 
-140. Which air is used by HPT and LPT cool turbine case? 31 / 38
+Which air is used by HPT and LPT ACC valves to cool turbine case?
 LPC outlet air
 HPC 4th stage air
 @@Fan air
 
-141. Which aircraft system does GEnx for?
+Which aircraft system does GEnx supply bleed air for?
 Pneumatic system
 ECS system
 @@Engine anti-ice
 
-142. Which component remove air form oil?
+Which component remove air form scavenger oil?
 Center vent tube
 Scavenge pump
 @@DMS air/oil separator
 
-143. Which component transfer thrust lon?
-@@Two thrust links transfer thrust load mount to forward mount and to the
+Which component transfer thrust load to the pylon?
+Two thrust links transfer thrust load from aft engine mount to forward mount and to the strut.
 Forward engine mount.
-Aft engine mount
+@@Aft engine mount
 
-144. Which compressor stage vane VSV system?
-HPC outlet guide vanes (OGV) and stage HPC stator vanes.
-LPC inlet guide vanes (IGV) and 1st 32 / 38 stage LPC stator vanes.
-@@HPC inlet guide vanes (IGV) and 1st stage HPC stator vanes.
+Which compressor stage vane are controlled by VSV system?
+HPC outlet guide vanes (OGV) and 1st through 4th stage HPC stator vanes.
+LPC inlet guide vanes (IGV) and 1st through 4th stage LPC stator vanes.
+@@HPC inlet guide vanes (IGV) and 1st through 4th stage HPC stator vanes.
 
-145. Which EEC channel control Engine?
+Which EEC channel control Engine?
 Channel A
 @@Change each engine start
 Channel B
 
-146. Which engine mount transmit the the strut?
+Which engine mount transmit the thrust loads to the strut?
 @@Aft mount.
 Both mounts.
 Forward mount.
 
-147. Which hydraulic system use for
+Which hydraulic system use for PDOS system?
 Onside Hydraulic system
 Center hydraulic system
 @@Independent hydraulic system
 
-148. Which of the following is NOT part
+Which of the following is NOT part of HP rotor:
 @@7-stage high pressure compressor.
 2-stage high pressure turbine.
 10-stage high pressure compressor.
 
-149. Which of the following is NOT part
-Single-stage fan and 4-stage booster compressor.
-7-stage low pressure turbine. 33 / 38
+Which of the following is NOT part of LP rotor:
+Single-stage fan and 4-stage booster low pressure compressor.
+7-stage low pressure turbine.
 @@10-stage low pressure turbine.
 
-150. Which of the following is NOT true:
+Which of the following is NOT true:
 There is no manual start mode.
-@@The AUTO start switch is normally tion.
-The engine start system is an auto-start
+@@The AUTO start switch is normally in the ON position.
+The engine start system is an auto-start system.
 
-151. Which of the following is NOT true:
-@@There 16 composite structure cascade each T/R half.
-The inboard segments have a shape reverse thrust airflow away from the
-Each segment has a number to identify location on the engine.
+Which of the following is NOT true:
+@@There 16 composite structure cascade segments for each T/R half.
+The inboard segments have a shape that directs the reverse thrust airflow away from the fuselage.
+Each segment has a number to identify its correct location on the engine.
 
-152. Which of the following is the advantage lean combustor:
-The lean combustor gives higher gas temperature (EGT).
-@@The lean combustor uses a shorter and outer single piece liner to minimize vibration distress and fatigue.
-The lean combustor increases the 34 / 38 lution holes to remove stress concentrations crease liner cracks.
+Which of the following is the advantage of GEnx lean combustor:
+The lean combustor gives higher engine exhaust gas temperature (EGT).
+@@The lean combustor uses a shorter length inner and outer single piece liner to minimize long term vibration distress and fatigue.
+The lean combustor increases the number of dilution holes to remove stress concentrations to decrease liner cracks.
 
-153. Which of the following manifolds fuel to all 22 fuel nozzles:
+Which of the following manifolds always supplies fuel to all 22 fuel nozzles:
 Pilot primary and main staged (PPMS).
 @@Pilot secondary (PSEC).
-Pilot primary and main un-staged
+Pilot primary and main un-staged (PPMU).
 
-154. Which of the following power configuration minimum requirement for engine start?
-@@2 forward (90 KVA) External Power
+Which of the following power configuration is the minimum requirement for engine start?
+@@2 forward (90 KVA) External Power (EP) sources.
 1 forward EP and the aft EP source.
 Only 1 EP source.
 
-155. Which of the following statement
-As the engine increases in speed increases the quantity of the fuel to
-The BPV controls the position of the
-@@At start, the Fuel Metering Valve (FMV) from the Bypass Valve (BPV) through jet pump and heat exchangers.
+Which of the following statement is TRUE:
+As the engine increases in speed for start, the FMV increases the quantity of the fuel to the BPV
+The BPV controls the position of the FMV.
+@@At start, the Fuel Metering Valve (FMV) lets fuel go from the Bypass Valve (BPV) through the FMV to the jet pump and heat exchangers.
 
-156. Which of the following statements
-@@The HP rotates clockwise as viewed 35 / 38
-The GEnx engine has counter rotating (LP) and high pressure (HP) rotors.
-The LP rotates clockwise as viewed
+Which of the following statements is NOT true:
+@@The HP rotates clockwise as viewed from front.
+The GEnx engine has counter rotating low pressure (LP) and high pressure (HP) rotors.
+The LP rotates clockwise as viewed from the front.
 
-157. Which of the following statements
-The forward thrust lever is not blocked reverse thrust lever is moved more
-@@The reverse thrust lever is blocked ward thrust lever is forward of idle a degrees.
-You can move the reverse thrust levers tion of the forward thrust lever.
+Which of the following statements is TRUE:
+The forward thrust lever is not blocked when a reverse thrust lever is moved more than 8.5 degrees
+@@The reverse thrust lever is blocked when the forward thrust lever is forward of idle a minimum of 3 degrees.
+You can move the reverse thrust levers at any position of the forward thrust lever.
 
-158. Which of the following statements
-@@N2 will show on the EICAS without plied.
-N1 will show on the EICAS without plied.
-02 N1 signals go to the EEC and 01 EMU for engine vibration analysis and monitoring.
+Which of the following statements is TRUE:
+@@N2 will show on the EICAS without EEC power applied.
+N1 will show on the EICAS without EEC power applied.
+02 N1 signals go to the EEC and 01 signal goes to the EMU for engine vibration analysis and engine trend monitoring.
 
-159. Which position of the LPT ACC valve for dispatch?
-Open position 36 / 38
+Which position of the LPT ACC valve could be lock for dispatch?
+Open position
 @@Close position
 Intermediate position
 
-160. Which stages of HPC are BLISKs?
+Which stages of HPC are BLISKs?
 2, 3, 5.
 @@1, 2, 5.
 2, 4, 5.
 
-161. Which statement is correct for ments?
-They are interchangeable and all segments same part number to identify its correct the engine.
-@@They are not interchangeable and has a number to identify its correct engine.
-They are interchangeable and each number to identify its correct location
+Which statement is correct for TR cascade segments?
+They are interchangeable and all segments have the same part number to identify its correct location on the engine.
+@@They are not interchangeable and each segment has a number to identify its correct location on the engine.
+They are interchangeable and each segment has a number to identify its correct location on the engine.
 
-162. Which sub system controlled by pressor control system?
-VBV, VSV, LPT & HPT ACC cooling
-VBS, VSV, TBV, LPT & HPT ACC cooling
+Which sub system controlled by the engine compressor control system?
+VBV, VSV, LPT & HPT ACC cooling system.
+VBS, VSV, TBV, LPT & HPT ACC cooling system.
 @@VBV, VSV, TBV
 
-163. Which valve in the engine cooling operated by servo fuel?
+Which valve in the engine cooling system is NOT operated by servo fuel?
 HPTACC valve.
 CCC Valve.
-@@None of them. 37 / 38
+@@None of them.
 
-164. Which vibration data indicated ondary display?
+Which vibration data indicated on the EICAS secondary display?
 N1 vibration data
 BB vibration data
 @@Highest vibration data
 
-165. You can start engine using:
+You can start engine using:
 @@2 FWD external power source
 1 FWD external power source
-1 FWD + 1 AFT external power sources 38 / 38
+1 FWD + 1 AFT external power sources

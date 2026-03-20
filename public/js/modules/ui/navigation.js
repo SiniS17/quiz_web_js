@@ -25,12 +25,8 @@ const validationCache = {
 };
 
 let cacheLoadedFromDisk = false;
-let activeCacheFilename = null;   // set once the JSON is loaded, used for logging
+let activeCacheFilename = null;
 
-/**
- * Fetch validation-cache.json once and hydrate the in-memory store.
- * Logs the exact filename (with timestamp) that was generated at build time.
- */
 async function loadCacheFromDisk() {
   if (cacheLoadedFromDisk) return;
   cacheLoadedFromDisk = true;
@@ -57,7 +53,6 @@ async function loadCacheFromDisk() {
       Object.entries(data.folders).forEach(([fp, result]) => { validationCache.folders[fp] = result; });
     }
 
-    // Store and log the exact timestamped filename so you know what's in use
     activeCacheFilename = data.filename || 'validation-cache.json (no filename stored)';
 
     console.log('━'.repeat(56));
@@ -80,6 +75,18 @@ function getCachedFolder(folderPath){ return validationCache.folders[folderPath]
 // DISPLAY HELPERS
 // ===================================
 
+/**
+ * Files ending in ' (-).txt' are opted out of flag display.
+ * Validation still runs and results are stored — just never shown.
+ */
+function isOptOut(filename) {
+  return filename.endsWith(' (-).txt');
+}
+
+/**
+ * Should this violation type be shown to users?
+ * Controlled by CONFIG.VALIDATION_DISPLAY — only the admin can change this.
+ */
 function shouldShowViolation(violationType) {
   if (!violationType) return false;
   const { SHOW_LINE_COUNT_ERRORS, SHOW_ANSWER_COUNT_ERRORS } = CONFIG.VALIDATION_DISPLAY;
@@ -235,13 +242,22 @@ function createFolderBox(folderName, currentFolder, cachedFolderResult = null) {
   return folderBox;
 }
 
+/**
+ * Quiz file box.
+ * (-) files: always render clean regardless of validation result or config flags.
+ * Other files: flagged only when violation type is enabled in VALIDATION_DISPLAY.
+ */
 function createQuizBox(file, folder, validation, showCheckbox = false) {
   const quizBox  = document.createElement('div');
   const filePath = folder ? `${folder}/${file}` : file;
 
   quizBox.style.position = 'relative';
 
-  const showFlag = !validation.valid && shouldShowViolation(validation.violationType);
+  // (-) files are never flagged visually — validation ran but display is suppressed
+  const showFlag = !isOptOut(file)
+    && !validation.valid
+    && shouldShowViolation(validation.violationType);
+
   quizBox.className = 'quiz-box'
     + (showFlag
         ? (validation.violationType === 'answer_count' ? ' quiz-flagged-violet' : ' quiz-flagged')
@@ -252,6 +268,9 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
     quizBox.title = validation.reason;
     warningIcon   = `<i class="fas fa-exclamation-triangle excess-warning" title="${validation.reason}"></i>`;
   }
+
+  // Strip ' (-)' from display name
+  const displayName = file.replace('.txt', '').replace(' (-)', '');
 
   let checkboxHTML = '';
   if (showCheckbox) {
@@ -267,7 +286,7 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
   quizBox.innerHTML = `
     ${checkboxHTML}
     <i class="fas fa-file-text"></i>
-    <h3>${file.replace('.txt', '').replace(' (-)', '')}</h3>
+    <h3>${displayName}</h3>
     <p>Click to start quiz</p>
     ${warningIcon}
   `;
@@ -336,7 +355,7 @@ async function startMultiQuiz(filePaths, folder) {
     for (const filePath of filePaths) {
       const text      = await fetchQuizContent(filePath);
       const questions = parseQuestions(text.split('\n'));
-      const bankName  = filePath.split('/').pop().replace('.txt', '').substring(0, 15);
+      const bankName  = filePath.split('/').pop().replace('.txt', '').replace(' (-)', '').substring(0, 15);
       questions.forEach(q => questionsWithBanks.push({ text: q, bank: bankName }));
     }
 
