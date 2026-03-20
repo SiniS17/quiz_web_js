@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T10:12:00.955Z",
-  "filename": "validation-cache-2026-03-19_10-12-00.json",
+  "generated": "2026-03-20T15:26:44.039Z",
+  "filename": "validation-cache-2026-03-20_15-26-44.json",
   "config": {
     "MAX_CONSECUTIVE_LINES": 5,
     "MIN_CONSECUTIVE_LINES": 3,
@@ -630,229 +630,19 @@
       "max": 5,
       "reason": "Too few consecutive lines (1 < 3)"
     },
-    "B787 output (TEMP)/AIRCRAFT DIFFERENCES.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA00.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA21.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA22.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA23.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA24.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA25.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA26.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA27.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA28.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA29.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA30.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA31.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA32.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA33.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA34.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA35.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA38.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA42.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA44(-).txt": {
-      "valid": false,
-      "violationType": "line_count",
-      "min": 2,
-      "max": 2,
-      "reason": "Too few consecutive lines (2 < 3)"
-    },
-    "B787 output (TEMP)/ATA45(-).txt": {
-      "valid": false,
-      "violationType": "line_count",
-      "min": 2,
-      "max": 2,
-      "reason": "Too few consecutive lines (2 < 3)"
-    },
-    "B787 output (TEMP)/ATA46.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA47.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA49.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA50.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA51.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA52.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "B787 output (TEMP)/ATA56.txt": {
-      "valid": false,
-      "violationType": "answer_count",
-      "min": 3,
-      "max": 4,
-      "reason": "Question 9: no correct answer marked (@@)"
-    },
-    "B787 output (TEMP)/ATA70-80.txt": {
-      "valid": false,
-      "violationType": "line_count",
-      "min": 1,
-      "max": 5,
-      "reason": "Too few consecutive lines (1 < 3)"
-    },
-    "CAAV/A320 Airfame.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
     "CAAV/Module 10 Aviation legistlation .txt": {
       "valid": false,
-      "violationType": "line_count",
+      "violationType": "answer_count",
       "min": 5,
-      "max": 11,
-      "reason": "Too many consecutive lines (11 > 5)"
+      "max": 5,
+      "reason": "Question 39: no correct answer marked (@@)"
     },
     "CAAV/Theory basic maintenance Cat B1_CAAV (-).txt": {
-      "valid": false,
-      "violationType": "line_count",
+      "valid": true,
+      "violationType": null,
       "min": 4,
-      "max": 8,
-      "reason": "Too many consecutive lines (8 > 5)"
+      "max": 4,
+      "reason": ""
     },
     "CAAV/787/b787 rr trent1000.txt": {
       "valid": true,
@@ -897,27 +687,6 @@
       "reason": ""
     },
     "CAAV/A321/Engine/V2500 Engine.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "CAAV/Engine/CFM56 Engine.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "CAAV/Engine/PW1100G Engine.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "CAAV/Engine/V2500 Engine.txt": {
       "valid": true,
       "violationType": null,
       "min": 4,
@@ -1456,10 +1225,6 @@
       "hasInvalid": true,
       "violationType": "line_count"
     },
-    "B787 output (TEMP)": {
-      "hasInvalid": true,
-      "violationType": "line_count"
-    },
     "CAAV/787": {
       "hasInvalid": true,
       "violationType": "answer_count"
@@ -1472,13 +1237,9 @@
       "hasInvalid": false,
       "violationType": null
     },
-    "CAAV/Engine": {
-      "hasInvalid": false,
-      "violationType": null
-    },
     "CAAV": {
       "hasInvalid": true,
-      "violationType": "line_count"
+      "violationType": "answer_count"
     },
     "CCUQ/Tech/CFM": {
       "hasInvalid": false,
