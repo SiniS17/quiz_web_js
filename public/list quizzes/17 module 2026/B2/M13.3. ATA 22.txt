@@ -1,0 +1,914 @@
+What does FBW stand for?
+@@Fly-By-Wire.
+Fly-Below-Wind.
+Follow-By-Wind.
+
+An automatic flight control and stabilization system:
+@@Significantly eases the pilot's workload and provides increased aircraft stability at all speeds.
+Significantly eases the pilot's workload and only provides increased aircraft stability at high speeds.
+Significantly eases the pilot's workload and only provides increased aircraft stability at low speeds.
+
+What does DFCS stand for?
+@@Digital Flight Control System.
+Data Flight Control System (DFCS).
+Dynamic Flight Control System.
+
+In basic architecture, AFCS is generally composed of
+@@Three modules with the same functions.
+Three modules that each is designed identically.
+Only one module.
+
+How many types can AFCS be generally categorized into?
+@@4
+3
+5
+
+Which type of system is known as "Hold system"?
+@@AP system.
+Stability Augmentation System.
+Command Augmentation Systems.
+
+Where does the control law locate?
+@@Flight Control Computer (FCC).
+Controller stick.
+Controller manipulators
+
+A yaw damper control
+@@The rudder.
+The elevator.
+The aileron.
+
+In manually controlled flight, trimming is usually?
+@@Affected about the three axes.
+Affected about the pitch axis.
+Affected about the yaw axis.
+
+Regard to flight (control) computers of automatic flight control system. Which one is NOT correct?
+@@They are designed for all flight envelope.
+They has a much higher reaction time than a pilot.
+They can more accurately know the state the aircraft is in.
+
+Which type of back-up system is A320 equipped?
+@@Mechanical back-up system.
+Purely electrical back-up system.
+Mechanical – electrical hybrid back-up system.
+
+Which surface does the DFCS usually use to automatically maintain attitude?
+@@Elevators and ailerons.
+Rudder and ailerons.
+Elevators and Rudder.
+
+What is function of flight director commands?
+@@Providing the pilots' flight attitude commands during manual operation.
+Providing the pilots' flight attitude commands during autopilot operation
+Providing the attitude commands to flight control surface.
+
+What is one of principles for designing module to avoid a common mode failure?
+@@Each of module is designed differently.
+Modules is designed identically.
+Module use different electrical power sources.
+
+Why is it said that the characteristic of the AP system is of limited authority?
+@@The AP system can be deactivated through the movement of the control manipulator.
+The AP system can be deactivated by circuit breaker.
+The pilot does not need to grasp the controller stick during AP is working
+
+Which type of system reacts continuously regardless of the motion of the controller stick?
+@@Stability Augmentation System.
+Command Augmentation Systems.
+AP system.
+
+Which following system NOT operate when the control stick is moved?
+@@AP system.
+Command Augmentation Systems.
+Stability Augmentation System.
+
+Which type of system whose circuit is closed by the motion of the AP electromotor at the controller stick?
+@@Autopilot system.
+Command Augmentation Systems.
+Stability Augmentation System.
+
+Which type of system whose circuit is closed through the Flight Control Computer?
+@@Command Augmentation Systems and Stability Augmentation System.
+AP system and Command Augmentation Systems
+AP Systems and Stability Augmentation System.
+
+Which following system has the highest authority?
+@@Command Augmentation Systems (CAS).
+Stability Augmentation System (SAS).
+AP system.
+
+Super Augmentation AFSC is typically used to create an artificial stability for?
+@@The class of aircraft which are statically unstable
+The class of aircraft which are statically stable.
+The class of aircraft which are dynamically unstable.
+
+Which is control law in which the FCC represents a multiplier or an amplifier in?
+@@Constant Gain
+Variable Gain
+Robust Gain
+
+What is control law in which the FCC determines the varying gain that adjusts to the most suitable model of a certain configuration?
+@@Adaptive Gain
+Variable Gain
+Robust Gain
+
+Which following modes is basic mode of autoflight modes?
+@@Pitch mode and Vertical speed Hold mode
+Altitude acquisition mode and Vertical speed Hold
+Altitude acquisition mode and Pitch mode
+
+ALT mode keeps the altitude of the aircraft stabilized at the moment of autopilot engagement.
+@@Provided the vertical speed is less than the programmed threshold.
+Provided the vertical speed is greater than the programmed threshold.
+Regardless of vertical speed
+
+When the autopilot is in ALT mode with the ATS engaged, which Auto-throttle mode is activated?
+@@SPEED/MACH mode
+TAKE OFF mode
+LAND mode
+
+What happen when autopilot is in ALT mode with the ATS engaged and V/S is actived?
+@@SPEED/MACH mode is automatically disengaged
+TAKE OFF mode is automatically disengaged
+Auto-throttle is disengaged
+
+The autopilot is in ALT/S mode, which mode is  automatically engaged if the selected altitude is modified and the capture condition is lost during the capture phase?
+@@The V/S or ATT mode
+LVL CH mode
+PROFILE or VNAV mode
+
+ATL/S mode is armed, when this mode become active?
+@@Once the reference altitude is acquired and the vertical speed is within prescribed limits
+Once the moment it is selected
+Once the reference altitude is acquired and the heading is within prescribed limits
+
+A yaw damper requires
+@@Yaw rate sensors and a processor that provides a signal to an actuator connected to the rudder.
+Yaw rate sensors and a processor that provides a signal to an actuator connected to the elevator.
+Yaw rate sensors and a processor that provides a signal to an actuator connected to the aileron.
+
+How is rudder movement due to yaw damper inputs feedback to the rudder pedals?
+@@There is no feedback to the rudder pedals.
+Mechanically.
+Electrically.
+
+Rudder position transducer supply?
+@@Magnitude and direction of deviation of current position and center null position.
+Magnitude and direction of deviation of current position and left limit position.
+Magnitude and direction of deviation of current position and right limit position.
+
+Which one is used to get yaw rate?
+@@Gyro.
+Linear position transducer.
+2-position solenoid.
+
+Which following one is correct?
+@@The Yaw Damper actuator output is summed with rudder pedal input.
+The Yaw Damper actuator output override rudder pedal input.
+The Yaw Damper actuator output is overridden by rudder pedal input.
+
+What is trim control typically used for?
+@@Maintain straight and level flight.
+Turn coordination.
+Change heading at high rate.
+
+How is trim control of an aircraft provided?
+@@Primary and secondary flight control system.
+Primary flight control and engine thrust control system.
+Secondary flight control and engine thrust control system.
+
+Under automatically controlled conditions trimming is generally confined to control about
+@@The pitch axis.
+The roll axis.
+The yaw axis.
+
+Under automatically controlled conditions trimming is accomplished by?
+@@A variable incidence horizontal stabilizer.
+Aileron trim tab system.
+Rudder trim tab system.
+
+What are ground-based elements of Instrument Landing System (Autopilot navigation aids interface)?
+@@Localizer-transmits, Glide slope transmitter and Marker beacons.
+Localizer-transmits, Glide slope transmitter and Non direction beacons.
+Localizer-transmits, Glide slope transmitter and VHF omnidirectional range beacons.
+
+What is one primary limitation of automatic flight control systems (AFCS) when operating outside the flight envelope in modern aircraft?
+@@The system is unable to correctly operate the control surfaces due to its design limitations
+Automatic flight control systems (AFCS) loses all functionality and requires immediate manual intervention
+Automatic flight control systems (AFCS) will automatically adjust and adapt to the new conditions
+
+In the event of multiple failures of redundant computers in Airbus A320s, what system provides limited manual control?
+@@Mechanical back-up system for rudder and pitch trim
+Fully autonomous flight mode to complete the flight
+Fully electronic pitch trim and yaw damper
+
+Which of the following is a key advantage of fly-by-wire systems over traditional mechanical control systems in high-speed supersonic aircraft?
+@@Enhanced control surface deflection accuracy and faster system response
+Improved pilot response time due to feedback mechanisms
+Increased resistance to system malfunctions at high speeds
+
+What is the primary function of the yaw damper system in an AFCS?
+@@To correct periodic yaw oscillations such as Dutch roll
+To adjust engine thrust for maintaining selected speeds
+To provide input to the flight director for manual control
+
+How does the auto-throttle system contribute to automatic flight during landing approaches?
+@@It maintains a preselected airspeed by adjusting engine thrust levers
+It activates the yaw damper to stabilize yaw oscillations during descent
+It provides manual throttle control feedback to the pilot during descent
+
+Which input is NOT used by the AFCS to guide the airplane and maintain stability?
+@@Manual input from the pilot’s yoke
+Flight Management Computer (FMC)
+Radio navigation aids and Heading input
+
+What is the main reason for using three heterogeneously designed modules in an AFCS?
+@@To prevent simultaneous failure due to a single point of failure
+To enhance communication between redundant systems during critical phases
+To increase computational efficiency for complex flight maneuvers
+
+How does the AFCS correct deviations from a commanded flight path due to atmospheric perturbations?
+@@Through a feedback control mechanism that automatically adjusts control surfaces
+By continuously switching between redundant control modules to maintain stability
+By adjusting engine thrust to compensate for changes in velocity
+
+Why does AFCS employ modular redundancy in its design?
+@@To ensure that a failure in one module does not disrupt overall system functionality
+To provide faster response times during high-altitude and high-speed flight
+To enhance the precision of autopilot maneuvers in complex flight conditions
+
+Which of the following best describes the concept of "heterogeneity" in the context of AFCS?
+@@It involves designing each module differently to avoid common mode failure
+It refers to the modular structure that allows for seamless integration of new components
+It refers to the use of different types of signals to improve feedback accuracy
+
+What distinguishes the Stability Augmentation System (SAS) from the Autopilot (AP) system?
+@@SAS increases aircraft stability by augmenting damping ratios, whereas AP maintains flight conditions without pilot input
+SAS works only when the pilot is moving the control stick, while AP operates continuously
+SAS is limited to speed and altitude holds, while AP controls pitch and roll movements
+
+In the Command Augmentation System (CAS), how is the desired aircraft motion achieved?
+@@By amplifying control inputs through a hydraulically powered actuator
+By continuously calculating the optimal flight path based on weather conditions
+By adjusting aerodynamic surfaces directly based on pilot input
+
+Which of the following correctly describes Super Augmentation in an AFCS?
+@@It provides continuous artificial stability and optimizes control without pilot input
+It adjusts control surfaces based on predetermined navigation paths for fuel optimization
+It augments pilot commands by interpreting signals from flight management systems
+
+Which type of AFCS is primarily designed to improve stability during landing approaches and low- speed configurations?
+@@Stability Augmentation System (SAS)
+Super Augmentation Flight Control System
+Command Augmentation System (CAS)
+
+How does the SAS improve aircraft dynamics?
+@@By dampening oscillations in pitch, roll, and yaw channels through feedback control
+By optimizing the aircraft’s trim to match changing atmospheric conditions
+By automatically compensating for airspeed and altitude deviations
+
+Which of the following statements best explains the Command Augmentation System (CAS)?
+@@It optimizes control input to the aerodynamic surfaces based on flight dynamics
+It prioritizes pilot commands and automatically reduces control surface deflections
+It reacts only to yaw movements and optimizes directional stability
+
+In which of the following situations is Super Augmentation critical for flight control?
+@@When controlling an aircraft that is statically unstable
+During normal cruise conditions in stable weather
+When flying at supersonic speeds in a stable aircraft
+
+What is the primary advantage of a Closed Loop System in the context of an AFCS?
+@@It enables continuous feedback between flight control inputs and aircraft sensors
+It eliminates the need for redundant systems by relying on a single control path
+It ensures that manual inputs are prioritized over autopilot commands
+
+What primary function does the elevator deflection command serve in the pitch mode?
+@@To maintain pitch attitude by adjusting the elevator based on attitude differences
+To control flap extension and compensate for aerodynamic drag
+To modify the yaw rate based on bank angle and turn rate
+
+What is the role of the Control Wheel Steering (CWS) in pitch mode?
+@@It allows the pilot to modify the reference attitude without disengaging the autopilot
+It resets all pitch control commands when the pitch control wheel is moved
+It maintains the selected pitch attitude by compensating for wind variations in pitch mode
+
+How does autopilot synchronization with the pilot prevent sudden control movements during engagement?
+@@By setting the control unit’s deflection to zero at the moment of engagement
+By temporarily disconnecting the elevator channel until manual input is restored
+By overriding all control inputs from the pilot until the system stabilizes
+
+What is the purpose of the synchronization loop in the power loop?
+@@It uses an integrator to minimize deflection deviations in the elevator
+It ensures that the autopilot continuously overrides any manual pitch inputs
+It synchronizes control movements with pitch rate fluctuations
+
+What determines the commanded attitude in the vertical speed hold mode (V/S) of the longitudinal autopilot?
+@@The difference between selected and actual vertical speeds
+The aircraft's altitude at engagement
+The current airspeed and the bank angle during turns
+
+In systems with flight level change modes, when is the V/S mode most effectively used?
+@@For smaller level changes
+During rapid altitude gains
+When transitioning between different flight levels
+
+Under what condition does the altitude hold mode (ALT HLD) stabilize the aircraft's altitude at autopilot engagement?
+@@When vertical speed is below the programmed threshold
+When the aircraft is in cruise configuration and the autopilot first engages
+During a gradual ascent or descent
+
+What does a change in speed, weight, or thrust affect during altitude hold mode?
+@@It varies the commanded attitude to maintain altitude
+It directly alters the autopilot engagement time
+It has no effect on the altitude hold function
+
+When does the altitude acquisition mode (ALT ACQ) become active?
+@@Once the reference altitude is acquired
+When the pilot selects a new altitude
+During the initial engagement of the autopilot
+
+Under what condition does the altitude hold mode re-engage after the ALT ACQ mode has been active?
+@@When altitude deviation is lower than the set threshold
+During any change in vertical speed
+When the pilot overrides the system
+
+How does the yaw damper system generate a command to the rudder?
+@@By processing the yaw rate signal
+By directly adjusting the pilot's rudder inputs
+By using a manual control from the cockpit
+
+What is the primary function of the Yaw Damper coupler in an aircraft?
+@@To provide rudder deflection commands for yaw axis movement
+To stabilize the aircraft's pitch during maneuvers
+To enhance engine performance during takeoff
+
+What is the role of the Yaw Damper engage switch in the aircraft's control system?
+@@To activate the Yaw Damper system by placing it in operating mode
+To control the aircraft's pitch and roll angles during flight
+To disengage the autopilot during emergencies and to monitor yaw rates for stability
+
+What does the Yaw Damper warning annunciator indicate in an aircraft's control system?
+@@That the Yaw Damper system is not engaged in the operating mode
+That the aircraft is in a stable flight condition when the autopilot system is disengaged
+That the aircraft is exceeding safe yaw limits
+
+What is the primary function of the rudder position indicator in the Yaw Damper system?
+@@To display rudder movement induced by Yaw Damper commands
+To show the aircraft's yaw rate
+To provide feedback on pilot inputs to the rudder
+
+How does the output signal of the linear position transducer vary in relation to the rudder's position?
+@@It varies directly with the length of the input stroke
+It inversely correlates with the rudder position
+It only changes when the rudder exceeds a specific angle
+
+How does the transfer valve in the Yaw Damper system operate with respect to hydraulic flow?
+@@It converts electrical signals into hydraulic flow
+It controls rudder deflection by increasing pressure
+It solely functions as a feedback mechanism for the rudder
+
+What happens to the YAW DAMPER light when the yaw damper is successfully engaged?
+@@It extinguishes two seconds after being turned ON
+It remains illuminated until the aircraft lands
+It blinks intermittently during operation
+
+How does the Yaw Damper actuator affect the movement of the rudder during operation?
+@@It combines with the rudder pedal input to control rudder movement
+It operates independently of the rudder pedal input
+It provides direct mechanical feedback to the rudder pedals
+
+What is the primary purpose of incorporating a Stability Augmentation System (SAS) in helicopters?
+@@To stabilize the helicopter during flight and reduce pilot workload
+To provide automated navigation without pilot input
+To enhance the speed of the helicopter during cross-country flights
+
+Which component of the SAS provides attitude signals to the Flight Control Computer (FCC)?
+@@Attitude Gyro
+Roll Servo
+Flight Control Computer
+
+What is the role of the servos within the SAS installation?
+@@To provide feedback to the FCC for altitude calculations
+To control the pitch and roll axes through electromagnetic clutches
+To measure the helicopter's speed and altitude
+
+What are the two primary functions of the Helicopter Stability Augmentation System (SAS)?
+@@Stability aid and autopilot outer loop control modes
+Engine power enhancement and altitude adjustment
+Pilot workload increase and navigation correction
+
+What must a pilot be prepared for when the SAS is engaged, due to the unstable nature of helicopters?
+@@To manually control the cyclic at any moment
+To navigate using only visual references
+To completely rely on the SAS for flight control
+
+What is the primary purpose of trimming an aircraft during flight?
+@@To relieve constant control pressure on the pilot
+To increase engine power and redue workload for pilots
+To enhance aerodynamic efficiency
+
+How is trimming primarily achieved in most aircraft equipped with an elevator trim tab system?
+@@By a separate trim servo-actuator coupled to the elevator trim tab
+By modifying the rudder position
+By using a variable incidence horizontal stabilizer
+
+What type of motor is used in the automatic stabilizer trim system?
+@@A three-phase, dual-speed, dual-winding motor
+A single-phase AC,  dual-speed, stepper motor
+A DC brushless, dual-winding,  single-phase AC motor
+
+Which component is mechanically connected to the stabilizer to change the threshold levels for trim motor operation?
+@@A trim potentiometer
+A pitch control sensor
+An elevator feel and centering unit
+
+What role does the neutral shift sensor play in the stabilizer trim system?
+@@It supplies feedback signals as the stabilizer takes a new trim position
+It is used to adjust the elevator control surface position
+It activates the limit switches to provide power to the trim motor
+
+What is the function of the limit switches in the trim signal circuits?
+@@To disengage the nose up and nose down relays in case of limit exceedance
+To energize the trim motor and limit motor's speed  for continuous operation
+To monitor the speed of the trim motor
+
+Which element of the ILS ground system provides vertical guidance to the approaching aircraft?
+@@Glide path transmitter
+Localizer transmitter
+ILS receiver unit
+
+What component onboard the aircraft is responsible for receiving azimuth approach information from the ILS?
+@@Localizer signal receiving antenna
+Glide path signal receiving antenna
+Marker beacon antenna and  receiver
+
+How does the ILS receiver indicate that the aircraft is aligned with the runway centerline?
+@@Both 90Hz and 150Hz signals are received at equal strength
+The ILS receiver ignores frequency differences
+Only 150Hz signal is received
+
+What is the role of the 90Hz and 150Hz signals in the localizer element?
+@@90Hz for left deviation, 150Hz for right deviation
+Both signals overlap perfectly
+150Hz is for altitude, 90Hz is for distance
+
+What frequency range does the glide path transmitter operate within?
+@@329.3 to 335.0 MHz
+108.0 to 112.0 MHz
+335.5 to 340.0 MHz
+
+Which guidance system provides vertical alignment during an approach?
+@@Glide path
+Localizer
+Marker beacons
+
+A full-scale deflection of the glide path pointer corresponds to how many degrees of deviation from the beam centerline?
+@@0.5°
+1°
+1.5°
+
+What is the modulation frequency of the signal transmitted by the outer marker beacon?
+@@400 Hz
+1300 Hz
+3000 Hz
+
+How is the inner marker beacon's signal coded in terms of dots and dashes?
+@@Alternating dots and dashes
+Continuous dashes as outer marker beacon
+Two dashes per second
+
+What primary function does the auto-throttle system perform when an AFCS mode is controlling airspeed?
+@@Controls engine thrust to a specific value
+Controls vertical descent
+Maintains engine temperature
+
+How does the auto-throttle system maintain airspeed when the AFCS mode is controlling the vertical path of the aircraft?
+@@Through thrust control
+By adjusting the aircraft's pitch
+By controlling the flap position
+
+What system provides essential data to the auto-throttle for speed control during flight?
+@@Flight management computer system (FMCS)
+Flight control computer system
+Ground proximity warning system (GPWS)
+
+Over which phases of flight is the auto-throttle system designed to operate?
+@@From take-off to touchdown
+From taxiing to take-off
+During descent and landing
+
+What is the optimal sinking speed during touchdown in an automatic landing system?
+@@1-2 feet per second
+3-4 feet per second
+5-6 feet per second
+
+How is the speed at touchdown typically reduced from the approach margin?
+@@By progressive reduction of engine power
+By deploying flaps and ground spoilers early
+By altering vertical path control
+
+Why is the approach and landing maneuver considered the most difficult for a pilot?
+@@It requires simultaneous control of all three axes
+It requires maximum fuel efficiency
+It involves rapid weather changes
+
+Why is automatic control particularly suitable for approach and landing maneuvers?
+@@Control is required only for a short period
+It minimizes pilot workload over long distances
+It simplifies the takeoff procedure
+
+What is the primary challenge in designing automatic landing systems?
+@@Achieving the highest integrity and reliability
+Minimizing fuel consumption and reducing takeoff time
+Enhancing passenger comfort in all weather conditions
+
+What allows the pilot to take over during critical conditions in an automatic landing system?
+@@Monitoring information on approach and landing progress
+autopilot authority in enhanced flight control system
+Automatic emergency landing procedures
+
+What is the runway visual range (RVR) used for in low visibility operations?
+@@It represents the range at which high-intensity lights can be seen along the runway.
+It shows the distance between runway lights and use multiple colored lights.
+It measures wind speed at the runway threshold and indicates it during denscent.
+
+What must a pilot do if adequate visual reference has not been established by the decision height?
+@@Initiate a go-around maneuver
+Land using autopilot assistance
+Use alternative visual landing aids
+
+Why is the term 'all weather operations' often misunderstood?
+@@It falsely suggests no weather limitations for landing.
+It implies aircraft can land in any wind condition.
+It only applies to Category 3 operations.
+
+What is the key distinction of Category 3C landing operations compared to other categories?
+@@It requires no external visual reference for landing.
+It allows landing in the heaviest rain conditions.
+It requires manual throttle adjustment.
+
+What does the decision height in automatic landing systems signify?
+@@The altitude at which a go-around must be initiated.
+The height of the aircraft at which it levels off.
+The minimum altitude for landing without assistance.
+
+How is the auto-throttle system primarily controlled during operation?
+@@Through the mode control panel (MCP) of the AFCS
+Via pilot input on the yoke
+Through visual indicators on the HUD
+
+In what primary modes does the auto-throttle system operate, as indicated on the mode control panel?
+@@Take-off and speed control mode
+Idle and maximum thrust mode
+Approach and landing mode
+
+What initiates the take-off mode in an auto-throttle system?
+@@Engaging the FMCS to provide N1 limits and targets
+Pressing the TOGA switches on the thrust levers
+Moving the MCP to the OFF position
+
+How does the auto-throttle system maintain control after take-off in case of an engine failure during the initial climb?
+@@It prevents reconnection of throttle systems until reaching 400 feet
+It automatically increases thrust to maximum or engages a backup manual throttle system
+It relies solely on pilot input for thrust control
+
+Which component activates timers to restore power to the servo-actuator systems after lift-off?
+@@The micro switches on the main landing gear struts
+The FMCS monitoring system
+The TOGA switch assembly
+
+How is the target speed set and displayed in speed control mode?
+@@It is displayed as 'MCP SPD' on the MCP
+It is calculated by the pilot manually
+It is provided solely by the air data computers
+
+What happens to the thrust levers when the auto-throttle system is in the descent phase under V NAV control?
+@@They are retarded to idle at a nominal rate of two degrees/second
+They advance automatically to maintain altitude
+They are fully retracted immediately when maximum  thrust is reached
+
+What determines the approach gain of the auto-throttle system?
+@@Glide slope capture or radio altitude
+Pilot's input on the throttle
+Engine performance parameters
+
+What occurs when the TOGA switch is initially engaged in go-around mode?
+@@The throttles advance to a predicted reduced go-around thrust angle
+The aircraft enters a descent mode and the engines shut down completely
+The pitch and roll channel are  disengaged
+
+How does the go-around mode interact with the AFCS during activation?
+@@It generates a pitch-up command for climb attitude
+It disables all automatic controls
+It adjusts the thrust levers to idle to maintain the current altitude
+
+What is a potential consequence of a safety device set to a compromise during automatic landing?
+@@Height loss under 'runaway conditions'
+Increased fuel efficiency
+Improved passenger comfort
+
+Which of the following best describes the term "fail-soft"?
+@@A system that withstands a failure without endangering safety
+A system that completely shuts down to save power
+A system that requires pilot intervention
+
+How does a "multiplex" system differ from a "simplex" system?
+@@It includes two or more independently functioning systems
+It operates without any redundancy
+It requires only one system to function
+
+What happens in a "triplex" system if one of the systems fails?
+@@The remaining systems continue to control the aircraft
+The aircraft enters a safe mode with operational limits
+Control is handed over to the pilot
+
+Which term refers to a system comprising two systems in parallel with separate power supplies?
+@@Duplicate-monitored
+Dual-dual
+Fail-soft
+
+What is the function of a "comparison monitor" or comparator?
+@@To operate on data from comparable stages in multiple systems
+To control the overall system and monitor pilot inputs
+To enhance system redundancy to minimize risks
+
+What does 'LAND 2' status indicate regarding the flight control systems during an automatic landing?
+@@Dual redundancy of engaged systems
+Single point of failure
+No redundancy present
+
+What command does the auto-throttle system receive approximately 5 feet gear altitude before touchdown?
+@@Throttle retard command signal
+Full thrust command signal and flaps extension command
+Idle thrust command signal
+
+Auto-throttle system is designed to operate primarily in conjunction with an AFCS to maintain?
+@@An aircraft's speed and vertical path.
+An aircraft's heading and vertical path.
+An aircraft's speed and heading.
+
+What is sequence to achieve a safe landing?
+@@Contact with ground, Landing flare and Actual landing
+Landing flare, Contact with ground and Actual landing.
+Landing flare, Actual landing and Contact with ground.
+
+What is the most difficult one demanded of the pilot?
+@@The approach and landing maneuver.
+The take off and landing maneuver.
+The approach and take off maneuver.
+
+Weather minima are specified by the national licensing authorities
+@@For various types of aircraft, and for various airports.
+For various types of aircraft, and for various airlines.
+For various airports, and for various airlines.
+
+What is decision heigh?
+@@the wheel height above the runway threshold by which a go-round must be initiated by the pilot
+the altitude by which a decent must be initiated
+the altitude by which an approach must be initiated
+
+Which category do not require a minima of decision height?
+@@Category 3.
+Category 2.
+Category 1.
+
+What are basic operation mode of Auto-throttle system?
+@@Take-off and Speed control mode.
+Heading select and Speed control mode.
+Take-off and Heading select mode.
+
+What is alternate terms of fail-soft?
+@@Fail - passive.
+Fail active and fail survival.
+Fail - operational.
+
+What is alternate terms of fail-operational?
+@@Fail active and fail survival.
+Fail - passive.
+Non-redundant
+
+Which system does an auto-throttle system operate primarily in conjunction with?
+@@AFCS and FMCS.
+ILS and FMCS.
+AFCS and ILS.
+
+Auto-throttle maintain a specific value of thrust, in terms of
+@@Either rotational speed (N1) or engine pressure ratio (EPR).
+Either exhaust temperate or engine pressure ratio (EPR).
+Either rotational speed (N1) or exhaust temperate.
+
+Auto-throttle maintain?
+@@A specific value of thrust or a target airspeed.
+A specific value of thrust or a target altitude.
+A specific value of thrust or a target heading.
+
+When does the pilot may continue to descend for landing?
+@@The traffic controller advises that RVR is above the specified minimum.
+The traffic controller advises that RVR is below the specified minimum.
+The traffic controller advises that RVR is above decision heigh.
+
+If vertical navigation (V-NAV) control is selected for AFCS operation, the speed target is
+@@Provided by the flight management computer.
+Set on the Mode Control Panel of the AFCS.
+Provided by the AFCS.
+
+What is fail-operational automatic landing system?
+@@A system in which one failure (sometimes more) can occur, but leaves the overall system still functioning, and without causing degradation of performance.
+A system allows the pilot to assume control after a failure with no significant deviation, but the landing is not completed automatically.
+A system uses a primary fail-passive system and secondary guidance to allow the pilot to manually land after primary failure.
+
+LAND 2' status is involve
+@@Fail passive operation.
+Fail operational.
+Fail safe operation.
+
+What does a radar beacon transponder provide to ATC?
+@@Identification and location of an aircraft
+Weather data and Engine status
+Aircraft status and Identification code
+
+What additional data does a transponder provide if equipped with an altitude encoder?
+@@Pressure altitude
+True altitude
+GPS coordinates
+
+How many discrete octal codes can be selected on a transponder?
+@@4096
+1024
+2048
+
+What frequency does the ground station use to interrogate the transponder?
+@@1030 MHz
+1090 MHz
+121.5 MHz
+
+What frequency does the transponder use to reply to ATC?
+@@1090 MHz
+1030 MHz
+406 MHz
+
+What is the function of the IDENT button on the transponder?
+@@Highlights the aircraft's target symbol on radar
+Sends emergency signal (Code 7700) to the ATC
+Activates voice communication and automatically send the aircraft's identification code
+
+What must be selected on the transponder to transmit altitude data?
+@@ALT or Mode C
+STBY
+IDENT
+
+From where does the transponder obtain pressure altitude data?
+@@Altitude encoder
+Pitot-static system
+GPS receiver
+
+What type of radar uses reflected radio waves to detect aircraft?
+@@Primary Surveillance Radar (PSR)
+Secondary Surveillance Radar (SSR)
+Doppler Radar
+
+What type of radar uses transponder replies to determine aircraft position and altitude?
+@@Secondary Surveillance Radar (SSR)
+Primary Surveillance Radar (PSR)
+Weather Radar
+
+What does ADS-B stand for?
+@@Automatic Dependent Surveillance Broadcast
+Advanced Data Surveillance Beacon
+Aircraft Data Signal Broadcast
+
+What are the two segments of ADS-B?
+@@ADS-B OUT and ADS-B IN
+ADS-B A and ADS-B B
+ADS-B 1 and ADS-B 2
+
+What does ADS-B OUT transmit?
+@@Position
+altitude
+velocity
+
+What is the purpose of ADS-B IN?
+@@Receives data from other aircraft and ground stations
+Transmits engine status
+Controls autopilot
+
+What frequency is used by the 1090ES protocol in ADS-B?
+@@1090 MHz
+978 MHz
+1030 MHz
+
+What device is used for ADS-B broadcasts at 978 MHz?
+@@Universal Access Transceiver (UAT)
+Mode C transponder
+VHF radio
+
+What type of antenna is used for ADS-B broadcasts?
+@@Omni-directional antenna
+Directional antenna
+Satellite dish
+
+What system does ADS-B rely on for positioning data?
+@@GPS
+INS
+VOR
+
+What is one major benefit of ADS-B over traditional radar?
+@@More accurate and real-time data
+Lower cost of aircraft
+Eliminates need for transponders
+
+What does ADS-B improve in air traffic control?
+@@Collision avoidance and traffic separation
+Fuel efficiency
+Cabin pressure control
+
+What does ADS-B IN provide that TCAS does not?
+@@Runway incursion alerts
+Engine performance data
+Cabin temperature
+
+What is TIS-B in the context of ADS-B?
+@@Traffic Information Services-Broadcast
+Transponder Identification Signal
+Terrain Information System
+
+What is FIS-B in ADS-B systems?
+@@Flight Information Services-Broadcast
+Fuel Indicator System
+Flight Instrument Synchronizer
+
+What kind of data does FIS-B provide?
+@@Weather
+ATIS
+NOTAMs
+
+What is the main advantage of 978 MHz UAT for general aviation?
+@@Broadband capability
+Higher power output
+Compatibility with HF radios
+
+What does ADS-B OUT combine with flight status information?
+@@GPS positioning data
+VOR signals
+INS data
+
+What does ADS-B IN allow pilots to see?
+@@Other aircraft and traffic data
+Fuel consumption
+Cabin pressure
+
+What is a key feature of ADS-B for surface operations?
+@@Runway incursion alerts
+Taxi speed control
+Gate assignment
+
+What is the role of ground stations in ADS-B?
+@@Share aircraft data across the network
+Control aircraft speed
+Monitor fuel levels
+
+What is the benefit of ADS-B in remote areas?
+@@Coverage without radar
+Faster engine start
+Better cabin lighting
+
+What does 1090ES stand for?
+@@1090 MHz Extended Squitter
+1090 MHz Emergency Signal
+1090 MHz Electronic Surveillance
+
+What is the main use of ADS-B in Class A airspace?
+@@Collision avoidance and surveillance
+Weather monitoring
+Fuel tracking
+
+What does ADS-B IN enhance compared to TCAS?
+@@Situational awareness
+Engine diagnostics
+Cabin temperature control
+
+What is required for ADS-B OUT to function?
+@@GPS receiver
+VOR receiver
+HF radio
+
+What does ADS-B allow in terms of aircraft separation?
+@@Closer and safer spacing
+Elimination of ATC
+Manual spacing
+
+What is one of the reasons that ADS-B is replacing radar?
+@@Lower infrastructure cost
+Higher fuel efficiency
+Better cabin comfort
+
+What does ADS-B broadcast include besides position?
+@@Altitude
+velocity
+and time
+
+What is the role of the ADS-B ground network?
+@@Distribute aircraft data to ATC
+Control aircraft hydraulics
+Monitor cabin pressure

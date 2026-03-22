@@ -2387,7 +2387,6 @@ Where is the location of the Seat Data Box (SDB) on the seat group.(A, B2)
 On the last column in seat group
 @@Changes with the seat manufacturer and the seat model
 Always on the first seat in seat group
-DMC-B787-A-44-26-10-00A-520A-A
 
 Scheduled maintenance tasks (SMT) show when: (B2)
 Time limit occurs in a system

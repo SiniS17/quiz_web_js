@@ -1,0 +1,119 @@
+Which storage medium was initially used for aircraft information?
+@@Paper documents.
+Digital memory.
+Microfilm.
+
+What does EFB stand for in aviation?
+@@Electronic Flight Bag.
+Emergency Flight Backup.
+External Flight Board.
+
+What type of device can flight attendants use to access their manuals?
+@@Tablet devices.
+Desktop computers.
+Microfiche readers.
+
+What is a major disadvantage of using microfilm for storing information?
+@@Special equipment is needed to view it.
+Capacity too small
+Microfilmi is expensive
+
+How do Electronic Flight Bags (EFBs) improve efficiency for flight crews?
+@@They eliminate the need for printed materials.
+Documents are automatically updated via the ATC system.
+Helps pilots easily access data to correct errors in flight
+
+How are the databases of the Electronic Flight Bag updated?
+@@Through a data loader and wireless connections.
+Only manually.
+Imported from floppy disks supplied by the aircraft manufacturer
+
+What role do MMRs play in the Electronic Flight Bag system?
+@@They provide precise aircraft position information.
+Provide information about luggage, passengers and data for entertainment purposes.
+They display cabin information.
+
+Why are laptops particularly useful for technicians accessing maintenance information on aircraft?
+@@They can be used anywhere on the aircraft during maintenance.
+They provide internet access on flights.
+They automatically diagnose all issues.
+
+What is one of the main advantages of using electronic manuals over paper ones in maintenance?
+@@Faster access to desired information.
+Can to reset the system during flight
+Printed documents often lack or lose information.
+
+What is the primary function of the Network Server System (NSS) in Airbus A380?
+@@To host On-board Information System software.
+To replace all manual operations.
+To serve as a backup power source.
+
+What was a major drawback of traditional voice communication systems like HF and VHF AM radio for air traffic services?
+@@They suffered from atmospheric interference, resulting in poor communication quality.
+They were too expensive to maintain.
+They did not allow voice and data transmission.
+
+What method is used by the ATSU for monitoring the Air Traffic Information Management System?
+@@Through software applications for real-time data management.
+By using paper records only.
+By relying solely on visual inspections.
+
+What is a primary function of the Air Traffic Service Unit (ATSU) in the ATIMS?
+@@To manage data for air traffic control communication.
+To control cabin pressure systems.
+To monitor passenger comfort levels.
+
+When entering oceanic airspace, how does the ATSU’s Oceanic Clearance (OC) application contribute to flight safety
+@@By automatically generating oceanic clearance requests, it ensures coordinated and safe passage through oceanic airspace
+By manually requiring pilot input for oceanic clearance
+By monitoring weather conditions along the oceanic route
+
+How does the ATSU facilitate data transfer between the ATC ground station and the airplane, and what advantage does this system provide over traditional voice communications?
+@@It uses the FANS A+ datalink applications, which enables secure, prioritized communication without voice interference
+It uses SATCOM to provide backup to voice-based communication
+It connects to the passenger's devices for easier communication with ground control
+
+How does the MCDU enhance communication with airline operations?
+@@It allows for editing and preparing messages before sending.
+It only displays incoming messages.
+It replaces all voice communications.
+
+What function do the wireless units in the cabin provide?
+@@They offer a wireless connection for passengers' portable electronic devices
+They allow communication between the cockpit and cabin crew.
+They serve as backup communication for the aircraft's main systems.
+
+How do aircraft information systems facilitate updates compared to traditional paper methods?
+@@They allow electronic erasure and rewriting of data.
+They require manual printing and distribution of new pages.
+They only use microfilm updates.
+
+What technology allows the Electronic Flight Bag to pinpoint an aircraft's position?
+@@Multi-Mode Receivers (MMRs) using GPS.
+Using GPS and internet on the plane
+Automatic location thanks to gyroscope
+
+What is the primary function of the 777 EFB for flight crews?
+@@To provide flight crews with access to important in-flight information.
+Used to update navigation data during flight
+The EFB monitors and alerts for level 1 system errors.
+
+What function does the Air Traffic Control (ATC) system serve in the Airbus A380?
+@@It transfers communication, navigation, and surveillance data between the AC and ATC services.
+It stores maintenance data for use after landing and takeoff
+It provides in-flight entertainment and internet services to passengers
+
+How do the onboard information systems (OIS) improve operational efficiency for flight crews?
+@@By providing quick access to critical data and applications.
+By requiring additional manual documentation.
+By using outdated communication methods.
+
+What is the significance of the unidirectional gate in the avionics domain?
+@@It prevents malware from entering the avionics domain.
+It allows all data to flow freely between domains.
+It only provides data for maintenance checks.
+
+What impact does the communication & cabin domain have on passenger services?
+@@It provides internet and email access for passengers.
+It limits passenger access to entertainment.
+It primarily focuses on maintenance data.

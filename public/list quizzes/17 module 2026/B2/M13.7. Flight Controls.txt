@@ -1,0 +1,374 @@
+What are the three primary flight controls used to maneuver an aircraft?
+@@Elevator, aileron, and rudder.
+Flaps, slats, and spoilers.
+Trim tabs, servo tabs, and balance tabs.
+
+Which control surface moves the aircraft up and down (pitch)?
+@@Elevator.
+Rudder.
+Aileron.
+
+What is the function of the ailerons during flight?
+@@To control the roll (bank) of the aircraft.
+To control the pitch (climb and dive).
+To control the yaw (left and right turn).
+
+What does the rudder control in flight?
+@@Yaw (left and right movement).
+Roll (banking movement).
+Pitch (up and down movement).
+
+How does the pilot control the elevator in small airplanes?
+@@By pulling or pushing the control yoke or stick.
+By pressing the rudder pedals.
+By adjusting the ailerons.
+
+Which primary flight control surface is typically controlled by the pilot's foot pedals?
+@@Rudder.
+Elevator.
+Aileron.
+
+What secondary control helps in banking an aircraft by reducing lift on one wing?
+@@Spoilers.
+Rudder.
+Elevator.
+
+What is the purpose of trim tabs on an aircraft?
+@@To reduce the need for constant control pressure by the pilot.
+To increase speed.
+To change the direction of the aircraft.
+
+What type of tabs help the pilot move large control surfaces more easily?
+@@Servo tabs.
+Flaps.
+Speed brakes.
+
+What device is used to control the movement of the elevator without needing constant manual pressure from the pilot?
+@@Trim tabs.
+Spoilers.
+Ailerons.
+
+What is the function of servo tabs on large aircraft?
+@@To help move and hold the main control surface in position.
+To increase the speed of the aircraft.
+To decrease drag.
+
+Which control system assists the pilot during takeoff and landing by increasing lift?
+@@Flaps.
+Rudder.
+Spoilers.
+
+What high lift device increases the surface area of the wing during takeoff and landing?
+@@Flaps.
+Rudder.
+Servo tabs.
+
+What are spoilers used for on an aircraft?
+@@To assist in roll control and reduce lift.
+To increase lift during takeoff.
+To steer the aircraft left and right.
+
+How are the primary flight controls in a modern airplane typically operated from the flight deck?
+@@By a control stick, yoke, or joystick.
+By a touch screen display.
+By voice commands.
+
+What is the function of the aileron during a left bank maneuver?
+@@The left aileron rises, and the right aileron descends.
+The left aileron descends, and the right aileron rises.
+Both ailerons rise together.
+
+Why do some aircraft use multiple ailerons, including inboard and outboard ailerons?
+@@To enhance lateral control during high-speed flight.
+To increase longitudinal control.
+To improve takeoff performance.
+
+How does the application of rudder and ailerons create a coordinated turn?
+@@By using the proper proportion of rudder and aileron inputs.
+By only applying rudder input.
+By using spoilers instead of rudder.
+
+How do secondary flight controls enhance the operation of an aircraft during landing?
+@@By providing aerodynamic braking.
+By reducing drag.
+By increasing engine thrust.
+
+What happens to the flight spoilers on the wing when the aileron is deflected upward?
+@@The spoilers rise on the same side as the aileron.
+The spoilers retract into the wing.
+The spoilers rise on the opposite side of the aileron.
+
+How do trim tabs assist in controlling an aircraft?
+@@By reducing the physical pressure required on the primary flight controls.
+By increasing the speed of the aircraft.
+By changing the airflow over the wings.
+
+What is the primary function of servo tabs in large aircraft?
+@@To aid in moving the main control surface and holding it in position.
+To reduce the aircraft’s weight.
+To increase aerodynamic drag.
+
+What is the advantage of using active load control systems?
+@@They reduce the focus of loads on the wings during maneuvers.
+They increase engine performance.
+They improve the overall speed of the aircraft.
+
+How do roll maneuver load alleviation (RMLA) systems work?
+@@By moderating the deflection of outboard ailerons during rolls.
+By increasing the aileron deflection for faster rolls.
+By locking the rudder in place during rolls.
+
+How do high lift devices improve aircraft performance?
+@@By increasing lift during takeoff and landing.
+By reducing the aircraft’s weight.
+By increasing fuel efficiency during cruise.
+
+How do slats and slots increase lift at low airspeeds?
+@@By allowing air to flow between the slat and the wing leading edge.
+By retracting into the wing.
+By increasing the size of the trailing edge.
+
+How do speed brakes assist in landing an aircraft?
+@@By decreasing lift and increasing drag.
+By increasing thrust.
+By controlling the pitch of the aircraft.
+
+What system provides feedback to the pilot to simulate the control forces felt during flight?
+@@Artificial feel system.
+Secondary flight controls.
+Rudder limiter.
+
+What device prevents large rudder deflections at high speeds?
+@@Rudder limiter.
+Aileron control.
+Elevator trim.
+
+Why is a hydraulic control system necessary in modern aircraft?
+@@To assist the pilot in overcoming aerodynamic forces at high speeds.
+To reduce the overall weight of the aircraft.
+To prevent stalls during flight.
+
+How does a hydromechanical flight control system transmit pilot inputs?
+@@Through servo valves that direct hydraulic fluid to actuators.
+Through electrical signals to hydraulic pumps.
+Through direct mechanical linkage to the control surfaces.
+
+What are balance panels in aircraft control systems used for?
+@@To assist in the movement of control surfaces by using pressure differentials.
+To balance the weight of the aircraft during flight.
+To reduce aerodynamic drag during takeoff.
+
+What role do artificial feel systems play in modern aircraft with hydraulic controls?
+@@They provide feedback to the pilot about the control input.
+They reduce the force needed to control the aircraft.
+They increase the speed of the control surfaces.
+
+How does an artificial feel system simulate the resistance of a mechanical control system?
+@@By using spring-loaded rollers and cams.
+By increasing the hydraulic pressure.
+By reducing the control surface deflection.
+
+What is the primary function of a yaw damper system in large aircraft?
+@@To counter the rolling tendency during flight and stabilize the aircraft.
+To reduce drag and improve fuel efficiency.
+To increase the speed of the aircraft during takeoff.
+
+What is the purpose of Mach trim in high-speed aircraft?
+@@To counteract Mach tuck and maintain level flight.
+To increase the aircraft's speed.
+To improve the efficiency of the engines.
+
+How does Mach trim automatically maintain a level attitude at high speeds?
+@@By trimming the nose up as Mach tuck occurs.
+By increasing the rudder deflection.
+By reducing the aileron deflection.
+
+How do redundant Mach trim systems ensure safety during flight?
+@@By automatically switching to a backup system if the primary system fails.
+By allowing the pilot to manually override the system.
+By reducing the aircraft’s speed during descent.
+
+How do rudder limiters prevent structural damage at high speeds?
+@@By reducing rudder deflection as speed increases.
+By increasing rudder deflection at high speeds.
+By locking the rudder in place during high-speed flight.
+
+Why are gust dampers used in hydraulic power control units?
+@@To protect flight control surfaces from wind damage.
+To lock the control surfaces during flight.
+To reduce drag during takeoff.
+
+How does the stick shaker warning system alert the crew of an impending stall?
+@@By providing a violent shaking motion to the control yoke.
+By triggering an aural warning sound.
+By reducing the aircraft's speed.
+
+What is the function of the stick nudger or pusher in stall warning systems?
+@@To apply a nose-down input to avoid a stall.
+To increase the angle of attack during takeoff.
+To warn the crew of an engine failure.
+
+What is the primary role of angle of attack sensors in stall warning systems?
+@@To measure the angle of the aircraft relative to the airflow.
+To increase the aircraft's speed during descent.
+To reduce drag during turns.
+
+How does a heater in angle of attack sensors enhance safety?
+@@By preventing ice build-up that could affect sensor accuracy.
+By increasing airflow over the sensor.
+By reducing the weight of the sensor.
+
+What triggers the unsafe takeoff configuration warning?
+@@When the throttle is advanced and a problem is detected.
+When the aircraft exceeds a critical speed.
+When the landing gear is not retracted.
+
+What happens when the landing gear is not locked in the down position during landing?
+@@A landing configuration warning is given.
+The aircraft's speed is reduced.
+The rudder is locked in place.
+
+How do fly-by-wire systems improve aircraft performance?
+@@By reducing the weight of the control system and providing more precise control.
+By increasing the number of manual controls for the pilot.
+By reducing fuel consumption during flight.
+
+What is the function of sidestick controllers in a fly-by-wire system?
+@@To convert pilot inputs into electrical signals.
+To manually control the ailerons and elevators.
+To operate the hydraulic pumps.
+
+How do fly-by-wire systems help prevent dangerous maneuvers in modern aircraft?
+@@By limiting control inputs that could lead to stalling or overspeed conditions.
+By automatically increasing engine thrust during critical phases of flight.
+By reducing the weight of the aircraft.
+
+How do fly-by-wire systems contribute to increased safety in unstable military aircraft?
+@@By automatically adjusting control surfaces to maintain stability.
+By reducing the speed of the aircraft during high-speed maneuvers.
+By increasing the roll rate for faster turns.
+
+How do fly-by-wire systems adjust flight control movements for changing aerodynamic conditions?
+@@By using computers to ensure consistent aircraft response.
+By reducing the pilot's control input.
+By limiting the aircraft’s speed during high-altitude flights.
+
+How does fly-by-wire redundancy ensure safety in flight control systems?
+@@By using multiple independent computers and hydraulic actuators to perform the same functions.
+By allowing the pilot to manually control the aircraft in case of system failure.
+By using electrical signals to bypass hydraulic controls.
+
+How does the solenoid valve affect the servo control in active mode?
+@@It lets in high-pressure flow to activate the system.
+It closes the return line to reduce system pressure.
+It opens the pressure line to increase actuator speed.
+
+What happens to the servo control system in the damping mode?
+@@The actuator chambers are interconnected through a damping orifice.
+The hydraulic pressure is increased to speed up the control response.
+The electrical signals are bypassed to reduce system load.
+
+What role does the pressure line closing valve play in fly-by-wire hydraulic systems?
+@@It isolates the servo control from the hydraulic system in case of failure.
+It increases the hydraulic pressure for faster control response.
+It allows hydraulic fluid to bypass the control surfaces.
+
+How does fly-by-optics improve data transfer in flight control systems?
+@@By allowing faster data transfer and reducing electrical interference.
+By increasing the number of manual controls for the pilot.
+By reducing the number of hydraulic actuators needed.
+
+What is one benefit of fly-by-wireless systems compared to fly-by-wire?
+@@Reduced weight and maintenance requirements.
+Increased manual control for the pilot.
+Improved fuel efficiency during takeoff.
+
+What are gust locks used for in a mechanical flight control system?
+@@To prevent external forces from moving the control surfaces while the aircraft is parked.
+To reduce the weight of the aircraft.
+To control the movement of flaps during landing.
+
+Why do control cables require tension regulators?
+@@To maintain proper cable tension during temperature changes.
+To increase the strength of the cables.
+To reduce the number of cables needed.
+
+How do push-pull rods differ from control cables in their function?
+@@Push-pull rods transmit force in both directions, while cables only transmit force under tension.
+Push-pull rods are used only for landing gear, while cables control flight surfaces.
+Push-pull rods are heavier but stronger than cables.
+
+How do bellcranks change the direction of movement in a control system?
+@@By receiving input from one direction and providing output in another direction.
+By reducing the force needed to move control surfaces.
+By locking the control surfaces in place.
+
+What type of motion does a torque tube apply in a flight control system?
+@@Torsional (rotating) motion.
+Longitudinal motion.
+Vertical motion.
+
+What is the primary reason cables are widely used in mechanical flight control systems?
+@@Structural deflections do not affect their operation
+They are less expensive than push-pull rods
+They are easy to disconnect during maintenance
+
+What component prevents damage to control surfaces while the aircraft is parked?
+@@Gust lock
+Bell crank
+Control snubber
+
+In which type of aircraft is a purely mechanical flight control system most commonly used today?
+@@Smaller aircraft
+Wide-body airliners
+Supersonic jets
+
+Which of the following is a mechanical control component used to change direction of force?
+@@Bell crank
+Gust lock
+Cable guide
+
+Which of the following components can transfer motion without being affected by structure bending?
+@@Control cables
+Torque tubes
+Push-pull rods
+
+What is the main function of torque tubes in mechanical flight control systems?
+@@Transmit rotational movement
+Prevent cable over-tension
+Lock the surface during gusts
+
+What type of load are control cables designed to resist effectively?
+@@Tensile
+Shear
+Compressive
+
+What is the main function of the collective pitch control in a helicopter?
+@@It varies the pitch of all main rotor blades equally
+It changes blade pitch individually based on rotor position
+It rotates the tail rotor blades to change yaw
+
+What happens to rotor RPM when collective pitch is increased?
+@@RPM decreases
+RPM remains unchanged
+RPM increases
+
+What must be adjusted to maintain constant rotor RPM when pitch increases?
+@@Throttle or power input
+Blade length
+Rotor diameter
+
+What is the primary effect of the cyclic pitch control in a helicopter?
+@@Tilts the rotor disc to control horizontal movement
+Changes collective pitch equally on all blades
+Adjusts tail rotor thrust for yaw control
+
+How does the cyclic pitch control move the helicopter forward?
+@@Tilts rotor disc forward
+Tilts rotor disc backward
+Tilts rotor disc laterally
+
+What causes the rotor disc to tilt in the desired direction?
+@@Gyroscopic precession and blade pitch variation
+Tail rotor torque
+Anti-torque pedals

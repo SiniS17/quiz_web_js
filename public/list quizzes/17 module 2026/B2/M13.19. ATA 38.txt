@@ -1,0 +1,119 @@
+Which aspect of the water system involves the removal of waste water?
+@@Draining
+Distribution
+Supply
+
+Where is potable water stored in an aircraft?
+@@Below the cabin floor
+In the aft cabin
+In the overhead compartments
+
+How are water servicing panels usually protected against icing?
+@@By heating them
+By painting them black
+By insulating them with foam
+
+How often should the water be drained and fresh water added to the system?
+@@Every 3 days
+Every month
+Every week
+
+What type of toilet system is commonly found in large passenger and freight aircraft?
+@@Vacuum flush system
+Electric motor driven flush system
+Hydraulic flush system
+
+Where is the waste tank rinse nozzle fitted?
+@@To the top of the tank
+On the side of the tank
+On the bottom of the tank
+
+What are the primary components of a water system in an aircraft?
+@@Supply, distribution, servicing, and draining
+Temperature control and fuel monitoring
+Air conditioning and heating
+
+Why are corrosion aspects important in water/waste systems?
+@@To prevent damage and maintain the integrity of the system
+To enhance the appearance of the aircraft
+To increase fuel efficiency
+
+What system typically pressurizes the potable water tanks in an aircraft?
+@@Pneumatic system
+Electrical system
+Hydraulic system
+
+How is water pushed through distribution lines to lavatories and galleys?
+@@By pressure inside the tanks
+By gravity
+By manual pumping
+
+What is available on the ground service panel for the potable water system?
+@@A fitting for pressurizing the tank with an external air source
+A temperature control knob
+A fuel gauge
+
+What is used to pressurize the potable water tanks on some aircraft instead of the pneumatic sy stem?
+@@An electrically powered compressor
+A manual pump
+A hydraulic compressor
+
+Where are in-line electric element heaters typically installed in the water system?
+@@upstream of all hot water faucets
+Downstream of all cold water faucets
+Inside the water tanks
+
+What connects the water supply tank(s) to the lavatory and galley sink faucets?
+@@Reinforced plastic hoses
+Metal hoses
+Rubber hoses
+
+What protection do electric heating elements in the water system have?
+@@Overheat protection
+Waterproof coating
+Fireproof casing
+
+What must technicians often connect or disconnect in modular units like galleys and lavatories?
+@@Water distribution lines
+Electrical wiring
+Control cables
+
+Why is it necessary to completely drain the water system before disinfecting it?
+@@To prevent contamination and ensure proper disinfection
+To improve fuel efficiency
+To reduce the aircraft's weight
+
+What component activates the timer in a toilet flushing system?
+@@The toilet flush handle
+The water heater
+The cabin pressure gauge
+
+How long is the typical flush time in an aircraft toilet flushing system?
+@@8-12 seconds
+15-20 seconds
+5-7 seconds
+
+How are modern vacuum toilets controlled?
+@@By a flush control unit mounted close to the flush valve
+By remote control
+By the cockpit crew
+
+Where is waste deposited in a vacuum flush system?
+@@In a waste holding tank
+In a separate container inside the toilet bowl
+In a  holding tank under each toilet
+
+How long is potable water injected to rinse the toilet when flushed?
+@@For 1 second
+For 5 seconds
+For 10 seconds
+
+How does the water enter the waste tank for cleaning?
+@@Through spray nozzles
+Through a manual pump
+Through an inlet valve
+
+How does the waste from the toilet get into the tank?
+@@Using suction
+By gravity
+By pressing a button in the cockpit

@@ -1,0 +1,2415 @@
+What is another term for Electronic Instrument Systems in aircraft?
+@@Glass cockpits
+Airspeed indicators
+Electro-mechanical systems
+
+What do early flight instruments use to drive pointer dials?
+@@Mechanical or electro-mechanical mechanisms
+Digital mechanisms or Digital data streams
+Air data computers or electronic displays
+
+What is the purpose of the airspeed indicator?
+@@To indicate the aircraft's speed
+To show the aircraft's direction
+To display the aircraft's altitude
+
+What does AIMS stand for in the Boeing 777?
+@@Airplane Information Management System
+Automated Information Management System
+Aircraft Information Management System
+
+Which of the following instruments shows the aircraft’s altitude?
+@@Altimeter
+Attitude Indicator
+Heading Indicator
+
+Where is the Multi-Function Display (MFD) typically mounted?
+@@In the center instrument panel
+Near the aircraft’s control stick
+In front of the pilot's seat
+
+What role does the pitot tube play in an analog airspeed indicator?
+@@It provides air pressure to expand a bellows
+It transmits digital signals to the aircraft data bus
+It converts digital data to analog signals
+
+What is a key difference between analog and digital airspeed indicators?
+@@Digital systems use air data computers to convert analog information to digital
+Analog systems use air data computers, while digital systems do not
+Analog systems display airspeed in numbers, while Digital systems directly display mechanical air pressure
+
+What does the vertical speed indicator display?
+@@The rate of ascent or descent
+The lateral guidance for landing
+The rate of turn in the roll axis
+
+What is one of the main benefits of Electronic Instrument Systems (EIS) in aircraft?
+@@They combine multiple functions into one display
+They provide only basic flight information
+They use more electrical power and rely on mechanical systems
+
+What additional information can the Navigation Display (ND) overlay besides navigation guidance?
+@@Weather radar and digital maps
+Engine data and barometric altitude
+Attitude and vertical speed
+
+Which of the following is a Level 3 warning in the Airbus ECAM system?
+@@An overspeed, fire, or stall condition with a repetitive chime and flashing red light
+A system degradation without immediate safety concerns
+A system failure that results in a single  chime and  a steady amber light
+
+What is the primary function of the BITE computing function in AIMS?
+@@To monitor aircraft systems
+To manage flight navigation
+To display engine parameters
+
+How many LCD displays might a commercial transport aircraft have in a glass cockpit configuration?
+@@Five or more
+None, it uses analog instruments
+Two or three
+
+What is the role of the Multi-Function Display (MFD) in a modern cockpit?
+@@To display weather radar and act as a backup for flight or navigation data
+To replace the EADI and EHSI permanently
+To display analog flight instruments and weather data
+
+How does AIMS integrate information from aircraft systems?
+@@Using approximately 130 LRUs
+Through analog signals only
+Through manual inputs only
+
+Which display mode is typically used for inboard displays on the Boeing 777?
+@@Navigation (NAV) or Multi-Function Display (MFD)
+Engine Indication and Crew Alerting System (EICAS)
+Primary Flight Display (PFD)
+
+What does the EFIS control panel select for the Primary Flight Display (PFD)?
+@@Barometric altitude reference, flight path vector, and decision height
+Thrust and engine power; engine information
+Aircraft heading and landing gear position
+
+What happens when low oil pressure is detected by the EICAS system?
+@@It sends an aural alert and shows the oil pressure page on a lower display
+It triggers a maintenance request without alerting the crew
+It sends an aural alert and shuts down the affected engine automatically
+
+What do the Captain and First Officer display switching panels control?
+@@Display format selection
+Engine performance
+Navigation inputs
+
+In the event of a failure, what information will revert to the inboard display unit?
+@@Altitude, attitude, and airspeed
+Navigation data and Weather information
+Attitude and Engine status
+
+What instrument is coupled to an Automatic Direction Finder (ADF) to aid in navigation?
+@@Radio Magnetic Indicator
+Vertical speed indicator
+Course Deviation Indicator
+
+Why do pilots and co-pilots have independent Symbol Generators for their displays?
+@@To allow independent display control and increase system redundancy
+To ensure that they both see the same data at all times
+To synchronize their display formats automatically in all situations.
+
+How does the PFD increase situational awareness for the crew?
+@@By integrating multiple types of data and using color changes for alerts
+By displaying only weather radar and navigation data
+By reducing the number of selectable flight modes in particular phases of flight
+
+Which systems can be monitored via synoptic displays on the Multi-Function Display (MFD)?
+@@Fuel, electrical, hydraulic, and flight control systems
+Passenger seating arrangements and emergency exit status
+Engine performance and landing gear position only
+
+How does the Instrument Landing System (ILS) help during an approach?
+@@By driving the glideslope and localizer needles
+By providing rate of turn information
+By indicating the altitude of the aircraft
+
+How is analog information processed in a digital system before reaching the airspeed indicator?
+@@Pitot air pressure is converted to digital data by the air data computer
+The pointer dial converts digital data back to analog signals
+The airspeed indicator directly processes the air pressure
+
+What is the final step in the process for digital airspeed indicators that have analog displays?
+@@The digital data is converted back to analog signals
+The digital stream is sent to the pitot tube
+The airspeed is displayed only in numbers
+
+What additional information can the HSI/EHSI provide besides heading?
+@@Track angle error, cross-track deviation, and distance to destination
+Pitch commands,  roll commands and Weather conditions
+Pitch commands,  roll commands, flight speed and altitude
+
+What is a key advantage of Liquid Crystal Display (LCD) technology over Cathode Ray Tube (CRT) technology?
+@@CDs are lighter and generate less heat
+CDs require more volume in the cockpit
+LCDs consume more electrical power
+
+How does the PFD increase situational awareness for the crew?
+@@By integrating multiple types of data and using color changes for alerts
+By displaying only weather radar and navigation data
+By reducing the number of selectable flight modes in particular phases of flight
+
+If the attitude indicator fails during an instrument flight, which other instrument could provide indirect information about the aircraft’s pitch and bank angles?
+@@Turn-and-bank indicator
+Vertical speed indicator
+Airspeed indicator
+
+During an ILS approach, the aircraft is properly aligned with the runway centerline but consistently below the glideslope. Which of the following is the most likely cause?
+@@Incorrect adjustment or malfunction of the glideslope receiver
+Incorrect interpretation of the Course Deviation Indicator (CDI)
+A malfunction in the Radio Magnetic Indicator (RMI)
+
+When using VOR navigation for en route flight, the Course Deviation Indicator (CDI) shows full deflection to the right, but the aircraft’s heading is correctly aligned with the desired radial. What could be the cause of this discrepancy?
+@@A malfunction in the VOR receiver or CDI
+The aircraft has not yet reached the VOR station and is off course
+Incorrect setting of the altimeter causing altitude errors
+
+How could the failure of the Automatic Direction Finder (ADF) impact the effectiveness of the Radio Magnetic Indicator (RMI) in relation to non-directional beacons (NDBs)?
+@@The RMI will lose the ability to display bearings to NDBs
+The RMI will still function properly using VOR signals
+The aircraft's heading information will become unreliable
+
+In an analog airspeed indicator, what is the primary mechanical component responsible for converting pitot tube pressure into dial movement?
+@@Bellows
+Air data computer
+Diaphragm
+
+When using a digital airspeed indicator, what is the role of the air data computer in the process?
+@@It converts pitot air pressure into a digital signal for further processing.
+It directly drives the dial based on air pressure changes.
+It maintains the mechanical operation of the pointer dial.
+
+Which of the following systems serves as the medium for transferring digital data from the air data computer to the airspeed indicator in a modern aircraft?
+@@Aircraft data bus
+Gyroscopic system
+Pressure-sensing tube
+
+What was the primary advantage of the Electronic Instrument Systems (EIS) introduced in the 1970s compared to mechanical or electro-mechanical instruments?
+@@Enhanced situational awareness through combined flight and navigation displays
+Higher reliance on Cathode Ray Tube (CRT) technology
+Simplified mechanical operations, increased weight and size of instruments
+
+Which aircraft first implemented an Electronic Instrument System (EIS), and what type of display technology was used?
+@@McDonnell Douglas MD-80; Cathode Ray Tube (CRT)
+Airbus A300; Light-Emitting Diode (LED)
+Boeing 747; Liquid Crystal Display (LCD)
+
+What significant advantage did Liquid Crystal Display (LCD) technology have over Cathode Ray Tube (CRT) displays in the context of aircraft cockpits?
+@@Reduced weight, volume, and electrical power consumption
+Improved mechanical reliability and easier integration with analog instruments
+Increased cockpit heat generation for improved thermal stability
+
+What was the main reason early Electronic Instrument System (EIS) displays imitated analog formats?
+@@To facilitate pilot training during the transition from analog to digital systems
+To preserve traditional instrument design for ease of manufacturing
+To maintain compatibility with mechanical components in aircraft
+
+How do Electronic Attitude Direction Indicators (EADI) differ from analog ADIs in their functionality?
+@@EADIs integrate pitch, roll, and bank steering commands from the Flight Director
+EADIs display artificial horizon data without integrating navigation commands
+EADIs are limited to displaying heading and attitude information only
+
+Which of the following systems provides inputs to the Symbol Generators in an Electronic Instrument System (EIS)?
+@@The crew’s Display Control Panel and the Flight Director System
+The Multi-Function Display and Inertial Navigation System (INS)
+Only the Air Data Systems and Weather Radar
+
+What is the primary function of the Multi-Function Display (MFD) in the Electronic Instrument System?
+@@To display weather radar information and function as a backup for the EADI and EHSI
+To manage fuel efficiency, monitor engine performance and display heading
+To serve as a backup system for the crew’s control panel and display altitude during descent
+
+In the Boeing 777's electronic flight instrument system, which display completely replaces the EADI to provide all critical flight information?
+@@Primary Flight Display (PFD)
+Engine Indication and Crew Alerting System (EICAS)
+Multi-Function Display (MFD)
+
+In the Boeing 777’s EFIS, which type of information is typically overlaid on the Navigation Display (ND)?
+@@Weather information from onboard radar or ground-based sensors
+Traffic alert and collision avoidance information from TCAS
+Flight mode data from the Flight Director
+
+In the Airbus ECAM system, what type of warning corresponds to a fire or stall condition?
+@@Level 3: Repetitive chime with red flashing light
+Level 2: Single chime and steady amber light
+Level 1: Single  chime and Amber light
+
+What is the base of the decimal numbering system?
+@@Base-10
+Base-8
+Base-2
+
+What are the two symbols used in the binary number system?
+@@0 and 1
+1 and 2
+L and H
+
+What is the largest value represented in the binary number system?
+@@1
+0
+Not determined
+
+Which of the following is NOT a hexadecimal digit?
+@@G
+F
+E
+
+How many bits are used to represent each digit in BCD format?
+@@Four
+Three
+Two
+
+What does ASCII stand for?
+@@American Standard Code for Information Interchange
+American Standard Code for Internet Information
+American System of Code for  input Information
+
+What does the prefix "bi-" in "binary" refer to?
+@@Two
+Eight
+Ten
+
+What is the base of the hexadecimal numbering system?
+@@Base-16
+Base-08
+Base-10
+
+How many symbols are available in the octal system?
+@@8 symbols
+16 symbols
+10 symbols
+
+How is the number "100" represented after "99" in the decimal system?
+@@100
+99
+101
+
+What does the symbol "10" represent in the binary system?
+@@Two
+Ten
+One
+
+What does each additional placement in the decimal system represent?
+@@An additional power of 10
+A combination of previous symbols
+A reduction in value
+
+What does the prefix "deci-" in the word "decimal" refer to?
+@@Ten
+Eight
+Sixteen
+
+How can binary numbers be identified to avoid confusion with other numbering systems?
+@@By using prefixes or suffixes
+By marking their position
+By limitting their length
+
+What is a common way to pronounce the binary number 1011
+@@One, zero, one, one
+One thousand  and eleven
+Ten and eleven
+
+In the binary system, what is the decimal value of the binary number 1011
+@@11
+3
+10
+
+What is the value of the Most Significant Bit (MSB) in a binary number?
+@@The largest weight
+The smallest weight
+The average weight
+
+In the binary number system, what happens when the place value exceeds 1?
+@@The place value resets to 0, and a 1 is placed in the next column
+The place value increments by 1 and a 0 is added in the previous column
+The number stays the same
+
+Which of the following correctly describes the conversion of the decimal number 12 to binary?
+@@1100
+1011
+1101
+
+In converting from decimal to binary, what do you do after placing a 1 in a binary column?
+@@Subtract the column value from the decimal number
+Double the column value
+Add the column value to the decimal number
+
+What is the binary equivalent of the decimal number 100?
+@@1100100
+111100
+1100000
+
+How do you convert a binary number to a decimal number?
+@@Add the column values of the binary placeholders with a 1
+Subtract the values of the columns
+Count the number of 1's and multify with the number of column
+
+Why is the binary number system commonly used in modern circuits?
+@@It is built from components that can only be ON or OFF
+It can represent more values than the decimal system
+It has a shorter length compared to decimal numbers
+
+In the binary conversion process, what is placed in columns that are not used?
+@@A zero
+A one
+A blank space
+
+How are binary digits grouped when converting to octal?
+@@In groups of 3
+In groups of 4
+In groups of 2
+
+How does BCD coding differ from standard binary representation of decimal numbers?
+@@BCD represents each decimal digit separately with its own binary value
+BCD is uses fewer bits  than standard binary representation
+BCD does not use  binary digits; it uses hexadecimal ones
+
+Why was the octal numbering system developed?
+@@To simplify binary conversion
+To reduce the need for symbols
+To speed up machine code processing
+
+What does each place value in the octal system differ by compared to the one next to it?
+@@A factor of 8
+A factor of 4
+A factor of 2
+
+In what way does octal help computer programmers with machine language?
+@@It makes digital logic easier to analyze
+It speeds up execution time
+It uses fewer digits than hexadecimal
+
+Which statement is true about octal and binary systems?
+@@Binary place values differ by a factor of 2, while octal place values differ by 8
+Octal requires more bits than binary to represent numbers
+Octal uses the same number of symbols as binary, both systems are base-8
+
+How is a hexadecimal number typically converted into a decimal?
+@@By multiplying by powers of 16
+By converting to binary first
+By multiplying by powers of 8
+
+Why is hexadecimal more efficient than binary for programming?
+@@It reduces the number of bits needed to represent data
+It directly converts to decimal without grouping
+It is easier to multiply and uses for  letters
+
+How are binary digits grouped when converting to hexadecimal?
+@@In groups of 4
+In groups of 2
+In groups of 8
+
+How do you convert the decimal number 100₁₀ to hexadecimal?
+@@Convert to binary, then group in sets of 4 digits
+Multiply by 8, then convert to hexadecimal
+Directly multiply by 16
+
+Which of the following describes a key feature of BCD coding?
+@@Each group of 4 bits represents a decimal digit from 0 to 9
+Each group of 8 bits represents two decimal digits
+BCD and binary numbers are always identical
+
+What is the BCD representation of the decimal number 264₁₀
+@@001001100100
+100001100100
+011001100100
+
+What type of representation do digital data use?
+@@Discrete
+Continuous
+Analog
+
+What does an Analog-to-Digital Converter (ADC) do?
+@@Converts analog to digital signals
+Outputs only analog signals
+Produces continuous input
+
+What is the main purpose of a Digital-to-Analog Converter (DAC)?
+@@To convert binary numbers to continuous signals
+To convert analog signals to binary numbers
+To convert analog  voltages to digital data
+
+What does ADC stand for?
+@@Analog-to-Digital Converter
+Analog Data Circuit
+Analog Display Computer
+
+What does DAC stand for?
+@@Digital-to-Analog Converter
+Data Accumulation Circuit
+Digital Application Code
+
+What is the purpose of a DAC?
+@@To convert binary numbers into analog signals
+To convert sound to video
+To store digital information
+
+What is a key difference between analog and digital signals?
+@@Analog signals vary continuously.
+Digital signals have no variation.
+Digital signals are only for clocks.
+
+Which of the following describes a DC analog signal?
+@@It has one limit at 0 volts.
+It alternates between positive and negative voltage.
+It varies continuously with time.
+
+What do analog signals represent?
+@@Any functional quantity
+Discrete units of measurement.
+Only digital quantities.
+
+How do aircraft with digital instrumentation typically gather data?
+@@Through analog-to-digital converters.
+By employing mechanical sensors.
+By using only analog gauges.
+
+What is the function of the transmitter rotor in a synchro system?
+@@To turn proportionally to sensed pressure.
+To measure temperature directly.
+To indicate time on a clock
+
+What voltage levels represent digital signals?
+@@High and medium
+Positive and negative
+High and low
+
+In the binary system, what does an ON switch represent?
+@@The digit 1
+The digit 2
+The digit 3
+
+How do digital signals differ from analog signals?
+@@They represent only two states.
+They can be any voltage level.
+They vary continuously in time.
+
+Why is the binary number system used in digital electronics?
+@@It corresponds to ON and OFF states.
+It simplifies voltage calculations.
+It allows for more voltage levels.
+
+What does a digital circuit use to describe the value being transmitted?
+@@A sequence of digital numbers.
+A series of continuous voltages.
+A sequence of analog signals.
+
+Why is it important to understand the limitations of analog-to-digital and digital-to-analog conversions in aircraft systems?
+@@To recognize that signal degradation can affect system performance
+To reduce the number of systems using analog signals
+To ensure that analog signals are never converted
+
+How does an ADC reduce quantization error?
+@@By using more bits per sample
+By lowering the sampling rate
+By increasing voltage range
+
+What does the dynamic range of an ADC represent?
+@@The ratio of largest input to smallest step size
+The ratio of largest input to smallest input
+The ratio of output and  input of ADC
+
+How does a DAC smooth out its step response?
+@@By using a low-pass reconstruction filter
+By updating the voltage using binary steps
+By increasing the number of bits
+
+What happens when +5 volts is applied to all four terminals of a 4-bit resistor ladder DAC?
+@@The output will be 15 volts
+The output will be 8 volts
+The output will be 20 volts
+
+What does a resistor ladder DAC do in the process of digital to analog conversion?
+@@It converts binary input into decimal numbers
+It updates the output at non-uniform intervals
+It smooths the signal using a low-pass filter
+
+In a 4-bit DAC, which input terminal corresponds to the Most Significant Bit (MSB)?
+@@Input "8"
+Input "4"
+Input "1"
+
+What is one common result of converting analog signals to digital and back to analog?
+@@Signal degradation due to noise
+Improved signal quality
+Increased frequency range
+
+What can an asynchronous half-duplex bus do?
+@@Transmitting data in both directions, but only in one direction at a time.
+Transmitting data in only one direction, with greater speed.
+Transmitting data in both directions simultaneously.
+
+What does "ARINC" stand for?
+@@Aeronautical Radio Incorporated
+Aerodrome Radio Incorporated
+Asynchronous Radio Nautical Communication
+
+What can a simplex bus do?
+@@Data can only travel in one direction at any one time.
+Data can travel in both directions with lower speed.
+Data can travel in both directions using the same pair of wires (not simultaneously).
+
+What is the correct sequence of transmitting an analog signal through digital data buses?
+@@ADC, data transmitting medium (wires), DAC
+DAC, data transmitting medium (wires), ADC
+ADC, data transmitting medium (wires), TDM, ADC
+
+What is the advantange of the multi-level data buses compaired to the single-level ones?
+@@They isolate flight-critical flight management functions from non-flight-critical mission-related functions.
+They combine flight-critical flight management functions with other non-flight-critical parameters to give the crew better system overview.
+They provide faster data transmission rates for flight-critical flight management parameters to increase crew awareness.
+
+What are the roles of the Bus Controller (BC) and the Remote Terminal (RT) in the MIL-STD-1553B Bus?
+@@BC initiates all data transfers by sending a command to a specified RT.
+BC and RT initiate all data transfers and send the command to the specified subsystem.
+BC initiates all data transfers command and send them to all RT, then to the subsystems.
+
+What is a return-to-zero modulation technique?
+@@Logic state "1" is achieved by voltage moving from high to null (zero) and logic state "0" is obtained by going from null to low.
+Logic state "1" is achieved by voltage moving from null to high and Logic state "1" is achieved by voltage moving from null to high
+Logic state "1" is achieved by voltage moving from low to high and Logic state "1" is achieved by voltage moving from high to low. No null (zero) voltage is present.
+
+What is the purpose of a Serial Interface Module in ARINC 629 data bus?
+@@It provides isolation so that a shorted terminal can't bring down the entire bus.
+It provides a connecting inteface to facilitate serial data transmission.
+It provides the means to quickly remove/install the bus controller (LRU).
+
+What makes the Avionics Full-Duplex Switched (AFDX) network different from the Ethernet 100 Mbps one?
+@@AFDX is adapted with deterministic timing and redundancy required for avionics applications
+AFDX is equipped with suitable capabilities that allow easier accessibility for automobile applications.
+AFDX is a Full-Duplex Network, whilst the Ethernet is a Biplex one.
+
+How does Time-Division Multiplexing (TDM) work?
+@@Transmits data sequentially through one system.
+Uses different frequencies for each signal.
+Combines all signals into one stream based on their interval.
+
+What is the purpose of a multiplexer in TDM?
+@@To sample input data and form a digital pulse.
+To convert analog signals to digital format.
+To increase the power of input signals.
+
+What role does a de-multiplexer play in TDM?
+@@Decodes and distributes signals to data sinks.
+Combines signals into one output.
+Stores and retrieves digital data.
+
+What is the main function of the switches in the AFDX network?
+@@for traffic policing
+for traffic shaping and integrity checking
+for traffic policing, traffic shaping and integrity checking
+
+What is the main function of the LRU terminals in the AFDX network?
+@@for traffic shaping and integrity checking
+for traffic policing, traffic shaping and integrity checking
+for traffic policing and integrity checking
+
+How do AFDX virtual links operate in the network?
+@@They are unidirectional links from one source to one or more destinations
+They allow full-duplex communication in both directions
+They are bidirectional links between two end systems
+
+Which of the following is the main component of logic gates?
+@@Transistor.
+Resistor.
+Transformer.
+
+What are used to give all of the possibilities in binary terms for each logic gate?
+@@Truth tables.
+Logic tables.
+Descriptive sheets.
+
+Which type of logic gates always produce the same output as the input?
+@@Buffer gate.
+AND gate.
+XOR gate.
+
+What are the functions of buffer gates?
+@@Stabilizing weak or varying signals, and isolate a portion of a circuit.
+Serving as a modulator to combine various signals into a data bus.
+Creating a buffer to store temporary information, and sequencing them into the processor.
+
+Which type of logic gates are used in interlock or engaging logic circuit, which only allow a "logic 1" output when all input signals are also "logic 1"?
+@@AND gate.
+OR gate.
+Exclusive AND gate.
+
+Which of the following is considered "basic" logic gate?
+@@NOT gate.
+NOR gate.
+NAND gate.
+
+Which logic gate produces "logic 1" only when its inputs are of different logic level?
+@@XOR gate.
+X-NOR gate.
+NAND gate.
+
+Is negative OR gate the same as NOR gate?
+@@No, although their truth tables are the same.
+Yes, since their truth tables are the same.
+No, since their truth tables are different.
+
+How do transistors in logic gates operate?
+@@They are either not conducting or saturated.
+They vary voltage and current constantly.
+They only conduct half of the time.
+
+Which type of logic gate only allows a 'logic 1' output when all input signals are also 'logic 0'?
+@@NAND gate
+AND gate
+NOT gate
+
+Which type of logic gate only allows a 'logic 0' output when all input signals are also 'logic 1'?
+@@NAND gate and NOR gate
+NAND gate and NOT gate
+NOR gate and NOT gate
+
+According to the truth table of the XOR gate, what is the output when both inputs A and B are Logic 1?
+@@Logic 0
+Logic 1
+Undefined
+
+Which of the following: CMOS or TTL use less power to operate, and why?
+@@CMOS, since CMOS transistor output is triggered by lower voltage and does not rely on current flow through the base-emitter junction.
+TTL, since TTL transistor output is triggered by lower voltage and does not rely on current flow through the base-emitter junction.
+They utilise the same level of power consumption, since their only difference is the polarity of the transistors.
+
+How is the output of CMOS transistors triggered?
+@@By lower voltage and does not rely on current flow through the base-emitter junction.
+By higher voltage and current flow through the base-emitter junction.
+By varying temperature levels.
+
+In what systems is CMOS technology predominant?
+@@Modern integrated circuits used in aircraft systems.
+Old analog television systems.
+Traditional incandescent lighting systems.
+
+In a half-adder circuit, what is the output when both inputs A and B are Logic 1?
+@@Sum = 0, Carry = 1
+Sum = 1, Carry = 1
+Sum = 1, Carry = 0
+
+What logic gates are used to construct a half-adder circuit?
+@@XOR and AND
+XOR and OR
+AND and NAND
+
+Why is a full-adder circuit necessary in digital systems?
+@@To add three binary inputs including carry-in
+To multiply two binary digits
+To add decimal numbers
+
+What type of transistors are used in TTL circuits?
+@@Bipolar junction transistors
+Metal oxide semiconductors
+Field-effect transistors
+
+What voltage level is considered Logic 1 in a typical CMOS circuit?
+@@Between +2.6V and +5.0V
+Exactly +5V only
+Less than 2.5V
+
+How many input bits can a full-adder process at one time?
+@@3
+4
+2
+
+What is an advantage of CMOS over TTL in digital circuits?
+@@CMOS is less susceptible to electrical interference and operates over a wider voltage range
+CMOS consumes more power and operates over a wider voltage range
+CMOS requires current flow through the base-emitter and CMOS requires current flow through the base-emitter
+
+In the landing gear warning circuit , which logic condition will turn ON the red LED?
+@@At least one landing gear sensor is Low (0)
+All landing gear sensors are High (1)
+All inputs to the AND gate are High (1)
+
+What is the output of the AND gate and the NOR gate when gear A = 1, gear B = 1, and gear C = 0?
+@@AND = 0, NOR = 1
+AND = 0, NOR = 0
+AND = 1, NOR = 0
+
+Which of the followings forms the basic structure (architecture) of a computer?
+@@CPU, Main memory, I/O system
+GPU, Main memory, Secondary memory, I/O system
+CPU, Main memory, Storage devices
+
+What is the primary function of the Address and Data Buses?
+@@To provide a pathway for information flow between the CPU, Main Memory, and the I/O system
+To provide control signals between the CPU, Main Memory, and the I/O system
+To store information for later access by the CPU
+
+Which buses are used externally throughout the aircraft?
+@@Serial buses
+Data buses
+Parallel buses
+
+What is the role of the Control Bus?
+@@To provide control signals between the CPU, Main Memory, and the I/O system
+To store information for later access by the CPU
+To convert information to other forms for communication with external devices
+
+How do parallel buses differ from serial buses?
+@@Parallel buses transmit multiple bits of information simultaneously, while serial buses transmit one bit at a time
+Parallel buses transmit one bit of information at a time, while serial buses transmit multiple bits simultaneously
+Parallel buses are used externally, while serial buses are internal to the computer
+
+What is the role of operands in data words?
+@@Operands are the objects of mathematical operations.
+Operands store instructions.
+Operands handle input/output.
+
+How are signed numbers represented in fixed-point data?
+@@Signed numbers are represented in two's complement form.
+Signed numbers use standard binary.
+Signed numbers use floating-point form.
+
+How many values can a bit hold?
+@@A bit can hold 21 values, "0" and "1".
+A bit can hold 8 values; "0" and "1"
+A bit can hold 256 values; "0" and "1"
+
+How many bits equal to 1 Gigabyte?
+@@One billion.
+One million.
+One thousand.
+
+For signed data, which bit act as the sign?
+@@The first bit is the sign, whereby logic 0 is plus (+) and logic 1 is minus (-).
+The last bit is the sign, whereby logic 0 is minus (-) and logic 1 is plus (+).
+The MSB (most significan bit) is the sign, whereby logic 0 is minus (-) and logic 1 is plus (+).
+
+Which of the following are specific requirements for aircraft computer systems compared to general-purpose computers?
+@@Must withstand extreme temperate, acceleration, vibration, shock and EMI environments and be certified to be fail-safe
+Must allow access to the internet during flight and be certified to be fail-safe
+Must withstand extreme temperate, acceleration, vibration and be certified to be fail-safe
+
+What factors determine the access time of a hard disk drive (HDD)?
+@@The time it takes for the read/write head to locate the data and the rotation speed of the disk
+The number of files stored on the disk and the rotation speed of the disk
+The size of the cache memory inside the CPU and rotation speed of the disk
+
+What distinguishes software from hardware?
+@@Software is not a physical entity that can be touched
+Software consists of multiple lines that send information simultaneously
+Software is used to control hardware components directly
+
+What is the role of the operating system?
+@@To instruct the overall computer operation, including start-up, file management, and data input and output
+To provide specific functions to the user, such as word processing and image manipulation
+To translate high-level programming languages into machine language using Kernel architecture
+
+What are the two basic types of main memory?
+@@Random-Access Memory and Read-Only Memory.
+Hard-disk drives and solid-state Flash memory.
+System software and application software.
+
+What is the main difference between RAM and ROM?
+@@RAM allows data to be added or removed randomly, while ROM permanently stores data.
+RAM permanently stores data, while ROM allows data to be added or removed.
+RAM and ROM both store data permanently, provided that there is sufficient storage capacity.
+
+What is the purpose of Static RAM (SRAM)?
+@@SRAM is used for high-speed direct-access cache memory.
+SRAM is used for external secondary data storage.
+SRAM is used for indirect access and is typically located on a separate PCB.
+
+What type of memory is described as non-volatile?
+@@Read-Only Memory (ROM).
+Random-Access Memory (RAM).
+Dynamic RAM (DRAM).
+
+Where is Static RAM (SRAM) typically located?
+@@Within the same chip as the CPU microprocessor.
+On a separate PCB that connects into the motherboard.
+In external secondary data storage devices.
+
+How many Flight Management Computers (FMCs) and Control and Display Units (CDUs) do most aircraft have for redundancy?
+@@Two of each.
+One FMC and one CDU.
+Four of each.
+
+What is a Control and Display Unit (CDU)?
+@@A keyboard input device with a small display for flight management information.
+A storage device for navigation plans and short-term flight path adjustments.
+A power supply and indicator for the FMC (Flight Management Computer).
+
+What is the function of the Data Transfer System (DTS)?
+@@It uploads navigation flight plans and downloads maintenance data.
+It displays flight managemen and flight guidance information.
+It controls the aircraft's communication systems.
+
+Why is DMA (Direct Memory Access) transfer preferred over CPU conducting the data transfer operation?
+@@DMA transfer is faster and more efficient.
+DMA transfer consumes less power.
+DMA transfer is used only for small data transfers.
+
+What are data storage systems used for?
+@@Storing large amounts of application data and program instructions.
+Providing power and instructions to the CPU.
+Managing the computer’s operating  and applcation system.
+
+What is the role of the CPU microprocessor?
+@@To retrieve and process instructions and coordinate the flow of data.
+To provide long-term data storage.
+To manage external communication devices.
+
+How are CPU speeds measured?
+@@In cycles per second, known as Hertz (Hz).
+In data transfer rates, known as Mbps.
+In storage capacity, known as GB.
+
+How is high-level source code translated into machine language?
+@@Via a software program called a compiler or an interpreter
+Directly by the CPU without any intermediary steps
+Through the use of operating system commands
+
+What is the main difference between a compiler and an interpreter?
+@@A compiler reads the entire source code before generating the object code, while an interpreter reads one instruction at a time
+A compiler executes instructions immediately, while an interpreter generates object code beforehand.
+A compiler is used for system software (e.g. operating system), while an interpreter is used for application software (e.g. word processing),
+
+Why does a micro-computer need both SRAM and DRAM?
+@@SRAM provides quick and easy access, while DRAM stores larger amounts of data.
+SRAM stores larger amounts of data, while DRAM provides quick and easy access.
+SRAM and DRAM both provide quick and easy access.
+
+What is unique about aircraft computer systems compared to business and personal computers?
+@@They must operate in extreme environments and be fail-safe certified.
+They use a different CPU and memory types.
+They do not interface with external hardware devices due to security reasons.
+
+In Data Storage System, what role does the Direct Memory Access (DMA) controller play?
+@@It frees up the processor during bulk data transfer.
+It increases the CPU clock speed.
+It manages the computer’s power supply.
+
+In a CPU, what does the Control Unit (CU) supervise?
+@@Overall CPU operations and data path direction.
+External device communications.
+Permanent and volative data storage.
+
+What is the primary function of TTL or CMOS circuits?
+@@They are miniaturized and manufactured on silicon wafers.
+They manage the power supply.
+They store data permanently.
+
+What is the Dual In-line Package (DIP) standard for?
+@@For installing micro-components on printed circuit boards.
+For storing data in memory chips.
+For controlling power supply units on both cathode and anode terminals (dual).
+
+How do integrated circuits within a microprocessor communicate with one another?
+@@Through microscopic circuits constructed directly on the silicon chip.
+Via manual wiring between components.
+By using external data buses (ARINC or IEEE standards).
+
+What architectural feature allows microprocessors to achieve extremely fast processing?
+@@The use of multiple chips in close proximity within the architecture.
+The presence of large cooling systems.
+The integration of wireless components and effective EMF shielding.
+
+What internal factors contribute to the increased computational power of modern CPUs?
+@@The high number of transistors and logic gates on the silicon chip.
+The number of external peripherals connected.
+The physical size of the CPU and effective heat dissipation.
+
+What factors determine a computer's performance in MIPS (Millions of Instructions per Second)?
+@@Operating frequency and data transferred per clock cycle.
+The number of connected displays and peripherals.
+The size and type of the physical memory.
+
+How much data can a 32-bit word transfer compared to an 8-bit word?
+@@Four times the amount of data in the same clock cycle.
+Twice the amount of data in the same clock cycle.
+The same amount of data in the same clock cycle..
+
+What is the main reason that power supply components are separated in a microcomputer?
+@@To prevent electro-magnetic interference (EMI).
+To enhance cooling efficiency.
+To reduce the size of the motherboard.
+
+In a microprocessor, what happens when an I/O device needs urgent servicing?
+@@It sends an interrupt signal through the Control Bus.
+It directly accesses the main memory.
+It waits for the CPU to complete current tasks.
+
+In a microprocessor, what happens when an interrupt request is more important than the current task?
+@@The processor stores its state and services the interrupt.
+The processor ignores the interrupt.
+The interrupt is deferred.
+
+What is the advantage of using Flash memory over EEPROM?
+@@Flash memory is faster and allows block reprogramming.
+EEPROM is faster and more durable.
+EEPROM allows unlimited reprogramming.
+
+What is the primary function of the ALU?
+@@Performing math and logic calculations.
+Managing data storage.
+Controlling peripheral devices.
+
+Why is ROM referred to as non-volatile memory?
+@@Because it keeps data stored even after power is removed.
+Because it can be rewritten easily.
+Because it is faster than RAM.
+
+What happens when the cache controller detects newer data in main memory?
+@@It allows the CPU to request the latest data from DRAM.
+It deletes the old data.
+It stops the CPU from accessing the data.
+
+What is a microprocessor?
+@@A CPU on a single integrated circuit.
+A memory device on a single integrated circuit.
+An I/O controller on a single integrated circuit.
+
+What does a microprocessor do?
+@@Retrieves and processes instructions.
+Stores data permanently.
+Connects peripherals to the bus.
+
+In a microprocessor, what does the Clock Input pin do?
+@@Provides timing for the microprocessor.
+Carries bits of information.
+Contains the data location.
+
+In a microprocessor, what does the Address Bus contain?
+@@Location of the data to access.
+The timing for the processor.
+The voltage and ground signals.
+
+In a microprocessor, what voltage is used for TTL logic?
+@@5 volts DC is used.
+3.3 volts DC is used.
+10 volts DC is used.
+
+In a microprocessor, what voltage is used for CMOS logic?
+@@3.3 volts DC is used.
+5 volts DC is used.
+10 volts DC is used.
+
+In a microprocessor, where does the control unit fetch program instructions from?
+@@Cache memory.
+Main memory.
+Input/output devices.
+
+What determines the number of instructions a computer can execute?
+@@The clock driver speed.
+The amount of main memory.
+The size of the CPU.
+
+In a microprocessor, where are low-level commands in the control unit stored?
+@@In ROM inside the microprocessor.
+In RAM outside the CPU.
+In the main memory bank.
+
+In a microprocessor, how does the branch predictor enhance performance?
+@@Predicts future instruction branches accurately.
+Increases the clock speed and instruction fetching effectiveness.
+Optimizes the power consumption.
+
+In a microprocessor,  how does the MMU assist the operating system?
+@@Creates an address environment for multiple programs.
+Increases the processor speed significantly.
+Reduces the overall memory usage.
+
+In a microprocessor, why is the control unit important?
+@@It ensures operations are completed in sequence.
+It increases the clock speed efficiently.
+It stores all data persistently, even after power outage.
+
+What are the four steps in a microprocessor machine cycle?
+@@Fetch, decode, execute, and store.
+Start, process, end, and store.
+Load, run, save, and close.
+
+In a microprocessor, what is a cache "miss"?
+@@Data needed by the processor is not found in cache.
+Data is found in cache memory.
+Cache memory is full.
+
+In a microprocessor, what is a cache "hit"?
+@@Data needed by the processor is found in cache memory.
+Data is not found in cache memory.
+The system retrieves data from main memory.
+
+In a microprocessor, how are instructions processed to increase speed and efficiency?
+@@By parallel processing or instruction pipelining.
+By using only one functional component.
+By increasing the clock speed alone.
+
+How does microprocessor do parallel processing?
+@@It processes instructions simultaneously at different stages.
+It processes a single instruction at a time.
+It uses multiple CPUs for one instruction at a time.
+
+What is the function of the Interrupt Input in a microprocessor?
+@@An urgent request for service.
+A signal for data transfer.
+Voltage and ground signals.
+
+What unit in a microprocessor is responsible for handling complex mathematical operations?
+@@The floating-point unit (FPU) handles complex mathematical operations in a microprocessor.
+The control unit handles complex mathematical operations in a microprocessor.
+The data bus handles complex mathematical operations in a microprocessor.
+
+How does the Address Bus function in a microprocessor?
+@@The Address Bus contains the location of the information that the microprocessor needs to access or modify.
+The Address Bus handles the clock input signals for instruction execution.
+The Address Bus is responsible for controlling the output data from the ALU.
+
+Which unit in the microprocessor decodes instructions before execution?
+@@The decode unit decodes instructions stored in the prefetch queue for execution.
+The branch predictor decodes instructions before they are stored in memory.
+The memory management unit decodes instructions for the ALU.
+
+What is the function of the instruction prefetch unit in a microprocessor?
+@@The instruction prefetch unit fetches the next set of instructions to keep the microprocessor busy.
+The prefetch unit stores instruction results for execution by the ALU.
+The prefetch unit controls the timing of input/output operations.
+
+How does bus arbitration work in a microprocessor?
+@@Bus arbitration allows a controller to access the bus when it is free by receiving a "hold acknowledge" signal.
+Bus arbitration determines whether to halt the microprocessor when a cache miss occurs.
+Bus arbitration enables faster execution of branch predictions.
+
+What type of signal causes a microprocessor to postpone its current instructions?
+@@An interrupt signal causes the microprocessor to postpone its current instructions.
+A clock signal causes the microprocessor to temporarily pause its current operations.
+An address signal causes the microprocessor to halt current operations.
+
+Which component is at the core of a microprocessor to execute instructions?
+@@The core contains the ALU and control unit, which execute instructions in a microprocessor.
+The instruction prefetch unit is at the core of the microprocessor to execute instructions.
+The branch predictor is at the core of the microprocessor to execute instructions.
+
+What type of bus is used to carry bits of information between the microprocessor and other devices?
+@@The data bus carries bits of information between the microprocessor and other devices.
+The control bus carries bits of information between the microprocessor and memory.
+The address bus carries bits of information between the microprocessor and other devices.
+
+What determines the number of register locations in a microprocessor?
+@@The number of address lines determines the number of addressable locations in a microprocessor.
+The clock speed of the processor determines the number of addressable locations.
+The number of data pins on the microprocessor determines addressable locations.
+
+What technique is used to increase processor speed and efficiency in microcomputers?
+@@Instruction pipelining.
+Serial processing.
+Interrupt staging.
+
+What are Integrated Circuits (ICs) commonly known as?
+@@ICs are commonly known as chips.
+ICs are commonly known as transistors.
+ICs are commonly known as modules.
+
+What material is typically used to manufacture ICs?
+@@Semiconductor material like silicon.
+Metallic material like iron.
+Organic material like carbon.
+
+What components are constructed on the small pieces of semiconductor material in ICs?
+@@Resistors, transistors, diodes, and capacitors are constructed on IC semiconductor material.
+Only transistors are constructed on IC semiconductor material.
+Only resistors and capacitors are constructed on IC semiconductor material.
+
+What can be found inside an IC?
+@@Transistor logic circuits or a complete microprocessor.
+Only passive components.
+Electrical wiring only.
+
+What are flip-flops used for in sequential logic?
+@@Forming basic storage units.
+Creating electrical noise.
+Modulating signals.
+
+What voltage turns on the Set (S) gate in a flip-flop?
+@@+5v signal.
+0v signal.
+-5v signal.
+
+What is the function of the truth table for a flip-flop circuit?
+@@It shows the output states based on input conditions.
+It indicates the power levels.
+It displays the circuit's frequency.
+
+What type of gates are used to form RS flip-flops?
+@@Cross-coupled NAND or NOR gates
+Cross-coupled AND or OR gates
+Cross-coupled XOR or Exclusive-AND gates
+
+What is the function of a comparator in an IC?
+@@Compare sets of binary numbers.
+Count binary numbers.
+Store binary numbers.
+
+What is the trade-off of increasing the number of transistors on a chip?
+@@Increased power consumption and need for heat dissipation.
+Reduced processing speed.
+Increased chip size and weight.
+
+In IC manufacturing process, what is done after the wafers are processed and circuits are etched?
+@@The wafers are polished, cleaned, and inspected after processing.
+The wafers are directly packaged after processing without inspection.
+The wafers are immediately packaged and shipped after processing.
+
+What is the first step in the IC manufacturing process?
+@@Growing the crystal material.
+Polishing the wafers.
+Soldering wires to the chip.
+
+How do flip-flops maintain their state?
+@@Without further application of a signal.
+By constant power supply.
+Through magnetic fields.
+
+What is the disallowed state in an RS flip-flop?
+@@Both inputs are logic 1.
+Both inputs are logic 0.
+One input is logic 1, the other is logic 0.
+
+What is the function of the clock pulse in a clocked flip-flop circuit?
+@@The clock pulse triggers the flip-flop to change state at a specific time.
+The clock pulse disables the flip-flop from changing state.
+The clock pulse allows the flip-flop to remain unchanged at all times.
+
+How does a JK flip-flop differ from an RS flip-flop in terms of input combinations?
+@@A JK flip-flop has no disallowed input combinations.
+A JK flip-flop only allows disallowed input combinations.
+A JK flip-flop always stays in the same state regardless of inputs.
+
+What is the purpose of cascading comparators in an IC?
+@@To compare larger binary numbers.
+To increase processing speed.
+To reduce power consumption.
+
+In an IC comparator, what happens if binary input A is 1010 and B is 1101?
+@@A<B, so the output signal is logic 1.
+A>B, so the output signal is logic 0.
+A=B, so no output signal.
+
+In a priority encoder of IC, what determines the output signal?
+@@The highest priority input that is active.
+The lowest priority input that is active.
+The sum of all active inputs.
+
+How are decoders and encoders often used together?
+@@To decode binary data into decimals and then encode it back.
+To increase processing speed by encoding and decoding information.
+To reduce power consumption.
+
+How can larger decoders be built?
+@@By combining smaller decoders.
+By using larger resistors.
+By increasing the power supply.
+
+How many outputs does a 2-bit decoder have?
+@@Four outputs.
+Two outputs.
+Three outputs.
+
+In a decoder. what increases when the binary input increases from 2 bits to 3 bits?
+@@The number of outputs to 8 bits.
+The number of inputs to 6 bits.
+The number of outputs to 4 bits.
+
+What is an 8-line to 64-line decoder made from?
+@@Four 4-line to 16-line decoders and one 2-line to 4-line decoder.
+Two 4-line to 16-line decoders.
+Eight 8-line to 8-line decoders.
+
+What challenge is faced by further chip level integration?
+@@Smaller feature sizes approaching the limits of physics.
+Decreasing demand for faster processors.
+Decreasing cost of manufacturing.
+
+What is the primary factor used to classify integrated circuits?
+@@Scale of integration.
+Power consumption.
+Manufacturing process.
+
+What is the primary disadvantage of increasing the number of transistors on a chip?
+@@Increased power consumption.
+Higher manufacturing costs.
+Increased durability against ESD.
+
+How are ICs classified in terms of integration?
+@@By the number of transistors and electronic components.
+By their power consumption levels.
+By their physical dimensions.
+
+What challenge does further chip-level integration face according to the paragraph?
+@@Smaller component feature sizes approaching the limits of physics.
+Decline in demand for faster processors.
+Increase in production costs and time.
+
+How has Moore's Law been reflected in the development of ICs?
+@@Processing speed has doubled approximately every 18 months.
+Power consumption has halved every decade.
+Transistor size has doubled every year.
+
+How does increasing the number of transistors on a chip affect its performance?
+@@Processing speed has doubled approximately every 18 months.
+Increasing transistors has no effect on performance but affects power consumption.
+Increasing transistors increases power consumption without affecting performance.
+
+What is the purpose of heat-sinks in high-performance ICs?
+@@Heat-sinks dissipate excess heat to prevent the chip from overheating.
+Heat-sinks improve the speed of the chip without reducing power consumption.
+Heat-sinks are used to increase the transistor count on the chip.
+
+What does Very-Large-Scale Integration (VLSI) allow for in terms of processor capability?
+@@VLSI allows for faster processors with greater memory capacity.
+VLSI allows for slower processors but increased accuracy in calculations.
+VLSI allows for slower processors with reduced power consumption.
+
+How does a priority encoder resolve multiple HIGH inputs?
+@@It produces an output signal based on a priority scheme.
+It produces an output signal based on the least significant input.
+It inverts the output signals.
+
+What is the function of the enable line in a decoder circuit?
+@@It makes the decoder active or inactive.
+It controls the input signals.
+It changes the binary input values.
+
+In IC manufacturing process, how are the electronic circuits etched into the wafers?
+@@Electronic circuits are etched using photolithographic and chemical processing steps.
+Electronic circuits are etched by using soldering and mechanical processing.
+Electronic circuits are etched through physical contact with the substrate.
+
+What is the function of a multiplexer (MUX)?
+@@It samples input data and creates a composite digital pulse train.
+It decodes signals and splits them into multiple outputs.
+It merges signals from different sources without any time difference.
+
+What type of signals can be transmitted using multiplexing?
+@@Multiple forms of information, such as analog and digital.
+Only digital data can be transmitted using multiplexing.
+Only analog data can be transmitted using multiplexing.
+
+What mediums can multiplexing use?
+@@Copper wire cable or fiber optic cable.
+Only fiber optic cable.
+Only copper wire cable.
+
+What is the function of a demultiplexer (DEMUX)?
+@@Decodes and distributes individual signals to various data sinks.
+Stores binary numbers.
+Combines multiple signals into one.
+
+What does the truth table of a multiplexer show?
+@@The relationship between select inputs and the corresponding output.
+The voltage levels of the input signals.
+The power consumption of the circuit.
+
+How do demultiplexers operate compared to multiplexers?
+@@They connect one input to multiple outputs.
+They connect multiple inputs to a single output.
+They only handle analog signals.
+
+What is the process of selecting one of many output lines for data distribution called?
+@@Demultiplexing.
+Multiplexing.
+Decoding.
+
+What must be synchronized for proper data distribution in a multiplexer and demultiplexer system?
+@@The clock timing signals.
+The voltage supply levels.
+The input data frequencies.
+
+What are the methods of interleaving signals?
+@@TDM, FDM, WDM.
+TDM, SDM, FWM.
+TD, FDM, ADM.
+
+Why is multiplexing beneficial in aircraft systems?
+@@It eliminates the need for many heavy wire bundles.
+It increases the size of communication cables used.
+It requires many separate cables to transmit data.
+
+How does a demultiplexer (DEMUX) work?
+@@It decodes and distributes signals based on clock time and address.
+It combines multiple signals into one single signal.
+It prevents signals from reaching their respective data sinks.
+
+How does a multiplexer (MUX) handle multiple input data?
+@@It samples input data sequentially and staggers them in time.
+It merges multiple data streams into one continuous signal.
+It transmits data randomly without any specific time sequence.
+
+How does multiplexing transmit different forms of information?
+@@Sequentially through a single communication medium.
+Simultaneously through multiple cables.
+Sequencially through various channels and communication mediums.
+
+Why are multiple signals distributed at different times through the same link?
+@@To reduce the need for multiple wires.
+To increase data redundancy and integrity.
+To enhance data transfierring security.
+
+How does the binary code applied to the select lines in a multiplexer affect its operation?
+@@The binary code on the select lines determines which data input is connected to the output.
+The binary code on the select lines determines how many outputs will be activated.
+The binary code on the select lines determines the clock signal's duration and its logic levels.
+
+Why must multiplexer and demultiplexer signals be synchronized?
+@@To ensure correct distribution of source signals.
+To increase data transmission speed of source signal.
+To reduce power consumption in both circuits.
+
+How are select codes changed in a multiplexer?
+@@Automatically based on a clock timing signal.
+Manually by the user.
+By altering the voltage supply.
+
+How are data packets formed in the multiplexer output?
+@@By breaking the data stream into packets.
+By combining all messages into one packet.
+By splitting each message into individual packets that are linked together by a parity bit.
+
+How is Wavelength-Division Multiplexing (WDM) used in fiber optic data bus systems?
+@@By using different colors of light to denote source and destination address.
+By using different harmonic waves to denote source and destination address.
+By modulating the amplitude of the light signals  to denote source and destination address.
+
+What determines which data output is connected to the input in a demultiplexer?
+@@The combination of binary codes of the select lines.
+The voltage levels of the input signal applied to the select lines.
+The power consumption of the circuit.
+
+What happens if the select inputs of a multiplexer are set incorrectly?
+@@Data from the wrong input may be transmitted.
+The multiplexer will store incorrect data.
+The circuit will shut down due to invalid data.
+
+What happens if the enable strobe in a demultiplexer is not activated?
+@@Data will not be allowed to pass to any of the outputs.
+Data will be broadcast to all outputs.
+Data will be transmitted to the wrong outputs.
+
+Is the following statement correct? "In fiber optic databuses, the use of light color to denote the addresses of the source and destination is called WDM."
+@@Yes, since the color of light is determined by its wavelength.
+Yes, since the color of light is determined by its intensity or amplitude.
+No, since the color of light has no correlations with its pulse width.
+
+How is a 4-channel demultiplexer circuit typically constructed?
+@@Using a 2-line to 4-line decoder to control 4 AND gates.
+Using 4 XOR gates in sequence.
+By combining multiple flip-flops.
+
+What is the purpose of the clock signal in in a multiplexer and demultiplexer?
+@@The clock signal synchronizes data transmission between the multiplexer and demultiplexer.
+The clock signal determines the logic level of each select line on the multiplexer and demultiplexer.
+The clock signal provides power and synchronizing signals to the multiplexer circuits.
+
+How does Time-Division Multiplexing (TDM) work?
+@@Dividing the time during which each message is transmitted into intervals.
+Using different frequencies for each message and combine them together.
+Using different wavelengths for each message and split them into intervals.
+
+What is the role of the enable strobe in a multiplexer?
+@@It controls the passage of data to outputs.
+It increases the frequency of input signals.
+It amplifies the data transmission.
+
+What must be done to signals from a multiplexer for proper reconstruction by the demultiplexer?
+@@Signals must be interleaved.
+Signals must be amplified.
+Signals must be encrypted.
+
+In a fiber optic cable, what component surrounds the core to reflect light back into it?
+@@The cladding surrounds the core in a fiber optic cable and reflects light back into it.
+The outer jacket surrounds the core and reflects light back into it.
+The buffer jacket surrounds the core and reflects light back into it.
+
+What material provides mechanical strength to fiber optic cables made from glass fibers?
+@@Fiberglass or Kevlar provides mechanical strength to fiber optic cables made from glass fibers.
+Plastic cladding provides mechanical strength to fiber optic cables made from glass fibers.
+The core material itself provides mechanical strength to fiber optic cables made from glass fibers.
+
+What is the primary purpose of the braided cover in coaxial cables?
+@@The braided cover shields the inner conductor from external electro-magnetic fields and prevents radiation from the internal conductor.
+The braided cover protects the middle conductors from physical damage and moisture.
+The braided cover ensures that the cable maintains its flexibility during installation.
+
+What materials are typically used for the core of fiber optic cables?
+@@Thin glass or plastic.
+Shielded twisted-pair copper.
+Conductive braided cover.
+
+What do the fibers in the core of fiber optic cables transmit?
+@@Light.
+Electrical signals.
+Radio waves.
+
+What materials add mechanical strength to fiber optic cables?
+@@Fiberglass or Kevlar.
+Black polyurethane.
+Semi-rigid insulator.
+
+What is the chief advantage of optical cables?
+@@They are immune from electro-magnetic interference (EMI).
+They are less expensive than copper and other conductive cables.
+They have higher attenuation than copper cables.
+
+What does a fiber optic data bus carry?
+@@Light instead of electricity.
+Electricity instead of light.
+Both light and electricity.
+
+What are the two types of fiber-optic cable?
+@@Single mode and multimode.
+Attenuation mode and reflection mode.
+Amplification mode and scattering mode.
+
+What does Baud rate measure?
+@@The number of symbols or pulses per second.
+The frequency of the light source.
+The power output of the transmitter.
+
+What happens when a light emitting diode is reverse biased?
+@@No light is given off.
+The light intensity increases.
+The diode heats up.
+
+Where are fiber optic networks more prevalent in aircraft systems?
+@@In-Flight Entertainment (IFE) systems.
+Flight control systems.
+Engine control systems.
+
+Why do optical buses have low crosstalk?
+@@There is no line capacitance or mutual coupling.
+They have a high datB2-rate capability.
+They use conductive fibers, thus reducing the electromagnetic interference.
+
+Why are fibers more difficult and expensive to splice than copper wires?
+@@They require precise alignment and specialized equipment.
+They are more fragile and require more insulation.
+They are made from more expensive and rugged materials.
+
+What distinguishes a laser diode from an LED in fiber optic communication?
+@@A laser diode provides higher output power and faster speed.
+A laser diode is more energy-efficient and has lower attenuation.
+A laser diode has a longer lifespan.
+
+What is the main advantage of a laser diode over an LED?
+@@Higher output power and faster speed.
+Lower cost and simpler design.
+Greater flexibility and longer lifespan.
+
+How does a receiver handle non-self-clocking codes?
+@@It may provide its own timing information.
+It relies solely on the transmitter's clock signals.
+It uses the light intensity to decode the signal.
+
+How does an optic fiber transmitter form Pulse-Coded Modulation (PCM) waveforms?
+@@By turning the light source on and off based on binary numbers.
+By using the Exclusive OR gate to generate binary numbers.
+By varying the light intensity based on binary numbers.
+
+How does the clock provide system timing in a fiber optic transmitter?
+@@By generating a steady string of pulses.
+By modulating the light intensity.
+By adjusting the wavelength of the light.
+
+In a LED, what determines the amount of energy in the photons of light?
+@@The frequency of the light.
+The intensity of the current.
+The color of the LED.
+
+How do laser diodes differ from LEDs?
+@@Laser diodes have an optical cavity required to produce a laser beam.
+LEDs have higher modulation bandwidth.
+Laser diodes emit light without optical resonance.
+
+What is Wavelength Division Multiplexing (WDM)?
+@@Using different color LEDs to signify which receiver the signal is intended for.
+Using a single LED for multiple signals and a clock signal synced between the transmitters and receivers.
+Mixing wavelengths in a single LED.
+
+What determines the sensitivity of a fiber optic receiver?
+@@The weakest optical signal that can be detected while rejecting noise.
+The highest power level that can be detected.
+The frequency of the incoming light that is distinguishable from noise.
+
+How does excessive power affect a fiber optic receiver?
+@@It can saturate the receiver and distort the output signal.
+It increases the signal-to-noise ratio.
+It improves the sensitivity of the receiver.
+
+How does attenuation occur in multimode fiber-optic cables?
+@@By scattering and absorption of light in the fiber core.
+By increasing the signal strength.
+By reducing the reflection off the cladding.
+
+Why do single-mode fibers allow for greater distances and speeds?
+@@Because they use a single direct beam of light.
+Because they have a larger core.
+Because they use multiple beams of light.
+
+What type of couplers are directional, tee, and star couplers?
+@@Passive couplers.
+Active couplers.
+Dynamic couplers.
+
+What does an optical switch do in an AFDX network?
+@@Couples light from one fiber to another but not to both.
+Divides light equally among terminals and receivers.
+Increases the light intensity to all receivers.
+
+What are SMA (subminiature version A) fiber optic connectors known for?
+@@Their ruggedness.
+Their high cost.
+Their light weight.
+
+What might cause an increase in bit error rate in a fiber network?
+@@Loss of modulation.
+High frequency noise.
+Increased bandwidth.
+
+How do fiber optic cable breakages differ from copper wire failures?
+@@They do not cause intermittent failures.
+They are more frequent.
+They generate more heat.
+
+Why is an active fiber optic data switch used in modern IFE systems?
+@@To reliably route high bandwidth data to each seat.
+To reduce the cost of cabling to each seat.
+To evenly distribute the weight of the aircraft.
+
+How does a sharp bend in fiber cables affect attenuation?
+@@It increases attenuation by changing the angle of incidence and reflection.
+It decreases attenuation by straightening the fiber.
+It has no effect on attenuation.
+
+What causes the CRT screen to emit light?
+@@The electron beam striking the phosphor.
+The temperature of the screen.
+The pressure inside the tube.
+
+What is one advantage of glass cockpits over mechanical instruments?
+@@They provide greater situational awareness by combining functions.
+They are heavier and more complex, thus are capable of performing advanced functions.
+They consume more power while keeping the redundancy.
+
+What technology did initial glass cockpits use?
+@@Cathode Ray Tube (CRT) technology.
+Liquid Crystal Display (LCD) technology.
+Light Emitting Diode (LED) technology.
+
+What forms a pixel in a CRT color display?
+@@A triad of RGB phosphor dots.
+A single phosphor dot.
+A combination of three shadow masks.
+
+What causes the CRT screen to emit light?
+@@The electron beam striking the phosphor.
+The temperature of the screen.
+The pressure inside the tube.
+
+How many primary colors are used in a color CRT display?
+@@Three primary colors: Red, Green, and Blue.
+Two primary colors: Red and Blue.
+Four primary colors: Red, Green, Blue, and Yellow.
+
+What principle do LEDs operate on?
+@@Electroluminescence.
+Photoconductivity.
+Thermionic emission.
+
+How is the electric field applied to an LCD cell?
+@@By electrodes on either side of the liquid crystal.
+By a magnetic field.
+By mechanical pressure.
+
+What is a CRT?
+@@A vacuum tube with an electron gun and a flourescent screen.
+A type of solid-state display with a cathode ray transistor.
+A form of digital storage.
+
+What does a display resolution of 1024 × 768 mean?
+@@The screen has 1024 pixels in width and 768 pixels in height.
+The screen refreshes from 768 to 1024 times per second.
+The screen uses 1024 colors and 768 refreshing lines.
+
+Why do CRTs have a refresh rate of 60 Hz?
+@@To prevent noticeable flicker in the image.
+To increase power efficiency.
+To improve color accuracy.
+
+How is an image created on a CRT screen?
+@@By sweeping the electron beam horizontally line by line.
+By projecting light through a lens.
+By spinning a disk inside the CRT.
+
+How is the electron beam in a CRT steered?
+@@By horizontal and vertical deflection plates.
+By magnetic fields.
+By mechanical levers.
+
+How to control the light intensity in a CRT?
+@@Changing the anode voltage.
+Adjusting the screen size.
+Modifying the electron gun.
+
+How are electrons accelerated in a CRT?
+@@By the voltage difference between the cathode and the anode.
+By the kinetic energy difference between the cathode and the anode.
+By the electro-magnetic power difference between the cathode and the anode..
+
+What is the refresh rate of typical CRTs?
+@@60 Hz, meaning the screen is updated every 1/60 of a second.
+30 Hz, meaning the screen updates twice every second.
+120 Hz, meaning the screen is updated every 120 seconds.
+
+What does passive-matrix LCD technology do?
+@@Turns pixels on or off at the intersection of rows and columns.
+Controls pixel brightness automatically at each row and column.
+Adjusts pixel color based on light signal receiving from the controller.
+
+What technology is used for higher resolution in Electronic Instrument Systems?
+@@Active-Matrix LCD.
+Passive-Matrix LCD.
+Light-Emitting Diode (LED).
+
+How is image information sent in passive-matrix LCDs?
+@@One line at a time.
+All at once.
+In random order.
+
+What is the resolution of a display with 640 x 380 pixels in color AMLCDs?
+@@1920 x 480 pixels.
+640 x 380 pixels.
+1280 x 760 pixels.
+
+What does a TFT (Thin-Film Transistor) switch do in an AMLCD (Active-Matrix LCD)?
+@@Connects pixels to power from the data line.
+Adjusts the brightness of pixels based on ambiant light.
+Controls the color of pixels using R, G, B colors.
+
+What is the key difference between passive-matrix and active-matrix LCD technologies?
+@@Active-matrix LCDs integrate a TFT switch for each pixel, providing better performance.
+Passive-matrix LCDs have integrated TFT switches for higher contrast.
+Active-matrix LCDs use fewer transistors for better power consumption efficiency.
+
+How do pixels in AMLCDs receive power?
+@@TFTs connect pixels to power from the data line.
+Direct connection to the power supply through dedicated fuse.
+Through mechanical switches built in the controller.
+
+How does AMLCD technology maintain high resolution and image quality?
+@@By using individually controlled transistors for precise pixel control.
+By increasing the size of each pixel, allowing precise pixel control.
+By reducing the number of pixels per inch, thus allowing more power efficient management.
+
+How is the light intensity controlled in an LED?
+@@By the material and forward bias.
+By adjusting the semiconductor's temperature.
+By increasing the diode size.
+
+In a LED, what happens when a free electron drops into a semiconductor hole?
+@@Energy is given off.
+The semiconductor cools down.
+The material expands.
+
+How are LCD cells constructed?
+@@By placing liquid crystals between two grooved glass plates.
+By embedding crystals directly on the display.
+By using a single grooved plate.
+
+What is the role of electrodes in an LCD cell?
+@@They apply the electric field across the liquid crystals.
+They generate light for the display.
+They store data for the pixels.
+
+How are LCD cells constructed?
+@@By placing liquid crystals between two grooved glass plates.
+By embedding crystals directly on the display.
+By using a single grooved plate.
+
+What happens when light passes through orthogonal polarizer plates without liquid crystals?
+@@The light is blocked.
+The light passes through unchanged.
+The light intensity increases.
+
+What is the definition of ESD?
+@@Transfer of electrostatic charges between bodies at different potentials caused by direct contact or induced by an electrostatic field.
+Transfer of electrostatic charges between bodies caused by excessive chemical reactions in a vaccum environment.
+Transfer of electrostatic charges between bodies at very close contact, only due to the differences in temperature and accumulated electronic forces.
+
+What are the types of ionizers used in ESD protection?
+@@Hand-held and Wall-mounted.
+Hand-held and Spray-gun.
+Vacuum-blowers and Wall-Mounted.
+
+What are the purposes of the conductive mats in a static-safe workstation?
+@@It provides a surface that is free of static charge on which to work, and remove the static charge from conductive items placed on it.
+In accumulates the static charge from all conductive items placed on it and remove such charge with a reversely-charged battery.
+It provides a surface that is non-conductive, so static charge can freely dissipate and removed from the conductive items placed on it.
+
+Why is increasing the relative humidity NOT practical to reduce the effect of ESD?
+@@It causes discomfort to the operator and metal to rust.
+It increases the risk of electrostatic discharge, since higher humidity means lower resistivity.
+It lowers the effectiveness of dissipating electrostatic energy to the ground.
+
+What is the working principle of the ionizers?
+@@They emit an air stream of both positive and negative ions to the charged surface.
+They use high velocity air mass to blow out the ions from the charged surface.
+They use an ion generator and neutralize the charged surface by means of several conducting wires.
+
+What test/ check should you do before using a ionizer?
+@@Use an electrostatic field meter to detect static charges in the work area to assure that the ionizer is working properly.
+Check the working condition of the ionizer using a megaohm meter to assure that the work area is completely insulated.
+Use an miliohm meter to assure that the work area is properly bonded to the ionizer.
+
+What should you do to control the generation and accumulation of electrostatic charges, in case of a ionizer malfunction?
+@@Spray the work area with a topical anti-stats.
+Dissipate the static energy on the work area using a plasma emitter.
+Spray the work area with a high-volume air compressor.
+
+How do electrostatic shielded conductive bags constructed?
+@@They have an outer layer of transparent metallized sheet or an aluminum foil material, a middle insulation layer, and an inner antistatic layer.
+They have an outer layer of plastic sheet or other insulating material, a middle and inner anti- electromagnetic layer (double EMF protection).
+They have an outer layer of conductive material and an inner layer that have antistatic characteristics.
+
+Which of the following is correct regarding the use of antistatic wrist straps?
+@@The coil cord of the wrist straps must be connected to a 1 mega-ohm resistor, which connects to a common ground unit.
+The coil cord of the wrist straps must be connected directly to a common ground unit.
+The coil cord of the wrist straps must be connected to a 1 mega-ohm resistor, which connects to the ESD-sensitive component.
+
+Which of the following is correct regarding the use of antistatic wrist straps?
+@@The wrist strap must be secure around the wrist at all times while working at the work station so that it makes good electrical connection with the skin to dissipate any electrical charge to ground before touching sensitive electronic components.
+The wrist strap must be secure around the component at all times while working at the work station so that it makes good electrical connection with the component's common point to dissipate any electrical charge to ground before being handled.
+The wrist strap must be secure around the wrist and the component at all times while working at the work station so that it makes good electrical connection between the hands and the component
+to avoid electrostatic shocks.
+
+Why is there a 1 mega-ohm resistor between the floormat/ table-top mat and the common grounding point?
+@@It is to protect personnel in the event the ground becomes electrically live.
+It is to protect both the component and personnel in the event the accumulated charge of the component is too low.
+It acts as a fuse/ circuit breaker in case of a sudden discharge of a high-voltage ESD.
+
+What is the main cause of component damage when ESD occurs?
+@@Excessive heat from breakdown of the dielectric material within the component.
+Over-voltage since the electrostatic charge cannot be dissipated anywhere.
+Excessive compressing force acting on the dielectric material within the component.
+
+When does electrostatic induction occur?
+@@When a charged object causes redistribution of charges in a nearby object without contact
+When a charged object transfers its excess charge to another object through contact
+When two grounded objects are connected through a wire
+
+When does Electrostatic Discharge (ESD) occur?
+@@When a charged object transfers its excess charge to another object through contact
+When a charged object causes redistribution of charges in a nearby object without contact
+When a charged object is placed near another object, causing redistribution of charges
+
+Why is it important for a grounding cord from an anti-static heel strap to make contact with the skin inside the sock?
+@@To ensure a direct conductive path for static discharge from the body to ground
+To prevent the sock from wearing out during long shifts
+To improve foot comfort during long working hours
+
+What is the definition of level one software?
+@@Critical.
+Essential.
+Non-essential.
+
+An aircraft system allocated a Criticality Category of Hazardous has a Software Level of.
+@@B.
+A.
+C.
+
+An aircraft system that, should it fail due to a software error, would cause no injuries to occupants, has a criticality category of.
+@@Minor effect.
+Major effect.
+Hazardous effect.
+
+An aircraft system allocated a software level of B that, should it fail due to a software error, may cause.
+@@Hazardous effect.
+Major effect.
+Minor effect.
+
+An aircraft system allocated a software level of C that, should it fail due to a software error, may cause.
+@@Injuries to some occupants.
+Injuries to a large proportion of occupants.
+No injuries to occupants.
+
+An aircraft system with a software level of D, should it fail due to a software error, may cause the aircraft safety margin to be.
+@@Slightly decreased.
+Slightly increased.
+Significantly decreased.
+
+If due to a software error in an aircraft system that would cause injuries to some of the occupants, the system has a software criticality category of.
+@@Major effect.
+Hazardous effect.
+Minor effect.
+
+Who is responsible for producing the operational program of the FMS?.
+@@The manufacturer.
+The pilot.
+The engineer.
+
+Flight control systems are flight critical and thus require a Software Level of
+@@A.
+B.
+C.
+
+Navigation systems are flight critical and thus require a Software Level of
+@@A.
+B.
+C.
+
+Cabin entertainment systems fall at the other end of the criticality spectrum and would be considered as Software Level:
+@@E
+D
+C.
+
+Software changes come under the responsibility of.
+@@The aircraft constructor
+The engineer.
+The national aviation authority.
+
+HIRF is acronym for.
+@@High Intensity Radiated Field.
+Heavily Ionised Radio Frequencies.
+High Intensity Radio Frequencies.
+
+To reduce HIRF on radio equipment.
+@@Ensure all static wicks are in place.
+Periodically check bonding leads for condition.
+Transmit on all radio frequencies to determine which frequencies are causing the interference.
+
+EMC is acronym for.
+@@Electro Magnetic Compatibility.
+Emission Magnetic Compatibility.
+Electro Magnetic Capability.
+
+Manufacturers of aircraft can ensure HIRF protection by.
+@@Designing specific avionic areas that are shielded against HIRF.
+Ensuring all single wires are shielded with metal conduit.
+Advising the operator of parts of the aircraft susceptible to degradation due to corrosion, moisture ingress, flexing etc.
+
+HIRF protection of LRUs is provided by.
+@@Built in filters and overvoltage circuits.
+Internally shielded cables.
+Built in filters only.
+
+Testing of HIRF on aircraft systems is done.
+@@At and during production and testing (initial certification).
+By periodically listening for interference on all systems.
+Only after a report of radio interference.
+
+For braided cables, the amount of braiding.
+@@Keeps radiated power inside the emitting assembly or away from the susceptible circuit.
+Must conform to the requirement for the shielding to cover at least 50% of the surface of the cable.
+Is a trade-off design feature.
+
+An aircraft may have been HIRF affected.
+@@A static wick check is required.
+A bonding load check is required.
+Test all radio frequencies for interference.
+
+Which of the following could be a primary cause of HIRF protection failure?.
+@@Unserviceable radio filters.
+Broken or missing static wicks.
+Corrosion on bonding leads.
+
+Electromagnetic compatibility is achieved by.
+@@Shielding, screening, earthing, bonding and interference filters.
+Coating in a conductive paint.
+Enclosing the system with same frequency and strength of which screening is done.
+
+When carrying out a bonding check on a surface protected by anodic film.
+@@The anodic film should be removed locally to ensure a good contact.
+The film is conductive so no preparations are required.
+The anodic film should be added a bonding factor to account for the resistance of theanodic film.
+
+HIRF is acronym for.
+@@High Intensity Radiated Field.
+Heavily Ionised Radio Frequencies.
+High Intensity Radio Frequencies.
+
+To reduce HIRF on radio equipment.
+@@Ensure all static wicks are in place.
+Periodically check bonding leads for condition.
+Transmit on all radio frequencies to determine which frequencies are causing the interference.
+
+EMC is acronym for.
+@@Electro Magnetic Compatibility.
+Emission Magnetic Compatibility.
+Electro Magnetic Capability.
+
+Manufacturers of aircraft can ensure HIRF protection by.
+@@Designing specific avionic areas that are shielded against HIRF.
+Ensuring all single wires are shielded with metal conduit.
+Advising the operator of parts of the aircraft susceptible to degradation due to corrosion, moisture ingress, flexing etc.
+
+HIRF protection of LRUs is provided by.
+@@Built in filters and overvoltage circuits.
+Internally shielded cables.
+Built in filters only.
+
+Testing of HIRF on aircraft systems is done.
+@@At and during production and testing (initial certification).
+By periodically listening for interference on all systems.
+Only after a report of radio interference.
+
+For braided cables, the amount of braiding.
+@@Keeps radiated power inside the emitting assembly or away from the susceptible circuit.
+Must conform to the requirement for the shielding to cover at least 50% of the surface of the cable.
+Is a trade-off design feature.
+
+An aircraft may have been HIRF affected.
+@@A static wick check is required.
+A bonding load check is required.
+Test all radio frequencies for interference.
+
+Which of the following could be a primary cause of HIRF protection failure?.
+@@Unserviceable radio filters.
+Broken or missing static wicks.
+Corrosion on bonding leads.
+
+Electromagnetic compatibility is achieved by.
+@@Shielding, screening, earthing, bonding and interference filters.
+Coating in a conductive paint.
+Enclosing the system with same frequency and strength of which screening is done.
+
+When carrying out a bonding check on a surface protected by anodic film.
+@@The anodic film should be removed locally to ensure a good contact.
+The film is conductive so no preparations are required.
+The anodic film should be added a bonding factor to account for the resistance of theanodic film.
+
+EICAS provides the following:
+@@Engine parameters and system warnings only.
+Engine parameters only.
+Engine parameters and engine warnings only.
+
+Which Display Unit indicate the data of naviagtion system?
+@@Navigation Display (ND).
+Primary Flight Display (PFD).
+System Display (SD).
+
+Two EICAS displays are located:
+@@In the center instrument panel.
+On the left side of the instrument panel.
+On the right side of the instrument panel.
+
+Each pilot has two Display Units. They are:
+@@Primary Flight Display (PFD) and Navigation Display (ND).
+Primary Flight Display (PFD) and System Display (SD).
+Navigation Display (ND) and System Display (SD).
+
+ACARS is the acronym for:
+@@Aircraft Communication Addressing and Reporting System.
+Aircraft Communication Addressing and Recording System.
+Aircraft Communication Audio and Reporting System.
+
+In a Global Positioning System (GPS), the number of satellites required to achieve a 3 dimensional fix is.
+@@4
+3
+2
+
+WAAS stands for:
+@@WIDE AREA AUGMENTATION SYSTEM.
+WIDE AUTOMATIC AUGMENTATION SYSTEM.
+WIDE AREA ALTENATION SYSTEM.
+
+FMS failure and warnings are.
+@@Displayed on EICAS.
+EFIS warnings only.
+Engine warnings only.
+
+How many classes of TCAS?
+@@2
+1
+3
+
+The TCAS antenna are:
+@@On the top and at the bottom of the fuselage.
+On the top of the fuselage.
+At the bottom of the fuselage.
+
+ADS-B is acronym for:
+@@AUTOMATIC DEPENDENT SURVEILLANCE-BROADCAST
+AUTOMATIC DIRECTION SURVEILLANCE-BROADCAST
+AUTOMATIC DEPENDENT STORAGE-BROADCAST
+
+The frequency of ELT:
+@@121.5MHz, 243MHz, 406MHZ
+121.5KHz, 243KHz, 406MHZ
+121.5MHz, 243MHz, 406KHZ
+
+In ELT system, the signal is received anywhere in the world by satellites in the COSPAS-SARSAT at frequency.
+@@406MHZ
+121.5MHZ
+243MHZ
+
+According to FAR 91.207, ELTs must be inspected within:
+@@12 months
+24 months
+6 months
+
+Where are ELTs  typicallly installed?
+@@ELTs are typically installed as far aft in the fuselage of an aircraft.
+ELTs are typically installed in avionic compartment of an aircraft.
+ELTs are typically installed as far fwd in the fuselage of an aircraft.
+
+The built-in G-force sensor  of ELTs is aligned with:
+@@The longitudinal axis of the aircraft.
+The roll axis of the aircraft.
+The yaw axis of the aircraft.
+
+An Emergency Locator Transmitter is an independent battery powered transmitter activated by:
+@@The excessive G-forces.
+The excessive acceleration.
+The excessive cabin altitude.
+
+Any activation of an ELT signal is required to only be done:
+@@Between the top of each hour and 5 minutes after the hour.
+Between the top of each hour and 15 minutes after the hour.
+From the end of 5 minutes of each hour.
+
+Pitch control is exercised by the elevators located on the horizontal stabilizer.
+@@To change the pitch of the aircraft.
+To change the direction of the aircraft.
+To change the roll of the aircraft.
+
+Roll control is provided by:
+@@Ailerons.
+Elevators.
+Spoilers.
+
+Primary flight controls are:
+@@The elevators, ailerons, and rudder.
+The elevators, spolers, and rudder.
+The elevators,flaps, slats and ailerons,
+
+In the ACARS system, cabin crews based on the times reported for:
+@@Out of-the-gate, Off-the-ground, On-the-ground, and In-the-gate (OOOI).
+Out of-the-gate, Off-the-ground, On-the-ground, and In-the-flight (OOOI).
+Out of-the-gate, Off-the-ground, On-the-runway, and In-the-gate (OOOI).
+
+On touchdown, the ACARS report  sent to Dispatch and the next crew heads for the gate is:
+@@Automatically.
+Manually.
+The entire report is sent to a printer.
+
+The ACARS radio frequency used to transmit the OOOI reports
+@@VHF or HF.
+UHF.
+LF or VLF.
+
+IRS accelerometers are mounted.
+@@On the three axis.
+On the one axis.
+On the two axis.
+
+An IRS has.
+@@Three accelerometers.
+Two accelerometers.
+One or two accelerometers depending on the system.
+
+Laser gyros measure angular rate by employing the properties of:
+@@Two laser beams inside a triangular ring-shaped tuned cavity.
+One laser beams inside a triangular ring-shaped tuned cavity.
+Two laser beams inside a square ring-shaped tuned cavity.
+
+Which statement is CORRECT?
+@@Gyros and accelerometers are placed on each of the three axis (pitch, roll and yaw).
+Gyros and accelerometers are placed on each of the two axis (pitch, roll).
+Gyros and accelerometers are placed on the pitch axis.
+
+On the ground prior to takeoff, The flight crew must enter an initial geographic position:
+@@Latitude and longitude.
+Altitude and longitude.
+Attitude and longitude.
+
+An Inertial Navigation System has.
+@@Gyros and accelerometers are placed on a stable platform.
+Accelerometers fixed to the airframe and gyros on a stable platform.
+Accelerometers on a stable platform and gyros fixed to the airframe.
+
+Inertial Navigation System operates based on:
+@@Gyroscopes to measure angular velocity, and acceleration meters to measure linear acceleration.
+Gyroscopes to measure linear acceleration , and acceleration meters to measure angular velocity.
+Gyroscopes to measure angular velocity, and acceleration meters to measure orientation.
+
+An IRS Laser gyro provides.
+@@Detection of the rate of movement about an aircraft axis.
+Detection of the earths gravitational force to establish true north.
+Detection of the earths rotation to establish true north.
+
+A basic IRS platform has.
+@@3 accelerometers and 3 laser gyros.
+3 accelerometers and 2 laser gyros.
+2 Accelerometers and 3 laser gyros.
+
+What must be entered into the IRS before the aircraft can be moved?
+@@Present position.
+Flight plan.
+Cruise height.
+
+In a Global Positioning System (GPS), each satellite transmission identifies the satellite using a.
+@@Pseudo random code.
+Whisper shout method.
+Different channel frequency.
+
+GPS navigation uses a constellation of satellites that is made up of.
+@@24 active and 3 spare.
+28 active and 7 spare.
+23 active and 5 spare.
+
+the GPS used to provide:
+@@Position data, velocity rate, and system time.
+Position data, acceleration, and system time.
+Position data, velocity rate, and communication.
+
+The WAAS provides augmentation information to GPS receivers to: .
+@@Enhance the accuracy and reliability of position estimates.
+Enhance the accuracy and reliability of altitude estimates.
+Enhance the accuracy and reliability of velocity estimates.
+
+An FMS system, besides controlling navigation, thrust and auto-nav, also provides.
+@@Dedicated status and warnings.
+GPWS warnings.
+Take-off and landing warnings.
+
+An FMS databank memory is updated.
+@@Every 28 days.
+Every 32 days.
+Every 365 days.
+
+In a Flight Management System (FMS), data is input manually to the computing system through the.
+@@Control and Display Unit.
+Data Acquisition Unit.
+Electronic Centralised Aircraft Monitoring control panel.
+
+Information required by a Flight Management System (FMS) to function correctly is indicated on the display by.
+@@Boxes.
+Dashes.
+A flashing cursor.
+
+Prior to take-off, the flight crew must inputs:
+@@Their initial location and flight plans.
+Their initial location and arrival location.
+Their initial location and departure time.
+
+When using Flight Management System:
+@@Reduce the workload for the flight crew.
+Increase the workload for the flight crew.
+Does not effect the flight crew's workload.
+
+During normal operation, the FMCs crosstalk with each other to:
+@@Share and compare information.
+Share and compare status.
+Share and compare capabilities.
+
+Which statement is CORRECT?
+@@Each FMC is capable of operating independently in the event the other FMC fails.
+Each FMC cannot operate In case the other FMC fails.
+Each FMC operates separately.
+
+In a Flight Management System (FMS), data is input manually to the computing system through the:
+@@Control and Display Unit.
+Data Acquisition Unit.
+Electronic Centralised Aircraft Monitoring control panel.
+
+The FMC provides waypoints along the intended route on the:
+@@Navigation Display.
+Primary Flight Display.
+Electronic Centralized Aircraft Monitor.
+
+The FMC drives the flight director steering command bars on the.
+@@Primary Flight Display.
+Navigation Display.
+Electronic Centralized Aircraft Monitor.
+
+The FMC communicates with the Thrust Management System (TMS) that drives the auto-throttle to control:
+@@Aircraft speed
+Aircraft altitude
+Aircraft attitude
+
+The FMC receives navigation and guidance information from:
+@@Air data system, inertial navigation system, and global positioning system,
+Air data system, flight control system, and global positioning system,
+Air data system, inertial navigation system, and autoflight system,
+
+The FMC receives navigation and guidance informations to compute:
+@@ground speed, track, wind direction and velocity.
+ground speed, course, wind direction and velocity.
+ground speed, track, wind direction and acceleration.
+
+Based on the input informations, the FMC computes:
+@@The optimum flight path.
+The optimum fuel to used.
+The optimum engine thrust.
+
+TCAS I idenitfies traffic in a range:
+@@35 to 40 mile.
+10 to 20 mile.
+350 to 400 mile.
+
+TCAS I is mandated on aircraft with:
+@@10 to 30 seats.
+More than 30 seats.
+Weighing more than 15000 kg.
+
+TCAS II is mandated on aircraft with:
+@@More than 30 seats.
+10 to 30 seats.
+Weighing less than 15000 kg.
+
+If a collision or near miss is imminent, the TCAS II computer issues a:
+@@Resolution Advisory (RA).
+Traffic Advisories (TA).
+Nothing.
+
+TCAS II computer issues a Resolution Advisory to the pilot.
+@@To take a specific evasive action.
+To take a specific climb.
+To take a specific descent.
+
+The TCAS computer is programmed such that the pilot in the encroaching aircraft receives an RA for evasive action.
+@@In the opposite direction.
+In the same direction.
+In the same speed.
+
+TCAS issues an audible TA "TRAFFIC" alert when an intruder is away.
+@@35-48 seconds.
+35-48 minutes.
+If a collision or near miss is imminent.
+
+TCAS issues an audible RA "CLIMB" alert when an intruder is away.
+@@20-30 seconds.
+20-30 minutes.
+If vertical separation degrades to 850 feet.
+
+In TCAS, If vertical separation degrades to 600 feet, an RA command is issued:
+@@To both aircraft to take evasive action.
+To to its own aircraft to take evasive action.
+To encroaching aircraft to take evasive action.
+
+The TCAS computer is a.
+@@Interrogator.
+Transceiver.
+Transponder.
+
+TCAS communicates with.
+@@The ATC of other aircraft.
+The ATC on ground.
+VHF of other aircraft.
+
+TCAS antenna mounted on the top of the aircraft is a:
+@@Directional antenna.
+Omnidirectional antenna.
+Radar antenna.
+
+The Transponder of an aircraft equipped with TCAS is able to interrogate the Transponders of other aircraft nearby using:
+@@Modes C and S.
+Mode A and C.
+Mode A and S.
+
+TCAS indications is displayed on:
+@@ND and PFD.
+ND and ECAM.
+PFD and ECAM.
+
+TCAS II equipped aircraft use continuous reply information to analyze:
+@@The speed and trajectory of target aircraft in close proximity.
+The speed and course of target aircraft.
+The attitude of target aircraft.
+
+In TCAS computer, If a collision is calculated to be imminent,
+@@An RA is issued.
+An TA is issued.
+Warning display.
+
+Different colors and shapes are used on the TCAS display:
+@@Depend on the imminent threat level.
+Depend on the warning level.
+Depend on the aircraft altitude.
+
+Some stand-alone TCAS displays are:
+@@Vertical speed indicators.
+ECAM display.
+True air speed indicators.
+
+A TCAS uses the radar mile definition in its calculations, which is.
+@@12.36 microsecond.
+18 microsecond.
+24.72 microsecond.
+
+Bassed on GNSS, the development of a collision avoidance system known as:
+@@ADS-B.
+TCAS.
+GPS.
+
+ADS-B is available in two segments:
+@@ADS-B OUT and ADS-B IN.
+ADS-B ON and ADS-B IN.
+ADS-B OUT and ADS-B ON.
+
+Which informations ADS-B OUT combines from  GPS  with onboard flight status information?
+@@Location, altitude, velocity, and time.
+Location, altitude, acceleration, and time.
+Location, attitude, velocity, and time.
+
+ADS-B OUT equipped aircraft broadcasts flight status informations to:
+@@Other ADS-B equipped aircraft and ground stations.
+Ground stations.
+Other ADS-B OUT equipped aircraft.
+
+Two different frequencies are used for ADS-B system:
+@@1090MHz and 978MHz.
+1090MHz and 1030MHz.
+1030MHz and 978MHz.
+
+What the purpose of ADS-B receiver?
+@@To plot the location and movement of the transmitting aircraft on an electronic display.
+To calculate and estimate the location and movement of the transmitting aircraft.
+To plot the location and movement of the receiving aircraft on an electronic display.
+
+One of advantages of ADS-B system over conventional ground-based radar:
+@@The entire airspace can be covered with a much lower expense.
+The entire airspace can be covered with high technology.
+The entire airspace can be covered with FAA approval.
+
+ADS-B provides more accurate information with the help of:
+@@GPS satellites.
+Ground stations.
+Other ADS-B equipped aircraft.
+
+What is the main advantage of ADS-B?
+@@Allow to operate more aircraft in and out of the same number of facilities.
+Save fuel for aircrafts in the landing area.
+Allow more aircraft for landing at the same time.
+
+Which statement is CORRECT about ADS-B system?
+@@Increased positioning accuracy allows for higher density traffic flow.
+Increased positioning accuracy allows for lower density traffic flow.
+Increased positioning accuracy not effect to traffic density.
+
+ADS-B IN equipped aircraft are able to receive traffic information to:
+@@Enhance situational awareness.
+Enhance ground proximity waring system.
+Enhance landing approaches.
+
+ADS-B test units are used to:
+@@Verify proper operation of ADS-B equipment.
+Replace in the case of equipment failure.
+Perform self-test ADS-B system.
+
+If ELTs testing for a long time, before testing is recommended:
+@@Contact of the local control tower or flight service station.
+Contact of manufacturer.
+No requirement.
+
+To perform a coordinated turn to change the heading without slipping the tail.
+@@The roll and yaw control are used simultaneously.
+The roll and pitch control are used simultaneously.
+The pitch and yaw control are used simultaneously.

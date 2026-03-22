@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-22T04:44:09.567Z",
-  "filename": "validation-cache-2026-03-22_04-44-09.json",
+  "generated": "2026-03-22T04:30:05.756Z",
+  "filename": "validation-cache-2026-03-22_04-30-05.json",
   "config": {
     "MAX_CONSECUTIVE_LINES": 5,
     "MIN_CONSECUTIVE_LINES": 3,
@@ -50,11 +50,11 @@
       "reason": ""
     },
     "17 module 2026/B1/M11.12. ATA 30.txt": {
-      "valid": true,
-      "violationType": null,
+      "valid": false,
+      "violationType": "answer_count",
       "min": 4,
-      "max": 4,
-      "reason": ""
+      "max": 5,
+      "reason": "Question 48: 2 correct answers marked (@@) — must be exactly 1"
     },
     "17 module 2026/B1/M11.13. ATA 32.txt": {
       "valid": true,
@@ -351,11 +351,11 @@
       "reason": ""
     },
     "17 module 2026/B2/M13.21. ATA 44.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
+      "valid": false,
+      "violationType": "line_count",
+      "min": 1,
       "max": 4,
-      "reason": ""
+      "reason": "Too few consecutive lines (1 < 3)"
     },
     "17 module 2026/B2/M13.22. ATA 46.txt": {
       "valid": true,
@@ -414,18 +414,18 @@
       "reason": ""
     },
     "17 module 2026/B2/M14. PROPULSION .txt": {
-      "valid": true,
-      "violationType": null,
+      "valid": false,
+      "violationType": "answer_count",
       "min": 4,
       "max": 5,
-      "reason": ""
+      "reason": "Question 248: 2 correct answers marked (@@) — must be exactly 1"
     },
     "17 module 2026/B2/M2. PHYSICS.txt": {
-      "valid": true,
-      "violationType": null,
+      "valid": false,
+      "violationType": "answer_count",
       "min": 4,
       "max": 5,
-      "reason": ""
+      "reason": "Question 151: 2 correct answers marked (@@) — must be exactly 1"
     },
     "17 module 2026/B2/M3. ELECTRICAL FUNDAMENTALS.txt": {
       "valid": true,
@@ -456,11 +456,11 @@
       "reason": ""
     },
     "17 module 2026/B2/M7. MAINTENANCE PRACTICES.txt": {
-      "valid": true,
-      "violationType": null,
+      "valid": false,
+      "violationType": "answer_count",
       "min": 4,
-      "max": 4,
-      "reason": ""
+      "max": 5,
+      "reason": "Question 139: 2 correct answers marked (@@) — must be exactly 1"
     },
     "17 module 2026/B2/M8. BASIC AERODYNAMICS.txt": {
       "valid": true,
@@ -1445,16 +1445,16 @@
   },
   "folders": {
     "17 module 2026/B1": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "answer_count"
     },
     "17 module 2026/B2": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "line_count"
     },
     "17 module 2026": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "line_count"
     },
     "A320 theo (unfinished)": {
       "hasInvalid": true,

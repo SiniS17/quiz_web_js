@@ -1,0 +1,154 @@
+In the ATA 100 zonal system, the passenger entry door belongs to zone
+@@800
+500
+100
+
+ATA Zone 200 is
+@@The upper fuselage
+The door
+The lower fuselage
+
+Wing stations are measured
+@@Outboard from the fuselage centreline
+Outboard from the wing root
+Inboard from the wing upper surface
+
+Nacelle station (NC or Nac. Sta.) is
+@@Measured either forward of or behind the front spar of the wing and perpendicular to a designated water line
+Measured perpendicular to the rear beam of the wing and parallel to, and outboard from, the inboard edge of the flap
+Measured outboard from, and parallel to, the inboard edge of the aileron, perpendicular to the rear beam of the wing
+
+How to prevent lightning strike?
+@@Most components are bonding to make them the same potential level ellectrically
+Using the metal tube to catch the lighning strike and discharge via static wicks
+Using more antennas to collect the linghning strike and discharge via static wicks
+
+How many ohms of resistance are there between the mount and the airframe for current flow exist?
+@@0.1
+1
+0.01
+
+What is the function of the static discharger on the aircraft?
+@@It reduces the radio receiver interference.
+It prevents aircraft from lightning strike.
+It makes the aircraft electric current stable.
+
+A frame station 137 means that the frame is located:
+@@137 inches behind the aircraft nose.
+137 cm behind the aircraft nose.
+137 cm from the aircraft center line.
+
+The landing gear door belongs in zone:
+@@700 - Landing gear.
+100 - Lower fuselage.
+800 - Door.
+
+A struss-type fuselage consists of:
+@@Members, longerons, and fabric.
+Formers, bulkhead, and skin.
+Frames, stringers, and skin.
+
+How many stresses to which all aircraft are subjected?
+@@Five
+Six
+Four
+
+When aircraft is in-flight, the rivets on skin plates will be subject to:
+@@Share.
+Tension.
+Compression.
+
+The primary strcuture are
+@@Wings spars, frames, engine mounts,…
+Wings ribs, stringers, tie rods, …
+Farings, fillets, brackets,…
+
+What is the tertiary?
+@@The tertiary is lightly stressed structure that is fiited to the aircraft for various reason like as fairings, fillets,…
+The tertiary is all non primary strcuture portions of the aircraft which has integral structural important.
+The tertiary is any portion of the aircraft structure that, if it fail, would likely cause any of the unwanted incidents or accidents.
+
+Shear stress is described as
+@@Slip away under the action of forces
+Compressing forces
+Pulling forces
+
+Tension is the stress of
+@@Elongating or stretch
+Crush or compression
+Twisting
+
+What is the torsion?
+@@Torsion is the stress that produces twisting
+Torsion is the stress that resists a crushing force
+Torsion is a combination of compression and tension
+
+Which of the following is secondary structure?
+@@Stringer
+Skin
+Panel
+
+In semi-monocoque construction, compression loads are taken by
+@@Stringers
+Bulkheads
+Frames
+
+Most large transport aircraft skins are
+@@2024
+7075
+5056
+
+In a monocoque structure, which component carries the majority of the loads?
+@@Skin
+Longerons
+Stringers
+
+Skin panels may be strengthened by
+@@Stringers
+Cleats
+Struts
+
+A pylon structural member supports the
+@@Engines
+Empennage
+Wings
+
+What is the bending stress?
+@@Bending stress is a combination of compression and tension
+Bending stress is the stress on the airframe structural components caused by pressurization
+Bending stress is the stress that resists a force that tends to pull something apart
+
+How many type of the airframe structure in general?
+@@Two
+Four
+One only
+
+For old light aircraft, its type of  the fuselage frame is
+@@Truss
+Monocoque
+Semi-monocoque
+
+For modern aircraft, its type of the fuselage frame is
+@@Semi-monocoque
+Truss
+Stringers
+
+To increase the rigidity of the fuselage structure, using ...
+@@Beams
+Rivets
+Spaces
+
+Stringers are used in which of the following types of aircraft fuselage contruction?
+@@Semi-monocoque
+Monocoque
+Truss
+
+How can wings, empennage and engine to attach to the fuselage?
+@@Typically, by special pins and bolts
+Typically, by rivets and bonding
+Typically, by welding and rivets
+
+What is the purpose of pylon?
+@@Its used to attached the engines
+Its used to attached the wings
+Its used to attached the landing-gear

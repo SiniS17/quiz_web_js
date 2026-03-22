@@ -1,0 +1,130 @@
+Which component is typically used for addressing passengers in the cabin?
+@@Passenger Address system.
+Cabin interphone.
+External camera.
+
+What is the purpose of cabin systems in aircraft?
+@@To communicate within the cabin and between the cabin and cockpit.
+To store fuel for the aircraft.
+To control the aircraft's altitude.
+
+Which of the following is a part of the cabin intercommunication data system?
+@@Flight attendant panels.
+In-flight entertainment computer.
+Wireless network router.
+
+What is the primary purpose of cabin Wi-Fi on an aircraft?
+@@To allow passengers to connect their personal devices to the onboard system.
+To replace the cockpit communication system.
+To monitor cabin management systems remotely.
+
+What is the primary use of the cabin interphone system?
+@@To facilitate communication among crew members and passengers.
+To monitor external communications.
+To provide internet access to passengers.
+
+Which of the following is a feature of the cabin intercommunication data system?
+@@It allows flight attendants to communicate with each other.
+The system only allows the captain to communicate with the chief flight attendant.
+It provides  data to passengers (Examples include movies, music, flight attendant announcements,
+
+
+What are the advantages of using digital systems in the cabin network service?
+@@Reduced interference and increased data transfer speed.
+Greater reliance on analog technology.
+Simpler installation procedures.
+
+What is the purpose of moving map displays in the cabin?
+@@To show the aircraft's current location and altitude.
+To control in-flight entertainment options.
+To communicate with ground stations.
+
+How does the cabin monitoring system assist flight attendants?
+@@It provides real-time updates on cabin conditions.
+It helps them choose in-flight entertainment.
+It reduces the need for passenger interaction.
+
+What is one major consideration for installing Wi-Fi in aircraft?
+@@Limited bandwidth for all passengers.
+Unlimited internet access for every passenger.
+Enhanced mechanical control systems.
+
+What is the primary limitation of ground-based communication systems?
+@@Limited range due to reliance on radio towers.
+High costs compared to satellite systems.
+Incompatibility with modern aircraft routers.
+
+How can cabin systems integrate to provide a seamless passenger experience?
+@@By allowing passengers to access IFE through the cabin network.
+By separating entertainment from communication services.
+By limiting access to essential services only.
+
+How does the cabin network service enhance the passenger experience during a flight?
+@@By providing internet access and in-flight entertainment options.
+By monitoring cabin pressure and temperature.
+By ensuring safety regulations are met during takeoff.
+
+How does the cabin network service integrate with other aircraft systems?
+@@It connects to IFE and internet services for passenger use.
+It connects internet services for passenger use.
+It connects form  IFE to Cabin Management System (CMS)
+
+What impact does the cabin network service have on in-flight entertainment?
+@@It allows for integration of IFE and internet services.
+It controls the cabin lighting systems.
+It ensures passenger safety during turbulence.
+
+How does the cabin network service enable passenger connectivity?
+@@By providing access to email and internet services while in flight.
+By managing cabin crew communication devices.
+By directly connecting to the device mounted on the seat.
+
+Why is the cabin systems management unit (CSMU) essential in modern aircraft?
+@@It coordinates data flow between the cabin intercommunication and IFE systems.
+It coordinates data flow between the cabin intercommunication and  Cabin Management System
+It monitors passenger baggage.
+
+Why is ground-based communication generally faster than satellite-based communication?
+@@Ground-based systems have wider bandwidth and shorter transmission distances.
+Ground-based systems use optical fiber.
+Satellite-based systems require larger antennas.
+
+What advantages does the Iridium satellite system offer for aircraft communication?
+@@It provides worldwide coverage with minimal voice/data delay.
+It operates exclusively within specific geographical areas.
+It offers faster speeds than all ground-based systems.
+
+How does the cabin mass memory system play a role in updating in-flight entertainment options?
+@@It can be programmed with new content regularly.
+It requires manual updates after each flight.
+It has no role in entertainment updates.
+
+How do cabin monitoring systems assist flight attendants?
+@@By providing real-time information about cabin conditions.
+By providing passengers with the most accurate arrival time information.
+By storing passenger data.
+
+How might cabin systems affect passenger satisfaction in airlines?
+@@By providing modern in-flight entertainment and communication.
+By limiting access to in-flight services.
+By increasing the complexity of cabin controls.
+
+What are the primary advantages of using Wi-Fi systems in aircraft cabins?
+@@They provide higher speed and better accessibility to dat.
+They eliminate the need for cabin crew.
+Help passengers access more movies and music.
+
+What benefits do Wi-Fi systems provide to passengers during a flight?
+@@They allow for easier and faster access to data and information.
+Help passengers access flight information accurately through the Wi-Fi.
+They limit passenger access to entertainment options.
+
+What is the typical bandwidth of a ground-based aircraft Wi-Fi system?
+@@10 Mbps for the entire aircraft.
+100 Mbps for each passenger.
+50 Mbps for dual modems.
+
+Why is Wi-Fi on aircraft described as still being in the development phase?
+@@It does not yet meet commercial or technological expectations.
+It lacks compatibility with most personal devices.
+It only works on retrofitted aircraft.

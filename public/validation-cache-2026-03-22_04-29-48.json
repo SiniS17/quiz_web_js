@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-22T04:44:09.567Z",
-  "filename": "validation-cache-2026-03-22_04-44-09.json",
+  "generated": "2026-03-22T04:29:48.344Z",
+  "filename": "validation-cache-2026-03-22_04-29-48.json",
   "config": {
     "MAX_CONSECUTIVE_LINES": 5,
     "MIN_CONSECUTIVE_LINES": 3,
@@ -50,11 +50,11 @@
       "reason": ""
     },
     "17 module 2026/B1/M11.12. ATA 30.txt": {
-      "valid": true,
-      "violationType": null,
+      "valid": false,
+      "violationType": "answer_count",
       "min": 4,
-      "max": 4,
-      "reason": ""
+      "max": 5,
+      "reason": "Question 48: 2 correct answers marked (@@) — must be exactly 1"
     },
     "17 module 2026/B1/M11.13. ATA 32.txt": {
       "valid": true,
@@ -239,237 +239,6 @@
       "reason": ""
     },
     "17 module 2026/B1/M9. HUMAN FACTORS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M1. MATHEMATICS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M10. AVIATION LEGISLATION.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.1.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.10. ATA 45.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.11. ATA 21.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.12. ATA 26.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.13. ATA 28-47.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.14. ATA 29.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.15. ATA 30.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.16. ATA 32.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.17. ATA 35.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.18. ATA 36.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.19. ATA 38.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.2. Structures — General Concepts.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.20. ATA 42.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.21. ATA 44.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.22. ATA 46.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.3. ATA 22.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.4. ATA 23-34.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.5. ATA 24.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.6. ATA 25.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.7. Flight Controls.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.8. ATA 31.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M13.9. ATA 33.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M14. PROPULSION .txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "17 module 2026/B2/M2. PHYSICS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "17 module 2026/B2/M3. ELECTRICAL FUNDAMENTALS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M4 LECTRONICS FUNDAMENTALS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M5. DIGITAL TECHNIQUES-ELECTRONIC INSTRUMENT SYSTEMS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 5,
-      "reason": ""
-    },
-    "17 module 2026/B2/M6. MATERIALS AND HARDWARE.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M7. MAINTENANCE PRACTICES.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M8. BASIC AERODYNAMICS.txt": {
-      "valid": true,
-      "violationType": null,
-      "min": 4,
-      "max": 4,
-      "reason": ""
-    },
-    "17 module 2026/B2/M9. HUMAN FACTORS.txt": {
       "valid": true,
       "violationType": null,
       "min": 4,
@@ -1445,16 +1214,16 @@
   },
   "folders": {
     "17 module 2026/B1": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "answer_count"
     },
     "17 module 2026/B2": {
       "hasInvalid": false,
       "violationType": null
     },
     "17 module 2026": {
-      "hasInvalid": false,
-      "violationType": null
+      "hasInvalid": true,
+      "violationType": "answer_count"
     },
     "A320 theo (unfinished)": {
       "hasInvalid": true,

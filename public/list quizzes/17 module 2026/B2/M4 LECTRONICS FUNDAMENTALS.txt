@@ -1,0 +1,764 @@
+Which element is the most widely used material in semiconductor devices?
+@@Silicon
+Gallium
+Carbon
+
+What is the outermost orbital shell of an atom called?
+@@Valence shell
+Core shell
+Electron cloud
+
+What is the process of adding impurities to silicon called?
+@@Doping
+Melting
+Crystallization
+
+In N-type material, what are considered the majority carriers?
+@@Electrons
+Holes
+Neutrons
+
+What is the main reason that solid-state devices are more reliable in avionics compared to vacuum tubes?
+@@They are less prone to failure due to long life and resilience in extreme conditions.
+They have a cathode heater that prevents damage in harsh environments.
+They can dissipate more power while using higher operating voltages.
+
+How does Electro-Static Discharge (ESD) damage a semiconductor component?
+@@By generating excess heat that breaks down the dielectric material inside the component.
+By grounding the semiconductor, causing it to stop functioning temporarily.
+By inducing a current that temporarily overloads the semiconductor’s circuits.
+
+What are compound semiconductors and how are they formed?
+@@They are synthesized from two or more elements from groups II through VI of the periodic table.
+They are naturally occurring semiconductors formed from groups IV and V elements of the periodic table.
+They are a combination of silicon and germanium used for high-speed semiconductor devices.
+
+How does the number of electrons in an atom's valence shell affect its electrical properties?
+@@Atoms with an incomplete valence shell tend to have free electrons that move easily between atoms.
+Atoms with an incomplete valence shell tend to resist the flow of electrons, making them good insulators
+Atoms with a full valence shell tend to have free electrons that move easily between atoms.
+
+What is a covalent bond in the context of electron behavior in valence shells?
+@@A bond where two or more atoms share valence electrons to complete their valence shells.
+A bond where electrons are transferred from one atom to another, creating free electrons.
+A bond formed when atoms have a full valence shell, making them chemically stable.
+
+Which of the following describes the movement of electrons in N-type semiconductors?
+@@Electrons move from valence shell to valence shell, and holes are the minority carriers.
+Electrons move from hole to hole, and electrons are the minority carriers.
+Holes move from valence shell to valence shell, and electrons are the minority carriers.
+
+What is the difference between electron movement and hole movement in P-type material?
+@@Electrons move through a series of holes, while holes appear to move in the opposite direction of electron flow.
+Electrons move to the right while holes move to the left.
+Holes move to the right as they gain electrons, and electrons are stationary.
+
+How does a semiconductor diode function as a rectifier when AC current is applied?
+@@Current flows during one cycle of the sine wave but not during the other cycle
+It allows current to flow continuously in both directions
+It blocks both halves of the AC cycle
+
+How can a diode’s parameters be checked?
+@@By consulting the manufacturer’s specification or data sheet
+By checking the diode’s color and packaging
+By measuring resistance with a digital voltmeter
+
+How can the forward current in a diode be limited?
+@@Connecting a resistor in series with the diode
+Connecting a resistor in parallel with the diode
+Connecting a capacitor in parallel with the diode
+
+What is the term for the highest average amount of current that a diode can conduct in the forward- biased condition without being damaged?
+@@Maximum Forward Current
+Zener Breakdown Current
+Reverse Leakage Current
+
+What is the Maximum (Peak or Surge) Forward Current (IFSM) of a diode?
+@@The highest forward current the diode can briefly withstand as a pulse without damage
+The maximum reverse current the diode can block before failing
+The continuous current rating for standard forward-biased operation
+
+What is the term for the highest voltage a diode can withstand in reverse bias without breaking down or being damaged?
+@@Maximum Reverse Voltage (VR)
+Forward threshold voltage drop
+Maximum Forward Voltage Drop
+
+What is the Maximum Reverse Current (IR) in a semiconductor diode?
+@@The small leakage current that flows during reverse bias
+The highest current allowed during forward bias
+The surge current during diode breakdown
+
+What does the reverse recovery time (trr) of a diode refer to?
+@@The time it takes for a diode to "turn off "after it switches from being forward-biased to reverse- biased
+The time required for a diode to start conducting in forward bias
+The time it takes to heat the diode to its maximum junction temperature
+
+What does Total Power Dissipation refer to in a semiconductor diode?
+@@The maximum power  the diode can safely dissipate as heat when conducting in forward bias
+The heat generated due to leakage current in reverse bias
+The amount of energy stored in the diode’s junction during operation
+
+What does the first number in a diode’s device code indicate?
+@@Indicates the number of junctions in the semiconductor device
+Indicates the size of diode
+Indicates the maximum current flow
+
+In a diode code like 1N4148, what does the letter "N" represent?
+@@A semiconductor device
+A diode with negative polarity
+A non specific diode
+
+In a diode code like 2N2222M, what does the letter "M" represent?
+@@Describe matching pairs of separate semiconductor devices
+A diode with modified voltage drop characteristics
+A metal-encapsulated diode for mechanical durability
+
+In a diode code like 2N2152R, what does the letter "R" represent?
+@@Indicate reverse polarity
+Indicate the device has reduced power dissipation
+Indicate the device is a resistor-integrated diode
+
+Where are standard color code bands placed on a diode?
+@@On the cathode end of the diode
+Near the center of the diode
+On the anode end of the diode
+
+What is a common use of a Zener diode in an electronic circuit?
+@@To drop or regulate voltage at a specific level
+To reverse the polarity of the circuit
+To amplify input current
+
+What is the primary purpose of a signal diode in an electronic circuit?
+@@To handle high-frequency in the digital circuits
+To regulate voltage in power supplies
+To convert AC to DC in high-current applications
+
+How does light energy enable current flow in a photodiode?
+@@Photons striking the semiconductor free electrons, creating electron-hole pairs that allow current to flow in the depletion region
+When a photon strikes a semiconductor atom, it reduce the energy level  what is needed to hold its electrons in orbit
+The light generates heat, which reduces the diode's resistance between the PN junction and allowing current to flow
+
+What happens when electrons fall into the valence band in a light-emitting diode (LED)?
+@@They radiate energy, which may be released as light
+They generate magnetic fields that control current
+They absorb photons and increase in energy
+
+Which of the following characteristics best describes a Schottky diode compared to a conventional PN junction diode?
+@@It uses a metal-semiconductor junction with no charge storage, resulting in faster switching
+It is a bipolar device that operates with both electrons and holes
+It has a higher forward voltage drop and slower reverse recovery time than a standard diode
+
+What does it mean for a PN junction to be "unbiased"?
+@@No external voltage is applied to the junction.
+The current is flowing through the junction.
+A voltage is applied to the junction.
+
+What forms the depletion zone in an unbiased PN junction?
+@@Fixed positive and negative ions near the junction that do not move
+Holes that drift into the N-region
+Moving electrons and holes
+
+When a diode is forward biased, what happens to the depletion zone?
+@@It becomes narrower.
+It disappears completely.
+It becomes wider.
+
+In a forward-biased PN junction, what is the minimum voltage required for current flow to start in a silicon semiconductor?
+@@0.7 volts
+0.3 volts
+0.5 volts
+
+What occurs when a diode is reverse biased?
+@@The depletion zone widens.
+The potential hill decreases.
+Holes move toward the junction.
+
+What is the main effect observed in a reverse-biased PN junction?
+@@Wider depletion zone.
+Increased current flow.
+Reduced depletion zone.
+
+What is the significance of the maximum reverse voltage rating for a diode?
+@@It prevents PN junction breakdown.
+It indicates forward current capacity.
+It determines the maximum temperature.
+
+In the identification type 1N345A, what does the suffix letter "A" signify?
+@@The diode is an improved version.
+The diode has a higher current rating.
+The diode is a standard version.
+
+In a seven-segment display, how is the number "9" produced when using a common-anode configuration?
+@@By applying negative voltage to all cathodes except LED "E."
+By applying voltage to the common anode
+By connecting all segments together.
+
+Why is the Schottky diode particularly suited for high-frequency applications?
+@@It has no depletion zone or charge storage, resulting in faster switching times.
+It has a higher forward voltage drop compared to silicon diodes.
+It can handle higher reverse voltages than traditional diodes.
+
+How does the capacitance of a varactor diode change with applied reverse bias voltage?
+@@It decreases with an increase in reverse bias.
+It remains constant regardless of reverse bias.
+It increases with an increase in reverse bias.
+
+In a double-end clipper circuit, what happens when the AC input voltage exceeds the limits set by VB1 and VB2?
+@@Diode D1 conducts if the input exceeds VB1, and D2 conducts if it exceeds VB2
+Both diodes conduct, clipping the output
+The circuit becomes an open circuit
+
+In a half-wave rectifier circuit, when is the diode forward biased?
+@@When the AC sine wave is positive
+When the AC sine wave is negative
+When there is no voltage applied
+
+What happens to the depletion region in a varactor diode when it is forward biased?
+@@The depletion region narrows, reducing junction resistance and allowing a large current to flow
+The bias voltage is stored as charge in the junction, increasing capacitance
+The depletion region widens, increasing junction resistance and blocking current flow
+
+What is the primary function of the base terminal in a Bipolar Junction Transistor (BJT)?
+@@To control the current flow between the collector and emitter
+To provide thermal management for the transistor
+To connect the transistor to the internal and external circuit
+
+Why might two different ohmmeters provide varying resistance readings when testing the same transistor?
+@@Different meters use varying current levels and internal resistances
+Ohmmeters can only detect open or short circuits, not resistance values
+Transistor polarity changes based on the meter used
+
+What is the basic structure of a transistor made from semiconductor materials?
+@@Two P-type layers with an N-type layer in between or vice versa
+A combination of metallic and ceramic materials
+A single layer of N-type semiconductor material
+
+What is formed at the junctions of P-type and N-type semiconductor materials in a transistor?
+@@Depletion regions that create potential barriers for charge flow
+Depletion regions that create magnetic barriers that resist voltage
+Depletion regions that assist electron movement
+
+How many terminals does a transistor have?
+@@3
+2
+4
+
+How does a transistor behave when operating in the active region between cut-off and saturation?
+@@It amplifies the input signal
+It acts like a closed switch
+It blocks all current flow
+
+When does a transistor act like a switch?
+@@When it is operating in the saturation region
+When it is operating in the cut-off region
+When it is operating in the active region
+
+What are transistors with two junctions of P-type and N-type materials called?
+@@Bipolar Junction Transistors (BJT)
+Field Effect Transistors (FET)
+Insulated Gate Bipolar Transistors (IGBT)
+
+In a round transistor case, how can the collector be identified?
+@@It is connected to the metal case or marked with a color dot
+It is the longest lead among the three
+It is always the far-right lead
+
+In an oval transistor case,  how is the collector lead identified?
+@@It has the widest spacing from the other two leads
+It has a dot above it
+It is the shortest lead
+
+What does a short lead on a transistor often indicate?
+@@Emitter
+Collector
+Base
+
+In a TO-5 case used for a conventional power diode, where is the collector lead located?
+@@As part of the mounting base
+Marked by a notch on the case
+It is the middle lead
+
+What is a Shockley diode?
+@@A diode with four layers and three junctions.
+A diode that requires no applied voltage to operate.
+A diode with three junctions and two transistors.
+
+What happens to the emitter-base depletion area of a BJT when voltage is applied to the base?
+@@The depletion area narrows, enabling current to flow from the collector to the emitter.
+The depletion area widens, allowing more current to flow through the transistor.
+The depletion area disappears, creating a direct path for current flow.
+
+How does the configuration of electrodes in a UJT affect its operation?
+@@The voltage applied to the emitter must exceed the voltage at a specific point on the base for current to flow.
+The placement of electrodes does not influence the current flow through the device.
+The electrodes need to be connected to a collector to function properly.
+
+What distinguishes enhancement mode MOSFETs from depletion mode MOSFETs?
+@@Enhancement mode MOSFETs create a channel with applied gate voltage.
+Enhancement mode MOSFETs allow current flow without a gate voltage.
+Depletion mode MOSFETs are always on without voltage.
+
+What is a key advantage of using a triac over an SCR?
+@@It allows current flow in both directions.
+It can operate only at low voltage levels.
+It requires a continuous power supply to operate.
+
+How does the gate trigger current flow in a triac?
+@@By applying a positive or negative pulse to the gate terminal.
+By applying a positive or negative pulse to the gate terminal.
+By maintaining a constant voltage at the output.
+
+Which statement is true regarding the common-collector configuration?
+@@It is often referred to as an emitter-follower.
+It has low input resistance and high output resistance.
+It provides the highest power gain among configurations.
+
+What is the primary characteristic of Class A amplifiers?
+@@They provide the best fidelity with minimal distortion.
+They only amplify the negative portion of the input signal.
+They operate for only 50 percent of the input signal.
+
+How does a Class B amplifier differ from a Class A amplifier?
+@@It reproduces only the negative portion of the input signal.
+It is less efficient than Class A amplifiers in operation.
+It operates for 100 percent of the input signal.
+
+What is a key advantage of Class C amplifiers?
+@@They have greater efficiency compared to Class A and AB amplifiers.
+They are commonly used for continuous signal reproduction.
+They produce signals with high fidelity and low distortion.
+
+What is the main advantage of using cascade amplifiers in a circuit?
+@@To achieve higher voltage gain through multiple stages.
+To stabilize the circuit's power consumption.
+To amplify multiple input signals at once.
+
+How does direct coupling affect the frequency response of an amplifier circuit?
+@@It provides a stable frequency response due to the absence of capacitors.
+It increases the frequency response by using fewer reactive components.
+It decreases the frequency response by using inductive components.
+
+What is the role of the transformer in the output stage of a push-pull amplifier?
+@@To combine two out-of-phase signals into one amplified sine wave output signal.
+To reduce harmonic distortion and provide input signals for the transistors.
+To provide a stable power supply for both transistors to operate simultaneously.
+
+What is one of the main disadvantages of a push-pull amplifier?
+@@It requires a well-regulated power supply and cannot use self-biasing.
+It must operate with continuous current and requires a high-power supply.
+It has low signal distortion but requires more complex components.
+
+What is the main purpose of automatic bias control in oscillator circuits?
+@@To maintain constant amplitude by reducing gain when oscillations increase.
+To provide a strong feedback signal and ensure continuous oscillations.
+To increase the amplitude of oscillations and stabilize frequency.
+
+What is the key distinguishing feature of the Colpitts oscillator compared to the Hartley oscillator?
+@@The Colpitts oscillator uses a voltage divider made of two capacitors for feedback.
+The Colpitts oscillator uses automatic bias control to stabilize the frequency.
+The Colpitts oscillator uses a DC-blocking inductor in the feedback loop.
+
+In an astable multivibrator, what determines the time period of each switching state?
+@@The RC time constant of the resistor-capacitor networks.
+The type of transistors used in the circuit.
+The frequency of the power supply
+
+What is the primary characteristic of Class A amplifiers?
+@@They provide the best fidelity with minimal distortion.
+They only amplify the negative portion of the input signal.
+They operate for only 50 percent of the input signal.
+
+What can the movement of electrons and holes in a semiconductor be considered as?
+@@Current
+Voltage
+Resistance
+
+What causes the emitter-base depletion region to narrow in a PNP resistor?
+@@Voltage from the emitter-base battery forcing electrons and holes together
+Voltage from the emitter-base battery accumulate holes in the collector
+Voltage from the emitter-base battery accumulate holes in the emiter
+
+What happens to the emitter-base depletion region when base voltage is removed?
+@@It becomes too wide and stops current flow
+It becomes very narrow and allows more current to flow
+It becomes very narrow and stops current flow
+
+What base does the binary numbering system use?
+@@2
+3
+4
+
+How many binary digits (bits) are used to form a BCD word?
+@@4
+8
+2
+
+Which of the following is the binary equivalent of 151
+@@10010111
+11010011
+10101101
+
+Which of the following represents the Binary-Coded Decimal (BCD) for the decimal number 9?
+@@1001
+10001001
+11111
+
+How do you convert a binary number to a decimal number?
+@@Add the decimal values of the columns that contain a 1
+Subtract the binary digits from the decimal system
+Multiply each binary digit by 2 and add the results
+
+What is the BCD representation of the decimal number 264?
+@@0010 0110 0100
+1001 1000 1100
+0110 0101 0010
+
+In the binary numbering system, what do the digits 0 and 1 represent?
+@@On and off states
+Open and closed valves
+Positive and negative charges
+
+In the binary number system, what happens when the digit 1 is exceeded in a place value?
+@@The place value resets to 0, and a 1 is placed in the next column to the left
+The number stays the same
+The binary number becomes a decimal number and The digit 2 is used instead of resetting
+
+Why is the binary system used in computers and digital electronics?
+@@Because computers use millions of tiny switches that can be ON or OFF
+Because binary numbers can be easily converted to decimal
+Because it is simpler than the decimal system
+
+What is the first step when converting a decimal number to a binary number?
+@@Find the largest binary place value less than or equal to the decimal number
+Divide the decimal number by 2 and Add all the binary digits together
+Multiply the decimal number by the largest binary digit
+
+What is the least significant bit (LSB) in a binary number?
+@@The bit with the smallest weight, on the far right
+The bit with the highest value
+The bit that alternates every 4 times
+
+What is the standard operating voltage for Transistor-Transistor Logic (TTL ) circuits?
+@@+ 5V
++ 12V
++ 9V
+
+What component is used in digital electronics to construct logic gates?
+@@Transistors
+Capacitors
+Resistors
+
+What does a NOT gate do to its input?
+@@Inverts the input signal
+Outputs the same value
+Subtracts 1 from the input
+
+What must be true for an AND gate to output a Logic 1?
+@@Both inputs must be Logic 1
+At least one input must be Logic 1
+Either input must be Logic 0
+
+What characterizes a linear circuit?
+@@The output is directly proportional to the input
+The circuit contains only nonlinear components
+The output is not proportional to the input
+
+According to Moore's Law, how often is it predicted that the processing speed of integrated circuits will double?
+@@Every 18 months
+Every 24 months
+Every 12 months
+
+What is the primary function of a flip-flop circuit?
+@@To store a bit of data
+To subtract binary numbers
+To amplify signals
+
+What is the typical open-loop gain of a 741 op-amp when operated with a +/-15 volts power
+@@200
+10
+50
+
+In a free-running multivibrator circuit, what determines the frequency of the output square wave?
+@@The values of the resistors and the capacitor
+The type of operational amplifier used
+The input voltage levels and the supply voltage
+
+In a differentiator circuit, where is the capacitor placed relative to the operational amplifier?
+@@At the input of the amplifier
+In parallel with the input resistor
+In the feedback loop
+
+Which type of integrated circuit contains between 100 to 3,000 electronic components?
+@@Medium-Scale Integration (MSI)
+Large-Scale Integration (LSI)
+Very-Large-Scale Integration (VLSI)
+
+In a 3-line to 8-line decoder like the 74138 chip, how many outputs are possible?
+@@8
+16
+24
+
+How does the 74147 encoder differ from a standard encoder?
+@@It uses a priority scheme for inputs
+It only encodes binary numbers
+It produces an output signal for all inputs
+
+What is the key advantage of a JK flip-flop over an RS flip-flop?
+@@It has no disallowed input combinations
+It allows for multiplication of binary numbers
+It operates without a clock pulse
+
+How does an XOR gate differ from an OR gate?
+@@An XOR gate excludes a Logic 1 output when both inputs are Logic 1
+An XOR gate outputs Logic 1 when both inputs are Logic 1
+An XOR gate requires only one input for a Logic 1 output
+
+How many possible input combinations result in a Logic 1 output in an AND gate with two inputs?
+@@1
+None
+2
+
+If the input to a NOT gate is Logic 1 (voltage present), what is the output?
+@@Logic 0
+Same as input
+It depends on the circuit
+
+What is the primary purpose of a logic gate in a digital circuit?
+@@To manipulate voltage signals based on binary logic
+To convert binary numbers to decimal
+To amplify signals and store information
+
+When does an XOR gate output Logic 1?
+@@When one and only one input is Logic 1
+When at least one input is Logic 0
+When both inputs are Logic 1
+
+In an RS flip-flop, what happens when both inputs (R and S) are Logic 1?
+@@The flip-flop remains in a "remember" state
+The flip-flop toggles between 1 and 0
+The flip-flop outputs Logic 1 on both Q and Q'
+
+Which components are typically used to build a NOT gate in a circuit?
+@@Transistors and resistors
+Diodes and capacitors
+Inductors and resistors
+
+What is an example of AND logic in an autopilot system?
+@@The autopilot engages when all necessary conditions are met
+The autopilot operates regardless of system conditions
+The autopilot engages if any one condition is met
+
+What is the common thickness of a standard PCB?
+@@1/16 inch (1.5 mm)
+1/8 inch (3 mm)
+1/4 inch (6 mm)
+
+In a single-layer PCB, where are the electronic components mounted?
+@@On the opposite side of the copper traces
+On the same side as the copper traces
+Only on the edge of the board
+
+What is Electrostatic Discharge (ESD)?
+@@The transfer of electrostatic charges between bodies at different potentials.
+The accumulation of electrical energy in a circuit when grounding electronic components.
+The insulation of components to prevent electric shock.
+
+In the PCB manufacturing process, what is used to remove unwanted copper from the board?
+@@Photo-sensitive chemical process
+Laser cutting or High-pressure water jet
+Mechanical drilling or High-pressure water jet
+
+What is a key difference between plated-through holes and non-plated through holes in PCB manufacturing?
+@@Plated-through holes have copper inside the insulating board material.
+Plated-through holes are less expensive to manufacture
+Non-plated holes provide better electrical conductivity and more mechanically stable
+
+Which of the following soldering techniques is commonly used in high-volume manufacturing of double-layered PCBs?
+@@Flow soldering
+Hand soldering with soldering irons
+Wave soldering
+
+How should ESD sensitive components be packaged for transport?
+@@In an electrostatic shielded conductive bag
+in a regular plastic bag and wrapped in a shock-resistant layer
+In a cardboard box or a metal container
+
+What should be connected to the anti-static floor and table-top mats to ensure safety?
+@@A 1 megaohm resistor connected to ground.
+A power supply connected to A light indicator
+A voltage meter connected to the anti-static floor and table-top mats
+
+At what humidity level can a person generate up to 35,000 volts of static electricity by simply walking across a carpet?
+@@20% relative humidity.
+50% relative humidity
+80% relative humidity
+
+What challenge is associated with high-frequency applications in multi-layer PCB designs?
+@@Unintended capacitive and inductive coupling between layers
+Mechanical instability of the board and increased cost of manufacturing
+Difficulty in soldering components, so increased cost of manufacturing
+
+What technology evolved to improve the electrical properties and mechanical stability of PCBs?
+@@Plated-through hole technology
+Through-hole technology
+Flexible PCB technology
+
+What is a via in the context of multi-layer PCBs?
+@@A conductive path connecting different layers of the PCB.
+A hole used for mounting surface-mounted components.
+A special type of electronic component used in circuits.
+
+What is an open-loop system?
+@@A system that does not have any feedback mechanism.
+A system that continuously adjusts its output based on input.
+A system that includes a follow-up error detector
+
+What type of motion does a Rotary Variable Differential Transducer (RVDT) measure?
+@@Rotational motion
+Vertical motion.
+Horizontal motion.
+
+What is a synchro system primarily used for?
+@@To transmit information from one point to another.
+To amplify electrical signals before they are compared to each other.
+To store electrical energy  used for moving parts
+
+In a capacitance transmitter, the amount of fuel is determined by:
+@@The dielectric constant of the material between the plates
+The distance between the plates
+The length of capacitance transmitter
+
+In the context of aircraft flight controls, why are open-loop systems not used?
+@@They do not account for environmental changes that affect performance.
+They can achieve the desired control surface settings reliably
+They provide a feedback signal to the controller, so they are too complex for flight safety
+
+What role does the error detector (follow-up) play in a closed-loop system?
+@@It measures the output and adjusts the input accordingly
+It shuts down the system when the output matches the input.
+It increases the voltage of input signal  to the servomotor
+
+What characteristic of variable coupling transducers makes them reliable for long-term operation?
+@@They have only an inductive connection between the primary and secondary coils.
+They generate high output voltages on the primary and secondary coils.
+They operate based on a direct electrical connection between the primary and secondary coils.
+
+What distinguishes AC synchro systems from DC synchro systems?
+@@AC systems use electric induction, while DC systems use resistance current flows.
+DC systems require more power than AC systems.
+DC systems are more refined than AC systems.
+
+How does a Torque Differential Transmitter (TDX) operate?
+@@It accepts two position inputs and outputs their sum.
+It compares signals and outputs a lower value.
+It compares signals and outputs a higher value.
+
+How does the position of the I-shaped bar affect the inductance transmitter's output?
+@@It changes the voltage induced in the secondary coils.
+It increases the magnetic field strength in the circuit.
+It maintains  voltage output lower than a constant value.
+
+What is the term for the interval where no output is present in a transducer?
+@@Deadband
+Feedback loop
+Stability range
+
+What is one factor that affects the stability of servomechanisms?
+@@Gear train stiffness
+Color of components
+Input voltage
+
+How does a Linear Variable Differential Transducer (LVDT) provide feedback to the controller?
+@@By changing the voltage induced in two secondary coils as the core moves.
+By canceling out induced voltages from two secondary coils as the core moves.
+By converting AC signals to DC signals  in two secondary coils as the core moves.
+
+What does a DC selsyn system consist of?
+@@A transmitter, an indicator, and connecting wires.
+A receiver, an amplifier, and a power source.
+A control panel, a motor, and a switch
+
+DC selsyn systems are used in aircraft with:
+@@Direct current (DC) systems
+Alternating current (AC) systems
+Pneumatic systems
+
+What is the relationship between the output signal of an RVDT and the mechanical motion?
+@@The amplitude of the output signal is proportional to the rotor's angular position.
+The amplitude of the output signal is inversely proportional to the rotor's angular position.
+The output signal is a constant voltage regardless of motion.
+
+Which of the following is a common type of synchro system?
+@@DC Selsyn.
+AC Coupling.
+Digital Sync.
+
+What is the purpose of the damping device in a DC selsyn system?
+@@To prevent overshooting and undershooting.
+To enhance the magnetic field strength
+To provide additional voltage to the system.
+
+What do the outputs from the stator windings in a resolver represent?
+@@Sine and cosine functions
+Mechanical torque values
+Direct current voltage
+
+Which factors determine the amount of electricity a capacitor can store?
+@@Plate area, distance between plates, and dielectric constant
+Plate material, length, and width and the resistance
+Temperature, pressure, and voltage
+
+What common manufacturing defect can significantly distort the flux distribution in synchros?
+@@Air gap inaccuracies
+Electrical insulation
+Winding length
+
+Which design limitation in synchros causes deviations in the magnetic flux wave?
+@@Winding distribution
+Motor speed
+Gear material
+
+What happens when a null is not detected by the control transformer?
+@@An error signal is sent to a servo amplifier.
+The system shuts down completely.
+The indicator becomes unresponsive
+
+What shapes characterize the laminated core of an inductance transmitter?
+@@Capital letter "E" and "I"
+Hexagonal and octagonal
+Square and rectangular
+
+Which type of servomechanism includes a feedback system?
+@@Closed-loop servomechanism
+Open-loop servomechanism
+Timer-based control system
+
+In a closed-loop system, what is the purpose of the error detector?
+@@To calculate the difference between desired input and actual output
+To amplify the actual output signal
+To reduce the difference between desired input and actual output to zero
+
+What type of motion does anRotary Variable Differential Transformer (RVDT) measure?
+@@Angular motion
+Linear motion
+Vibration
+
+How does an RVDT generate an output signal?
+@@Through the motion of a rotor inside the electromagnetic field of the stator
+By converting DC to AC through a rectifier
+By varying resistance in a potentiometer
+
+What type of signal is applied to the primary coil of an RVDT?
+@@AC voltage
+DC voltage
+Pulsed DC
+
+What is the basic purpose of a synchro system in aircraft?
+@@Used in remote analog position-indicating instruments
+Used to switch between AC and DC power
+Used to measure voltage fluctuations
+
+How do AC synchros function?
+@@As rotary transformers
+As voltage regulators
+As variable resistors

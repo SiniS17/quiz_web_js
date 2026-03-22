@@ -1,0 +1,479 @@
+What is the main purpose of an aircraft fuel system?
+@@To provide an uninterrupted flow of contaminant-free fuel.
+To store backup fuel only.
+To monitor the engine temperature.
+
+What must every fuel system be designed to prevent?
+@@The introduction of air into the fuel system.
+The mixing of oil with fuel.
+The overconsumption of fuel.
+
+What is required in a multi-engine airplane fuel system?
+@@Independent tank outlets for each engine.
+A single fuel pump for all engines.
+No need for fuel shutoff valves.
+
+What is the purpose of a fuel flowmeter in an aircraft?
+@@To monitor the rate and pressure of fuel supplied to the engine.
+To check the fuel temperature.
+To adjust the speed of the aircraft.
+
+What must each fuel tank be able to withstand?
+@@Vibration, inertia, fluid, and structural loads.
+Extreme heat without melting.
+Sudden air pressure changes.
+
+How much expansion space must a fuel tank have?
+@@Not less than two percent of the tank capacity.
+Exactly one percent of the tank capacity.
+More than ten percent of the tank capacity.
+
+What is the purpose of a pressure fueling system on large aircraft?
+@@To prevent fuel from escaping if the fuel entry valve fails.
+To reduce the weight of the aircraft.
+To measure the temperature of the fuel.
+
+What are emergency fuel pumps designed to do?
+@@Supply fuel to the engine if the main pump fails.
+Monitor the engine’s speed.
+Check the fuel for contaminants.
+
+What do aircraft fuel lines need to be able to withstand?
+@@Fuel pressure and accelerated flight conditions.
+Extreme heat and sudden temperature drops.
+Engine exhaust gases.
+
+What is the role of fuel transfer systems in aircraft?
+@@To move fuel from one tank to another.
+To monitor the fuel level.
+To measure fuel temperature.
+
+What must an aircraft fuel system ensure during any likely operating condition?
+@@Proper fuel flow at a rate and pressure for engine and APU operation.
+Increased engine thrust.
+Minimized fuel consumption.
+
+What is the function of independent tank outlets in a multi-engine airplane?
+@@To provide fuel to each engine separately.
+To allow both engines to use the same fuel tank.
+To increase fuel flow rate.
+
+What tests must be performed to demonstrate proper fuel flow?
+@@Flow tests at the most critical aircraft attitude.
+Ground engine tests at idle speed.
+High-altitude performance tests.
+
+How does the fuel system prevent vapor lock during hot weather operations?
+@@By ensuring the system is free from vapor lock at critical temperatures.
+By cooling the fuel tanks.
+By using higher fuel pressure.
+
+Why is fuel tank expansion space required?
+@@To allow for fuel expansion without overfilling the tank.
+To store additional emergency fuel.
+To reduce fuel vapor pressure.
+
+What must be included in the design of a pressure fueling system to prevent fuel leaks?
+@@A means to prevent hazardous quantities of fuel from escaping.
+A system for increasing fuel flow pressure.
+A mechanism for reducing fuel tank capacity.
+
+What is the purpose of an emergency fuel pump in an aircraft?
+@@To supply fuel in case of main pump failure.
+To increase fuel efficiency.
+To store excess fuel.
+
+What must fuel lines be able to withstand in an aircraft?
+@@Vibration and loads from fuel pressure and flight conditions.
+Extremely high temperatures.
+Constant fuel freezing conditions.
+
+How does the fuel transfer system move fuel between tanks in an aircraft?
+@@By using fuel boost pumps to transfer fuel into a manifold and then into the desired tank.
+By manually switching between tanks.
+By gravity alone.
+
+How does the fuel system in an aircraft ensure uninterrupted fuel flow during all flight conditions?
+@@By being designed and arranged to provide the correct flow rate and pressure regardless of the aircraft's attitude.
+By using multiple fuel tanks that operate independently.
+By increasing engine performance during takeoff.
+
+In what ways do fuel tanks need to be designed to handle varying fuel loads and shifts in weight during flight maneuvers?
+@@The airframe must be strong enough to handle the weight shifts and not negatively affect control of the aircraft.
+The fuel tanks should be located in the center of the aircraft.
+The fuel tanks must have extra fuel to compensate for weight shifts.
+
+What safety measures must be in place to prevent a single fuel pump from drawing fuel from multiple tanks?
+@@The fuel system must include a mechanism to prevent air from entering the system and control fuel distribution.
+Each tank must have an individual pump.
+The fuel tanks must be placed far apart from each other.
+
+How do independent tank outlets ensure engine safety in a multi-engine aircraft using a single fuel tank?
+@@By providing separate fuel supply lines for each engine, reducing the risk of losing power to more than one engine.
+By allowing the pilot to manually switch between tanks.
+By controlling the flow of fuel based on engine speed.
+
+How does the fuel system in an aircraft maintain fuel flow during hot weather conditions?
+@@By preventing vapor lock through proper design and fuel flow testing at critical temperatures.
+By cooling the fuel tanks during flight.
+By increasing fuel pressure to prevent evaporation.
+
+What must be done to ensure fuel tanks remain operational during the entire flight spectrum?
+@@The tanks must be strong enough to handle vibration, inertia, fluid, and structural loads without failure.
+The tanks must be filled with only a specific type of fuel.
+The tanks should be manually checked before every flight.
+
+How do automatic shutoff systems prevent tank overfilling during pressure fueling?
+@@By automatically closing the fuel entry valve when the maximum fuel level is reached.
+By allowing fuel to bypass the filter.
+By increasing the flow of fuel during refueling.
+
+How are fuel pumps in an aircraft fuel system designed to operate safely without affecting engine performance?
+@@By preventing fuel flow disruptions regardless of the engine power setting.
+By switching automatically between main and auxiliary pumps during flight.
+By reducing fuel flow during descent.
+
+Why are fuel pumps required to have independent power supplies?
+@@To ensure the emergency pump remains operational if the main pump fails.
+To increase the speed of fuel transfer.
+To provide backup power for the cockpit instruments.
+
+How does a fuel transfer system prevent fuel from overfilling other tanks during in-flight fuel transfer?
+@@By using dedicated fuel transfer pumps and a check valve system.
+By manually switching the valves between tanks.
+By reducing fuel pressure during transfer.
+
+What are the safety precautions that must be taken when fueling or defueling an aircraft?
+@@Fueling must be done outside to prevent the accumulation of fuel vapors, and static electricity must be controlled.
+Fueling should be done in a hangar to minimize exposure to weather conditions.
+Fuel tanks must be cooled before fueling to prevent combustion.
+
+Why is it necessary to follow a prescribed sequence when fueling or defueling an aircraft?
+@@To prevent structural damage to the airframe.
+To increase the fuel flow rate during fueling.
+To prevent air from entering the fuel tanks.
+
+What should you do to move some fuel from this tank to others tanks?
+@@Transfer
+Refuelling
+Defueling
+
+Which component has to open during transfer fuel?
+@@The cross feed valve
+The float valve
+The dumping valve
+
+Which component to force fuel from this tank to others tanks?
+@@The boost pump
+High air pressure
+Vacuum pump
+
+What is the heart of the fuel supply system?
+@@The fuel feed system
+The fuel balancing system
+The fuel heating system
+
+What is purpose of the cross feed valve?
+@@It transfers fuel from this tank to other tank.
+It prevents the fuel leak
+It supplies fuel from main tank to APU
+
+Which component allows fuel flows from fuel line or fuel manifold to the desired tank?
+@@The refuel valves
+The cross feed valve
+The shut off valve
+
+Where is the commom location of the fueling station?
+@@At the leading edge wing
+At the wing tip area
+At the main landing gear area
+
+How prevent overfill during refueling?
+@@Closed the refuel valve by variuos automatic shutoff system
+By stop the fuel pump truck
+Monitoring the fuel overflow via over flow port by mechanic
+
+Where is the location to perform defueling?
+@@The same refueling station
+Next the refueling station
+In the nose landing gear bay
+
+Which valve be openned during defueling?
+@@The defuel valve
+The refuel valve
+The cross feed valve
+
+How can pump fuel out of the aircraft during defuelling?
+@@By the boost pump
+By the pneumatic pressure
+By gravity
+
+Where is the location for over the wing refueling?
+@@The fuel tank cap on the upper surface of the wing
+The same refueling station
+The fuel tank cap on the cargo compartment
+
+Which component is equipped with the fuel nozzle?
+@@The static bonding wires
+The high air pressure hose
+The over pressure valve
+
+Where can park the aircraft during defueling?
+@@At outside of the hangar
+In the hangar
+Any where
+
+Who can perform defueling?
+@@The authorized staff
+The fuel agent's staff
+Any one
+
+How can fuel contamination control be maintained throughout the aviation industry?
+@@Routine inspections, testing, and monitoring ensure clean fuel.
+Contamination control only applies to long-haul aircraft.
+Fuel system inspections are only necessary during overhauls.
+
+What kind of fuel filter is commonly used on turbine-powered aircraft?
+@@Micronic filters.
+Water filters.
+Gas filters.
+
+What is the purpose of a fuel temperature gauge?
+@@To monitor fuel temperature, especially at high altitudes.
+To measure fuel pressure.
+To show how much fuel is left in the tank.
+
+What do fuel heaters help prevent in turbine-powered aircraft?
+@@Ice formation in the fuel system.
+Overheating of the fuel.
+Air leaks in the fuel lines.
+
+How is fuel quantity indicated in modern aircraft?
+@@Using digital displays.
+By measuring air pressure.
+Using thermometers.
+
+How does lightning protection in a fuel system prevent fuel vapor ignition?
+@@By preventing direct lightning strikes or swept strokes from igniting fuel vapor.
+By using non-conductive materials.
+By reducing fuel flow during storms.
+
+How do cross-feed valves assist in fuel management?
+@@By allowing fuel from any tank to feed any engine.
+By increasing fuel flow to the nearest engine.
+By preventing fuel from flowing to the wrong engine.
+
+How does a fuel filter bypass system work during fuel system operation?
+@@It allows fuel to flow around a clogged filter.
+It shuts down the engine during fuel filter malfunctions.
+It increases fuel pressure to clean the filter.
+
+How does a capacitance fuel quantity indicator work in an aircraft?
+@@By measuring changes in capacitance in the tank due to fuel levels.
+By using mechanical floats to indicate fuel quantity.
+By measuring the temperature of the fuel.
+
+What is the purpose of a compensator unit in a capacitance fuel quantity system?
+@@To adjust for temperature variations in the fuel.
+To increase the fuel tank’s capacity.
+To control fuel flow during refueling.
+
+Why are boost pumps used during high altitude flights?
+@@To prevent vapor lock.
+To increase engine performance.
+To reduce fuel consumption.
+
+What is the main function of fuel flowmeters in turbine-powered aircraft?
+@@To measure fuel mass and ensure accurate fuel flow information.
+To increase engine efficiency.
+To reduce fuel temperature.
+
+How does a digital fuel flowmeter improve accuracy?
+@@By integrating temperature and compensating factors.
+By increasing fuel flow pressure.
+By measuring only the fuel quantity.
+
+How do thermal dispersion sensors measure fuel flow in modern aircraft?
+@@By measuring the cooling effect of fuel on heated elements.
+By using mechanical floats.
+By measuring the air pressure in the fuel lines.
+
+How do fuel heaters prevent ice formation in turbine-powered aircraft?
+@@By using warm air or oil to heat the fuel.
+By increasing the fuel pressure.
+By reducing the temperature in the fuel tanks.
+
+What is the main purpose of fuel pressure gauges in an aircraft?
+@@To monitor fuel pressure and detect system malfunctions.
+To control fuel flow to the engines.
+To increase engine performance during takeoff.
+
+What do valve-in-transit lights indicate to the flight crew?
+@@When a fuel valve is opening or closing.
+When fuel is leaking from the tank.
+When fuel is flowing to the engine.
+
+Why is lightning protection critical in the design of an aircraft's fuel system?
+@@To prevent the ignition of fuel vapor due to lightning strikes or electrical discharge.
+To increase the efficiency of the fuel system during storms.
+To reduce the chances of fuel tank overfilling.
+
+How do cross-feed valves improve fuel management in jet transport aircraft?
+@@By allowing fuel from any tank to feed any engine through the cross-feed manifold.
+By increasing the pressure of fuel flow to the engines.
+By shutting off fuel flow during a malfunction.
+
+How do capacitance fuel quantity systems maintain accurate fuel measurements despite the aircraft’s attitude?
+@@By using multiple fuel probes to measure fuel levels in various parts of the tank.
+By adjusting the fuel pressure to compensate for attitude changes.
+By reducing fuel flow in critical situations.
+
+Why is temperature compensation necessary in a capacitance fuel quantity system?
+@@To account for changes in the dielectric constant of the fuel as the temperature varies.
+To adjust the fuel quantity reading based on the altitude of the aircraft.
+To increase the fuel quantity accuracy during descent.
+
+How does a compensator unit in a capacitance fuel quantity system adjust for temperature changes in fuel?
+@@By modifying current flow to reflect changes in fuel density.
+By reducing the number of fuel probes required.
+By controlling the fuel flow based on pressure variations.
+
+How does a fuel flowmeter in a turbine-powered aircraft measure fuel mass accurately?
+@@By measuring the viscosity of the fuel and its deflection of a turbine.
+By using mechanical floats to measure fuel quantity.
+By adjusting fuel pressure based on engine speed.
+
+How does thermal dispersion technology improve fuel flow measurement in modern aircraft?
+@@By using heated elements to measure the cooling effect of the fuel.
+By increasing the accuracy of fuel quantity readings.
+By measuring the temperature of the fuel directly.
+
+Why are fuel heaters critical in preventing ice formation in the fuel system of turbine-powered aircraft?
+@@They warm the fuel to prevent ice formation and ensure proper fuel flow.
+They increase fuel pressure to prevent freezing.
+They reduce the temperature in the tanks to prevent condensation.
+
+How do fuel heaters protect against fuel system failure at high altitudes?
+@@By using compressor bleed air or hot engine oil to heat the fuel and melt ice crystals.
+By cooling the fuel to reduce vapor pressure.
+By increasing the flow rate of the fuel to prevent blockages.
+
+How do oil/fuel exchangers (FCOC) serve a dual function in fuel systems?
+@@They heat the fuel and cool the engine oil.
+They increase fuel pressure and decrease fuel temperature.
+They reduce fuel consumption and increase engine power.
+
+Why are fuel temperature gauges important during high-altitude flights?
+@@They help prevent ice formation in the fuel system by monitoring fuel temperature.
+They control the flow rate of the fuel to each engine.
+They adjust fuel pressure to increase engine performance.
+
+How do pressure warning signals in fuel systems help pilots manage fuel system malfunctions?
+@@By alerting them when fuel pressure falls outside the normal operating range.
+By controlling the fuel flow to the engines.
+By shutting off the fuel pumps automatically.
+
+How do valve-in-transit lights help the flight crew monitor fuel valve operation?
+@@By indicating when a valve is opening or closing in the fuel system.
+By displaying the amount of fuel flowing through the valve.
+By reducing fuel flow when a valve is stuck.
+
+What role does the fuel totalizer play in monitoring fuel usage in high-performance aircraft?
+@@It calculates and displays information like total fuel used, fuel remaining, and total range.
+It increases the accuracy of fuel pressure readings.
+It reduces fuel consumption by adjusting engine performance.
+
+How does a mass fuel flowmeter in a turbine engine aircraft measure fuel flow?
+@@By measuring fuel viscosity and deflection of a turbine in the fuel stream.
+By using mechanical floats to indicate fuel levels.
+By adjusting the fuel pressure based on altitude.
+
+How do surge tanks prevent fuel system damage in aircraft with integral fuel tanks?
+@@By acting as overflow tanks and venting systems to prevent fuel overfilling.
+By reducing fuel pressure during high-altitude flights.
+By increasing the fuel flow rate during takeoff.
+
+How do fuel strainers and micronic filters contribute to safe fuel system operation?
+@@By removing debris and fine particles from the fuel before it reaches the engine.
+By increasing the flow rate of the fuel to the engine.
+By reducing fuel pressure during high-speed flights.
+
+What safety measures must be followed when performing maintenance on an integral fuel tank?
+@@The fuel tank must be emptied and purged of vapors, and respiratory equipment must be used.
+The fuel tank must be cooled to prevent condensation.
+The fuel tank must be filled with inert gas to prevent combustion.
+
+How does a built-in thermostatic device in a fuel heater control the flow of hot air or oil?
+@@By automatically opening or closing a valve based on fuel temperature.
+By adjusting the fuel flow to the engine based on altitude.
+By increasing the pressure in the fuel lines.
+
+Why is it important to electrically bond and ground metal fuel lines in an aircraft?
+@@To prevent static electricity buildup and discharge that could ignite fuel vapors.
+To reduce fuel consumption during high-altitude flights.
+To increase the strength of the fuel lines.
+
+How do manually-operated gate valves help control fuel flow in an aircraft's fuel system?
+@@By shutting off fuel flow without requiring electrical power.
+By increasing fuel flow during takeoff.
+By reducing engine performance during descent.
+
+What is the primary purpose of motor-operated valves in a large aircraft's fuel system?
+@@To remotely control fuel flow from the cockpit.
+To increase the speed of fuel flow during flight.
+To reduce fuel consumption during cruise.
+
+How does a solenoid-operated valve function in an aircraft fuel system?
+@@By using an electric solenoid to open or close a fuel valve remotely.
+By increasing fuel pressure during high-speed maneuvers.
+By reducing fuel flow during descent.
+
+How does the use of digital fuel quantity indicators improve fuel management in aircraft?
+@@By converting variable resistance signals from tank units into digital displays for better accuracy.
+By increasing fuel flow to the engine.
+By reducing the amount of unusable fuel in the tanks.
+
+Why do some aircraft have fuel jettisoning systems?
+@@To reduce the aircraft’s weight for landing.
+To lower fuel consumption during flight.
+To cool down the engine during overheating.
+
+How do venting systems prevent structural damage in aircraft fuel tanks?
+@@By ensuring fuel is vented regardless of the aircraft’s attitude.
+By reducing the temperature inside the tanks.
+By using sealed vent tubes.
+
+What role does a fuel dump system play during an emergency landing?
+@@It allows the crew to reduce the aircraft's weight by jettisoning excess fuel.
+It reduces the chances of a fuel leak.
+It shuts down the engines to prevent fire.
+
+How do fuel jettison systems prevent hazardous conditions during emergency landings?
+@@By allowing the crew to safely reduce the aircraft's weight by jettisoning excess fuel.
+By shutting down the engines to prevent overheating.
+By automatically sealing the fuel tanks during descent.
+
+What is the purpose of fuel dumping systems in aircraft?
+@@To reduce the aircraft’s weight before landing
+To increase fuel efficiency
+To transfer fuel between tanks
+
+Why is it important to prevent unsymmetrical fuel jettisoning, and how do aircraft systems achieve this?
+@@Systems prevent hazardous conditions by balancing fuel discharge.
+Only large aircraft require symmetrical jettisoning.
+Jettison systems operate automatically without pilot input.
+
+How does the center of gravity control system (CGCC) maintain longitudinal balance during flight?
+@@By transferring fuel between tanks to maintain the desired center of gravity.
+By adjusting engine thrust to counter the shifting center of gravity.
+By reducing fuel consumption in the forward tanks.
+
+How does the computerized center of gravity control system (CGCC) monitor fuel transfer during flight?
+@@By using inputs from the fuel management system and tank volumes to calculate and perform transfers automatically.
+By allowing the flight crew to manually switch between tanks.
+By increasing engine thrust during critical phases of flight.
+
+How can show up the CG value in or out of limit?
+@@By a range of the percentage of the mean aerodynamic chord (MAC).
+By a exact point in the mean aerodynamic chord (MAC).
+By a range of the percentage of the center line of the wing's profile.
