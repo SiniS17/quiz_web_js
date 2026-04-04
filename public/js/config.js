@@ -159,7 +159,7 @@ export const CONFIG = {
   // false / false → users see nothing, clean grid
 
   VALIDATION_DISPLAY: {
-    SHOW_LINE_COUNT_ERRORS:   true,
+    SHOW_LINE_COUNT_ERRORS:   false,
     SHOW_ANSWER_COUNT_ERRORS: false,
   },
 };
