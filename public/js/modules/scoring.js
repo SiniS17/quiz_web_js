@@ -1,8 +1,8 @@
 // modules/scoring.js - Score Calculation and Display with Invalid Question Handling
 import { getGrade, getScoreMessage } from './utils.js';
-import { updateQuizState } from './state.js';
+import { updateQuizState, getQuizState } from './state.js';
 import { showNotification } from './ui/notifications.js';
-import { hideSubmitButton } from './ui/progress.js';
+import { hideSubmitButton, showResultsButton } from './ui/progress.js';
 import { disableAllAnswers } from './ui/quiz-display.js';
 import { disableQuizControls } from './quiz-controls.js';
 
@@ -25,9 +25,9 @@ export function calculateScore() {
   let totalAnswered = 0;
   let totalValid = 0;
   let invalidCount = 0;
+  const wrongQuestions = []; // NEW: collect wrong questions
 
   questions.forEach((questionDiv, index) => {
-    // Skip both red and violet invalid questions
     if (isInvalidQuestion(questionDiv)) {
       invalidCount++;
       const roundBox = document.querySelector(`#results-container .round-box[data-question-index="${index}"]`);
@@ -39,17 +39,23 @@ export function calculateScore() {
     }
 
     totalValid++;
-    const result = processQuestionForScoring(questionDiv, index);
+    const result = processQuestionForScoring(questionDiv, index, wrongQuestions);
     if (result.answered) {
       totalAnswered++;
       if (result.correct) score++;
     }
   });
 
-  updateQuizState({ hasSubmitted: true });
+  // Save wrong questions to state for redo feature
+  updateQuizState({ hasSubmitted: true, wrongQuestions });
+
   disableQuizControls();
-  displayFinalScore(score, totalValid, totalAnswered, invalidCount);
+  displayFinalScore(score, totalValid, totalAnswered, invalidCount, wrongQuestions.length);
+
+  // Feature 2: Submit → Results button
   hideSubmitButton();
+  showResultsButton();
+
   disableAllAnswers();
 
   const validMessage = invalidCount > 0
@@ -61,8 +67,9 @@ export function calculateScore() {
 
 /**
  * Process a single question for scoring
+ * Collects wrong questions for redo feature
  */
-function processQuestionForScoring(questionDiv, index) {
+function processQuestionForScoring(questionDiv, index, wrongQuestions) {
   const radios = questionDiv.querySelectorAll('input[type="radio"]');
   const correctAnswer = Array.from(radios).find(radio => radio.dataset.correct === "true");
   const userAnswer    = Array.from(radios).find(radio => radio.checked);
@@ -85,12 +92,54 @@ function processQuestionForScoring(questionDiv, index) {
       markQuestionCorrect(userAnswer, roundBox, questionHeader);
     } else {
       markQuestionIncorrect(userAnswer, correctAnswer, roundBox, questionHeader);
+      // Collect wrong question for redo feature
+      collectWrongQuestion(questionDiv, index, wrongQuestions);
     }
   } else {
     markQuestionUnanswered(correctAnswer, roundBox, questionHeader);
+    // Unanswered also counts as "wrong" for redo purposes
+    collectWrongQuestion(questionDiv, index, wrongQuestions);
   }
 
   return result;
+}
+
+/**
+ * Collect a wrong/unanswered question's data for the redo feature
+ */
+function collectWrongQuestion(questionDiv, index, wrongQuestions) {
+  const quizState = getQuizState();
+  const bankInfo = quizState.bankInfo && quizState.bankInfo[index];
+
+  // Get the question text from the current displayed questions
+  // We reconstruct from the question header + answers
+  const h3 = questionDiv.querySelector('h3');
+  const questionText = h3 ? h3.textContent.trim() : '';
+
+  // Get all answers, marking the correct one with @@
+  const answerDivs = questionDiv.querySelectorAll('.answer');
+  const answerLines = [];
+  answerDivs.forEach(answerDiv => {
+    const radio = answerDiv.querySelector('input[type="radio"]');
+    const label = answerDiv.querySelector('label');
+    if (radio && label) {
+      // Extract just the text (strip the letter label A/B/C/D)
+      const labelEl = label.querySelector('.answer-label');
+      let text = label.textContent.trim();
+      if (labelEl) {
+        text = text.replace(labelEl.textContent.trim(), '').trim();
+      }
+      const prefix = radio.dataset.correct === 'true' ? '@@' : '';
+      answerLines.push(prefix + text);
+    }
+  });
+
+  const fullText = [questionText, ...answerLines].join('\n');
+
+  wrongQuestions.push({
+    text: fullText,
+    bank: bankInfo || null
+  });
 }
 
 function markQuestionCorrect(userAnswer, roundBox, questionHeader) {
@@ -132,7 +181,7 @@ function markQuestionUnanswered(correctAnswer, roundBox, questionHeader) {
 /**
  * Display final score in floating box
  */
-function displayFinalScore(score, total, answered, invalidCount = 0) {
+function displayFinalScore(score, total, answered, invalidCount = 0, wrongCount = 0) {
   const existingScore = document.getElementById('floating-score-display');
   if (existingScore) existingScore.remove();
 
@@ -150,6 +199,17 @@ function displayFinalScore(score, total, answered, invalidCount = 0) {
         <i class="fas fa-exclamation-triangle"></i>
         <span>${invalidCount} invalid question${invalidCount > 1 ? 's' : ''} excluded from scoring</span>
       </div>
+    `;
+  }
+
+  // Feature 3: redo wrong questions button
+  let redoButton = '';
+  if (wrongCount > 0) {
+    redoButton = `
+      <button class="redo-wrong-btn" onclick="window.redoWrongQuestions()">
+        <i class="fas fa-redo-alt"></i>
+        Redo ${wrongCount} Wrong Question${wrongCount > 1 ? 's' : ''}
+      </button>
     `;
   }
 
@@ -184,6 +244,7 @@ function displayFinalScore(score, total, answered, invalidCount = 0) {
     <div class="score-message">
       ${getScoreMessage(percentage)}
     </div>
+    ${redoButton}
   `;
 
   document.body.appendChild(scoreDisplay);
@@ -199,3 +260,9 @@ export function closeScoreDisplay() {
 }
 
 window.closeScoreDisplay = closeScoreDisplay;
+
+// Feature 3: expose redo to window
+window.redoWrongQuestions = function() {
+  closeScoreDisplay();
+  import('./quiz-manager.js').then(module => module.redoWrongQuestions());
+};
