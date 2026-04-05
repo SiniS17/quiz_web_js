@@ -1,4 +1,4 @@
-// modules/quiz-manager.js - Main Quiz Management Logic (FIXED BANK HANDLING)
+// modules/quiz-manager.js - Main Quiz Management Logic
 
 import {
   getQuizState,
@@ -41,14 +41,57 @@ import { setupImageModal } from './ui/modal.js';
 import { enableQuizControls } from './quiz-controls.js';
 
 /**
- * Normalize questions into objects:
- * - Single bank: { text }
- * - Multi bank:  { text, bank }
+ * Normalize questions into objects
  */
 function normalizeQuestions(allQuestions) {
   return allQuestions.map(q =>
     typeof q === 'string' ? { text: q } : q
   );
+}
+
+/**
+ * Parse range string for non-shuffle mode.
+ * "20"     → { start: 1, end: 20 }
+ * "6-"     → { start: 6, end: Infinity }
+ * "6-200"  → { start: 6, end: 200 }
+ * Returns null if invalid / shuffle mode should handle it.
+ */
+export function parseQuestionRange(value, totalQuestions) {
+  if (typeof value !== 'string') value = String(value);
+  value = value.trim();
+
+  // Pattern: "N-M"
+  const rangeMatch = value.match(/^(\d+)-(\d+)$/);
+  if (rangeMatch) {
+    const start = parseInt(rangeMatch[1]);
+    const end = parseInt(rangeMatch[2]);
+    if (start >= 1 && end >= start) {
+      return { start, end: Math.min(end, totalQuestions) };
+    }
+    return null;
+  }
+
+  // Pattern: "N-" (from N to end)
+  const openEndMatch = value.match(/^(\d+)-$/);
+  if (openEndMatch) {
+    const start = parseInt(openEndMatch[1]);
+    if (start >= 1) {
+      return { start, end: totalQuestions };
+    }
+    return null;
+  }
+
+  // Pattern: plain number "N" → 1 to N
+  const plainMatch = value.match(/^(\d+)$/);
+  if (plainMatch) {
+    const end = parseInt(plainMatch[1]);
+    if (end >= 1) {
+      return { start: 1, end: Math.min(end, totalQuestions) };
+    }
+    return null;
+  }
+
+  return null;
 }
 
 /**
@@ -62,7 +105,6 @@ export function displayQuestions(allQuestions) {
   quizContainer.className = 'quiz-interface';
 
   const selectedLevels = getSelectedLevels();
-
   const normalized = normalizeQuestions(allQuestions);
   saveQuizState(normalized, selectedLevels);
 
@@ -79,18 +121,29 @@ export function displayQuestions(allQuestions) {
     return;
   }
 
-  const shuffled = shuffle(filtered);
+  const quizState = getQuizState();
+  const isShuffleMode = quizState.isShuffleMode !== false;
+  const count = getGlobalSelectedCount();
+
+  // Shuffle once and use the same ordering everywhere so that
+  // originalQuestionOrder and the displayed questions are always in sync.
+  const ordered = isShuffleMode ? shuffle(filtered) : filtered;
+
+  let selectedQuestions;
+  if (isShuffleMode) {
+    selectedQuestions = ordered.slice(0, count);
+  } else {
+    const rangeInput = document.getElementById('question-count');
+    const rawValue   = rangeInput ? rangeInput.value : String(count);
+    const range      = parseQuestionRange(rawValue, filtered.length);
+    selectedQuestions = range
+      ? filtered.slice(range.start - 1, range.end)
+      : ordered.slice(0, count);
+  }
 
   updateQuizState({
-    originalQuestionOrder: shuffled,
-    bankInfo: shuffled.map(q => q.bank || null)
-  });
-
-  const selectedCount = getGlobalSelectedCount();
-  const selectedQuestions = shuffled.slice(0, selectedCount);
-
-  updateQuizState({
-    bankInfo: selectedQuestions.map(q => q.bank || null)
+    originalQuestionOrder: ordered,
+    bankInfo: selectedQuestions.map(q => q.bank || null),
   });
 
   showLoading();
@@ -113,7 +166,7 @@ export function displayQuestions(allQuestions) {
 }
 
 /**
- * Display questions directly (restart)
+ * Display questions directly (restart / redo)
  */
 export function displayQuestionsDirectly(selectedQuestions, isLiveMode = false) {
   const quizContainer = document.getElementById('quiz-container');
@@ -174,15 +227,61 @@ export function restartQuiz() {
   }, 300);
 }
 
+/**
+ * Redo only the wrong questions from the last submission
+ */
+export function redoWrongQuestions() {
+  const quizState = getQuizState();
+  const wrongQuestions = quizState.wrongQuestions || [];
+
+  if (wrongQuestions.length === 0) {
+    showNotification('No wrong questions to redo!', 'info');
+    return;
+  }
+
+  showLoadingScreen('Loading Wrong Questions', 'Preparing questions you got wrong...');
+  clearQuizContainer();
+  setAnsweredQuestions([]);
+
+  // Reset submission state but keep wrong questions until new submission
+  updateQuizState({ hasSubmitted: false });
+
+  setTimeout(() => {
+    displayQuestionsDirectly(wrongQuestions, quizState.isLiveMode);
+    hideLoadingScreen();
+    showNotification(`Retrying ${wrongQuestions.length} wrong question${wrongQuestions.length > 1 ? 's' : ''}`, 'info');
+  }, 300);
+}
+
 function startQuizWithState(state) {
   const filtered = state.allQuestions.filter(q =>
     filterQuestionsByLevel([q.text], state.selectedLevels).length > 0
   );
 
-  const shuffled = shuffle(filtered);
-  updateQuizState({ originalQuestionOrder: shuffled });
+  const isShuffleMode = state.isShuffleMode !== false;
+  let ordered;
+  if (isShuffleMode) {
+    ordered = shuffle(filtered);
+  } else {
+    ordered = filtered;
+  }
 
-  const selected = shuffled.slice(0, state.questionCount);
+  updateQuizState({ originalQuestionOrder: ordered });
+
+  let selected;
+  if (isShuffleMode) {
+    selected = ordered.slice(0, state.questionCount);
+  } else {
+    const rangeInput = document.getElementById('question-count');
+    const rawValue = rangeInput ? rangeInput.value : String(state.questionCount);
+    const range = parseQuestionRange(rawValue, filtered.length);
+    if (range) {
+      selected = filtered.slice(range.start - 1, range.end);
+    } else {
+      selected = ordered.slice(0, state.questionCount);
+    }
+  }
+
   if (selected.length === 0) {
     showNotification('No questions available', 'error');
     return;
@@ -205,12 +304,27 @@ export function updateQuizWithNewLevels() {
     filterQuestionsByLevel([q.text], selectedLevels).length > 0
   );
 
-  const shuffled = shuffle(filtered);
+  const isShuffleMode = quizState.isShuffleMode !== false;
+  let ordered;
+  if (isShuffleMode) {
+    ordered = shuffle(filtered);
+  } else {
+    ordered = filtered;
+  }
+
   const selectedCount = getGlobalSelectedCount();
-  const selected = shuffled.slice(0, selectedCount);
+  let selected;
+  if (isShuffleMode) {
+    selected = ordered.slice(0, selectedCount);
+  } else {
+    const rangeInput = document.getElementById('question-count');
+    const rawValue = rangeInput ? rangeInput.value : String(selectedCount);
+    const range = parseQuestionRange(rawValue, filtered.length);
+    selected = range ? filtered.slice(range.start - 1, range.end) : ordered.slice(0, selectedCount);
+  }
 
   updateQuizState({
-    originalQuestionOrder: shuffled,
+    originalQuestionOrder: ordered,
     bankInfo: selected.map(q => q.bank || null)
   });
 
@@ -236,7 +350,7 @@ export function updateQuizWithNewLevels() {
 }
 
 /**
- * Change question count
+ * Change question count (shuffle mode) or range (non-shuffle mode)
  */
 export function changeQuestionCount(newCount) {
   const quizState = getQuizState();
@@ -245,7 +359,20 @@ export function changeQuestionCount(newCount) {
   updateQuizState({ questionCount: newCount });
   setGlobalSelectedCount(newCount);
 
-  const selected = quizState.originalQuestionOrder.slice(0, newCount);
+  const isShuffleMode = quizState.isShuffleMode !== false;
+  let selected;
+
+  if (isShuffleMode) {
+    selected = quizState.originalQuestionOrder.slice(0, newCount);
+  } else {
+    const rangeInput = document.getElementById('question-count');
+    const rawValue = rangeInput ? rangeInput.value : String(newCount);
+    const allFiltered = quizState.allQuestions.filter(q =>
+      filterQuestionsByLevel([q.text], quizState.selectedLevels).length > 0
+    );
+    const range = parseQuestionRange(rawValue, allFiltered.length);
+    selected = range ? allFiltered.slice(range.start - 1, range.end) : quizState.originalQuestionOrder.slice(0, newCount);
+  }
 
   updateQuizState({
     bankInfo: selected.map(q => q.bank || null)

@@ -2103,3 +2103,68 @@ input:focus,
   0%, 100% { box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.7); }
   50%       { box-shadow: 0 0 0 10px rgba(139, 92, 246, 0); }
 }
+/* ===========================================
+   NEW FEATURE STYLES - append to styles.css
+   =========================================== */
+
+/* Feature 3: Redo wrong questions button in score display */
+.redo-wrong-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: calc(100% - 3rem);
+  margin: 0 1.5rem 1.5rem 1.5rem;
+  padding: 0.85rem 1.25rem;
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.redo-wrong-btn:hover {
+  background: linear-gradient(135deg, #d97706, #b45309);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.4);
+}
+
+.redo-wrong-btn:active {
+  transform: translateY(0);
+}
+
+/* Feature 2: Results button (mirrors primary-btn style, different color) */
+.results-btn {
+  background: linear-gradient(135deg, #f59e0b, #d97706) !important;
+}
+
+.results-btn:hover {
+  background: linear-gradient(135deg, #d97706, #b45309) !important;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Feature 4: Range input - text type instead of number */
+#question-count {
+  /* Allow text input for range syntax */
+  font-family: var(--font-family);
+}
+
+/* Range hint tooltip styling */
+.range-hint {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+  line-height: 1.3;
+}
+
+/* Shuffle checkbox row - matches live test style */
+#shuffle-checkbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  accent-color: var(--primary-color);
+}

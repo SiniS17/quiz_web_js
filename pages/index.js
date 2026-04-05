@@ -79,8 +79,12 @@ export default function Home() {
         </div>
         <div className="panel-content">
           <div className="control-group">
-            <label><i className="fas fa-hashtag"></i> Questions:</label>
-            <input type="number" id="question-count" min="1" defaultValue="20" />
+            <label id="question-count-label"><i className="fas fa-hashtag"></i> Questions:</label>
+            <input type="text" id="question-count" min="1" defaultValue="20" placeholder="20" />
+          </div>
+          <div className="control-group">
+            <label><i className="fas fa-random"></i> Shuffle</label>
+            <input type="checkbox" id="shuffle-checkbox" defaultChecked />
           </div>
           <div className="control-group">
             <label><i className="fas fa-bolt"></i> Live Test</label>

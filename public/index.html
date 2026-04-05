@@ -39,7 +39,6 @@
         <div id="quiz-grid" class="quiz-grid"></div>
       </div>
 
-
       <div id="quiz-container" class="quiz-interface"></div>
     </main>
   </div>
@@ -71,8 +70,12 @@
     </div>
     <div class="panel-content">
       <div class="control-group">
-        <label><i class="fas fa-hashtag"></i> Questions:</label>
-        <input type="number" id="question-count" min="1" value="20">
+        <label id="question-count-label"><i class="fas fa-hashtag"></i> Questions:</label>
+        <input type="text" id="question-count" min="1" value="20" placeholder="20">
+      </div>
+      <div class="control-group">
+        <label><i class="fas fa-random"></i> Shuffle</label>
+        <input type="checkbox" id="shuffle-checkbox" checked>
       </div>
       <div class="control-group">
         <label><i class="fas fa-bolt"></i> Live Test</label>

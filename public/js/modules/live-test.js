@@ -1,4 +1,4 @@
-// modules/live-test.js - Live Test Functionality
+// modules/live-test.js - Live Test & Shuffle Functionality
 import CONFIG from '../config.js';
 import { getQuizState, updateQuizState } from './state.js';
 import { showNotification } from './ui/notifications.js';
@@ -6,13 +6,21 @@ import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
 
 let liveTestCheckbox = null;
 let liveTestHandler = null;
+let shuffleCheckbox = null;
+let shuffleHandler = null;
 
 /**
  * Get live test checkbox element
- * @returns {HTMLElement|null}
  */
 export function getLiveTestCheckbox() {
   return liveTestCheckbox;
+}
+
+/**
+ * Get shuffle checkbox element
+ */
+export function getShuffleCheckbox() {
+  return shuffleCheckbox;
 }
 
 /**
@@ -30,8 +38,6 @@ export function setupLiveTestInTopControls() {
   liveTestCheckbox.addEventListener('change', liveTestHandler);
 
   const quizState = getQuizState();
-
-  // Apply default live test mode from config if quiz state doesn't have it set
   const shouldBeLive = quizState.isLiveMode !== undefined
     ? quizState.isLiveMode
     : CONFIG.DEFAULT_LIVE_TEST_MODE;
@@ -42,7 +48,98 @@ export function setupLiveTestInTopControls() {
     applyLiveTestUIState(true);
   }
 
+  // Setup shuffle checkbox
+  setupShuffleInTopControls();
+
   console.log('✅ Live test event handler properly attached');
+}
+
+/**
+ * Setup shuffle checkbox and handlers
+ */
+export function setupShuffleInTopControls() {
+  shuffleCheckbox = document.getElementById('shuffle-checkbox');
+  if (!shuffleCheckbox) return;
+
+  if (shuffleHandler) {
+    shuffleCheckbox.removeEventListener('change', shuffleHandler);
+  }
+
+  shuffleHandler = handleShuffleToggle;
+  shuffleCheckbox.addEventListener('change', shuffleHandler);
+
+  const quizState = getQuizState();
+  const shouldShuffle = quizState.isShuffleMode !== undefined
+    ? quizState.isShuffleMode
+    : true;
+
+  shuffleCheckbox.checked = shouldShuffle;
+  updateQuizState({ isShuffleMode: shouldShuffle });
+
+  // Update the question count input placeholder based on shuffle mode
+  updateQuestionCountPlaceholder(shouldShuffle);
+
+  console.log('✅ Shuffle event handler properly attached');
+}
+
+/**
+ * Handle shuffle toggle
+ */
+function handleShuffleToggle() {
+  const isShuffleMode = shuffleCheckbox.checked;
+  const quizState = getQuizState();
+  const previousShuffleMode = quizState.isShuffleMode;
+
+  updateQuizState({ isShuffleMode: isShuffleMode });
+  updateQuestionCountPlaceholder(isShuffleMode);
+
+  if (quizState.fileName && previousShuffleMode !== isShuffleMode) {
+    try {
+      if (isShuffleMode) {
+        showNotification('Shuffle enabled - restarting quiz!', 'info');
+        showLoadingScreen('Enabling Shuffle', 'Please wait while the quiz is being prepared...');
+      } else {
+        showNotification('Shuffle disabled - questions will appear in order', 'info');
+        showLoadingScreen('Disabling Shuffle', 'Please wait while the quiz is being prepared...');
+      }
+
+      setTimeout(() => {
+        try {
+          import('./quiz-manager.js').then(module => module.restartQuiz());
+        } catch (error) {
+          console.error('Error during quiz restart:', error);
+          hideLoadingScreen();
+          showNotification('Failed to restart quiz. Please try again.', 'error');
+        }
+      }, 500);
+    } catch (error) {
+      console.error('Error in shuffle toggle:', error);
+      hideLoadingScreen();
+      showNotification('An error occurred. Please try again.', 'error');
+    }
+  }
+}
+
+/**
+ * Update the question count input placeholder based on shuffle mode
+ */
+function updateQuestionCountPlaceholder(isShuffleMode) {
+  const questionCountInput = document.getElementById('question-count');
+  const questionCountLabel = document.getElementById('question-count-label');
+
+  if (questionCountInput) {
+    if (isShuffleMode) {
+      questionCountInput.placeholder = '20';
+      questionCountInput.title = 'Number of questions to show';
+    } else {
+      questionCountInput.placeholder = 'e.g. 20, 6-, 6-200';
+      questionCountInput.title = 'Range: "20" = 1-20, "6-" = 6 to end, "6-200" = 6 to 200';
+    }
+  }
+
+  if (questionCountLabel) {
+    questionCountLabel.textContent = isShuffleMode ? 'Questions:' : 'Range:';
+  }
 }
 
 /**
@@ -88,7 +185,6 @@ function handleLiveTestToggle() {
 
 /**
  * Apply live test UI state
- * @param {boolean} isLiveMode - Whether live mode is enabled
  */
 export function applyLiveTestUIState(isLiveMode) {
   if (isLiveMode) {
@@ -118,7 +214,6 @@ function setupLiveTestListeners() {
 
 /**
  * Highlight correct/incorrect answers in live mode
- * @param {HTMLElement} questionDiv - Question element
  */
 export function highlightLiveAnswers(questionDiv) {
   const radios = questionDiv.querySelectorAll('input[type="radio"]');

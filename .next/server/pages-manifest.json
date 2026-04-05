@@ -1,7 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/api/list-quizzes": "pages/api/list-quizzes.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/api/list-quizzes":"pages/api/list-quizzes.js","/":"pages/index.html","/404":"pages/404.html"}
