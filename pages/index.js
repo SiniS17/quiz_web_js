@@ -83,6 +83,10 @@ export default function Home() {
             <input type="number" id="question-count" min="1" defaultValue="20" />
           </div>
           <div className="control-group">
+            <label><i className="fas fa-random"></i> Shuffle</label>
+            <input type="checkbox" id="shuffle-checkbox" defaultChecked />
+          </div>
+          <div className="control-group">
             <label><i className="fas fa-bolt"></i> Live Test</label>
             <input type="checkbox" id="live-test-checkbox" />
           </div>
