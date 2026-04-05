@@ -78,7 +78,10 @@ export function createQuestionElement(questionText, index) {
 
   const imageInfo   = parseQuestionWithImages(questionTitle);
   const cleanTitle  = questionTitle.replace(/\[IMG:[^\]]+\]/g, '').trim();
-  const shuffledAnswers = shuffle([...answers]);
+
+  // Only shuffle answer options when shuffle mode is on.
+  const isShuffleMode = getQuizState().isShuffleMode !== false;
+  const shuffledAnswers = isShuffleMode ? shuffle([...answers]) : [...answers];
 
   const questionDiv = document.createElement('div');
   questionDiv.className = 'question';
