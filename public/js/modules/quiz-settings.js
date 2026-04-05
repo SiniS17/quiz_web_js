@@ -10,7 +10,7 @@ import {
 import { sortLevelsForDisplay, getSelectedLevels, getQuestionLevels } from './parser.js';
 import { showNotification } from './ui/notifications.js';
 import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
-import { updateQuizWithNewLevels, changeQuestionCount } from './quiz-manager.js';
+import { updateQuizWithNewLevels, changeQuestionCount, parseQuestionRange } from './quiz-manager.js';
 
 /**
  * Create level selection checkboxes with Select All/Deselect All buttons
@@ -22,10 +22,8 @@ export function createTopLevelCheckboxes() {
   checkboxContainer.innerHTML = '';
   const levelCounts = getLevelCounts();
 
-  // Sort levels for better display
   const sortedLevels = sortLevelsForDisplay(levelCounts);
 
-  // Create Select All / Deselect All button container
   const buttonContainer = document.createElement('div');
   buttonContainer.className = 'level-button-container';
   buttonContainer.style.cssText = `
@@ -76,17 +74,12 @@ export function createTopLevelCheckboxes() {
     gap: 0.4rem;
   `;
 
-  // Select All handler
   selectAllBtn.onclick = () => {
     const allCheckboxes = checkboxContainer.querySelectorAll('input[type="checkbox"]');
     let anyChanged = false;
     allCheckboxes.forEach(checkbox => {
-      if (!checkbox.checked) {
-        checkbox.checked = true;
-        anyChanged = true;
-      }
+      if (!checkbox.checked) { checkbox.checked = true; anyChanged = true; }
     });
-
     if (anyChanged) {
       const quizState = getQuizState();
       if (quizState.allQuestions && quizState.allQuestions.length > 0) {
@@ -96,17 +89,12 @@ export function createTopLevelCheckboxes() {
     }
   };
 
-  // Deselect All handler
   deselectAllBtn.onclick = () => {
     const allCheckboxes = checkboxContainer.querySelectorAll('input[type="checkbox"]');
     let anyChanged = false;
     allCheckboxes.forEach(checkbox => {
-      if (checkbox.checked) {
-        checkbox.checked = false;
-        anyChanged = true;
-      }
+      if (checkbox.checked) { checkbox.checked = false; anyChanged = true; }
     });
-
     if (anyChanged) {
       const quizState = getQuizState();
       if (quizState.allQuestions && quizState.allQuestions.length > 0) {
@@ -116,40 +104,17 @@ export function createTopLevelCheckboxes() {
     }
   };
 
-  // Add hover effects
-  selectAllBtn.onmouseenter = () => {
-    selectAllBtn.style.background = 'var(--primary-dark)';
-    selectAllBtn.style.transform = 'translateY(-1px)';
-  };
-  selectAllBtn.onmouseleave = () => {
-    selectAllBtn.style.background = 'var(--primary-color)';
-    selectAllBtn.style.transform = 'translateY(0)';
-  };
-
-  deselectAllBtn.onmouseenter = () => {
-    deselectAllBtn.style.background = 'var(--bg-secondary)';
-    deselectAllBtn.style.borderColor = 'var(--primary-color)';
-    deselectAllBtn.style.color = 'var(--primary-color)';
-    deselectAllBtn.style.transform = 'translateY(-1px)';
-  };
-  deselectAllBtn.onmouseleave = () => {
-    deselectAllBtn.style.background = 'var(--bg-primary)';
-    deselectAllBtn.style.borderColor = 'var(--border-color)';
-    deselectAllBtn.style.color = 'var(--text-primary)';
-    deselectAllBtn.style.transform = 'translateY(0)';
-  };
+  selectAllBtn.onmouseenter = () => { selectAllBtn.style.background = 'var(--primary-dark)'; selectAllBtn.style.transform = 'translateY(-1px)'; };
+  selectAllBtn.onmouseleave = () => { selectAllBtn.style.background = 'var(--primary-color)'; selectAllBtn.style.transform = 'translateY(0)'; };
+  deselectAllBtn.onmouseenter = () => { deselectAllBtn.style.background = 'var(--bg-secondary)'; deselectAllBtn.style.borderColor = 'var(--primary-color)'; deselectAllBtn.style.color = 'var(--primary-color)'; deselectAllBtn.style.transform = 'translateY(-1px)'; };
+  deselectAllBtn.onmouseleave = () => { deselectAllBtn.style.background = 'var(--bg-primary)'; deselectAllBtn.style.borderColor = 'var(--border-color)'; deselectAllBtn.style.color = 'var(--text-primary)'; deselectAllBtn.style.transform = 'translateY(0)'; };
 
   buttonContainer.appendChild(selectAllBtn);
   buttonContainer.appendChild(deselectAllBtn);
   checkboxContainer.appendChild(buttonContainer);
 
-  // Create level checkboxes
   const checkboxGrid = document.createElement('div');
-  checkboxGrid.style.cssText = `
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-  `;
+  checkboxGrid.style.cssText = `display: flex; gap: 1rem; flex-wrap: wrap;`;
 
   sortedLevels.forEach(([level, count]) => {
     const wrapper = document.createElement('div');
@@ -163,8 +128,6 @@ export function createTopLevelCheckboxes() {
 
     const label = document.createElement('label');
     label.htmlFor = `level-${CSS.escape(level)}`;
-
-    // Format label text
     const isNumber = !isNaN(parseInt(level)) && String(parseInt(level)) === level;
     const labelText = isNumber ? `L${level}` : level;
     label.textContent = `${labelText} (${count})`;
@@ -187,23 +150,14 @@ export function createTopLevelCheckboxes() {
 
 /**
  * Calculate actual max questions based on selected levels
- * This counts each question only once, even if it has multiple matching levels
  */
 function calculateActualMaxQuestions(allQuestions, selectedLevels) {
   if (selectedLevels.length === 0) return 0;
-
   let count = 0;
   allQuestions.forEach(question => {
     const questionLevels = getQuestionLevels(question);
-
-    // Check if this question has ANY of the selected levels
-    const hasMatchingLevel = questionLevels.some(level => selectedLevels.includes(level));
-
-    if (hasMatchingLevel) {
-      count++;
-    }
+    if (questionLevels.some(level => selectedLevels.includes(level))) count++;
   });
-
   return count;
 }
 
@@ -216,25 +170,23 @@ function updateMaxQuestionsDisplay() {
 
   const selectedLevels = getSelectedLevels();
   const levelCounts = getLevelCounts();
-
-  // Calculate actual max questions (counting each question only once)
   const maxQuestions = calculateActualMaxQuestions(quizState.allQuestions, selectedLevels);
 
-  // Update the question count input max attribute
   const questionCountInput = document.getElementById('question-count');
   if (questionCountInput) {
-    questionCountInput.max = maxQuestions;
-
-    // If current value exceeds new max, clamp it
-    const currentValue = parseInt(questionCountInput.value);
-    if (currentValue > maxQuestions) {
-      questionCountInput.value = maxQuestions;
-      setGlobalSelectedCount(maxQuestions);
-      setPendingQuestionCount(maxQuestions);
+    const isShuffleMode = quizState.isShuffleMode !== false;
+    if (isShuffleMode) {
+      questionCountInput.max = maxQuestions;
+      const currentValue = parseInt(questionCountInput.value);
+      if (!isNaN(currentValue) && currentValue > maxQuestions) {
+        questionCountInput.value = maxQuestions;
+        setGlobalSelectedCount(maxQuestions);
+        setPendingQuestionCount(maxQuestions);
+      }
     }
+    // In non-shuffle range mode, don't clamp
   }
 
-  // Update the info display
   const maxQuestionsInfo = document.getElementById('max-questions-info');
   if (maxQuestionsInfo) {
     const sortedLevels = sortLevelsForDisplay(levelCounts)
@@ -258,7 +210,7 @@ function updateMaxQuestionsDisplay() {
 }
 
 /**
- * Setup question count input
+ * Setup question count input - supports both number (shuffle) and range (non-shuffle)
  */
 export function setupTopQuestionCountInput(questions) {
   const questionCountInput = document.getElementById('question-count');
@@ -277,42 +229,51 @@ export function setupTopQuestionCountInput(questions) {
   questionCountInput.removeEventListener('input', questionCountInput._inputHandler);
   questionCountInput.removeEventListener('keypress', questionCountInput._keypressHandler);
 
-  // Create new handlers
-  questionCountInput._inputHandler = (e) => {
-    handleQuestionCountInput(e, maxQuestions);
-  };
-
-  questionCountInput._keypressHandler = (e) => {
-    handleQuestionCountKeypress(e, maxQuestions);
-  };
+  questionCountInput._inputHandler = (e) => handleQuestionCountInput(e, maxQuestions);
+  questionCountInput._keypressHandler = (e) => handleQuestionCountKeypress(e, maxQuestions);
 
   questionCountInput.addEventListener('input', questionCountInput._inputHandler);
   questionCountInput.addEventListener('keypress', questionCountInput._keypressHandler);
 }
 
 /**
- * Handle question count input changes
+ * Handle question count / range input changes
  */
 function handleQuestionCountInput(e, maxQuestions) {
   const quizState = getQuizState();
-  const selectedLevels = getSelectedLevels();
+  const isShuffleMode = quizState.isShuffleMode !== false;
 
-  // Calculate actual max based on selected levels
-  const actualMax = quizState.allQuestions
-    ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
-    : maxQuestions;
+  if (isShuffleMode) {
+    // Original behavior: numeric only
+    const selectedLevels = getSelectedLevels();
+    const actualMax = quizState.allQuestions
+      ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+      : maxQuestions;
 
-  let value = parseInt(e.target.value);
-  if (value > 0) {
-    if (value > actualMax) {
-      value = actualMax;
-      e.target.value = value;
+    let value = parseInt(e.target.value);
+    if (value > 0) {
+      if (value > actualMax) { value = actualMax; e.target.value = value; }
+      setPendingQuestionCount(value);
+      e.target.style.borderColor = '#f59e0b';
+      e.target.title = 'Press Enter to apply the new question count';
     }
-    setPendingQuestionCount(value);
-
-    // Always show the orange border when Enter is needed
-    e.target.style.borderColor = '#f59e0b';
-    e.target.title = 'Press Enter to apply the new question count';
+  } else {
+    // Range mode: accept "20", "6-", "6-200" - just mark as pending, validate on Enter
+    const rawValue = e.target.value.trim();
+    if (rawValue) {
+      const selectedLevels = getSelectedLevels();
+      const actualMax = quizState.allQuestions
+        ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+        : maxQuestions;
+      const range = parseQuestionRange(rawValue, actualMax);
+      if (range) {
+        e.target.style.borderColor = '#f59e0b';
+        e.target.title = `Press Enter: questions ${range.start} to ${range.end === Infinity ? 'end' : range.end}`;
+      } else {
+        e.target.style.borderColor = '#ef4444';
+        e.target.title = 'Invalid range. Use: "20", "6-", or "6-200"';
+      }
+    }
   }
 }
 
@@ -324,51 +285,78 @@ function handleQuestionCountKeypress(e, maxQuestions) {
     e.preventDefault();
 
     const quizState = getQuizState();
+    const isShuffleMode = quizState.isShuffleMode !== false;
     const selectedLevels = getSelectedLevels();
-
-    // Calculate actual max based on selected levels
     const actualMax = quizState.allQuestions
       ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
       : maxQuestions;
 
-    let value = parseInt(e.target.value);
-    if (value > 0) {
-      if (value > actualMax) {
-        value = actualMax;
-        e.target.value = value;
+    if (isShuffleMode) {
+      let value = parseInt(e.target.value);
+      if (value > 0) {
+        if (value > actualMax) { value = actualMax; e.target.value = value; }
+        applyQuestionCountChange(value, actualMax);
+        e.target.style.borderColor = '';
+        e.target.title = '';
       }
-
-      // Always apply the change when Enter is pressed
-      applyQuestionCountChange(value, actualMax);
-
-      // Reset border color after applying
-      e.target.style.borderColor = '';
-      e.target.title = '';
+    } else {
+      // Range mode
+      const rawValue = e.target.value.trim();
+      const range = parseQuestionRange(rawValue, actualMax);
+      if (range) {
+        applyRangeChange(rawValue, actualMax);
+        e.target.style.borderColor = '';
+        e.target.title = '';
+        showNotification(`Showing questions ${range.start}–${range.end === Infinity ? actualMax : range.end}`, 'info');
+      } else {
+        showNotification('Invalid range. Use: "20", "6-", or "6-200"', 'error');
+        e.target.style.borderColor = '#ef4444';
+      }
     }
   }
 }
 
 /**
- * Apply question count change
+ * Apply question count change (shuffle mode)
  */
 function applyQuestionCountChange(newCount, maxQuestions) {
   const quizState = getQuizState();
-
-  if (!quizState.allQuestions || quizState.allQuestions.length === 0) {
-    return;
-  }
-
+  if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
   if (quizState.hasSubmitted) {
     showNotification('Cannot change question count after submission', 'error');
     return;
   }
 
   showLoadingScreen('Updating Question Count', `Loading ${newCount} questions...`);
-
   setTimeout(() => {
     setGlobalSelectedCount(newCount);
     setPendingQuestionCount(newCount);
     changeQuestionCount(newCount);
+    hideLoadingScreen();
+  }, 300);
+}
+
+/**
+ * Apply range change (non-shuffle mode)
+ */
+function applyRangeChange(rawValue, maxQuestions) {
+  const quizState = getQuizState();
+  if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
+  if (quizState.hasSubmitted) {
+    showNotification('Cannot change range after submission', 'error');
+    return;
+  }
+
+  const range = parseQuestionRange(rawValue, maxQuestions);
+  if (!range) return;
+
+  const count = range.end - range.start + 1;
+  showLoadingScreen('Updating Range', `Loading questions ${range.start}–${range.end}...`);
+  setTimeout(() => {
+    setGlobalSelectedCount(count);
+    setPendingQuestionCount(count);
+    // changeQuestionCount will use the range input value directly
+    changeQuestionCount(count);
     hideLoadingScreen();
   }, 300);
 }

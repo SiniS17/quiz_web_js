@@ -1,0 +1,379 @@
+What kind of pump using in the hyd power pack?
+@@An electrical pump
+A pneumatic pump
+A vane pump
+
+MIL-H-5606 is
+@@The mineral oil-based
+The polyalphaolefin
+The phosphate ester
+
+Which is an open-center system?
+@@is one way having fluid flow without pressure in the system
+is one way having fluid flow with pressure in the system
+is both way having fluid flow without pressure in the system
+
+Which is the difference between the open-center system and closed-center system?
+@@The method to arrange the selector control valves
+The pressure value on pump's outlet is different
+The type of the selector valves are different
+
+How the selector valves are arranged in the closed-center system?
+@@In parallel
+In series
+in mix
+
+How the selector valves are arranged in the opened-center system?
+@@In series
+in mix
+In parallel
+
+Which is the advantage of the hydraulic power pack system?
+@@Reduces the weight
+No need hydraulic fluid
+Increases the pressure value
+
+How many principal categories of the hydraulic fluids?
+@@Three
+Four
+Two
+
+Which type fluid has purple color?
+@@Phosphate esters
+Minerals
+Polyalphaolefins
+
+Which is the disadvantage of the Skydrol with Human's health?
+@@dermatitis or even secondary infection from bacteria
+cause headache, nausea.
+cause difficulty breathing.
+
+Which component to keep the fluid avoiding vortexing and surging?
+@@Baffles
+Strainers
+Stand-pipe
+
+Which shape for the non-pressurized reservoirs?
+@@Cylindrical
+Rectangle
+Lozenge
+
+Which component to dampen pressure surges in the hydraulic system?
+@@The accummulator
+Pressure regulator valve
+Bafles in reservoir
+
+Which component to create energy in hydraulic system?
+@@The Pump
+The valve
+The actuator
+
+Which component to change the pressure value in hydraulic system?
+@@The hydraulic valve
+The Actuator
+The Accummulator
+
+Which component to control the power distribution?
+@@The flow control valve
+The accummulator
+The over pressure valve
+
+Which component to transform energy in the form of fluid pressure into mechanical force?
+@@A hydraulic actuator
+The hydraulic pump
+The hydraulic valve
+
+How can display all hydraulic paremeters in monitoring Screen?
+@@By convert the analog signal to digital signal
+By transform the analog signal to the monitoring screen
+By transmit the digital signal from these components to the  screen
+
+What is the purpose of the hydraulic hand pump?
+@@Its purpose is for testing and used in emergency case
+Operates as conventional type of the main hydraulic power source
+Operates parallel with main hydraulic power sources
+
+Which is the secondary source of hydraualic pressure generation on most aircraft?
+@@Electrical pump
+Mechanically driven pump
+Hand pump
+
+Where are the mechanically driven pumps mounted in aircraft in basically?
+@@They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+They are mounted on the hydraulic bay in the fuselage of aircraft
+
+Where are the ellectrically driven pumps mounted in aircraft in basically?
+@@They are mounted on the hydraulic bay in the fuselage of aircraft
+They are mounted on the accessory gearbox of the main engines
+They are mounted on the pylon of the main engines
+
+Electrically driven pumps are installed for use in case of
+@@Emergencies or during ground operation when engines are not running
+For backup on ground operation when apu is not running
+in case of aircraft needs more hydraulic power during aircraft takeoff or landing
+
+Pneumatically driven pumps are driven by
+@@Air from the pneumatic system or by ram air in the case of a ram air turbine (RAT).
+Air from hot secction of enignes or by ram air inlet of airconditioning system
+Air from APU bleed directlly or by ram air inlet of airconditioning system
+
+Non-pressurized reservoirs are used in aircraft that
+@@Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for violent maneuvers, fly at high altitudes
+Are designed for flying fast and high altitudes, more maneuvers
+
+Most non-pressurized reservoirs are constructed in
+@@A cylindrical shape
+A rectangular shape
+A cube shape
+
+Pressurized reservoirs are used in aircraft that
+@@Are designed for violent maneuvers, fly at high altitudes
+Are not designed for violent maneuvers, do not fly at high altitudes
+Are designed for flying slowly and low altitudes, not maneuvers
+
+Hand pumps are normally single cylinder double acting because of the
+@@Two NRVS fitted
+Relief valve
+Piston ram displacement
+
+What is the purpose of the hydraulic hand pump?
+@@Its purpose is for testing and used in emergency case
+Operates as conventional type of the main hydraulic power source
+Operates parallel with main hydraulic power sources
+
+How many types of the hand pumps?
+@@Three types, they are single action, double action and rotary.
+Two type, they are single stroke and double stroke.
+Only one type, it is a multi function unit.
+
+Which type of the pump be used in a hydraulic power pack?
+@@The electric pump
+The driven pump
+The hand pump
+
+How the hydraulic power pack works?
+@@By an electric motor
+By a pneumatic air
+By the hydraulic muscle
+
+How the modern aircraft controls the control surfaces?
+@@By an electrically controlled system
+By the cables
+By the control rods
+
+How can use the correct type of the fluid for servicing?
+@@Refer Aircraft Maintenance Manual
+Listen request from the Leader
+Remember kind of the fluid by ownself
+
+How to pressurize the hydraulic reservoir?
+@@By bleed air
+By ambient air
+By suction air
+
+Which type of the reservoir be used for the high altitude flight?
+@@The pressurized reservoir
+The non-pressurized reservoir
+The negative pressure reservoir
+
+Which component to keep the pressure in system in case the main pressure system fail?
+@@The accummulator
+The check valve
+The high pressure valve
+
+Which pump are the primary source of pressure generation on most aircraft?
+@@The mechanically driven pump
+The electrical motor driven pump
+The pneumatic driven pump
+
+Which component is the last source supply to hydraulic system?
+@@Ramp Air Turbine (RAT)
+The electric motor
+The pneumatic pump
+
+Which is the purpose of the hand pump?
+@@To operate the cargo door
+To recovery the hydraulic system in flight
+To operate the flight control on ground
+
+Which component supply the power to other hydraulic system in case one hydraulic system fail??
+@@Power Transfer Unit
+Engine driven pump
+APU driven pump
+
+Which component protects the system from exceeding a set pressure?
+@@The pressure relief valve
+The pressure regulator valve
+The shutoff valve
+
+A constant-displacement pump
+@@It delivers a fixed quantity of fluid per revolution, regardless of the pressure demands
+It delivers a changeable quantity of fluid per revolution, regardless of the pressure demands
+It delivers a total quantity of fluid per revolution, regardless of the pressure demands
+
+The vane type power pump is
+@@A constant displacement pump
+A variable displacement pump
+A changeable displacement pump
+
+Which energy source use for RAT operates?
+@@Ramp air
+Bleed air
+Mechanical driver
+
+How can release RAT during flight?
+@@Manual from cockpit or automatic
+Manual from hydraulic bay or automatic
+Manual from cockpit or hydraulic bay
+
+A gear type power pump is
+@@A constant displacement pump
+A changeable displacement pump
+A non-constant displacement pump
+
+A gerotor type power pump consists essentially of
+@@A housing containing an eccentric-shaped stationary liner, an internal gear rotor having seven wide teeth of short height, a spur driving gear having six narrow teeth, and a pump cover that contains two crescent-shaped openings
+Two meshed gears that revolve in a housing, the driving gear is driven by the aircraft engine or some other power unit. The driven gear meshes with, and is driven by, the driving gear
+A housing containing four vanes (blades), a hollow steel rotor with slots for the vanes, and a coupling to turn the rotor which is positioned off center within the sleeve
+
+During the first half of a revolution, the volume gradually
+@@Increases from minimum to maximum
+Decreases from maximum to minimum
+Keeps the same
+
+During the second half of a revolution, the volume gradually
+@@Decreases from maximum to minimum
+Keeps the same
+Increases from minimum to maximum
+
+What is the Power Transfer Unit (PTU)?
+@@It has two units, a hydraulic pump and hydraulic motor, are connected via a single drive shaft
+It has two units, a hydraulic pump and electrical motor, are connected via a single drive shaft
+It has two units, a electrical pump and hydraulic motor, are connected via a single drive shaft
+
+While the PTU transfers power,
+@@It does not transfer any fluid from one system to the other
+It will transfer the fluid from one system to the other
+It does not transfer power from one system to the other
+
+The purpose of a mechanical sequence valve is to ensure the operation of
+@@Landing gear and doors
+Safety switches
+Brake anti-skid units
+
+What is purpose of the hydraulic motor driven generator (HMDG)?
+@@The HMDG provides an alternative source of electrical power
+The HMDG provides an alternative source of hydraulic power
+The HMDG provides an alternative source of mechanical power
+
+A pressure relief valve is used to limit the amount of pressure being necessary to prevent
+@@Failure of components or rupture of hydraulic lines under excessive pressures
+Failure of tanks or rupture of hydraulic return lines under excessive pressures
+Failure of pumps or change the diameter of hydraulic lines under excessive pressures
+
+One purpose of the pressure regulator is to manage the output of the pump to maintain
+@@System operating pressure within a predetermined range
+The pressure in system for the pumps working normal
+Enough quantity of fluid in the hydraulic system
+
+Which is the purpose of the regulator valve at times when pressure in the system is within normal operating range
+@@Permit the pump to turn without resistance
+Permit the pump to turn fast to increase pressure
+Permit the pump to turn slowly to reduce pressure
+
+Pressure reducing valves are used in hydraulic systems where it
+@@Is necessary to lower the normal system operating pressure by a specified amount
+Is necessary to increase the normal system operating pressure by a specified amount
+Is necessary to keep the normal system operating pressure by a specified amount
+
+A shutoff valve may be used to create
+@@A priority in a hydraulic system
+A pressure in a hydraulic system
+A frequently in a hydraulic system
+
+Which is the purpose of a pressure switch to control the shutoff valve?
+@@The switch is adjusted so that if pressure drops below the set point, the valve closes
+The switch is adjusted so that if pressure drops below the set point, the valve opens
+The switch is adjusted so that if pressure increases to the set point, the valve closes
+
+Most selector valves are mechanically controlled
+@@By a lever or electrically controlled by solenoid
+By a pressure or pneumatic air
+By a wheel or electrically controlled by on off switch
+
+How can install correct the direction of check valve?
+@@An arrow on the outside of the housing
+The bigger port is line in
+The bigger port is line out
+
+Basiclly, inside a check valve has a ball and
+@@The spring
+The needle
+The flapper
+
+A shuttle valve is used for
+@@Change over from main to auxiliary system in the case of failure.
+Preventing fluid loss from a leaking jack
+Maintaining fluid press when the emergency system fails
+
+The pressure of the priority valve is set for 2200 psi, if the pressure drops below 2200 psi, the priority valve
+@@Closes and no fluid pressure flows to the non-critical systems.
+Opens to allow fluid pressure flows to the non-critical systems.
+Opens to allow fluid pressure flows to the critical systems.
+
+What is the main purpose of the shuttle valve?
+@@Is to isolate the normal system from an alternate or emergency system
+Is to isolate the emergency system from an alternate or normal system
+Is to connect the normal system from an alternate or emergency system
+
+In shuttle valves that are designed with a spring, the shuttle is normally held against ... inlet port by the spring
+@@The alternate system
+The normal system
+The back-up system
+
+Which type of valves are installed in hydraulic lines to prevent loss of fluid when units are removed
+@@A quick disconnect valve
+A check valve
+A shutoff valve
+
+Hydraulic fuse are
+@@They detect a sudden increase in flow, such as a burst downstream, and shut off the fluid flow
+They detect a sudden increase pressure of main pumps and shut off the fluid flow
+They detect a sudden increase pressure of main pumps and opens the fluid flow
+
+While the PTU transfers power, does it transfer any fluid from one system to the other?
+@@No, it does not.
+Yes, it is.
+It transfers when pilot opens the shutoff valve.
+
+What is the structure of PTU?
+@@PTU consists of a hydraulic pump and hydraulic motor, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+PTU consists of two hydraulic pumps, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+PTU consists of two hydraulic motors, are connected via a single drive shaft so that power can be transferred between two hydraulic systems
+
+How can protect the hydraulic piston pump from the foreign particles and contaminating substances?
+@@The hydraulic filter
+The relief valve
+The shutoff valve
+
+When the hydraulic filter is clogged
+@@The bypass relieft valve opens
+The hydraulic system stop working
+It makes the hydraulic system broken
+
+Modern design often uses a filter module that contains several filters and
+@@Other components
+An motor
+A wheel
+
+System pressure sensors are often located at
+@@Pressure filter modules
+A pressure pump
+A suction line
+
+Hydraulic system parameters that are captured in analog format are converted to
+@@Digital format for use in the control system logic
+Other analog format for use in the control system logic
+Double analog format for use in the control system logic

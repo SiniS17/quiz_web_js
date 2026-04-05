@@ -1,0 +1,119 @@
+Which emergency equipments must be pressure checked before each flight?
+@@Life vests, fire extinguishers and oxygen bottles.
+Life rafts, fire extinguishers and oxygen bottles.
+Life vests, fire extinguishers and smoke hoods.
+
+Some items regularly considered emergency equipment are:
+@@First aid kits, megaphones, flashlights.
+First aid kits, headsets, flashlights.
+First aid kits, megaphones, boomsets.
+
+Installation and removal procedures of emergency equipments are detailed in:
+@@Aircraft maintenance manual.
+Emergency equipments layout.
+Component maintenance manual.
+
+All emergency lighting has their own independent power supplies:
+@@Batterries.
+Aircraft DC bus.
+Aircraft AC bus.
+
+If the entire electrical system of the aircraft fails,
+@@Emergency lights will be come on.
+Emergency lights will turn off.
+Emergency lights remain in their previous condition.
+
+Captain and first officer seats are:
+@@Fully adjustable.
+Only vertical adjustable.
+Only lateral adjustable.
+
+The captain and first officer's seat belts typically include:
+@@Shoulder harness and crotch strap.
+Shoulder harness and seat belt.
+Seat belt and crotch strap.
+
+In equipment lay- out, Flight Data and Cockpit Voice Recorders, are positioned:
+@@Near the rear of aircraft.
+In the aft cargo compartment
+Near the nose of aircraft.
+
+Which screen is the Cabin entertainment system mounted on the ceiling?
+@@LCD screens
+CRT screens
+LED screens
+
+The seat assembly is fitted:
+@@Into seat track on the cabin floor.
+Into frame on the cabin floor.
+Into stringer on the cabin floor.
+
+Captain and first officer seats are engaged in:
+@@Floor-mounted tracks.
+Frame-mounted tracks.
+Cabin floor - mounted tracks.
+
+Which statemen is CORRECT?
+@@Emergency lighting batteries are connected to the aircraft's power system under normal conditions.
+Emergency lighting batteries are connected to the aircraft's power system in emergency conditions.
+Emergency lighting batteries are not connected to the aircraft's power system.
+
+If a seat belt is not functional and cannot be changed before flight, the seat:
+@@Must be not used.
+Can be used without the seat belt.
+Can be used with the infant seat belt.
+
+Cabin lay-out is the responsibility of:
+@@Operator.
+Maintenance Organization.
+Manufacturer.
+
+Cabin lay-out includes:
+@@Cabin seats, galleys, bulkheads and lavatories.
+Seats, galleys, cockpit and lavatories.
+Crew seats, galleys, bulkheads and lavatories.
+
+Why are the Flight Data and Cockpit Voice Recorders located at the rear of aircraft?
+@@To ensure the high probability of them being least damaged after any mishaps.
+To ensure the lowest vibration.
+for easy removal and installation.
+
+The standard for modern designed IFE equipment:
+@@Digital data bus.
+Analog data bus.
+Discrete data bus.
+
+Management of this IFE system is carried out by the:
+@@Cabin Crew.
+Passenger
+Capt & F/O
+
+What is the first aircraft to integrate fourth-generation IFE systems by using latest standard resolution seat screens?
+@@Airbus' A350 XWB
+Boeing 787-9
+Airbus' A321 NEO
+
+Which statement is CORRECT?
+@@IFE systems are independent of all other aircraft's power and digital systems.
+The IFE system uses the same power source with other systems
+The IFE system uses the same digital bus with other systems
+
+To ensures that any IFE failure cannot affect the function and safety of the aircraft. IFE system must be:
+@@Isolated from all the other aircraft's systems
+Connected to communication system
+Used the same power source with other systems
+
+What materials are used for modern aircraft and fourth generation IFE systems.
+@@Fibre Optics
+Copper wire
+Silver wire
+
+Most of galley use electrical power:
+@@115 VAC three phase
+28VDC
+115 VAC one phase
+
+Each galley is equiped with a control panel including:
+@@P/B Switchs and Circuit Breakers
+Horns and Circuit Breakers
+P/B switchs and Timers

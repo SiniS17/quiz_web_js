@@ -1,0 +1,1740 @@
+What is correct statement relating to potential energy?
+@@Potential energy is defined as being energy at rest, or energy that is stored.
+Potential energy is defined as being energy during a subject moving.
+Potential energy is defined as being energy when power released.
+
+The example here after,  which one is a portential ennergy group 1 ( position)?
+@@Water in an elevated reservoir or an airplane raised off the ground sitting on jacks
+A stretched bungee cord on a Piper Tri-Pacer or compressed spring
+Energy in aviation gasoline, food, and storage batteries
+
+Potential energy is clculated by formula:
+@@HEIGHT x WEIGHT
+HEIGHT ÷ WEIGHT
+HEIGHT + WEIGHT
+
+A stretched bungee cord on a Piper Tri-Pacer or compressed spring
+@@This is a example of group 2 of potential energy
+This is a example of group 1 of potential energy
+This is a example of group 3 of potential energy
+
+Energy stored in batteries is:
+@@Group 3 of potential energy
+Group 2 of potential energy
+Group 1 of potential energy
+
+Kinetic energy is defined as being energy in:
+@@Moving
+Store
+Rest
+
+Formula to calculate Kinetic energy:
+@@½ MASS x VELOCITY²
+½ MASS ÷ VELOCITY²
+½ MASS x VELOCITY
+
+Namely foot pounds or inch pounds is a unit of:
+@@Potential energy and kinetic energy.
+Kinetic energy
+Potential energy
+
+Which is correct statement  concerning to Bernoulli's principle ?
+@@Bernoulli’s principle explains the action of a liquid flowing through the varying cross-sectional areas of tubes.
+Bernoulli’s principle explains the action of a rigid body moving flowing through the varying cross-sectional areas of tubes.
+Bernoulli’s principle explains the action of a electron flowing through the varying cross-sectional areas of tubes.
+
+Which is correct statement  concerning to Bernoulli's principle ?
+@@Total pressure = Dynamic pressure + Static pressure.
+Static pressure.  = Dynamic pressure + Total pressure
+Dynamic pressure =  Total pressure+ Static pressure.
+
+According to to Bernoulli's principle:
+@@The Pressure increases then The velocity decreases
+The Pressure increases then The velocity inceases too
+The Pressure increases then The velocity not change
+
+During compression, Which is correct statement related to turbine engine?
+@@During compression, as work is done to increase pressure and decrease volume, there is a corresponding rise in temperature.
+During compression,  as work is done to increase pressure and decrease volume, there is a corresponding temperature not change.
+During compression, as work is done to increase pressure and increase volume, there is a corresponding rise in temperature.
+
+During combustion, Which is correct statement related to turbine engine?
+@@During combustion, the addition of fuel to burn with the air increases the pressure and there is a corresponding increase in volume.
+During combustion, the addition of fuel to burn with the air increases the pressure and there is a corresponding decrease in volume.
+During combustion, the addition of fuel to burn with the air decreases the pressure and there is a corresponding increase in volume.
+
+What is correct formula relating to Work, Force, Distance?
+@@W=FxD ( W: Work, F: Force, D: Distance)
+W=F÷D ( W: Work, F: Force, D: Distance)
+F=D÷W ( W: Work, F: Force, D: Distance)
+
+What is Force unit?
+@@Newton
+Feet
+Joule
+
+Expl: Two mens apply a force = 50N on the Aircraft, Aircraft moves 1m. Work generates by two mens is:
+@@100 N.m
+0
+50 N.m
+
+What is Torque unit?
+@@N.m
+N÷m
+N+m
+
+Expl: If apply the force with a distance from center gravity of a Object, The Object shall:
+@@constant motion and rotate
+constant motion
+rotate
+
+Speed is difined:
+@@Speed refers to how fast an object is moving, or how far the object will travel in a specific time
+Speed refers to how fast an object is moving, or how far the object will travel in a specific time with direction
+Speed refers to how fast an object is moving and with direction
+
+Velocity is difined:
+@@Velocity is that quantity in physics which denotes both the speed of an object and the direction in which the object moves
+Velocity is that quantity in physics which denotes both the speed only
+Direction of object  in which the object moves
+
+Expl: How to define a Analysis Velocity vector of a Aircraft flighting in the cross wind?
+@@V.aircraft + V.wind
+V.aircraft - V.wind
+V.wind - V.aircraf
+
+What is Speed unit?
+@@m/h
+m.h
+m/h²
+
+For all heat engines, What is energy to convert into mechanical energy?
+@@Heat energy from burn fuel
+pressure air from compressure
+Velocity of aircraft.
+
+Turbojets, ramjets, and pulse jets have very little to no use in modern aircraft due to
+@@Noise and fuel consumption.
+To high rate power
+Operating not stable
+
+What are requirments all aircraft engines must meet today?
+@@Efficiency, economy, and reliability.
+Higher revolution, and reliability.
+efficiency, economy, and reliability, low air pressure by pass ratio.
+
+The aircraft engine is at full power output whenever
+@@take-off
+Landing
+cruise
+
+What is correct statement ?
+@@Specific fuel consumption for gas turbines is the fuel flow measured in (Ibs/hr) divided by thrust (lbs).
+Specific fuel consumption for gas turbines is the fuel flow measured in (Ibs/hr) divided revolution.
+Specific fuel consumption for gas turbines is the fuel flow measured in (Ibs/hr) divided by A/C speed (lbs).
+
+How to assess an aircraft reliability of engine?
+@@When it can perform at the specified ratings in widely varying flight attitudes and in extreme weather conditions.
+When it can perform at the specified ratings in specific flight attitudes and in normal weather conditions.
+Cost of the engine.
+
+Compactness of engine to be understood:
+@@The shape and size of the engine must be as compact as possible. The A/C one engine also affect the view of the pilot. In addition to reducing the drag created by a large frontal area
+The shape and size of the engine must be as compact as possible. In addition to reducing the drag created by a large frontal area
+The shape and size of the engine must be as compact as possible, the engine also affect the view of the pilot.
+
+What is fuction of combustion champer?
+@@To burn fuel
+To compress air
+To exhaust gas
+
+What is turbine engine type almost all airliner type aircraft use?
+@@Turbofan engine
+Pure tubojet engine
+Turboshaft engine
+
+What are advantages of turbofan engine?
+@@It can operate in supper sonic speed range.
+It is  quieter and has better fuel consumption in the high sub- Mach speed range.
+It is compact and light weight.
+
+The BYPASS RATIO is:
+@@The amount of air that is bypassed around the core of the engine determines the bypass ratio.
+The air to be pressurized determines the bypass ratio.
+The amount of air to be suck in the engine determines the bypass ratio.
+
+BYPASS RATIO =
+@@Fan air flow/ Core air flow
+Core air flow/Fan air flow
+Pressure air inlet/ pressure air oulet.
+
+The general principle of the fan engine is to convert more of the fuel energy into:
+@@Pressure.
+Velocity
+Temprature
+
+What is correct statement about fuel pump?
+@@Generally, a non-positive displacement (centrifugal pump) is used at the inlet of the engine driven pump to provide positive flow to the second stage of the pump.
+Generally, the engine driven pump is used at the non-positive displacement (centrifugal
+ inlet of  to provide positive flow to the second stage of the pump.
+Generally, the engine driven pump is a centrifugal pump to provide positive flow to the second stage of the pump.
+
+Gear type pump normally is driven by
+@@Engine
+Electrical motor
+Hydraulic motor
+
+How does Fuel Use get from?
+@@From the fuel counter, or totalizer
+From fuel tank sensor.
+From magnetic indicator.
+
+What is fuction of flow divider?
+@@To divide the flow into primary and secondary manifolds.
+To cut off fuel flow in case engine fire.
+To inscrease fuel flow incase engine request more power.
+
+What is mixed-exhaust nozzle?
+@@Where fan air and core air mix in a common nozzle before entering ambient conditions.
+Where fan air and core air mix and re-burning.
+Where fan air and core air mix before come into turbine.
+
+Where fan air and core air mix  before entering ambient, this is:
+@@Exhaust nozzle
+Diffuser
+Inlet cowl
+
+What is main pupurse of fuel heating?
+@@To prevent  ice crystals block fuel filter
+To reduce fuel vicoscity
+To prevent  ice crystals block fuel filter
+
+Which is correct statement  concerning to Newton First Law ?
+@@Objects at rest tend to remain at rest and objects in motion tend to remain in motion at the same speed and in the same direction, unless acted on by an external force.
+Objects at rest tend to remain at rest and objects in motion tend to remain in motion at the  speed change and in the any direction, unless acted on by an external force.
+Objects at rest tend to mowing and objects in motion tend to rest, unless acted on by an external force.
+
+When a force acts upon a body, the momentum of that body is changed. The rate of change of momentum is proportional to the applied force.
+@@This is second Newton Law
+This is First Newton Law
+This is third Newton Law
+
+F=MxA; M: Weight; A: Acceleration. This is a formula of:
+@@Second Newton Law
+First Newton Law
+Third Newton Law
+
+Which is correct statement  concerning to Boyle's Law?
+@@When the temperature of a gas is kept constant and the pressure inscreased, its volume is decreased proportionately.
+Don't relate to the temprature, the gas kept constance the pressure inscreased, its volume is decreased proportionately.
+When the temperature of a gas is kept constant and the pressure inscreased, its volume is increased proportionately.
+
+Example: How much work is accomplished when a tow tractor is hooked up to a tow bar and a Boeing 737-800 airplane weighing 130000 lbs is pushed 80 ft into the hangar? Tie force on the tow bar is 5000 lbs.
+@@40.000 Ft-lbs
+400.000 Ft-lbs
+4000 Ft-lbs
+
+What is correct formula relating to Power, Work, Force, Distance?
+@@P=FxD÷T ( P: Power, F: Force, D: Distance, T: Time)
+P=FxDxT ( P: Power, F: Force, D: Distance, T: time)
+D=PxDxT ( P: Power, F: Force, D: Distance,T: Time)
+
+What are Power unit?
+@@Watt, HP
+Joule, HP
+Watt, Joule
+
+The formula for torque is
+@@Torque = Force x Distance
+Torque = Force ÷  Distance
+Torque = Force + Distance
+
+Which is element make the objects rotate?
+@@Torque
+Force
+Weight
+
+A continuing change of position or place, It is defined:
+@@Motion
+Focre
+Distance
+
+What is correct formula relating to acceleration?
+@@Acceleration = (Velocity final - velocity initial) ÷ Time
+Acceleration = (Velocity final - velocity initial) x Time
+Acceleration = (Velocity final + velocity initial) ÷ Time
+
+What is Acceleration unit?
+@@m/s²
+m/s
+mxs²
+
+Thrust developed of Turbine engine apply of:
+@@Newton’s third law of motion
+Newton’s first law of motion
+Newton’s second law of motion
+
+What is fuction of engine oil system?
+@@To lubricate, cool all of the operating parts. Also, to damp out the vibrations of the engine when it is operating.
+To lubricate, cool all of the operating parts. Also, cool down fuel nozzles.
+To lubricate, cool all of the operating parts, and cool down fuel.
+
+Which are components of engine cold section?
+@@compressor, diffuser, Lp vane
+Turbin, compressor, combustion champer
+turbine, combustion chamber, ignitor.
+
+What is the greatest single factors influencing the construction features of any gas turbine engine?
+@@This is the type of compressor or compressors for which the engine is designed.
+This is the type of turbine for which the engine is designed.
+This is the type of combustion chamer for which the engine is designed.
+
+How many pools of turbofan engine?
+@@Two spool engine
+One spool engine
+Three spool engine
+
+How many pools of turbojet engine?
+@@Two spool engine
+One spool engine
+Three spool engine
+
+What is correct statement for Turboprop engine?
+@@Power ( free) turbine connect to propeller shaft via reduction gear box.
+Power ( free) turbine connect directly to propeller shaft
+Lp turbine turbine connect to propeller shaft via reduction gear box.
+
+What is the correct statement about the difference between turbofan gas turbofan and turboprop?
+@@The turbofan gas turbine engine is, in principle, the same as a turboprop, except that the propeller is replaced by a duct enclosed axial flow fan.
+The turbofan gas turbine engine is total different turboprop.
+The turbofan gas turbine engine thrust is Ton and turboprop is HP.
+
+One of the major advantages is turbofan production of this additional thrust
+@@Without increasing fuel flow.
+With increasing fuel flow.
+Without increasing emission.
+
+What kind of enigne driven pump?
+@@Generally, enigne driven pump is gear type pump
+Generally, enigne driven pump is piston type pump
+Generally, enigne driven pump is centrifugal type pump.
+
+For every action there is an equal and opposite reaction. This is :
+@@Third Newton Law
+First Newton Law
+Second Newton Law
+
+Apply the third Newton Law, Which is the correct answer?
+@@When an aircraft propeller pushes a stream of air backward with a force of 500 lbs, the air pushes the blades forward with a force of 500 lbs.
+When an aircraft propeller pushes a stream of air backward with a force of 500 lbs, the air pushes the blades forward with a force of 0 lbs.
+When an aircraft propeller pushes a stream of air backward with a force of 500 lbs, the air pushes the blades forward with a force of 1000 lbs.
+
+Within the turbine engine:
+@@The pressure and volume of the air through each stage is proportional to the temperature of the air at the stage.
+The volume only of the air through each stage is proportional to the temperature of the air at the stage.
+The pressure only of the air through each stage is proportional to the temperature of the air at the stage.
+
+What is Work unit?
+@@Joule
+Newton
+Feet
+
+What is correct formula relating to Power, Work, Force, Distance?
+@@P=W÷T ( P: Power, W: Work, T: Time)
+P=WxT ( P: Power, W: Work, T: Time)
+W=T÷P ( P: Power, W: Work, T: Time)
+
+Expl: Aplly to the Nut with force = 10N with distance = 1M, but the Nut not move. The Torque apply to Nut is
+@@10 N.M
+0
+10 N
+
+What is correct statement for force and power?
+@@For an aircraft to remain in level flight, thrust must be provided that is equal to and in the opposite direction of the aircraft drag.
+For an aircraft to remain in level flight, thrust must be provided that is lower to and in the opposite direction of the aircraft drag.
+For an aircraft to remain in level flight, thrust must be provided that is equal to and in the opposite direction of the aircraft lift.
+
+What are requirments for the aircraft fuel system?
+@@Systems provide metered fuel at the correct proportion of fuel/air ingested by the engine regardless of the attitude, altitude, or type of weather in which the engine is operated.
+Systems provide metered fuel at the correct proportion of fuel/air ingested by the engine regardless of fuel quality.
+Systems provide metered fuel at the correct proportion of fuel/air ingested by the engine regardless of the enigne speed.
+
+Reciprocating and turboprop engines have better economy than the pure turbojet or turbofan engines at:
+@@At low speed
+Always the same
+At high speed
+
+Operating flexibility of eninge to be understood:
+@@Operating flexibility is the ability of an engine to run smoothly and give desired performance at all speeds from idling to full power output.
+Operating flexibility is the ability of an engine to run smoothly and give desired performance at all speeds at full power output.
+Operating flexibility is the ability of an engine to run smoothly from idling to full power output.
+
+Which are components of engine hot section?
+@@turbine, combustion chamber, ignitor.
+Turbin, compressor, combustion champer
+compressor, diffuser, Lp vane
+
+Turbofan engines were developed to turn a large fan or set of fans at the front of the engine and How much of thrust  fan produces  of the from the engine?
+@@About 80 percent
+About 70 percent
+About 60 percent
+
+How many pools of turboprop engine?
+@@Three spool engine
+One spool engine
+Two spool engine
+
+Temperature of the turbine blades be exceeded the limite, What is the reason?
+@@Fuel becomes excessive.
+Aircraft over speed limit.
+Compressor speed over limit
+
+What are the most common types of fuel filter
+@@The three most common types of filters in use are the micron filter, the wafer screen filter, and the plain screen mesh filter.
+The three most common types of filters in use are the micron filter, the wafer screen filter, the plain screen mesh filter and paper filter .
+The three most common types of filters in use are the micron filter, the wafer screen filter, and the plain paper filter.
+
+What are the main purposes of Auxiliary Power Unit?
+@@Main engine start, in-flight emergency supply, and ground power supply
+Main engine start, in-flight emergency supply, and hydraulic pressure supply
+Main engine start, in-flight emergency supply, and auxiliary thrust during take-off
+
+What type of engine configuration is used in a modern Auxiliary Power Unit (APU)?
+@@Turbo-shaft engine
+Turbo-prop engine
+Turbo-fan engine
+
+How is the Auxiliary Power Unit (APU) divided?
+@@Into three main sections: intake/compression, combustion/turbine, and gear box
+Into three main sections: compression, combustion and turbine
+Into two main sections: intake/compression, combustion/turbine
+
+What is the function of APU on ground?
+@@Provide pneumatic power to operate the air conditioning
+Provide hydraulic power to operate the flight control operation test
+Provide fuel muscle to actuate main engine air control system
+
+What type of compressor is typically used in an APU?
+@@Centrifugal compressor
+Axial flow compressor
+Mixed-flow compressor
+
+What is the advantage of APU centrifugal compressor compare with axial fow compressor?
+@@Create a larger pressure rise per stage
+Be easy to maintenance and overhaul
+Have a lower manufacture cost
+
+What components prevent APU srruge and stall in compressor?
+@@Inlet Guide Vane and surge valve
+Outlet Guide Vane and surge valve
+Inlet Guide Vane and load control valve
+
+What is the purpose of APU turbine section?
+@@To rotate the compressor and the gear box section
+To rotate the compressor and starter motor
+To rotate the oil cooling fan and the gear box section
+
+How is APU starting provided?
+@@By a 28V DC series starter unit
+By a 115V AC series starter unit
+By a pneumatic series starter unit
+
+What is the purpose of APU FADEC (full authority digital engine controller) system
+@@Meter fuel and control the APU
+Meter oil and control the APU
+Meter fuel and interface with APU EEC
+
+How can the crew monitor the APU start sequence?
+@@Through the use of RPM and EGT gauges on the panel or on the EICAS system
+Through the use of oil pressure and EGT gauges on the panel or on the EICAS system
+Through the use of compressor outlet pressure  and EGT gauges on the panel or on the EICAS system
+
+What APU components can be serviced on board?
+@@Oil filter and fuel filter
+Combustion section
+Turbine section
+
+What are the advantages of piston engine?
+@@Relatively low cost, decent performance, and reliability
+High power-to-weight ratio, decent performance, and reliability
+Relatively low cost, decent performance, and high power-to-weight ratio
+
+What happens to the power-to-weight ratio of a piston engine when the power output increases?
+@@Decrease rapidly
+Remain the same
+Increase rapidly
+
+How is the radial piston engine?
+@@Have fixed (non-rotating) cylinders and the propeller is connected to the crankshaft
+Have rotating cylinders and the propeller is connected to the crankshaft
+Have fixed (non-rotating) cylinders and the propeller is connected to the the crank rod
+
+How is the rotary piston engine?
+@@Cylinders rotate with propellers
+Cylinders are fixed in flight
+Cylinders are fixed on ground
+
+What are the advantages of a “boxer” or “flat” piston engine?
+@@Minimize drag and allow for efficient air cooling
+Reduce weight and allow for efficient air cooling
+Minimize drag and increase the thrust
+
+What is the primary function of superchargers and turbochargers in piston engines?
+@@To increase intake air pressure, allowing for better combustion and improved engine performance
+To increase exhaust air pressure, allowing for better thrust performance
+To increase combustion inlet temperature, allowing for better combustion and improved engine performance
+
+What are the advantages of superchargers and turbochargers piston engines?
+@@Increase the engine power
+Reduce maintenance cost
+Reduce engine weight
+
+How does the power-to-weight ratio of a piston engine compare to that of a turboprop engine?
+@@Lower
+Higher
+The same
+
+What are the four strokes of piston engine?
+@@Intake, compression, power and exhaust
+Compression, ignition, power and exhaust
+Intake, power, compression and exhaust
+
+What is the position of the intake and exhaust valves during the compression stroke of a piston engine?
+@@The intake and exhaust valves are closed
+The intake valve is closed and the exhaust valve is open
+The intake valve is open and the exhaust valve is closed
+
+What is the position of the intake and exhaust valves during the power stroke of a piston engine?
+@@The intake and exhaust valves are closed
+The intake valve is closed and the exhaust valve is open
+The intake valve is open and the exhaust valve is closed
+
+What happens inside the cylinder during the power stroke of a piston engine?
+@@Expanding gases force the piston downward, driving the crankshaft
+The exhaust valve opens and the piston pushes the combustion gases out
+The intake and exhaust valves are closed and the piston compresses the fuel/air mixture
+
+What are the types of power sources used for electric and hybrid engines?
+@@Fuel engines, batteries, and electric motors
+Fuel engines, batteries, and pneumatic motors
+Diesel engines, batteries, and electric motors
+
+What are the most common configurations of fuel filter electric and hybrid engines?
+@@Series hybrid and parallel hybrid
+Series hybrid
+Parallel hybrid
+
+Partially turbo-electric includes:
+@@Turbine engine, electric motors, generator and electric fans
+Turbine engine, electric motors, batteries and electric fans
+Electric motors, batteries and electric fans
+
+What are the hybrid electric aircraft input parameters of the energy flow model?
+@@Main parameters of the aircraft, Flight profile, Engine parameters and Electric propulsion system parameters
+Flight profile, Engine parameters and Electric propulsion system parameters
+Main parameters of the aircraft, Flight profile, Engine parameters
+
+What are the hybrid electric aircraft energy flow model output parametersl
+@@Fuel consumption, Energy consumption, Electric propulsion system parameters and Overall parameters of hybrid electric aircraft
+Fuel consumption, Energy consumption, Electric propulsion system parameters
+Fuel consumption, Energy consumption,  Overall parameters of hybrid electric aircraft
+
+How is the turbine engine connected to Power Distribution and Cable in the energy architecture of the hybrid electric aircraft?
+@@Via Generation Rectifier
+Via Motor Controller
+Via Generation Controller
+
+How is the electric motor connected to Power Distribution and Cable in the energy architecture of the hybrid electric aircraft?
+@@Via Motor Controller
+Via Generation Rectifier
+Via Motor Rectifier
+
+What is the energy consumption parameter of a hybrid-electric aircraft?
+@@Total energy consumption for battery and engine
+Total energy consumption for battery and motor
+Total energy consumption for engine and motor
+
+What are the engine parameters of a hybrid-electric aircraft?
+@@Thrust, fuel consumption, weight, bypass ratio
+Thrust, fuel consumption, weight, speed
+Thrust, fuel consumption, maximum take-off weight, bypass ratio
+
+What is thrust distribution divided follow the energy flow process of hybrid electric aircraft?
+@@Electric thrust and Engine thrust
+Electric thrust and Motor thrust
+Motor thrust and Engine thrust
+
+What is electric power distribution divided follow the energy flow process of hybrid electric aircraft?
+@@Turbo-electricity and battery
+Turbo-electricity and generator
+Generator and battery
+
+How is the performance of the hybrid electric aircraft evaluated?
+@@By the overall aircraft calculation model
+By the electric propulsion system
+By the the power distribution system
+
+What happen if the quantity of fuel becomes excessive?
+@@Temperature of the turbine blades can be exceeded or compressor stall.
+Engine can not start.
+Oil temperature to hot
+
+When does rich blowout occur concerning to fuel system?
+@@The amount of oxygen in the air supply is insufficient to support combustion
+The amount of oxygen in the air supply is sufficient to support combustion
+The amount of oxygen in the air supply is too much to support combustion
+
+When does rich blowout occur concerning to fuel system?
+@@The mixture is cooled below the combustion temperature by the excess fuel
+The amount of oxygen in the air supply is sufficient to support combustion
+The amount of oxygen in the air supply is too much to support combustion
+
+What is a critical condition that fuel system must respond?
+@@Engine speed rapid acceleration
+Ambient temperature change
+Aircraft speed rapid acceleration
+
+What is correct statement about FADEC?
+@@FADEC, uses electronic sensors for its inputs and controls fuel flow with electronic outputs.
+FADEC, uses electronic sensors for its outputs and controls fuel flow with electronic inputs.
+FADEC, does not use sensors for its inputs and controls fuel flow with electronic outputs.
+
+What is input signal for a pure hydromechanical fuel control?
+@@Engine speed.
+Engine temperature.
+Ambient temperature.
+
+The basic function of the engine fuel system is
+@@Pressurize the fuel, meter fuel flow, and deliver atomized fuel to the combustion section of the engine.
+Filter,and deliver atomized fuel to the combustion section of the engine.
+Filter, deliver atomized fuel to the combustion section of the engine and draining.
+
+What is function of the filter bypass valve in the fuel pump?
+@@It allows fuel to bypass the fuel filter when the pressure drop across the fuel filter is excessive.
+It allows fuel to bypass the fuel filter when fuel flow across the fuel filter is excessive.
+It allows fuel to bypass the fuel filter when Fuel temerature across the fuel filter is excessive.
+
+How many channel EEC has normally?
+@@The EEC housing contains two electronic channels (two separate computers)
+The EEC housing contains three electronic channels (three separate computers).
+The EEC housing contains one electronic channel.
+
+What are air data affect to the quantity of fuel supplied that must be adjusted automatically?
+@@Changes in ambient temperature or pressure.
+Humidity, temperature
+Humidity.
+
+Concerning to fuel system, lean flame-out, occurs if:
+@@The fuel quantity is reduced proportionally below the air quantity.
+Rich fuel
+Mixed burning gas too hot
+
+Gas turbine engine fuel controls can be divided into three basic groups:
+@@Hydromechanical, Hydromechanical/Electronic, Full Authority Digital Engine (or Electronics) Control (FADEC)
+Hydromechanical, Hydromechanical/Electronic, Fuel flow/Eletronic
+Fuel flow/Eletronic, Hydromechanical/Electronic, Full Authority Digital Engine (or Electronics) Control (FADEC)
+
+What are advantages of FADEC?
+@@This electronically controlled fuel control is very accurate in scheduling fuel by sensing many of the engine parameters.
+This hydraulically controlled fuel control is very accurate in scheduling fuel.
+This hydraulically and pneumatically controlled fuel control is very accurate in scheduling fuel.
+
+What is FADEC stand for?
+@@Full authority digital electronic control
+Full atomatic digital electronic control
+Full authority digital engine control
+
+Where is EEC normally installed on the engine?
+@@The EEC is generally placed in an area of the engine nacelle that is cool during engine operation.
+The EEC is generally placed in an area of the engine turbine case.
+The EEC is generally placed in an area of the engine exhause case.
+
+Which is correct statement concerning to fuel nozzle?
+@@The fuel nozzles form part of the fuel system and atomize or vaporize the fuel so that it ignites and burns efficiently.
+The fuel nozzles form part of the fuel system; They are installed after high pressure turbine.
+The fuel nozzles form part of the fuel system and it must made of nikel for heating resitance.
+
+What is A/C system using FADEC?
+@@engine fuel system
+Hydraulic system
+Oil system
+
+What are the fuel control section?
+@@Computing and metering section
+Computing and monitoring section
+Indicating and metering section
+
+What is a pure hydromechanical fuel control of engine?
+@@Have no electronic interface assisting in computing or metering the fuel flow
+Have electronic interface assisting in computing the fuel flow only
+Have no electronic interface assisting in metering the fuel flow only
+
+How does the metering section deliver the fuel to the engine fuel system?
+@@Through cams and servo valves
+Through pressurizing valve and servo valves
+Through pressurizing valve and cams
+
+What is the purpose of the fuel computing section?
+@@Determine the correct amount of fuel flow
+Protect engine from over speed conditions
+Save the fuel in various outside conditions
+
+What is an advantage of electronic fuel controls compared to hydromechanical controls?
+@@They can receive more inputs with greater accuracy
+They can receive more inputs and provide more outputs
+They are easier to maintain and design
+
+How did early electronic fuel control systems use the hydromechanical control unit?
+@@As a backup in case the electronic system failed
+In parallel to compare inputs from both systems
+Alternating between systems after each operation cycle
+
+What are the basic functions of the turbine engine fuel system?
+@@Pressurize the fuel, meter fuel flow, and deliver atomized fuel to the combustion section
+Pressurize the fuel, meter fuel flow, and exchange the heat with oil system
+Scavenge the fuel, meter fuel flow, and deliver atomized fuel to the combustion section
+
+A hydromechanical fuel control assembly contains:
+@@A fuel shutoff section and a fuel metering section
+A fuel pump section and a fuel metering section
+A fuel bypass valve and a fuel metering section
+
+Which system controls engine fuel metering in automatic mode?
+@@Engine Electronic Control
+Hydromechanical control
+Mechanical control
+
+What does electronic fuel control unit (EFCU) perform during normal engine operation?
+@@Thrust setting, speed governing, acceleration and deceleration limiting
+Thrust setting, speed limiting, acceleration and deceleration limiting
+Thrust limiting, speed governing, acceleration and deceleration limiting
+
+What is the function of engine fuel filter bypass valve?
+@@Bypass the fuel filter when the pressure drop across the fuel filter is excessive
+Bypass the fuel filter when the fuel temperature is high
+Bypass the fuel filter when the fuel supply pressure is high
+
+What happens when de-energizing the manual mode valve of fuel control system?
+@@All speed governor in response to power lever angle
+Operation of the mechanical speed governor is restricted
+All speed governor is controlled automatically by EEC
+
+What is the Wf/P3 ratio in engine fuel control system?
+@@fuel flow/compressor discharge pressure ratio
+fuel supply pressure/compressor discharge pressure ratio
+fuel flow/compressor inlet pressure ratio
+
+What type of pump is the vane fuel pump assembly in the engine fuel control system?
+@@Fixed displacement fuel pump
+Centrifugal fuel pump
+Gear fuel pump
+
+When does the start fuel enrichment solenoid valve operate?
+@@Engine cold starting or altitude restarts
+Aircraft is in Go-around mode
+Engine stall is detected
+
+What type of pump is the APU high pressure fuel pump?
+@@Gear type pump
+Centrifugal fuel pump
+Fixed displacement fuel pump
+
+How is the APU metering valve area modulated?
+@@By a torque motor receiving control signals from the ECU
+By a solenoid receiving control signals from the ECU
+By a torque motor controlled by inlet pressure signals
+
+What is the primary component of a FADEC engine fuel control system?
+@@One EEC containing two independent electronic channels
+Two independent EECs, each with a single channel
+One EEC containing three independent electronic channels
+
+Where does power for the EEC come from?
+@@The aircraft electrical system or the permanent magnet alternator (PMA)
+The permanent magnet alternator (PMA) or aircraft main batteries
+The aircraft electrical system or aircraft main batteries
+
+Which are signal indicated on cockpit
+@@Fuel flow, oil temprature, oil pressure
+Fuel flow, oil temprature, oil pressure, oil flow
+Fuel flow, oil temprature, oil pressure, fuel pressure
+
+Engine instrumentation displayed in the cockpit (flight deck) can be categorized into:
+@@Engine Operation, Engine Monitoring
+Engine operation, engine overhaul
+Engine Monitoring, engine overhaul
+
+EPR, N1, EGT and N2 is:
+@@Engine Operation instruments
+Engine monitoring instruments
+Engine Operation and monitoring instruments
+
+What are features of enigne instrument?
+@@All engine instrumentation must be reliable, accurate, and displayed instantaneously
+All engine instrumentation must be reliable, reflexible, and displayed instantaneously
+All engine instrumentation must be reliable, accurate, and reflexible.
+
+The standard layout position of engine thrust always applies:
+@@Always on top
+Lower position
+Always in the middle.
+
+Are these colored zones can be used  indicators?
+@@Yes, There are. Both conventional analog indicators and modern electronic used colored zone
+No, there aren't.
+No, there aren't. Only modern electronic used colored zone
+
+What is EPR (Engine Pressure Ratio).
+@@This parameter is the ratio of the total pressure in the engine air intake to the total pressure at the turbine outlet.
+This parameter is the ratio of the total pressure in the engine air pressure after Low pressure compressor to the total pressure at the turbine outlet.
+This parameter is the ratio of the total pressure in the engine air after High pressure compressure to the total pressure at the turbine outlet.
+
+N1 is the symbol for the rotation speed of the
+@@Low pressure compressor.
+High pressure compressor.
+High pressure turbine.
+
+What is engine data relatively better response with engine thrust?
+@@N1
+N2
+EGT
+
+What is priciple operation of EGT sensor?
+@@The hot and cold junction principle of dissimilar metals producing a voltage, that is proportional to the temperature.
+The hot and cold junction principle of dissimilar metals producing a voltage, that is proportional to the temperature.
+Temperature gerearates electron between metal blade and producing a voltage, that is proportional to the temperature.
+
+N2 represets for:
+@@High pressure Turbine speed
+Low pressure Turbine speed
+Fan speed
+
+What does Fuel Flow indicate?
+@@Fuel flow rate.
+Fuel Pressure
+Fuel different pressure of fuel filter
+
+Which is correct statement about oil temperature?
+@@The oil temperature is one factor which determines its ability to lubricate, and also its cooling capacity.
+The oil temperature is one factor which determines its ability to lubricate only.
+The oil temperature is one factor which determines its ability for cooling capacity only.
+
+How to cooling bearing in normal?
+@@Using engine Oil.
+Using engine fuel.
+Using air.
+
+How to luricate engine bearing?
+@@Using engine Oil.
+Using engine fuel.
+Using air.
+
+Deetecting vibrations as soon as they start can limit the damage caused
+@@By abnormal engine wear.
+By  engine overspeed.
+By  engine over temperature.
+
+What does it mean if red cross through the indication?
+@@It indicates that there is no signal or that the signal is malfunctioning.
+It indicates that there is good signal or that the signal is malfunctioning.
+It indicates that there is no signal or that the signal is  good functioning.
+
+What is correct statement for maintenane trouble shooting manual?
+@@Most aircraft Maintenance Manuals have flow charts, or similar fault diagnostic data to aid the technician in fault finding, given specific failed symptoms.
+Only fault diagnostic data to aid the technician in fault finding, given specific failed symptoms.
+Must advice manuafactuer for any faults to recive correct instruction.
+
+Engine pressure Data includes:
+@@Required for the EPR, oil pressure, low oil pressure alert, fuel filter preclogging and fuel pressure alert.
+Required for the EPR, oil pressure, Air pressure, fuel filter preclogging and fuel pressure alert.
+Required for the EPR, oil pressure, Hight oil pressure alert, fuel filter preclogging and fuel pressure alert.
+
+Engine mechanical Movement Data includes:
+@@Required for speed Nl, N2, fuel flow and engine vibrations.
+Required for speed Nl, fuel flow and engine vibrations.
+Required for speed Nl, N2, fuel flow and generator speed.
+
+What is requested data for correction to the EPR for accurate power settings?
+@@Ambient temperature
+EGT
+P3
+
+An oil "low pressure alert” generates for:
+@@Engine lubricating protection.
+Engine overheat protection.
+Engine oil filter protection.
+
+Fuel Filter Pre-Clogging Alert when:
+@@A differential pressure switch detects the fuel pressure at the fuel filter inlet and outlet.
+A pressure switch detects the fuel pressure at the fuel filter over set value.
+A pressure switch detects the fuel pressure at the pump oulet over set value.
+
+A “fuel filter bypass” alert (bypass) be triggered and lead to:
+@@The fuel filter bypass valve operates. This ensures continual fuel flow to the engine, but with no filtering.
+The fuel filter bypass valve operates. This ensures continual fuel flow to the engine, only fuel half filtering.
+The fuel filter bypass valve operates. This ensures continual fuel flow to the engine by passed to another filter.
+
+All the EGT thermocouples are connected parallel to each other for:
+@@Transmiting an average temperature signal.
+Transmiting a highest temperature signal.
+Transmiting an lowest temperature signal.
+
+The EGT thermocouples resistance measurements, for calibration and fault diagnosis, are ideally carried out when:
+@@The engine is cold.
+The engine is hot.
+The engine hot or cold is acceptable.
+
+Oil temperature sensors can be
+@@Thermocouples or thermistors.
+Thermocouples.
+Thermistors.
+
+Commonly, N1 represents to
+@@Fan speed
+Hi pressure commpressor speed
+Propeller speed
+
+Where is electromagnetic coil for N1 located?
+@@On the fan casing.
+In Hi compressor casing
+On Pylon
+
+Where does the fuel flow transmitter normally locate?
+@@Between the HP fuel valve and distribution lines to fuel injectors.
+Downstream fuel injectors.
+Upstream of  the HP fuel valve.
+
+What is component the fuel flow feed directly to?
+@@EEC/ECU
+ECAM
+Monitor
+
+What does data of fuel change when the ambient temperature change?
+@@Fuel volume
+Fuel mass
+Fuel potential energy
+
+Which signals will be combinated with vibration sensors to calulate and display in the cockpit?
+@@N1, N2
+EGT, P3
+EPR, N.
+
+What is relationship between engine torpue, RPM and engine power?
+@@Power= Torque x RPM
+Torque=  Power x RPM
+RPM = Torque x Power
+
+Normally, Engine Torque  parameter using for:
+@@Turbo prop engine
+Turbo jet engine.
+Turbo fan engine
+
+Any exceeded instances of manufacturers torque data invariably results:
+@@In mandatory inspections for damage.
+Optional inspections for damage.
+No action require if engine paramaters still normal.
+
+On aircraft equipped with a constant speed propeller system, power output is controlled by the throttle and is indicated by:
+@@A manifold absolute pressure gauge.
+Monitor ITT.
+Combination between Np and FF
+
+N2 signal: This is mainly used by the ECU/EEC for
+@@Fuel control (metering).
+EGT control.
+Vibration control.
+
+When the pointer exceeds a given value of analog monitor, it will combinate with:
+@@An amber light (or red) illuminates on the dial.
+An green light (or red) illuminates on the dial.
+An blue light (or red) illuminates on the dial.
+
+A red colored zone corresponds to a
+@@Danger zone requiring immediate action by the pilot to get out of this operation zone.
+Caution and careful monitoring are required.
+Normal engine operation.
+
+What are engine operation instruments showing on cockpit?
+@@EPR, N1, EGT and N2
+EPR, N1, EGT and N2, Oil pressure.
+EPR, N1, EGT and N2, Oil temprature.
+
+How are engine instruments located?
+@@Engine operating instrumentation is shown at the top of the panel, with the engine monitoring instrumentation below.
+Engine monitoring instrumentation is shown at the top of the panel, with the Engine operating instrumentation below.
+Engine monitoring instrumentation and engine operating instrumentation are showed the same level.
+
+The electronic indicators used for instrumentation are:
+@@Either Cathode Ray Tubes (CRT) or Liquid Crystal Displays (LCD).
+Analogs indicators,  Cathode Ray Tubes
+Analogs indicators,  Liquid Crystal Displays (LCD)
+
+What is correct statement about colored zone engine indicator?
+@@The needle in the yellow zone means that the value of this parameter is in a range which requires careful monitoring by the crew.
+The needle in the yellow zone means that the value of this parameter is in a unacceptable range.
+The needle in the yellow zone means that the value of this parameter is in a normal operating range.
+
+The needle of engine indicator in the Red zone means that:
+@@The value of this parameter is in a unacceptable range.
+The value of this parameter is in a normal range.
+The value of this parameter is in a careful monitooring range.
+
+N2 is the symbol for the rotation speed of the
+@@High pressure compressor.
+Low pressure compressor.
+Low pressure turbine.
+
+What is EGT stand for?
+@@Exhaust Gas Temperature.
+Engine Gas Temperature.
+External Gas Temperature.
+
+EGT thermocouples are usually made of
+@@Chrome/nickel and nickel/aluminum
+Steel/nickel and chrome/aluminum
+Chrome/aluminum and Steel/aluminum
+
+What is correct statement about EGT sensor?
+@@Several temperature sensors, thermocouples generally made of chrome/nickel and nickel/aluminum, are located around the edge of the outlet pipe, close to the turbine outlet.
+Only one temperature sensor, thermocouples generally made of chrome/nickel and nickel/aluminum, are located around the edge of the outlet pipe, close to the turbine outlet.
+Several temperature sensors, thermocouples generally made of chrome/nickel and nickel/aluminum, are located around the edge of the outlet pipe, far to the turbine outlet.
+
+What does OIL QUANTITY dispay for ?
+@@It displays the amount of oil remaining in the reservoir.
+It displays the amount of oil remaining in the in oil system.
+It displays the amount of oil remaining in the oil in bearing cavity.
+
+What does it means if engine has Low Oil Pressure Alert?
+@@This alert illuminates the oil pressure drops below a set value and is activated by a pressure switch.
+This alert illuminates the oil pressure higher than a set value and is activated by a pressure switch.
+This alert illuminates the oil pressure drops to ZERO and is activated by a pressure switch.
+
+What is method possible to quickly identify the source of the problem reported by the pilot.
+@@Systematic research.
+Pilot interview.
+Ask elder maintenance sfaff.
+
+Which are  important data  for monitoring the engine and ensuring its proper operation and performance?
+@@Pressure, temperature and mechanical moving parts.
+Pressure, temperature and A/C velocity.
+Pressure, A/C speed and mechanical moving parts.
+
+The EPR is
+@@The ratio of the total pressure at the turbine outlet to the total pressure in the turbojet air intake.
+The ratio of the total pressure at the pressure in the total turbojet air intake to the total turbine outlet.
+The ratio of the total pressure at the Fan outlet to the total pressure in the turbojet air intake.
+
+Which are crucial data of engine oil system?
+@@Oil pressure and oil flow.
+Oil pressure and oil temperature.
+Oil pressure, oil temperature and oil flow.
+
+What is type of signal engine oil pressure transmitter sent to EEC/ECU
+@@Analog signal.
+Digital signal
+Sound
+
+When engine has Low Oil Pressure alert, What will signal be triggered?
+@@Audible alert, the oil pressure indicator on the electronic display may also start flashing and/or will change color (red)
+the oil pressure indicator on the electronic display may also start flashing and/or will change color (red)
+Audible alert, the oil pressure indicator on the electronic display may also start flashing and/or will change color in yellow
+
+What is correct statement concerning to engine exhaust gas temperature(EGT)?
+@@This is a critically important engine parameter which is always indicated in the cockpit.
+This is not important engine parameter which is indicated in the cockpit.
+This is optional engine parameter which is indicated in the cockpit.
+
+Where are thermocouple sensors for EGT  located?
+@@Either between the TIP and LP turbine stages, or more commonly, at the LP turbine outlet.
+Out let of the high pressure turbine.
+Out let of the Low pressure turbine.
+
+How many EGT thermocouple sensors usually installed on the engine?
+@@Usually ranging from two to 12.
+Only 01
+Must be above 10
+
+How are thermocouple sensors connected?
+@@All the thermocouples are connected parallel to each other.
+All the thermocouples are connected in serial each other
+All the thermocouples are connected parallel and serial mix each other.
+
+Normally, the oil temperature sensors can be located on the:  "pressure" circuit or on the "recuperation" circuit of the engine lubrication circuit.
+@@"pressure" circuit or on the "recuperation" circuit of the engine
+Return circuit or on the "recuperation" circuit of the engine
+Return circuit.
+
+Which is parameter would be replaced for EPR to representate for engine thrust?
+@@N1
+N2
+Np
+
+How is N1 transmitted?
+@@The rotation speed signal is transmitted via an electromagnetic speed sensor with a phonic wheel.
+The rotation speed signal is transmitted via reduction gear box.
+Using electromanetic sensor with Coil rotation.
+
+What is engine spool, which N2 connected?
+@@Nh
+Nl
+Np
+
+What is engine spool, which connect to AGB?
+@@Nh
+Nl
+Np
+
+What does EVMU stand for? Engine Vibration Monitoring Unit
+@@Engine Vibration Monitoring Unit
+Electronic Vibration Monitoring Unit
+Engine Vibration Management Unit
+
+Where is usually place to measure engine torque?
+@@At the gearbox
+At the turbine
+at the compressure
+
+Exceeding engine operating temperature or torque limitations can damage:
+@@Engines, powerplants, or gearboxes.
+Engines ( hot section).
+Engines, powerplants, nacell.
+
+Which signal ECU/EEC use to control the fuel/oil heat exchanger?
+@@N1, N2
+The fuel and oil temperature signals
+FF, EGT
+
+What is correct statement for interfacing of N1 signal?
+@@N1 signal: It can be used by the EEC/ECU to replace the EPR signal when the electronic calculator operates in an "alternate" or "standby" mode
+N1 signal, It can be replaced by EPR in "alternate" or "standby" mode
+N1 signal: It can be used by the EEC/ECU to replace the N2 signal when the electronic calculator operates in an "alternate" or "standby" mode
+
+Which is signal used to close the start valve and cut the ignition circuit during startup sequence.
+@@N2
+N1
+FF
+
+What is signal used to control the DC fuel pump?
+@@N2
+N1
+FF
+
+A yellow colored zone of engine dial corresponds to zone
+@@Caution and careful monitoring are required.
+Danger zone requiring immediate action by the pilot to get out of this operation zone.
+Normal engine operation.
+
+Engine pressure ration used for:
+@@Turbofan engine, turbo jet engine
+Turbofan engine, turbo prop engine
+Turbo jet engine, turbo prop engine
+
+The common engine  monitoring instruments are:
+@@Oil pressure, temperature and quantity; fuel pressure, temperature and quantity; and nacelle temperature.
+Oil pressure, temperature and quantity; fuel pressure, temperature and quantity; and EPR, N1.
+Oil pressure, temperature and quantity; fuel pressure, temperature and quantity; EPR, N1, and nacelle temperature.
+
+What is the most important operating instrument?
+@@EPR or N1
+EPR or N2
+EGT or N1
+
+The ratio of the total pressure in the engine air intake to the total pressure at the turbine outlet is called:
+@@EPR (Engine Pressure Ratio)
+P2.5
+P3.
+
+EGT represents for:
+@@Turbine temperature
+Air out let of High compressor temperature
+Engine air inlet temperature
+
+Which is correct statement about oil pressure?
+@@The oil pressure is usually measured at the oil pump outlet and is indicated in PSI.
+The oil pressure is usually measured at the oil pump inlet and is indicated in PSI.
+The oil pressure is usually measured at the oil filter inlet and is indicated in PSI.
+
+What is advantage of the various electronic display systems modern aircraft?
+@@The indication itself is rarely the source of the problem.
+The indication itself is clearly the source of the problem.
+The indication itself is more the source of the problem.
+
+Engine temperature Data includes:
+@@Required for the EGT, oil temperature, fuel temperature and nacelle temperature.
+Required for the EGT, oil temperature, fuel temperature and exhaust gas temperature.
+Required for the EGT, oil temperature, fuel temperature and pylon temperature.
+
+The ratio of the total pressure at the turbine outlet to the total pressure in the turbojet air intake is called:
+@@EPR
+ITT
+EGT
+
+Which is data representive to engine thrust?
+@@EPR
+N2
+EGT
+
+Where is  fuel pressure transmitter located at
+@@The fuel centrifugal pump outlet (boost pump).
+The fuel centrifugal pump intlet (boost pump).
+The fuel filter outlet.
+
+What is correct statement concerning to engine exhaust gas temperature(EGT)?
+@@Thermocouple sensors for EGT  located not highest turbojet/ powerplant temperature
+Thermocouple sensors for EGT  located highest turbojet/ powerplant temperature
+Thermocouple sensors for EGT  located lowest turbojet/ powerplant temperature
+
+What is the reason the EGT thermocouples were not  in series?
+@@There would be no facility for redundancy, and much more wiring would be required.
+There would be no facility for redundancy, and much less wiring would be required.
+There would be difficult to install, and much less wiring would be required.
+
+Phonic wheel, an integral part of the:
+@@LP compressor rotor.
+Fan casing.
+HP compressor rotor.
+
+The most common of fuel flow transmiter is:
+@@A constant speed propeller driven by an electric alternating triphase motor.
+A constant speed propeller driven by an electric alternating single-phase motor.
+A variable speed propeller driven by an electric alternating triphase motor.
+
+How does vibration sensor sense the engine vabrition?
+@@Sensors are accelerometers made up with a piezoelectric crystal; an electric signal which is proportional to the forces applied by the vibrations is generated and sent to the engine vibration analyzer.
+Sensors are sonic wave meters made up with a piezoelectric crystal; an electric signal which is proportional to the forces applied by the vibrations is generated and sent to the engine vibration analyzer.
+Sensors are velocity meters made up with a piezoelectric crystal; an electric signal which is proportional to the forces applied by the vibrations is generated and sent to the engine vibration analyzer.
+
+Torque is a very important parameter and similar to EPR or N1
+@@EPR or N1
+EGT, FF
+N2, EGT
+
+Torque can be measured by determining the torsion movement of:
+@@Drive shaft.
+Driven shaft.
+Driven gear.
+
+What is signal used to calulate total fuel consumption?
+@@FF
+N1
+N2
+
+A green colored zone corresponds to a zone
+@@Normal engine operation.
+Danger zone requiring immediate action by the pilot to get out of this operation zone.
+Caution and careful monitoring are required.
+
+Which is instrument of Engine thrust?
+@@EPR or N1
+EGT or N1
+EGT or N2
+
+What is priciple operation of N2 transmitter?
+@@The transmitter is usually a dissimilar metals, generated voltage by engine Hp turbine speed.
+The transmitter is usually a dissimilar metals, generated voltage by engine Lp turbine speed.
+The transmitter is usually a tachometer generator driven by the accessory gearbox.
+
+Which is correct statement concerning to engine vibration?
+@@System automatically clears all the data related to vibrations detected in its memory (to be downloaded)for the next fight record.
+System keep all the data related to vibrations detected in its memory (to be downloaded) for the purpose of conducting failure research and trend analysis at a later time.
+System detects  vibrations of compressor, turbine and airodynamic.
+
+Where is propeller speed indicator Np located?
+@@In the flight compartment
+Access via MCDU to check
+No indication, only a warning when limits are exceeded
+
+What is the function of propeller brake?
+@@Enable RH propeller rotation to be stopped while the engine is still running
+Enable RH propeller rotation to be stopped immediately after engine shutdown
+Keep RH propeller stopped when the engine fails in flight
+
+How is the indicator Np supplied?
+@@by the ESS BUS 28 VDC
+by the NORM BUS 28 VDC
+by the BATT BUS 28 VDC
+
+Which light is illuminated when the Automatic Take-off Power Control System (ATPCS) is available?
+@@ARM light
+ON light
+ATPCS light
+
+What is the Np (propeller speed) when the PWR MGT(Power Management) selector is set to the CLB position?
+@@0.82
+1
+0.9
+
+Which position does PWR MGT switch include?
+@@TO, MCT, CLB, CRZ
+TO, TOGA, CLB, CRZ
+TO, MAX, CLB, CRZ
+
+What is purpose of the propeller brake system?
+@@To enable safe use of the right-hand (RH) engine as a generator of direct current (DC)
+o enable safe use of the right-hand (RH) engine as a generator of alternating current (AC)
+To enable safe use of the left-hand (LH) engine as a generator of direct current (DC)
+
+How is hydraulic supply for propeller brake provided?
+@@By Blue system at a pressure of 3000 PSI
+By Green system at a pressure of 3000 PSI
+By Yello system at a pressure of 3000 PSI
+
+How to read the failure code of engines?
+@@Via MCDU after engine shutdown
+Using special tool in engine shop
+Receiving from engine manufacture
+
+What is the most important of Electrically controlled pitch propellers?
+@@Enable constant speed operations
+Reduce fuel consumption
+Increase engine thrust
+
+How can engine RPM (Round Per Minute) readily be controlled?
+@@By increasing or decreasing the blade angle
+By increasing or decreasing the blade root angle
+By increasing or decreasing the blade tip angle
+
+How is the constant-speed propeller controlled?
+@@By a propeller control lever
+By a throttle control lever
+By a mixture control lever
+
+When does the propeller governor operate?
+@@There is a change in engine RPM
+There is a change in aircraft altitude
+There is a change in engine fuel flow
+
+How do the governor flyweights and the speeder spring interact in the on-speed condition?
+@@The centrifugal forces of the flyweights and the tension of the speeder spring are equal
+The centrifugal forces of the flyweights are greater than the tension of the speeder spring
+The centrifugal forces of the flyweights are less than the tension of the speeder spring
+
+How are the propeller blades positioned in an on-speed condition?
+@@Pitch no change
+Pitch increase
+Pitch decrease
+
+How is speeder spring propeller governing range limited?
+@@To about 200 rpm
+To about 300 rpm
+To about 500 rpm
+
+How are the arms of the flyweights positioned in an under-speed condition?
+@@Tilt inward because there is not enough centrifugal force to overcome the speeder spring force
+Tilt outward due to excessive centrifugal force to overcome the speeder spring force
+Tilt inward due to excessive centrifugal force to overcome the speeder spring force
+
+How are the arms of the flyweights positioned in an over-speed condition?
+@@The flyweight arms tilt outward and raise the pilot valve
+The flyweight arms tilt inward and raise the pilot valve
+The flyweight arms tilt outward and lower the pilot valve
+
+Which type are Hamilton standard hydromatic propellers operation condition?
+@@On-speed, Over-speed and Under-speed
+On-speed, Over-speed and Feathering
+On-speed, Over-speed and Un-Feathering
+
+How does the pitch changing mechanism of hydromatic propellers operate?
+@@By oil pressure
+By pneumatic pressure
+By electric power
+
+How is the turboprop engine propeller operated in the beta range?
+@@To provide either zero or negative thrust
+To provide either zero or positive thrust
+To provide either positive or negative thrust
+
+When does a turboprop engine use the alpha range?
+@@In flight
+On ground
+In flight or on ground
+
+What are the purposes of synchronization system?
+@@To reduce vibration and noise
+To increase engine performance
+To reduce engine fuel consumption
+
+When does the Type I propeller synchronization system normally operate?
+@@During cruise flight
+During take-off, landings
+During single engine operations
+
+What is the function of propeller ice protection system?
+@@To prevent the formation of ice or remove ice that has accumulated on the propeller leading edge
+To prevent the formation of ice or remove ice that has accumulated on the propeller trailing edge
+To prevent the formation of ice or remove ice that has accumulated on the propeller tip
+
+Where are the heating elements are mounted on blades?
+@@Internally or externally on the propeller blade
+Around the propeller blade root
+Around the propeller blade tip
+
+What is the function of brush block?
+@@Used to transfer electricity to the slip ring
+Used to transfer electricity to the heating elements
+Used to transfer electricity to the power relay
+
+What is correct statement  when working with turbine engine ignition systems?
+@@It is absolutely necessary to use caution and follow all manufacturer's instructions when working with turbine engine ignition systems.
+Make sure votatge of ignitor must be below 110v  when working with turbine engine ignition systems.
+Make sure ignition system be cut of at least one hour  before working with turbine engine ignition systems.
+
+How can ignition exciter cause injury or death human?
+@@By release residual high voltage and current in to human body.
+By transfer heat in to human body.
+By shock of high wave .
+
+What is the correct procedure for removing ignitor?
+@@To perform igniter maintenance, standard procedure calls for disconnection of the igniter lead coupling nuts at the exciter end first.
+To perform igniter maintenance, standard procedure calls for disconnection of the igniter first.
+To perform igniter maintenance, standard procedure calls for disconnection of the igniter lead coupling nuts first.
+
+Rotating the high pressure compressor.
+@@This action for engine starting.
+This action for borescope low pressure turbine.
+This action for engine EGT check.
+
+What are Gas turbine engines started by ?
+@@Rotating the high pressure compressor.
+Rotating the Low pressure compressor.
+Rotating the Fan.
+
+To start a gas turbine engine, it is necessary to accelerate the compressor to provide sufficient air to
+@@Support combustion in the combustion section, or burners.
+Support combustion champer for cooling.
+Cool down bearing and turbine.
+
+What is correct statement concerning to engine starting?
+@@The starter must continue to assist the engine considerably above the self accelerating speed to avoid  hot or hung false start or a combination of both.
+The starter must cut off as soon as fuel injeted
+The starter must cut off as soon as ignitor working.
+
+What are the basic types of starters that are in current use for gas turbine engines?
+@@Starter are direct current (DC) electric motor, starter/generators, and the air turbine type of starters.
+Starter are alternating current(AC) electric motor, starter/generators, and the air turbine type of starters.
+Starter are alternating current (AC), direct current (DC) ;  electric motor, starter/generators.
+
+Many gas turbine aircraft are equipped with:
+@@Starter, after functioning as a starter, they contain a windings to switch to a generator.
+Starter and generator is independent.
+AC motor using for starting
+
+For direct cranking of starer type,
+@@Starter must  disengaging the starter from the shaft after the engine has started.
+Starter is still engaging to the shaft after the engine has started.
+Starter become a generator after the engine has started.
+
+What is the purpose of the heavy series winding installation in the starter?
+@@To produce a strong field and a resulting high torque for starting.
+To reduce field and a resulting low torque for starting.
+To reduce heat generated during starting.
+
+What are the advantages since one unit performs the functions of both starter and generator?
+@@Economic, weight reduced and fewer spare parts are required.
+Weight reduced and fewer spare parts are required.
+Economic, weight reduced.
+
+What are the advantages of air turbine starter?
+@@Provide high starting torque from a small, lightweight source.
+Provide high starting torque from a small, lightweight source, low cost of maintenance.
+Provide high starting torque from a small, lightweight source, high reliability.
+
+What are the advantages of air turbine starter with electric starter?
+@@Request light weight and  more torque than the electric starter with the same enigne.
+Request light weight and  more reliability than the electric starter with the same enigne.
+Request light weight and  more torque and low cost maintenance than the electric starter with the same enigne.
+
+What does the typical air turbine starter consists of?
+@@An axial flow turbine that turns a drive coupling through a reduction gear train and a starter clutch mechanism.
+An centrifugal flow turbine that turns a drive a starter clutch mechanism.
+An axial flow turbine that turns a drive coupling through a reduction gear train.
+
+What is function of reduction gear train of air starter?
+@@To reduce speed of air starter shaft.
+To increase speed of engine shaft.
+To increase speed of air starter shaft.
+
+The air starter cluth mechansim will
+@@Disengage air starter when enigne speed higher than stater speed.
+Still engage air starter when enigne speed higher than stater speed.
+Engage air starter to enigne until engine above ground idle.
+
+The air starter cluth mechansim disengage air starter from enigne by
+@@Automatically
+Electrical motor
+Hydraulic motor
+
+What  are air startermaintenance ?
+@@Normal maintenance for air turbine starters includes checking the oil level, inspecting the magnetic chip detector for metal particles, and checking for leaks.
+Normal maintenance for air turbine starters includes checking the oil level, inspecting the magnetic chip detector for metal particles, and boresope.
+Normal maintenance for air turbine starters includes checking the oil level, oil leak, and borescope.
+
+How is air starter oil added?
+@@Through port of the transmission housing sump.
+Through port on air starter case.
+One time service when air starter replaced.
+
+What is purpose of magnetic plug on the air starter?
+@@To attracts any ferrous particles that may be in the oil.
+To check oil level.
+To check oil colour.
+
+Why is Quick-detach clamps used to join the starter?
+@@For easily removed for maintenance.
+For strengthen installation.
+For anti heat expansion
+
+What is action if small fuzzy metalic particles found on magnetic drain plug of starter?
+@@No action require.
+Replace starter.
+Change starter oil.
+
+The chips or slivers are collected by:
+@@Magnectic drain plug
+Filter intergrated in case drain.
+Diposited in bottom of tank.
+
+What is action if Chips or slivers found on magnetic drain plug of starter?
+@@Replace starter.
+No action require.
+Change starter oil.
+
+What are causes of external oil leak  on starter?
+@@Oil level too high, leak from filter, drain plug.
+Improper starter position installation
+Clamp band too tight.
+
+What are reasons of starter not operating?
+@@No air, sheared shaft of starter coupling, elcectrical open cut out switch.
+No air, sheared shaft of starter coupling.
+No air, sheared shaft of starter coupling, to much oil.
+
+What is correct statement concerning to turbine ignition systems?
+@@Turbine ignition systems are operated mostly for a brief period during the engine starting cycle.
+Turbine ignition systems are operated mostly for  all phase engine operation.
+Turbine ignition systems are operated mostly for  take off phase.
+
+What are advantages of ignition system of turbine engine and reciprocating engine?
+@@More free trouble and no need an exact spark point
+More free trouble and no need too high energy of ignition.
+No need the reliability of igniter and exciter.
+
+When is continuous ignition is used?
+@@In case the engine were to flame out.
+In case the engine lower flight idle.
+In case the engine at ground idle.
+
+Does Ignition system need to be cooled?
+@@Yes
+No
+Not given in document.
+
+How is ignition system cooled?
+@@Using Fan air for cooling.
+Using fuel for cooling.
+Using specific fan for cooling.
+
+Most gas turbine engines are equipped with:
+@@A high energy, capacitor type ignition system.
+A high energy, resitant type ignition system.
+A high energy, coil type ignition system.
+
+Which are ignition system components  cooled?
+@@Exciters, leads and igniters
+Exciters, leads.
+Exciters, igniters
+
+Why is system designed two identical independent ignition?
+@@For safety
+Because it is not reliable
+Because it always have failure.
+
+What is correct statemen about ignition system?  consisting of two identical independent ignition
+@@Ignition system consisting of two identical independent ignition.
+Ignition system has one ignition.
+Ignition system consisting of two igniter connecting to one exciter.
+
+The generator for ignition system is turned:
+@@Directly by the engine through the accessory gear box.
+By electrical motor.
+By turbo motor.
+
+Why does ignition system need supply a high heat intensity spark?
+@@Because A/C often operate in the low temperatures of high altitudes.
+Because air pressure in combustion chamber is too low.
+Because air pressure in combustion chamber is too high.
+
+What is correct statement concerning to ignition system?
+@@Two exciter connecting to two igniter independently.
+Two exciter connecting to one igniter.
+One exciter connecting to two igniter.
+
+What does component ignite spark?
+@@Igniters
+Exciters.
+Leads.
+
+Before the electricalenergy reaches the exciter unit, it passes through a filter that prevents
+@@Noise voltage from being induced into the aircraft electrical system.
+Shock current from being induced into the aircraft electrical system.
+Over voltage from being induced into the aircraft electrical system.
+
+Triggering transformer of exciter connects:
+@@Igniter with capacitor
+Capacitor and input power
+Input power with igniter directly.
+
+What is function of triggering transformer of Exciter?
+@@To amplify the vogtage
+To rectify the current
+To convert AC to DC
+
+What is function of capacitor of exciter?
+@@To accumulate electrical power
+To rectify the current
+To amplify the vogtage
+
+When  does igniter ignite?
+@@When capacitor discharges
+When capacitor charges
+When capacitor is full
+
+What is component step up voltage for capacitor of CAPACITOR DISCHARGE EXCITER UNIT?
+@@Transformer units.
+Igniter.
+special resitant.
+
+How many capacitor of CAPACITOR DISCHARGE EXCITER UNIT?
+@@2
+3
+1
+
+The second capacitor of CAPACITOR DISCHARGE EXCITER UNIT is
+@@Low-voltage and very high energy.
+Hight-voltage and very high energy.
+High-voltage and very low energy.
+
+For CAPACITOR DISCHARGE EXCITER UNIT, The discharge of the second capacitor is of low- voltage, but of very high energy and the result is a spark of great heat intensity,
+@@Spark of great heat intensity.
+Spark keep medium heat intensity.
+Spark keep low heat intensity.
+
+The CAPACITOR DISCHARGE EXCITER UNIT operates
+@@Only starting phase and emergency
+For all flight phase
+Only take off phase
+
+What is the correct statament about the igniter plug of a turbine engine?
+@@The igniter plug of a turbine engine differs considerably from the spark plug of a reciprocating engine.
+The igniter plug of a turbine engine is the same the spark plug of a reciprocating engine.
+The igniter plug of a turbine engine is almost the same the spark plug of a reciprocating engine.
+
+What is the ignter plug characteristic?
+@@Its electrode must be capable of withstanding a current of much higher energy.
+Its electrode much be withstanded cold.
+Its can withstand preseure.
+
+The high energy current can quickly cause electrode of igniter
+@@Erosion
+Overheat
+Detach
+
+How is the electrode gap of a igniter plug and a spark plug ?
+@@Lager
+smaller
+The same.
+
+When operating pressures is lower and the spark:
+@@Can arc more easily.
+Can arc more difficult
+Arcing capability is no change.
+
+What are types maintenance of igniter?
+@@Primarily of inspection, test, troubleshooting, removal, and installation.
+Primarily of inspection, test, fuctional test,  removal, and installation.
+Primarily of inspection, removal, and installation.
+
+What are Ignition lead terminal damage?
+@@Ceramic terminal should be free of arcing, carbon tracking and cracks.
+Ceramic terminal should be free of arcing, carbon tracking.
+Ceramic terminal should be free of arcing.
+
+What are Igniter grommet seal damage?
+@@Flashover and carbon tracking.
+Crack and discolour.
+Arcing.
+
+How is good the wire insulation of ignition leads?
+@@The wire insulation should remain flexible with no evidence of arcing through the insulation.
+The wire insulation should remain flexible, hair crack is allowable.
+The wire insulation may has a hair crack and discolour.
+
+What does igniter inspection?
+@@Igniter inspection includes: ceramic terminal, grommet and wire insulation inspection
+Igniter inspection includes: ceramic terminal, gap check
+Igniter inspection includes: ceramic terminal, gap and  weight check.
+
+Can the igniter be checked by listening for a snapping noise
+@@Yes, it can be
+No, It can't be
+Depend on type of igniter.
+
+How can the igniter  performe operational check?
+@@Operational checked by removing it and activating the start cycle, noting the spark across the igniter.
+Operational checked to be done by removing it and visual check.
+Operational checked to be done in flight only.
+
+What are allowable repair applying for igniter?
+@@Tighten and secure as required and replace faulty components and wiring.
+Adjust gap and welling ceramic terminal.
+Polish pole, ceramic terminal and welling pole.
+
+What is precaution for igniter maintenance?
+@@The high energy level and voltage can cause injury or death to personnel.
+Do not touch to exciter because it is electro-sensitive component.
+Must wait 1 hour for system fully discharge befor carry out maintenance.
+
+What are damages cause to replace an igniter plug?
+@@Replace an igniter plug whose surface is granular, chipped, or otherwise damaged.
+Replace an igniter plug small surface is granular, chipped, or otherwise damaged.
+Replace an igniter plug small surface is granular, chipped, discolour.
+
+How is tighten igniter plugs?
+@@Tighten igniter plugs to manufacturer’s specified torque.
+Tighten igniter plugs to standard igniter thread dimension.
+Tighten igniter plugs to above 100 inch-lbs
+
+What is correct step order to disconnect igniter?
+@@Disconnect ignition leads before remove igniter plugs.
+Remove igniter plugs  before  disconnect ignition leads.
+Removing igniter plugs first or  disconnecting  ignition leads first is allowable.
+
+What is correct statement for ignition system maintenane?
+@@Wait at least one minute to permit the stored energy to dissipate before disconnecting the high- voltage cable from  he igniter.
+Wait at least 30 minutes to permit the stored energy to dissipate before disconnecting the high- voltage cable from  he igniter.
+Wait at least 20 minutes to permit the stored energy to dissipate before disconnecting the high- voltage cable from  he igniter.
+
+What are posible damages of ignition lead connector?
+@@Damage threads, corrosion, cracked insulators, and bent or broken connector pins.
+Damage threads, corrosion, cracked insulators.
+Damage threads, bent or broken connector pins.
+
+What is continuity check of ignition leads.
+@@Check the continiuty of core wiring of leads.
+Check the continiuty of core wiring and cover of leads.
+Check the continiuty of braid cover of leads.
+
+What are posible damages of ignition lead?
+@@Worn or burned areas, deep cuts, fraying.
+Worn or burned areas, fraying.
+Worn or burned areas, fraying or delaminate.
+
+Do not remove any deposits or residue from the firing end of the low-voltage igniters.
+@@This is corrcect statement.
+This is NOT corrcect statement.
+This statement has not given in any document.
+
+High-voltage igniters can have the firing end cleaned to aid in inspection.
+@@This is corrcect statement.
+This is NOT corrcect statement.
+This statement has not given in any document.

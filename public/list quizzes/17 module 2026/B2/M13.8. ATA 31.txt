@@ -1,0 +1,1129 @@
+What are the three main types of aircraft instruments?
+@@Flight instruments, engine instruments, and navigation instruments
+Position instruments
+Condition instruments
+
+Which type of instrument do flight control position indicators fall into?
+@@Positon/condition instruments
+Flight instruments
+Navigation instruments
+
+Flight instruments are responsible for displaying
+@@Aircraft's flight attitude
+Aircraft's flight control surface position
+Aircraft position
+
+Which type of instrument does vertical speed indicator fall into?
+@@Flight instruments
+Engine instrument
+Navigation instruments
+
+Which type of instrument does artificial horizon fall into?
+@@Flight instruments
+Engine instrument
+Navigation instruments
+
+Which instruments generally occoupy the center position of the cockpit front panel?
+@@Engine instruments
+Flight instruments
+Navigation instruments
+
+What are navigation instruments?
+@@They are those that contribute information used by the pilot to guide the aircraft along a definite course.
+They are those that contribute information used by the pilot to maintain the aircraft speed.
+They are those that contribute information used by the pilot to maintain the aircraft altitude.
+
+What are salient characteristics of the atmosphere?
+@@Pressure, density, humidity and temperature
+Pressure, humidity and temperature
+Pressure, density, water and temperature
+
+What is air density?
+@@Weight per unit of volume
+Amount of water vapor in the air
+Amount of oxygen in the air
+
+What is humidity?
+@@The amount of water vapor in the air
+The amount of nitrogen in the air
+The amount of carbon dioxide in the air
+
+Where does most civilian aviation takes place?
+@@In the troposphere
+In the stratosphere
+In the thermosphere
+
+What does ISA stands for?
+@@International Standard Atmosphere
+Integrated Standard Atmosphere
+International Standard Altitude
+
+What does a pressure transducer do?
+@@It converts a non-electric pressure signal into an electrical signal
+It converts an electrical signal into a non-electric pressure signal.
+It converts an electrical signal into a mechanical force.
+
+What does an altimeter indicate?
+@@The height of the aircraft above a predetermined level
+The speed of the aircraft
+The distance from the aircraft to a ground station
+
+What is another name for a Vertical Speed Indicator (VSI)?
+@@Vertical Velocity Indicator
+Altimeter
+Airspeed Indicator
+
+What is the function of a thermocouple?
+@@To measure temperature.
+To measure pressure.
+To measure humidity.
+
+What is the primary function of the EGT indicating system?
+@@To measure the temperature of the turbine exhaust gases.
+To monitor the engine's overall performance.
+To regulate the turbine's operating temperature.
+
+What is the purpose of a heating element in a TAT probe?
+@@To prevent ice formation on the probe.
+To increase the accuracy of the temperature measurement.
+To prevent the probe from overheating.
+
+How does a capacitance-type fuel quantity system measure fuel level?
+@@By measuring the capacitance of the tank units.
+By measuring the weight of the fuel.
+By measuring the pressure of the fuel.
+
+What is the primary function of gyroscopic instruments in aircraft?
+@@Provide attitude and directional information
+Provide altitude and airspeed information
+Provide altitude and heading information
+
+What is the power source for spinning the gyro in a pressure-driven gyro?
+@@Air pump.
+DC electric motor.
+Vacuum source
+
+How is gyroscopic precession utilized in flight instruments?
+@@To indicate turns and bank angles
+To indicate airspeed
+To measure altitude
+
+What is a solid state gyro?
+@@A gyro with no moving parts.
+A gyro which is resistance to corrosion.
+A gyro which is power by vaccum pump.
+
+What is the key component that allows an RLG to measure rotational rate?
+@@Laser beams
+A piezoelectric dithering motor
+A mechanical gyroscope
+
+What is the primary difference between electric and vacuum-driven attitude indicators?
+@@The type of power source
+The orientation of the gyro rotor
+The method of indicating the aircraft's attitude
+
+What is the primary function of a directional gyro (DG)?
+@@To provide a stable heading reference
+To indicate the aircraft's rate of turn
+To measure the aircraft's altitude
+
+What is the purpose of a turn coordinator?
+@@To indicate the aircraft's rate of turn and roll
+To measure the aircraft's slip or skid during a turn.
+To provide a stable heading reference during a turn
+
+What is the primary function of a Terrain Awareness and Warning System (TAWS)?
+@@To warn pilots of potential ground collisions or obstacles.
+To provide real-time weather updates and forecasts to the flight crew.
+To provide real-time terrain maps to the passengers.
+
+What is the primary function of a magnetic compass in an aircraft?
+@@To indicate direction
+To calculate airspeed
+To indicate attitude
+
+In a classic "T" arrangement on older aircraft, what is put on the top center position directly in front of the pilot and copilot?
+@@The artificial horizon
+The altimeter
+The airspeed indicator
+
+Some aircraft instruments incorporate the use of radio signals to define a specific course while flying the aircraft en route from one airport to another. They are categorized as
+@@Navigation instruments
+Condition instruments
+Flight instruments
+
+Which aircraft instruments are designed specifically to direct the pilot's approach to landing at an airport?
+@@Navigation instruments
+Flight instruments
+Condition instruments
+
+GPS technology is built into some aircraft instrument packages. What is the purpose of this?
+@@For navigational purposes
+For entertainment purposes
+For rescue purposes
+
+How is the earth's atmosphere held to the planet?
+@@By gravity
+By centrifugal force
+By fictitious force
+
+Which statement is correct regarding the earth's atmosphere?
+@@Three quarters of the atmosphere's mass is within about 11 km (6.8 miles; 36 000 ft) of the surface.
+99% of the atmosphere's mass is within about 11 km (6.8 miles; 36 000 ft) of the surface.
+9% of the atmosphere's mass is within about 11 km (6.8 miles; 36 000 ft) of the surface.
+
+What are three gases that comprise about 99% of dry air?
+@@Nitrogen, oxygen and argon
+Oxygen, argon and carbon dioxide
+Oxygen, helium and carbon dioxide
+
+The higher the measurement is taken off the ground, atmospheric pressure
+@@Decreases
+Increases
+Stays the same
+
+What is atmospheric pressure at sea level?
+@@Approximately 14.7 psi
+14.7 hPa
+14.7 "HG
+
+In the troposphere, as an aircraft ascends:
+@@Atmospheric pressure drops, the quantity of oxygen decreases, and temperature drops
+Atmospheric pressure increases, the quantity of oxygen decreases, and temperature drops
+Atmospheric pressure drops, the quantity of oxygen increases, and temperature drops
+
+What is the relationship between air density and air pressure?
+@@Density varies in direct proportion with the pressure
+Density varies inversely with the pressure
+Density does not change when pressure changes.
+
+What is the relationship between air density and air temperature?
+@@Density varies inversely with the temperature
+Density varies in direct proportion with the temperature
+Density does not change when temperature changes.
+
+The weight of water vapor in a unit volume of air is defined as:
+@@Absolute humidity
+Relative humidity
+Density
+
+The ratio, in percent, of the moisture actually in the air to the moisture it would hold if it were saturated at the same temperature and pressure is defined as:
+@@Relative humidity
+Absolute humidity
+Density
+
+Assuming that the temperature and pressure remain the same:
+@@The density of the air varies directly with the humidity
+The density of the air varies inversely with the humidity
+The density of the air does not depend on the humidity
+
+What is the relationship between temperature and altitude in the troposphere?
+@@Temperature decreases as altitude increases
+Temperature increase as altitude increases
+Temperature does not change with altitude.
+
+What is the relationship between temperature and altitude in the stratophere?
+@@Temperature increases with altitude
+Temperature decreases with altitude.
+Temperature does not change with altitude.
+
+When the real atmosphere was the same as ISA, the sea level temperature would be
+@@15°C
+25°C
+5°C
+
+When the real atmosphere was the same as ISA, the air pressure at sea level is
+@@1013 hPa
+1013 psi
+1013 "Hg
+
+What is included in a manometer?
+@@A pressure sensing element
+A temperature sensing element
+A transducer
+
+The pressure of a system relative to a perfect vacuum is called:
+@@Absolute pressure
+Differential pressure
+Gauge pressure
+
+The pressure difference between the inputs of two or more pressure levels is called
+@@Differential pressure
+Absolute pressure
+Gauge pressure
+
+Which pressure sensor has two separate pressure ports?
+@@Differential pressure sensor
+Absolute pressure sensor
+Gauge pressure sensor
+
+Which types of pressure sensor are oftend used for filter monitoring?
+@@Differential pressure sensor
+Absolute pressure sensor
+Gauge pressure sensor
+
+The pressure which is measured relative to ambient pressure which is the atmospheric pressure at a given location is called
+@@Gauge pressure
+Differential pressure
+Absolute pressure
+
+In a gauge pressure sensor:
+@@The input pressure is through the high port and the ambient pressure is applied through the open low port
+The input pressure is through the low port and the ambient pressure is applied through the open high port
+There is only one port for input pressure.
+
+How many ports does an absolute pressure sensor have?
+@@One, low pressure port only
+Two, low pressure and high pressure port
+Three: low pressure, high pressure and return port.
+
+A C-type Bourdon tube is constructed from a C-shape tube that is:
+@@Fixed at both ends
+Fixed at one end and free at the other end
+Free at both ends
+
+A diaphragm pressure transducer is used for
+@@Low pressure measurement
+High pressure measurement
+Extremely high pressure measurement
+
+A Bellows is constructed by:
+@@Connecting a number of diaphragm chambers (capsules) together
+Connecting a number of C-type Bourdon tubes together
+Connecting a number of spiral Bourdon tubes together
+
+A device that is used to monitor the presence of pressure that is above or below a set-point and do not indicate the exact amount of pressure being applied is called:
+@@A pressure switch
+A pressure transducer
+A differential pressure sensor
+
+What are three most common pitot-static instruments?
+@@The altimeter, airspeed indicator, and vertical speed indicator
+The altimeter, airspeed indicator, and compass
+The artificial horizon, airspeed indicator, and vertical speed indicator
+
+What is the function of the pitot tube?
+@@To capture impact air pressure.
+To capture ambiant air temperature
+To capture static air pressure.
+
+Why are many pitot tubes heated during flight?
+@@To prevent icing of the tube
+To prevent insect from entering the tube
+To keep the temperature of the tube stable.
+
+How is pitot tube protected from icing during flight?
+@@Electrically heated.
+By using de-icing fluid.
+By hot air.
+
+What do static ports collect?
+@@Static air pressure information
+Dynamic air pressure information
+Impact air pressure information
+
+How can altitude can be determined?
+@@By measuring air pressure
+By measuring air temperature
+By measuring air humidity
+
+How does an analog VSI work?
+@@By comparing static pressure inside and outside a diaphragm
+By measuring the difference between static and dynamic pressure
+By measuring the difference between static pressure and temperature
+
+What is a variometer primarily used in?
+@@Gliders and lighter-than-air aircraft
+Commercial airliners
+Helicopters
+
+Where is the vertical speed information often displayed on a primary flight display?
+@@Near the altimeter information
+Near the heading indicator
+Near the attitude indicator
+
+What is the primary purpose of an airspeed indicator?
+@@To measure the speed of an aircraft
+To measure the altitude of an aircraft
+To measure the direction of an aircraft
+
+What is the critical Mach number?
+@@The maximum speed an aircraft can reach without experiencing shock waves.
+The maximum speed an aircraft can reach.
+The minimum speed an aircraft needs to maintain to stay airborne.
+
+What is the purpose of the red and white striped pointer on a Mach/airspeed indicator?
+@@To indicate the aircraft's Mach number.
+To indicate the aircraft's heading.
+To indicate the aircraft's rate of climb or descent.
+
+Why are air data computers (ADCs) commonly used in these aircraft?
+@@To compensate for air temperature and density.
+To calculate fuel consumption.
+To improve the aircraft's performance.
+
+What types of thermometers are used in aviation to measure temperature?
+@@Non-electric temperature indicators and electrical thermometers
+Mercury thermometers and digital thermometers
+Only electrical thermometers
+
+What are the main components of an electrical resistance thermometer?
+@@Indicating instrument, temperature-sensitive element, connecting wires, plug connectors
+Bulb, battery, gauge, wire
+Thermometer, resistor, switch, gauge
+
+What is the typical temperature range for electrical resistance thermometers?
+@@*-70°C to 150°C
+*-70°C to 550°C
+550°C to 1050°C
+
+What is the purpose of the closed-end metal tube attached to the threaded plug in an electrical resistance thermometer?
+@@To protect the resistor element.
+To provide a connection to the indicator.
+To regulate the temperature of the resistor.
+
+What is a thermocouple?
+@@A circuit of two dissimilar metals joined at two junctions
+A circuit of two dissimilar metals joined at one junction.
+A circuit of two similar metals joined at two junctions.
+
+How does a thermocouple work?
+@@By measuring the voltage produced by the difference in temperature between the two junctions.
+By measuring the resistance change caused by the difference in temperature between the two junctions.
+By measuring the magnetic field produced by the difference in temperature between the two junctions.
+
+What are two common applications of thermocouples in aircraft?
+@@Measuring CHT and EGT
+Measuring OAT and EGT
+Measuring OAT and CHT
+
+In what range of temperature is the thermocouple commonly used?
+@@High temperature.
+Low temperature.
+Very low temperature.
+
+How is the temperature measured in an EGT or TIT system?
+@@Using multiple thermocouples spaced around the turbine casing or exhaust duct.
+Using multiple thermocouples located at the top of the turbine casing.
+Using multiple thermocouples located at the bottom of the turbine casing.
+
+What is the purpose of the over-temperature warning light in the TIT indicator?
+@@To indicate when the engine is overheating.
+To signal a problem with the thermocouple system.
+To alert the pilot to a potential engine failure.
+
+How does a simple TAT system measure air temperature?
+@@By measuring the change in resistance of a platinum alloy element.
+By measuring the expansion of a metal coil.
+By measuring the pressure difference between two points.
+
+How does an ultrasonic-type fuel quantity indicator measure fuel level?
+@@By measuring the time it takes for a sound wave to travel to the fuel surface and back.
+By measuring the time it takes for a sound wave to travel between fuel tanks.
+By measuring the time it takes for a sound wave to travel from the bottom to the top of the fuel tank.
+
+What is the purpose of the ball in a turn-and-slip indicator?
+@@To indicate slip or skid during a turn
+To indicate the aircraft's bank angle
+To indicate the rate of turn
+
+How does a TAWS system work?
+@@By combining digital terrain data with aircraft instrument data to predict potential collisions.
+By analyzing radar data to detect nearby aircraft.
+By using GPS signals to track the aircraft's position and altitude.
+
+What are the main components of GPWS?
+@@GPWC, GPWC Warning Lights and Control Panel
+GPWC, GPWC Warning Lights and GPWC Warning Flags
+Control Panel, GPWC Warning Lights and GPWC Warning Flags
+
+At what altitude range does Mode 5 operate?
+@@30 to 1000 feet radio altitude
+0 to 300 feet radio altitude
+1000 to 3000 feet radio altitude
+
+What is the primary function of a flux gate compass?
+@@To sense the earth's magnetic field and transmit directional information.
+To provide accurate altitude readings.
+To measure airspeed.
+
+How does a flux gate compass work?
+@@By utilizing the earth's magnetic field to induce voltage in pickup coils.
+By using a gyroscope to maintain a fixed orientation.
+By measuring atmospheric pressure.
+
+What is the advantage of original analog flight instruments which are operated by air pressure and the use of gyroscopes?
+@@They can operate without the need of electrical power
+They are more accurate than the other types
+They are maintenance free.
+
+Why are pneumatic altimeter, gyro artificial horizon, and magnetic direction indicator often retained in mordern aircraft equiped with instrument systems that are electrically operated?
+@@They are retained for redundancy.
+Because they are more accurate.
+They are used for the observers.
+
+Navigational progress can be calculated by using a clock and a magnetic compass, along with:
+@@The airspeed indicator and wind information
+The airspeed indicator and temperature information
+The artificial horizon and wind information
+
+Why can an aircraft fly faster at a high altitude than at a low altitude?
+@@Because at a high altitude, air offers less resistance to the aircraft when it contains a smaller number of air particles per unit of volume
+Because at a high altitude, air offers more resistance to the aircraft when it contains a smaller number of air particles per unit of volume
+Because at a high altitude, air offers more lift to the aircraft when it contains a smaller number of air particles per unit of volume
+
+If the air in one container is under half as much pressure as an equal amount of air in an identical container:
+@@The air under the greater pressure weighs twice as much as that in the container under lower pressure
+The air under the lower pressure weighs twice as much as that in the container under greater pressure
+The air in the two container has the same weight.
+
+How does temperature affect the amount of water vapor that air can hold?
+@@The higher the temperature of the air, the more water vapor it can absorb
+The higher the temperature of the air, the less water vapor it can absorb
+The amount of water vapor the air can absorb does not depend on temperature
+
+Why does an aircraft require a longer runway for takeoff on damp days than it does on dry days?
+@@Because on damp days, the air density is less than on dry days.
+Because on damp days, the air density is more than on dry days.
+Because on damp days, the air temperature is less than on dry days.
+
+What is true about water vapor?
+@@Water vapor weighs less than an equal amount of perfectly dry air
+Water vapor weighs more than an equal amount of perfectly dry air
+Water vapor and an equal amount of perfectly dry air have the same weight
+
+Isobars on maps are lines that connect:
+@@Equal points of pressure
+Equal points of temperature
+Equal points of humidity
+
+What happens when a filter, which is monitored by a differential pressure sensor, starts to clog?
+@@The pressure drop across the filter will increase
+The pressure drop across the filter will decrease
+The pressure drop across the filter will not change
+
+What is true about Bourdon tubes?
+@@They have very high range of differential pressure measurement in the range of almost 100 000 psi
+They are generally deployed in high pressure measurement applications
+They are very accurate and suitable for most aeronautical uses.
+
+Which materials are typically used to made the Bourdon tubes which mechanically move the hand of the instrument dial?
+@@Phosphor Bronze, Beryllium Bronze, or Beryllium Copper
+Phosphor Bronze, Beryllium Bronze, or alluminum alloy
+Phosphor Bronze, Beryllium Bronze, or Titanium
+
+What is the purpose of the restrictor usually installed in the Bourdon tube?
+@@To stop too much pressure from damaging the tube.
+To stop too much pressure from damaging the tube.
+To protect the diaphragm.
+
+What is one disadvantage of Bourdon tubes?
+@@They may not be accurate enough for some aeronautical uses
+They cannot measure high pressure.
+They can not measure fluid pressure
+
+In a typical diaphragm assembly, what happens when a force acts against a thin stretched diaphragm?
+@@It causes a deflection of the diaphragm with its center deflecting the most
+It causes a deflection of the diaphragm with its edge deflecting the most
+It causes equal deflection of the diaphragm from center to edge.
+
+Why are corrugated diaphragms often used instead of the convential ones?
+@@Because corrugated designs help in providing a linear deflection and also increase the member strength
+Because corrugated designs help in providing a non-linear deflection and also increase the member strength
+Because corrugated designs help in providing a linear deflection and also decrease the member strength.
+
+How is the pitot tube mounted on the aircraft?
+@@It is mounted on the outside of the aircraft and pointed in a forward direction parallel to the aircraft's line of flight.
+It is mounted on the outside of the aircraft and pointed in a backward direction parallel to the aircraft's line of flight.
+It is mounted on the outside of the aircraft and pointed in a downward direction perpendicular to the aircraft's line of flight.
+
+What caution should be exercised when near the pitot tube?
+@@The pitot tubes' heating elements may make the tube too hot to be touched without receiving a burn.
+The pitot tubes may suddenly move and injure yourself.
+The pitot tubes head are very sharp and may cause injury.
+
+Why air from the cabin can not be used as alternate static air pressure source on pressurized aircraft?
+@@Because on pressurized aircraft, cabin air pressure may be significantly different than the outside ambient air pressure.
+Because on pressurized aircraft, cabin air temperature may be significantly different than the outside ambient air temperature.
+Because on pressurized aircraft, cabin air pressure does not change with altitude.
+
+What is the purpose of alternate source of static air pressure?
+@@For emergency use.
+For reference for the observers only.
+For maintenance use only.
+
+In which situation will the pilot most likely select the altinate static air pressure source?
+@@When the flight instruments are not providing accurate indications.
+When the flight instruments are used for an extended period of time.
+When the aircraft enters an area with bad weather.
+
+Two primary static ports may be located on opposite sides of the fuselage and connected with a "T" or "Y" tubing for input to the instruments, the purpose is:
+@@To compensate for any variations in static air pressure on the vents due to the aircraft's attitude and correct any errors associated with asymmetrical flight (slip-skid).
+To compensate for any variations in static air pressure on the vents at low altitude.
+To compensate for any variations in static air pressure on the vents at high altitude.
+
+Why are vent pipes typically angled downwards?
+@@To drain any water or contaminants which may block the airway.
+To make it easier to repair.
+To make it easier to install.
+
+What is the effect of icing on the static ports?
+@@The static ports may be blocked and cause incorrect reading of some flight instruments.
+The air entering the ports may be too cold which cause incorrect reading of some the flight instruments.
+The static ports may retract that cause incorrect reading of some flight instruments.
+
+Which instruments are affected by blockage of the pitot tube?
+@@The Air Speed Indicator
+The Vertical Speed Indicator
+The Altimeter
+
+Why is the blockage of the static source more serious than the blockage of the pitot source?
+@@Because a blockage of the pitot source will only affect the ASI, while the blockage of the static source will affect all of the instruments.
+Because a blockage of the pitot source will not affect any instruments, while the blockage of the static source will affect all of the instruments.
+Because there is always an altinate source of pitot source.
+
+In a pressure altimeter, when the altimeter is moved higher in the atmosphere, what cause the movement of the pointer?
+@@The expansion of the aneroid
+The compression of the aneroid
+The retraction of the aneroid
+
+What is the main factor that affects altimeter readings?
+@@Weather conditions
+Aircraft speed
+Fuel load
+
+What is the ICAO standard mean atmospheric pressure at sea level?
+@@1013.25 mb
+1013.25 hPa
+1013.25 inHg
+
+Which pressure setting is used above the transition level?
+@@QNE
+QFE
+QNH
+
+What does QFE represent?
+@@Pressure at the airfield elevation
+Pressure at sea level
+Pressure at the transition level
+
+Which pressure setting is used to indicate the aircraft's altitude above mean sea level?
+@@QNH
+QFE
+QNE
+
+What is the effect of temperature on an altimeter?
+@@It can cause a false indication, especially at high altitudes.
+It causes the altimeter to read higher than the actual altitude.
+It has no effect on the altimeter.
+
+What is density altitude?
+@@The altitude corrected for non-standard temperature.
+The altitude indicated by the altimeter.
+The altitude above mean sea level.
+
+What is scale error in an altimeter?
+@@An error due to misalignment of the instrument's scale.
+An error caused by the location of the static vent.
+An error caused by temperature variations.
+
+What is position error in an altimeter?
+@@An error caused by the location of the static vent.
+An error due to misalignment of the instrument's scale.
+An error caused by temperature variations.
+
+What is the purpose of a static system leak check?
+@@To detect any leaks that could affect the altimeter's readings.
+To ensure the accuracy of the altimeter's scale.
+To check for errors caused by temperature variations.
+
+What is the difference between indicated altitude and true altitude?
+@@True altitude is corrected for temperature and pressure, while indicated altitude is not.
+Indicated altitude is corrected for temperature and pressure, while true altitude is not.
+There is no difference between indicated altitude and true altitude.
+
+What is the term used for the vertical distance of an aircraft above the terrain it is flying over?
+@@Absolute altitude
+Altitude
+Height
+
+What is the term used for the altitude indicated by the altimeter when set to the local barometric pressure at mean sea level?
+@@Indicated altitude
+True altitude
+Pressure altitude
+
+What is the term used for the altitude corrected for non-standard atmospheric conditions?
+@@Density altitude
+Indicated altitude
+Pressure altitude
+
+What is the term used for the altitude at which the vertical position of an aircraft is controlled by reference to altitudes?
+@@Transition altitude
+Transition level
+Transition layer
+
+What is the highest point of the landing area?
+@@Touchdown zone elevation
+Aerodrome elevation
+Runway end elevation
+
+What is the term used for the pressure setting used to indicate the aircraft's height above a specific airfield or datum?
+@@QFE
+QNE
+QNH
+
+What is the purpose of the zeroing adjustment screw on a VSI?
+@@To center the pointer at zero when the aircraft is on the ground
+To adjust the altitude reading
+To calibrate the airspeed indicator
+
+What causes the pointer on a VSI to move upward when the aircraft climbs?
+@@A pressure differential between the inside and outside of the diaphragm
+An increase in static pressure inside the diaphragm
+A decrease in static pressure outside the diaphragm
+
+What is the primary disadvantage of the basic rate-of-climb mechanism?
+@@It has a lag in indicating climb or descent
+It is inaccurate at high altitudes
+It is difficult to read
+
+How does an Instantaneous Vertical Speed Indicator (IVSI) address the lag issue?
+@@By using a small accelerometer to hasten the pressure differential
+By using a more accurate pressure sensor
+By using a faster diaphragm
+
+How does a variometer work?
+@@By comparing static pressure with a known pressure
+By measuring the difference between static and dynamic pressure
+By measuring the difference between temperature and altitude
+
+In a digitally displayed instrument system, how is the rate-of-climb indication computed?
+@@By using an aneroid pressure sensor and a digital clock
+By using a gyroscope
+By using a pitot tube
+
+What two types of pressure are used to calculate airspeed in an analog instrument?
+@@Ram air pressure and static pressure
+Static pressure and atmospheric pressure
+Barometric pressure and altitude pressure
+
+What factors can affect the accuracy of an airspeed indicator?
+@@Temperature, pressure, and position error
+Only temperature and pressure
+Only position error
+
+How can digital flight instruments improve airspeed accuracy?
+@@By performing calculations in the ADC
+By eliminating the need for mechanical linkages
+By using more complex algorithms
+
+What is the difference between indicated airspeed and true airspeed?
+@@Indicated airspeed is not corrected for temperature and pressure, while true airspeed is.
+Indicated airspeed is corrected for temperature and pressure, while true airspeed is not.
+There is no difference between indicated airspeed and true airspeed.
+
+What is the main problem with exceeding the speed of sound for aircraft that are not designed for it?
+@@Shock waves can cause structural damage.
+The aircraft's engines may overheat.
+The aircraft's fuel efficiency decreases.
+
+Why does the speed of sound change with altitude and temperature?
+@@The density of the air changes with altitude and temperature.
+The aircraft's weight changes with altitude.
+The Earth's gravity changes with altitude.
+
+What additional component do Machmeters contain compared to traditional airspeed indicators?
+@@An altitude sensing diaphragm.
+A gyroscope.
+A GPS receiver.
+
+What is the main challenge of pitot-static systems in high-performance and jet transport category aircraft?
+@@The high altitude and temperature affect the compressibility of air.
+The complexity of the aircraft's flight controls.
+The difficulty in maintaining a constant airspeed.
+
+How do analog ADCs convert sensed air pressures into electrical values?
+@@Using transducers and circuits.
+Using a digital-to-analog converter.
+Using a mechanical linkage system.
+
+What are the benefits of using digital air data computers (DADCs)?
+@@Reduced weight and complexity of the system, and improved accuracy and reliability
+Reduced weight and cost of the system, and improved accuracy and reliability
+Incresed weight and complexity of the system, and improved accuracy and reliability
+
+How do DADCs help in verifying the plausibility of data received from sensors?
+@@By running internal checks and algorithms.
+By comparing the data to historical records.
+By consulting with ground control.
+
+What is the principle behind the operation of a bimetallic thermometer?
+@@The expansion and contraction of different metals at different rates.
+The change in color of the metal strip with temperature.
+The change in electrical resistance of the metal strip with temperature.
+
+In what application are direct reading bimetallic thermometers commonly used in aviation?
+@@Measuring outside air temperature (OAT) on light aircrafts.
+Measuring engine oil temperature on light aircrafts.
+Measuring fuel flow rate on light aircrafts.
+
+How is the bimetallic strip installed on a bimetallic thermometer?
+@@One end of the bimetallic strip is fixed, the other end is coiled.
+Two ends of the bimetallic strip are fixed.
+Two ends of the bimetallic strip are coiled.
+
+How does a direct reading bimetallic thermometer measure outside air temperature?
+@@By using a probe that extends through the windshield
+By using a probe that's placed inside the cockpit.
+By using a sensor located in the engine compartment.
+
+What is the principle behind how an electrical resistance thermometer works?
+@@Changes in temperature affect the electrical resistance of a metal.
+Changes in pressure affect the electrical resistance of a metal.
+Changes in light affect the electrical resistance of a metal.
+
+Which types of alloys are more suitable for use in electrical resistance thermometer?
+@@Alloys with a high temperature-resistance coefficient
+Alloys with a low temperature-resistance coefficient
+Alloys with a very low temperature-resistance coefficient
+
+What is the purpose of the Wheatstone bridge circuit in an electrical resistance thermometer?
+@@To measure the unknown resistance of the temperature bulb.
+To provide power to the thermometer.
+To regulate the temperature of the thermometer.
+
+What happens to the galvanometer pointer when the temperature of the bulb changes in a Wheatstone bridge circuit?
+@@It moves, indicating the temperature change.
+It remains stationary.
+It moves in a random direction.
+
+What is the purpose of the zero adjustment screw on an electrical resistance thermometer indicator?
+@@To adjust the pointer's position when the bridge is balanced.
+To calibrate the temperature scale.
+To control the power supply to the thermometer.
+
+What is the advantage of the ratiometer over Wheatstone-bridge temperature indicator?
+@@A ratiometer is less susceptible to errors caused by line voltage fluctuations.
+The ratiometer is subject to errors from line voltage fluctuation, while the Wheatstone-bridge temperature indicator is not.
+The ratiometer has wider range of temperature measurement than the Wheatstone-bridge temperature indicator.
+
+How does a ratiometer electrical resistance thermometer measure temperature?
+@@By measuring the ratio of current flows through two coils.
+By measuring the voltage drop across the resistance bulb.
+By measuring the resistance of the resistance bulb.
+
+What components are essential for the operation of a ratiometer electrical resistance thermometer?
+@@A variable resistance, a fixed resistance, two coils, a pointer assembly, and a permanent magnet.
+A Wheatstone bridge, a galvanometer, and a resistance bulb.
+A thermocouple, a voltmeter, and an ammeter.
+
+How does the magnetic field of the permanent magnet in a ratiometer influence the pointer movement?
+@@The magnetic field lines are more concentrated at the top, causing the stronger coil to pivot downward and the weaker coil to pivot upward.
+The magnetic field is uniform, causing the pointer to move linearly.
+The magnetic field is weak, causing the pointer to be insensitive to temperature changes.
+
+In a ratiometer, what happens if the bulb temperature increases?
+@@The pointer will rotate to the fixed resistance side.
+The pointer will rotate to the bulb side.
+The pointer will stay in the vertical position.
+
+When the temperature of the bulb in the ratiometer change, when does the pointer stop rotating?
+@@When the fields reach a new balance point that is directly related to the resistance in the sensing bulb.
+When the fields reach a new balance point that is directly related to the resistance in coil A.
+When the fields reach a new balance point that is directly related to the resistance in coil B.
+
+What is the relationship between electromotive force and temperature in a thermocouple?
+@@They are directly proportional
+They are inversely proportional
+There is no relationship
+
+What is a voltmeter used for in a thermocouple circuit?
+@@To measure the electromotive force
+To measure the resistance
+To measure the current
+
+What are two common types of hot junctions for thermocouples?
+@@Gasket and bayonet
+Thermistor and RTD
+Probe and sensor
+
+How is compensation for changes in cockpit temperature achieved?
+@@By using a bimetallic spring connected to the indicator mechanism
+By using a digital temperature sensor
+By using a mechanical thermostat
+
+For thermocouple leads. Each lead that makes a connection back to the voltmeter:
+@@Must be made of the same metal as the part of the thermocouple to which it is connected.
+Must be made of the dissimilar metal as the part of the thermocouple to which it is connected.
+Can be made of any conductive material.
+
+What is the difference between EGT and TIT?
+@@EGT measures temperature at the turbine outlet, while TIT measures temperature at the turbine inlet.
+EGT measures temperature at the turbine inlet, while TIT measures temperature at the turbine outlet.
+There is no difference between EGT and TIT.
+
+What is the primary challenge in measuring air temperature during flight?
+@@The dynamic nature of the air flow around the aircraft.
+The changing altitude of the aircraft.
+The continuous fluctuation of atmospheric pressure.
+
+What is the difference between static air temperature and total air temperature?
+@@Static air temperature is measured at rest, while total air temperature includes the effect of air movement.
+Static air temperature is measured at high speeds, while total air temperature is measured at low speeds.
+Static air temperature is measured at high altitudes, while total air temperature is measured at low altitudes.
+
+What is the recovery factor?
+@@A correction factor applied to the TAT reading.
+A measure of the heat loss from the TAT probe.
+A measure of the efficiency of a TAT probe.
+
+What is the primary advantage of a multifunctional probe?
+@@It can measure multiple parameters with a single sensor.
+It is less susceptible to icing.
+It is more accurate than a traditional TAT probe.
+
+What is the primary disadvantage of using a Ram Air Temperature (RAT) measurement?
+@@It is less accurate than a Total Air Temperature (TAT) measurement.
+It requires more complex instrumentation.
+It is more susceptible to icing.
+
+What is the role of the resistance balance circuit in a simple TAT system?
+@@To compare the resistance of the sensor element to a reference resistance.
+To convert the analog signal to a digital signal.
+To amplify the signal from the sensor.
+
+How can Outside Air Temperature (OAT) be calculated?
+@@By subtracting the Temperature Rise (TR) from the Total Air Temperature (TAT).
+By adding the Temperature Rise (TR) to the Total Air Temperature (TAT).
+By subtracting the Total Air Temperature (TAT) from the Temperature Rise (TR).
+
+What causes Temperature Rise (TR) in external air temperature measurement?
+@@The friction of air against the aircraft.
+The change of aircraft altitude.
+The change of aircraft attitude.
+
+What happens to the airflow in a Total Air Temperature Probe?
+@@The airflow is slowed down to an almost complete stop to measure the Ram Rise.
+The airflow is heated to a predetermined value to measure the Ram Rise.
+The airflow gains speed to measure the Ram Rise.
+
+In a TAT probe, what happens if airflow to the platinum sensor gains added energy from the probe heater?
+@@The temperature measurement will be less accurate.
+The temperature measurement will be more accurate.
+The temperature measurement will be more reliable.
+
+What best describes the float in a ratiometer-type fuel quantity indicator?
+@@The float in the tank is connected to a connecting arm to the wiper on a variable resistor in the tank unit.
+The loat in the tank is directly conneced to the indicating pointer.
+The loat in the tank is mechanically conneced to the indicating pointer through a connecting arm.
+
+What is the principle behind the operation of a ratiometer-type fuel quantity indicator?
+@@Changes to the current flowing through the tank unit resistor change the current flowing through one of the coils in the indicator
+Changes to the current flowing through one of the coils in the indicator change the current flowing through the tank unit resistor
+Changes to the capacitance of the tank unit sensor change the current flowing through one of the coils in the indicator
+
+Which type of fuel quantity indicator uses a variable resistance to drive an indicator?
+@@Ratiometer-type
+Ultrasonic-type
+Capacitance-type
+
+What is the primary advantage of a capacitance-type fuel quantity system?
+@@It has no moving parts in the tank units.
+.It is less expensive than other types.
+It is more accurate at low fuel levels.
+
+What is the role of the compensator unit in a capacitance-type fuel quantity indicating system?
+@@To compensate for temperature variations in the fuel.
+To calibrate the system for different types of fuel.
+To amplify the electrical signal.
+
+What is correct in an ultrasonic fuel quantity indicating system?
+@@Fillage = Total height – Ullage
+Fillage = Total height + Ullage
+Fillage = Ullage - Total height
+
+What causes the change of the capacitance of the capacitance-type fuel tank probe when fuel tank level changes?
+@@The space between the inner and outer plates is filled with varying quantities of fuel and air depending on the ammount of fuel in the tank.
+Change of the gap between the inner and outer plates of the probe.
+Change of the gap between the upper and lower plates of the probe.
+
+What is the role of a fuel summation unit in a capacitance-type system?
+@@To add the fuel quantities from all tanks.
+To calibrate the system for different types of fuel.
+o amplify the electrical signal.
+
+What is the role of a trimmer in a capacitance-type system?
+@@To match the capacitance output with the pre-calibrated quantity indicator.
+To compensate for temperature variations in the fuel.
+To amplify the electrical signal.
+
+What is the role of the piezoelectric crystals in an ultrasonic-type fuel quantity indicating system?
+@@To convert electrical energy into sound waves and vice versa.
+To amplify the electrical signal.
+To measure the pressure of the fuel.
+
+For what purpose is the mechanical-type fuel indicating system used?
+@@To cross-check fuel quantity indications and to ascertain the amount of fuel onboard the aircraft when electrical power is not available
+To cross-check fuel quantity indications and to ascertain the amount of fuel onboard the aircraft when the amount of fuel onboard is too low.
+To cross-check fuel quantity indications and to ascertain the amount of fuel onboard the aircraft when the amount of fuel onboard is too high.
+
+What was the original source of power for gyroscopic instruments?
+@@Vacuum
+Electricity
+Pressure
+
+What is a common alternative source of power for gyroscopic instruments?
+@@Electric power
+Hydraulic power
+Solar power
+
+Why were early gyroscopic instruments primarily vacuum-driven?
+@@To avoid contamination from oil-lubricated pumps
+To reduce weight
+To increase accuracy
+
+What is the advantage of self-lubricated dry pumps over oil lubricated pumps in gyroscopic instruments?
+@@Self-lubricated dry pumps pressure output has less contamination than oil lubricated pumps pressure output.
+Self-lubricated dry pumps pressure output is more stable than oil lubricated pumps pressure output.
+Self-lubricated dry pumps pressure output has more contamination than oil lubricated pumps pressure output.
+
+Why is air filter at the outlet of the pump in a pressure gyro system?
+@@To reduce contamination and prevent damage to the gyros.
+To reduce contamination and prevent damage to the pump.
+To reduce the output pressure.
+
+What is a significant advantage of pressure-driven gyroscopic instruments at high altitudes?
+@@Improved efficiency
+Increased power output
+Reduced maintenance
+
+What is the advantage of electric gyros over vaccum-driven gyros?
+@@In electric gyros, elimination of vacuum pumps, plumbing, and vacuum system components helps save weight.
+In electric gyros, addition of vacuum pumps, plumbing, and vacuum system components helps increase reliability.
+Since air is not sent through the gyro to spin the rotor, contamination worries are increased in an electric gyro.
+
+What are the three primary flight instruments controlled by gyroscopes?
+@@Attitude indicator, heading indicator, and turn-and-bank indicator
+Altimeter, airspeed indicator, and vertical speed indicator
+Mach meter, pressure altimeter, and magnetic compass
+
+What is the key component of a mechanical gyroscope?
+@@A high-speed rotating rotor
+A stationary wheel
+A balanced pendulum
+
+What is the primary difference between a captive gyro and a free gyro?
+@@The number of axes of rotation
+The type of bearings used
+The power source
+
+What is the phenomenon of a gyro resisting external forces and maintaining its orientation?
+@@Gyroscopic rigidity
+Precession
+Centrifugal force
+
+What factors influence the gyroscopic rigidity of a gyro?
+@@Rotor weight, angular velocity, rotor radius, and bearing friction
+Air pressure, temperature, and humidity
+Magnetic field strength, electrical current, and voltage
+
+Which characteristic of gyros is exploited in the attitude indicating instruments and the directional indicators that use gyros?
+@@Gyroscopic rigidity
+Precession
+Centrifugal force
+
+For a given size, which gyro is more resistance to disturbing forces?
+@@A heavy mass is more resistant to disturbing forces than a light mass.
+A light mass is more resistant to disturbing forces than a heavy mass.
+Rigidity doesn't depent on mass.
+
+How does angular velocity affect a gyro's rigidity?
+@@The higher the rotational speed, the greater the rigidity or resistance is to deflection
+The higher the rotational speed, the smaller the rigidity or resistance is to deflection.
+Angular velocity does not affect a gyro's rigidity.
+
+What is the principle behind the operation of a Ring Laser Gyro (RLG)?
+@@Sagnac effect
+Doppler effect
+Bernoulli's principle
+
+What is the role of the piezoelectric dithering motor in an RLG?
+@@To prevent lock-in of the output signal
+To amplify the laser signal
+To cool the laser cavity
+
+What are the advantages of RLGs over mechanical gyroscopes?
+@@Higher accuracy, longer lifespan, and no moving parts
+Lower cost, lighter weight, and simpler design
+Faster response time, wider operating temperature range, and greater durability
+
+How does a rotating path affect the light traveling through an RLG?
+@@It changes the wavelength of the light
+It changes the speed of light
+It changes the polarization of the light
+
+How is precession addressed in electric attitude indicators?
+@@By using a magnetic erection system
+Through a vacuum pump system
+By manually adjusting the gyro's orientation
+
+Which information does GPWC receive?
+@@TAS, barometric altitude, barometric altitude rate, radio altitude, glide scope deviation, present position, heading data.
+Engine temperature, oil pressure, and fuel flow.
+Air traffic control communications and weather radar.
+
+In GPWS Mode 1 - Large or Excessive Descent Rate, when does the GPWC generate the alert?
+@@Between 30 ft and 2450 ft RA, when the barometric altitude rate exceeds a threshold value.
+Above 2450 ft RA, when the barometric altitude rate exceeds a threshold value.
+Below 30 ft RA, when the barometric altitude rate exceeds a threshold value.
+
+What is the primary purpose of GPWS Mode 3?
+@@To provide alerts after take-off or during a missed approach.
+To provide alerts during landing.
+To provide alerts during cruise flight.
+
+Under what conditions does Mode 3 activate?
+@@Landing gear up and flaps less than 25 units.
+Landing gear down and flaps extended.
+Landing gear up and flaps extended.
+
+What is the primary function of Mode 5 in the Ground Proximity Warning System (GPWS)?
+@@To alert the pilot when the aircraft is too far below the glide slope beam on the ILS course approach with the landing gear down.
+To alert the pilot when the aircraft is too high above the glide slope beam.
+To alert the pilot during back course approaches.
+
+What happens when the aircraft descends below 300 feet radio altitude and the glide slope deviation is more than 2 dots?
+@@The aural message "GLIDE SLOPE" is repeated at the normal sound level, and the message frequency increases as the situation worsens.
+The glide slope message is repeated more slowly as the terrain clearance decreases.
+The aural message "GLIDE SLOPE" is repeated at half the sound intensity level.
+
+How does the GPWC determine if an alert condition exists for the TCF?
+@@By comparing the aircraft's position and radio altitude to a terrain clearance envelope.
+By comparing the aircraft's position and barometric altitude to a terrain clearance envelope.
+By comparing the aircraft's position and altitude to a predefined flight path.
+
+What is the primary cause of magnetic deviation?
+@@Local electromagnetic influences
+The Earth's magnetic field
+Atmospheric pressure
+
+What is the difference between magnetic variation and magnetic deviation?
+@@Magnetic variation is caused by the difference between the Earth's magnetic poles and geographic poles, while magnetic deviation is caused by local electromagnetic influences.
+Magnetic variation is caused by the Earth's magnetic field, while magnetic deviation is caused by local electromagnetic influences.
+There is no difference between magnetic variation and magnetic deviation.
+
+What is dip error, and how does it affect a magnetic compass?
+@@Dip error is caused by the Earth's magnetic field pulling the compass needle downward, affecting accuracy near the poles.
+Dip error is caused by local electromagnetic influences, affecting accuracy near the equator.
+Dip error is caused by atmospheric pressure, affecting accuracy at high altitudes.
+
+What is the role of the slaved gyro compass system?
+@@To combine gyroscopic and magnetic direction information.
+To provide accurate timekeeping.
+To measure engine performance.
+
+How does the RMI enhance the direction finding system?
+@@By integrating radio navigation aids like VOR and ADF.
+By providing information about the aircraft's altitude.
+By measuring the aircraft's airspeed.

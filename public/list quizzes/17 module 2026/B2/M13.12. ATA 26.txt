@@ -1,0 +1,259 @@
+What are the three necessary components for a fire?
+@@Fuel, heat, oxygen
+Oxygen, hydrogen, fire
+Water, heat, wood
+
+What defines a fire zone in an aircraft?
+@@An area needing fire detection/extinguishing equipment
+An area with high humidity
+A compartment for crew rest
+
+What principle does the thermocouple fire warning system operate on?
+@@Rate of temperature rise
+Constant temperature
+Pressure changes
+
+What shape are the fixed containers typically used for storing fire extinguishing agents ?
+@@Spherical
+Cylindrical
+Cubical
+
+Where is the smoke detector in the lavatory typically located?
+@@In the ceiling of the lavatory
+On the wall next to the sink
+On the floor
+
+What type of materials are involved in Class A fires?
+@@Ordinary combustible materials like wood, cloth, and paper
+Flammable liquids, petroleum oils, greases
+Combustible metals, such as magnesium, titanium
+
+Where is the manufacturer's date stamp usually placed on the discharge cartridge?
+@@On the face of the cartridge
+Inside the cartridge
+On the bottom
+
+Which type of materials can cause class D fires?
+@@Combustible metals like magnesium and titanium
+Ordinary combustibles like wood,cloth, paper, rubber, and plastics
+Flammable liquids, petroleum oils, greases, tars, oil-based paints
+
+Which type of materials can cause class B fires?
+@@Flammable liquids, petroleum oils, greases, tars, oil-based paints
+Combustible metals like magnesium and titanium
+Energized electrical equipment
+
+What principles are the design of pneumatic single point detectors based on?
+@@Gas laws
+Electrical principles
+Hydraulic principles
+
+What does the sensing element of the pneumatic single point detector consist of?
+@@A helium-filled tube
+An air-filled tube
+A nitrogen-filled tube
+
+What is the closed helium-filled tube connected to at one end?
+@@A responder assembly
+A pressure gauge
+A thermometer
+
+What component is central to the light refraction type of smoke detector?
+@@Photoelectric cell
+Temperature sensor
+Acoustic sensor
+
+How do smoke particles interact with the light in a light refraction type smoke detector?
+@@They refract the light to the photoelectric cell
+They absorb the light
+They block the light entirely
+
+What happens when the photoelectric cell detects enough refracted light?
+@@It creates an electrical current that sets off a light
+It turns off the smoke detector
+It decreases the sensitivity of the detector
+
+A Systron-Donner fire detection system uses.
+@@Helium gas.
+Nitrogen gas.
+Oxygen gas.
+
+How does the ionization type smoke detector generate an alarm signal?
+@@By detecting a change in ion density due to smoke
+By measuring the temperature increase
+By monitoring carbon monoxide levels
+
+What are the two types of optical sensors used as flame detectors?
+@@Infrared (IR) and ultraviolet
+Thermal and ultraviolet
+Magnetic and electric
+
+What does the digital circuit control in the flame detector?
+@@The alarm sensitivity level
+The power supply for detector
+The temperature in detector
+
+When does the solder sealing the nozzles of the fire extinguisher bottle melt?
+@@When temperature reached 75°C
+When temperature reached 100°C
+When temperature reached 150°C
+
+The thermistor properties of the sensing element will ?
+@@Remain unchanged for the life of the element
+Be changed after priod of time
+Be changed after each time of an overheat event
+
+What happens at a carbon monoxide concentration of 100 parts per million in chemical color ch ange detectors?
+@@The color changes in 2 to 5 minutes
+The color changes in 15 to 30 minutes
+The color changes immediately
+
+What is the relationship between the concentration of carbon monoxide and the transition time inchemical color change detectors?
+@@Inversely related
+Directly proportional
+Randomly related
+
+What is the main function of carbon dioxide as an extinguishing agent?
+@@It smothers a fire and deprives it of oxygen
+It smothers a fire and It absorbs oxygen
+It increases temperature
+
+Which fire extinguishing agent is non-combustible and does not react with most substances?
+@@Carbon dioxide (CO₂)
+Dry powder
+Water
+
+Which type of fires is CO₂ not effective on?
+@@Fires involving chemicals containing their own oxygen supply
+Fires involving electrical equipment
+Fires involving metals
+
+What classes of fires are dry powder extinguishers best for use on?
+@@Class B, C, and D
+Class A and B
+Class B and C
+
+What are examples of dry powder chemicals?
+@@Sodium bicarbonate, potassium bicarbonate
+Sodium chloride and potassium chloride
+Sodium hydroxide and potassium hydroxide
+
+What type of detection system is typically combined with a fixed Halon extinguishing system in cargo compartments?
+@@Smoke type detection
+Heat type detection
+Light type detection
+
+Why might the master warning lights and fire warning aural be prevented from operating during takeoff?
+@@To avoid distracting the pilot
+To reduce noise levels
+To prevent false alarms
+
+What should the flight crew do if the cargo fire warning light comes on during flight?
+@@Perform the appropriate fire suppression procedures
+Land at the nearest airport immediately
+Continue normal operations
+
+What occurs when smoke particles are present in the smoke detection chamber?
+@@The smoke particles reflect more light onto the scatter detector
+The smoke particles reduce airflow
+The smoke particles absorb all light
+
+When the fire handle is operated it
+@@Cuts off field current, hydraulics and fuel and operates fire extinguishers
+Cuts off fuel. Generator remains on line to provide electrical power
+Operates fire extinguisher only
+
+What happens if there is a defective diode or contamination in the smoke detector?
+@@The detector changes to another set of diodes and sends a fault message
+The detector increases sensitivity
+The detector stops monitoring
+
+What is the function of the water separator in the smoke detection system?
+@@To remove moisture from the air
+To increase humidity
+To cool the air
+
+How does the smoke detector respond if it detects contamination?
+@@It switches to the other set of diodes
+It increases the intensity of the LED
+It shuts down the system
+
+Why are fire extinguisher containers checked periodically?
+@@To verify the pressure is within limits
+To check the weight
+To measure the temperature
+
+What are the funtions of pneumatic detectors ?
+@@Averaging function and discrete function
+Averaging function and smoke detection function
+Discrete function and fire detection function
+
+How often should fire extinguisher containers be checked?
+@@Periodically, as specified by maintenance guidelines
+Every five years
+Annually
+
+What powers the lavatory smoke detector in an aircraft?
+@@28-volt DC left/right main DC bus
+12-volt DC battery
+28-volt AC power
+
+What does the timing circuit create in the lavatory smoke detector system?
+@@Intermittent ground
+Continuous ground
+Increased voltage
+
+What role does the smoke detection circuit play in the lavatory smoke detector system?
+@@It makes a ground for the relay
+It increases the voltage
+It deactivates the alarm
+
+Why are fire detector sensing elements at risk during maintenance?
+@@Their location and small size increase the chance of damage
+They are made of fragile materials
+Their large size makes them prone to damage
+
+What is a common cause of intermittent alarms in engine fire detection systems?
+@@Loose wire occasionally touching a nearby terminal
+Overheating of the engine
+High-altitude operations
+
+What class of fires is water used for as a fire extinguishing agent?
+@@Class A
+Class B
+Class C
+
+What type of gas be released when pneumatic detector heated ?
+@@Hydrogen gas
+Nitrogen gas.
+Helium gas
+
+What is the minimum requirement for fire extinguishers in the pilot compartment?
+@@One handheld extinguisher within easy reach
+Two extinguishers mounted on the ceiling
+One extinguisher in the cargo bay
+
+What type of fire extinguisher is commonly used for electrical and flammable liquid fires?
+@@Halon 1211
+Water
+CO₂
+
+Why are dry chemical extinguishers NOT suitable for cockpit use?
+@@They can cause corrosion and visual obscuration
+They are too heavy to carry on board
+They are ineffective on electrical fires
+
+What is a key design requirement for extinguishers used in personnel compartments?
+@@Minimize hazard of toxic gas concentrations
+Maximize discharge pressure
+Include CO₂ as extinguishing agent
+
+Which fire extinguisher types are unsuitable for cockpit use due to corrosion and visibility issues?
+@@Dry chemicals
+Halon 1211
+Water
+
+What type of fire extinguisher is suitable for non-electrical fires in transport aircraft?
+@@Water
+Halon 1211
+CO₂

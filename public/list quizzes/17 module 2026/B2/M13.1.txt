@@ -1,0 +1,119 @@
+Which control surface is used to control an aircraft’s roll?
+@@Ailerons
+Rudder
+Elevators
+
+What is the primary purpose of flaps on an aircraft wing?
+@@To increase cruise speed
+To reduce drag
+To increase lift during takeoff and landing
+
+What is a key characteristic of a high-lift device?
+@@It increases drag significantly
+It is only used during cruising
+It increases lift at lower speeds
+
+In aerodynamics, what is the purpose of a stabilators?
+@@To control lift
+To control pitch
+To stabilize yaw
+
+What is the function of a spoiler on an aircraft wing?
+@@To increase lift
+To reduce drag
+To decrease lift and increase drag
+
+What is the primary function of an aircraft’s horizontal stabilizer?
+@@To increase thrust
+To control lateral stability
+To maintain pitch stability
+
+How does the addition of leading-edge flaps impact an aircraft’s takeoff performance?
+@@Decreases lift
+Reduces drag
+Increases lift
+
+What is the role of the canard in aircraft design?
+@@To increase drag
+To improve maneuverability
+To enhance lift and stability
+
+Which control surface is used to control an aircraft’s pitch?
+@@Ailerons
+Rudder
+Elevators
+
+Which control surface is used to control an aircraft’s yaw?
+@@Ailerons
+Rudder
+Elevators
+
+What is Mach number?
+@@The ratio of an aircraft’s speed to the speed of sound
+The measure of lift generated
+The drag coefficient
+
+Which of the following trailing edge flaps give an increase in wing area?
+@@Fowler flap
+Split flap
+Slotted flap
+
+What is a key characteristic of a high-lift device?
+@@It increases lift at lower speeds
+It is only used during cruising
+It increases drag significantly
+
+Which flap will increase wing area and camber?
+@@Fowler.
+Slot.
+Split.
+
+Which type of airflow occurs when the airspeed exceeds the speed of sound?
+@@Supersonic
+Transonic
+Subsonic
+
+How does a balance tab move?
+@@In the opposite direction proportional to the control surface it is attached to.
+In the same direction a small amount.
+In the same direction proportional to the control surface it is attached to.
+
+Where does the nose of aircraft move to , when its rudder deflects to the right ?
+@@To the right
+To the left
+Center
+
+When the an aileron on one wing deflects down, where does the aileron on the opposite wing deflect ?
+@@Upward
+Downward
+Neutral
+
+Which of the following are primary control surfaces?
+@@Elevators, ailerons, rudder
+Roll spoilers, elevators, tabs.
+Elevators, roll spoilers, tabs.
+
+What is the primary purpose of a flight control system in an aircraft?
+@@To control the aircraft’s altitude and direction
+To measure airspeed
+To manage fuel consumption
+
+What is the primary function of an aircraft’s spoiler?
+@@To reduce lift and increase drag
+To increase fuel efficiency
+To control yaw
+
+What is the term for the phase when a helicopter descends without engine power but maintains rotational energy in the rotor?
+@@Autorotation
+Ground effect
+Translational lift
+
+What type of aircraft uses rotor blades to generate lift?
+@@Helicopter
+Glider
+Balloon
+
+What is the primary function of the tail rotor in a single-rotor helicopter?
+@@Counteract the torque produced by the main rotor
+Increase lift
+Stabilize forward movement

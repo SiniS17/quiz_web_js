@@ -1,0 +1,634 @@
+What is the primary purpose of aircraft landing gear?
+@@To support the aircraft during landing and ground operations.
+To increase the aircraft’s speed during flight.
+To reduce noise during takeoff and landing.
+
+Which type of landing gear is commonly used on early aircraft?
+@@Tail wheel-type landing gear (conventional gear)
+Tricycle-type landing gear
+Tandem landing gear
+
+What is the purpose of a shock strut in an aircraft's landing gear?
+@@To absorb and dissipate landing shock loads
+To decrease aircraft weight
+To improve aircraft lift
+
+How is shock energy from a landing impact on aircraft primarily controlled?
+@@It is altered and transferred to the airframe at a different rate and time, and absorbed as heat.
+It is immediately dissipated through the structure as kinetic energy.
+It is only absorbed by the tires.
+
+Which landing gear configuration is used for aircraft that operate from snowy surfaces?
+@@Landing gear with skis
+Tricycle-type landing gear
+Tandem landing gear
+
+In tricycle-type landing gear, how is nose gear steering commonly achieved on heavy aircraft?
+@@Through an independent tiller in the flight deck
+By linking the nose gear to the rudder pedals
+Through differential braking
+
+What is the purpose of having multiple wheels on the main gear?
+@@To spread the weight over a larger area
+To improve aerodynamic drag
+To increase speed during takeoff
+
+How does a shock strut absorb the energy from landing impact?
+@@By converting it into heat energy
+By reducing it with mechanical springs
+By storing it as compressed air energy
+
+What is the role of sequence valves in the hydraulic landing gear system of large aircraft?
+@@To control the timing of gear and gear door operation
+To increase hydraulic pressure in the system
+To allow fluid to flow only to the gear retraction side
+
+Which type of landing gear is commonly used on most turbine-powered aircraft?
+@@Shock strut landing gear.
+Rigid steel landing gear.
+Bungee cord landing gear.
+
+What combination of components does a pneumatic/hydraulic shock strut use to absorb shock?
+@@Compressed air/nitrogen and hydraulic fluid.
+Hydraulic fluid and spring coils.
+Pneumatic pistons and gear springs.
+
+What role do torque links play in shock struts?
+@@They align and retain the piston and wheels.
+They lock the wheels in place during retraction.
+They reduce friction in the hydraulic system.
+
+What is the purpose of shock-absorbing equipment in the landing gear system?
+@@To absorb impact during landing
+To control hydraulic retraction
+To increase aerodynamic lift
+
+Which configuration aligns both the main gear and tail gear along the longitudinal axis?
+@@Tandem landing gear
+Tricycle-type landing gear
+Tail wheel-type landing gear
+
+What distinguishes the nose gear control on most tricycle-type landing gear in large aircraft?
+@@It uses an independent tiller for control
+It is connected to the tail wheel
+It operates with a simple caster mechanism
+
+Which part of the tricycle-type landing gear system connects the nose gear to the rudder pedals in light aircraft?
+@@Mechanical linkage
+Hydraulic power steering
+Electrical wiring system
+
+How does a bogie attachment benefit aircraft with multiple wheels on the main landing gear?
+@@It helps distribute aircraft weight more evenly
+It increases the aircraft’s speed
+It reduces the need for hydraulic systems
+
+Why might some light aircraft utilize fixed landing gear instead of retractable landing gear?
+@@To avoid the additional weight from retraction mechanisms
+To reduce aerodynamic efficiency
+To simplify braking systems
+
+What is the function of the close-fitting panel attached to most retractable landing gear?
+@@To match the aircraft skin and reduce drag when retracted
+To stabilize the landing gear when extended
+To control hydraulic flow in the retraction mechanism
+
+In which situations is it most advantageous to use fixed landing gear on an aircraft?
+@@When additional drag has minimal impact on the aircraft’s performance
+When the aircraft is expected to operate on water surfaces
+When the aircraft primarily operates in snowy environments
+
+What is the function of torque links on a shock strut?
+@@To keep the piston aligned and prevent wheel rotation
+To control hydraulic fluid flow
+To provide additional shock absorption
+
+Which type of landing gear commonly uses hydraulic power for retraction and extension?
+@@Large aircraft landing gear
+Light aircraft landing gear
+Glider landing gear
+
+What is the primary purpose of a nose wheel steering system in aircraft?
+@@To steer the aircraft during ground operations.
+To control aircraft speed in the air.
+To control landing gear deployment.
+
+In modern aircraft wheels, what material is commonly used for construction?
+@@Aluminum or magnesium alloy.
+Carbon steel.
+Titanium alloy.
+
+What is the recommended cleaning solvent for wheel bearings?
+@@Varsol or Stoddard® solvent
+Jet fuel
+Steam cleaner
+
+What is a cause of bearing discoloration due to heat?
+@@Insufficient lubrication
+Too much cleaning solvent
+Lack of water
+
+What type of brake is commonly used on modern aircraft?
+@@Disc brakes
+Drum brakes
+Cable brakes
+
+What is the primary function of hydraulic pressure in a single disc brake system?
+@@To apply friction to the disc
+To release the brake pads
+To cool the disc
+
+What is the primary purpose of an anti-skid system on large aircraft?
+@@To prevent wheel skidding during braking
+To increase wheel speed during landing
+To engage brakes only at high speed
+
+Where are wheel speed sensors typically located on an aircraft equipped with an anti-skid system?
+@@On each wheel with a brake assembly
+Inside the cockpit control panel
+In the tail section of the aircraft
+
+What is the primary function of aircraft tires?
+@@To support the weight of the aircraft and provide traction
+To increase speed during takeoff
+To reduce the need for brakes
+
+What do the carcass plies in an aircraft tire consist of?
+@@Fabric layers encased in rubber
+Carbon steel wires
+Rubber beads
+
+In the event of main power system failure, what allows the landing gear to lower on some aircraft?
+@@Emergency release handles
+Automatic electronic systems
+Engine-driven hydraulic pumps
+
+How is hydraulic fluid directed in a nose wheel steering system to allow the wheel to turn?
+@@Through a metering valve that controls fluid flow to actuators.
+Through a single direct connection to the steering tiller.
+Through a series of gears that move fluid manually.
+
+Why are thermal plugs used in high-performance aircraft wheel assemblies?
+@@To release air from the tire if it overheats, preventing explosion.
+To add weight for balance during takeoff.
+To keep the wheel and tire assembly from over-rotating.
+
+What role does a compensator unit play in the nose wheel steering system?
+@@It maintains constant hydraulic pressure in the steering cylinders.
+It regulates the landing gear speed.
+It assists in deflating the tires post-landing.
+
+Why is compressed air drying of bearings without rotation recommended?
+@@To prevent damage from high-speed metal contact
+To avoid cleaning agent contamination
+To reduce drying time
+
+Which condition is characterized by indentations in the bearing cup due to impact?
+@@Brinelling
+Spalling
+Staining
+
+What is the effect of false brinelling on the bearing?
+@@Rust-colored lubricant
+Increased roller spacing
+Decreased bearing weight
+
+Why is immediate lubrication after cleaning and inspection important?
+@@To prevent corrosion
+To clean off solvent
+To increase bearing strength
+
+Why is the floating disc brake design beneficial?
+@@It provides even friction on both sides of the disc
+It increases the weight of the braking system
+It prevents hydraulic fluid from entering the system
+
+What feature of the Cleveland brake makes it easy to service?
+@@Brake linings can be replaced without removing the wheel
+It has a single-disc design
+It uses riveted linings on both sides
+
+How does the design of dual-disc brakes increase braking power?
+@@By using two discs instead of one to increase friction
+By reducing the amount of fluid required
+By using smaller brake calipers
+
+Why do multiple-disc brakes have an automatic adjuster?
+@@To maintain correct clearances between rotors and stators
+To reduce hydraulic pressure
+To allow for manual adjustments
+
+How does the anti-skid system respond when it detects an imminent wheel skid?
+@@It reduces hydraulic pressure to the brake on the affected wheel
+It increases the wheel speed to match other wheels
+It automatically locks the wheel to prevent skidding
+
+Which system components work together to achieve automatic braking in some anti-skid systems?
+@@Wheel speed sensors, antiskid control valves, and a control unit
+Hydraulic master cylinders and rudder pedals
+Landing gear and brake assembly
+
+What role does the squat switch play in an anti-skid system?
+@@It prevents the brakes from engaging during landing
+It activates the brakes during takeoff
+It detects skid resistance in the tires
+
+How does the anti-skid system transition from automatic braking to manual braking during ground maneuvers?
+@@By switching to manual mode at speeds below 20 mph
+By turning off the ground safety switches
+By deactivating wheel speed sensors
+
+Why is it important that the tire sidewall protects the carcass plies?
+@@To prevent ozone damage and provide tire information
+To increase speed and reduce friction
+To make the tire lightweight
+
+How do circumferential grooves in the tread benefit aircraft tires?
+@@By cooling the tire and channeling water for better adhesion
+By increasing the tire’s flexibility
+By providing greater sidewall protection
+
+What is the purpose of a tube in a tube-type aircraft tire?
+@@To contain air within the tire
+To protect against tread wear
+To prevent sidewall damage
+
+In a radial aircraft tire, how are the plies positioned?
+@@At a 90° angle to the direction of rotation
+At a 45° angle to reduce flexibility
+In a diagonal pattern around the tire
+
+What distinguishes a bias ply tire from a radial tire in construction?
+@@Bias ply tires have plies laid at angles between 30° and 60°
+Bias ply tires are made without rubber layers
+Bias ply tires do not use fabric in construction
+
+What is the chine on some aircraft tires designed to do?
+@@Deflect water away from engine intakes
+Strengthen the sidewall
+Increase tire flexibility during landings
+
+How does the selector valve operate when the gear-up position is selected in a hydraulic landing gear system?
+@@It allows hydraulic pressure to access specific components for retraction
+It releases fluid pressure from the gear actuators
+It disengages the gear door sequence valves
+
+In some aircraft, how is gear door closure achieved after the landing gear is retracted?
+@@Through sequence valves that activate once the gear is stowed
+By manual operation by the pilot
+By electrically powered door locks
+
+What is the primary reason for using multiple hydraulic systems in high-performance aircraft for landing gear extension?
+@@To ensure redundancy in case of main power system failure
+To increase aircraft weight for stability
+To simplify gear door operation
+
+Which landing gear inspection task is part of a retraction test?
+@@Checking for unusual sounds like rubbing or vibration
+Replacing hydraulic fluid in the gear system
+Adjusting the sequence valve pressure settings
+
+Why is it essential to perform a retraction test on landing gear after certain repairs?
+@@To verify proper operation and identify potential malfunctions
+To ensure the emergency extension system remains inactive
+To check the alignment of the nose wheel only
+
+During a landing gear retraction test, which observation would be critical to determine if the system is functioning properly?
+@@The landing gear should retract and extend smoothly without any binding.
+The lights should blink continuously to indicate proper operation.
+The system should show a “gear disagree” warning at some point.
+
+What does the presence of three green lights on the instrument panel signify regarding landing gear status?
+@@The landing gear is down and locked, safe for landing
+The landing gear is in transit
+The gear selector is in the neutral position
+
+Why might an aircraft have a gear disagree annunciation light?
+@@To indicate the landing gear is not in the same position as the selector
+To show that the gear doors are fully open
+To confirm the gear is down and locked
+
+How does the follow-up mechanism in a nose wheel steering system prevent over-rotation of the wheel?
+@@By neutralizing the metering valve once the desired steering angle is reached.
+By locking the wheel once a turn is initiated.
+By manually adjusting the steering tiller for each degree of turn.
+
+In what way does a shimmy damper help to stabilize an aircraft during taxiing?
+@@By reducing oscillations in the nose wheel through hydraulic damping.
+By applying additional pressure to the landing gear.
+By increasing friction in the nose wheel during taxi operations.
+
+How does the steering damping feature differ from a shimmy damper in large aircraft?
+@@Steering damping controls nose wheel direction, while shimmy damping prevents wheel oscillation.
+Steering damping is only active during flight, while shimmy damping is only used on the ground.
+Both perform the same function in controlling wheel direction.
+
+Explain how an aircraft wheel’s inner and outer halves differ in their construction and purpose.
+@@The inner half supports the brake rotor, while the outer half provides access to valve stems.
+Both halves serve identical purposes with slight size differences.
+The outer half secures the brake disc, while the inner half supports the landing gear strut.
+
+Describe the potential risks associated with improper axle nut torque on aircraft wheels.
+@@It may lead to bearing failure or wheel assembly loosening.
+It could cause the brake rotor to overheat.
+It would result in under-inflation of the tire.
+
+What inspection technique is commonly used to detect cracks in the bead seat area of aircraft wheels?
+@@Eddy current inspection to identify internal stress fractures.
+Visual inspection for large cracks.
+Magnetic particle testing to reveal surface cracks.
+
+Why is it important to deflate an aircraft tire before removing the wheel assembly?
+@@To prevent explosive separation due to high internal pressure.
+To reduce the weight of the wheel for easier handling.
+To balance the remaining wheels on the aircraft.
+
+Why are balance weights applied to aircraft wheels, and how should they be handled during maintenance?
+@@To ensure wheel stability, and they should be re-fastened in their original position.
+To increase the durability of the wheels, and they should be removed for each flight.
+To decrease tire wear, and they should be applied in the tire's center.
+
+Describe the process of safely drying a bearing with compressed air.
+@@Direct a blast of air without rotating the bearing
+Spin the bearing while drying to ensure thoroughness
+Use a combination of air and water
+
+What issues can arise from using gasoline as a cleaning solvent for bearings?
+@@Risk of damage due to improper drying
+Fuel residue causing lubrication issues
+Possibility of immediate bearing corrosion
+
+How does brinelling affect bearing performance?
+@@It causes vibration and early failure
+It increases bearing lifespan
+It improves load-bearing capacity
+
+Explain the procedure to inspect and seat the bearing cup securely.
+@@Heat the wheel, cool the cup, and apply primer
+Tap the cup with a metallic hammer until it’s tight
+Spray lubricant around the cup edges
+
+Why is handling crucial for maintaining bearing integrity?
+@@Contaminants or moisture can degrade the bearing
+Proper handling increases roller speed
+Handling prevents grease buildup
+
+What is the correct way to manually pack a tapered roller bearing with grease?
+@@Use hand pressure to push grease through each roller
+Dip the bearing in grease and spin it
+Pack grease around the outside only
+
+Identify a sign of overheating in bearing components.
+@@Bluish tint on metal surfaces
+Increased roller spacing
+Smooth and shiny bearing surfaces
+
+Why should steam cleaning be avoided for bearings?
+@@It compromises the metal surface finish
+It enhances bearing corrosion resistance
+It increases bearing smoothness
+
+What does a rusty lubricant in a static bearing indicate?
+@@False brinelling
+Lack of lubricant
+Excessive rotation speed
+
+How does contamination from fine particles affect the bearing surface?
+@@It causes bruising on the bearing cup
+It smoothens the roller surfaces
+It enhances the load-carrying capacity
+
+Explain the role of the bearing cup in ensuring proper bearing function.
+@@It provides a stable housing to avoid spinning
+It allows for flexible positioning
+It increases heat resistance of the bearing
+
+Why is it crucial to consult the manufacturer's manual for bearing maintenance?
+@@Specific instructions ensure optimal performance and fit
+Manuals provide general advice for all bearing types
+It allows for alternative lubricants and solvents
+
+What is the role of a stationary caliper in a disc brake system?
+@@It resists rotation by applying friction to the disc
+It helps in rotating the wheel assembly
+It absorbs the heat generated during braking
+
+How do segmented rotor brakes differ from single disc brakes?
+@@They are used on larger aircraft for increased braking force
+They are lighter and designed for smaller aircraft
+They do not require hydraulic fluid to function
+
+Describe the self-adjusting feature in floating disc brakes.
+@@It maintains consistent clearance between pucks and the disc
+It increases the braking pressure on the disc automatically
+It prevents the brake disc from wearing out
+
+What is the purpose of the return spring in the floating disc brake system?
+@@To move the piston back away from the disc after braking
+To push the disc further into the caliper
+To increase friction between the disc and the caliper
+
+How does the fixed-disc, floating-caliper design ensure even braking pressure?
+@@By allowing the caliper to move laterally on anchor bolts
+By rotating the disc with the wheel
+By using hydraulic fluid to lock the disc in place
+
+In dual-disc brakes, what is the function of the center carrier?
+@@To provide a surface for linings to contact both discs
+To increase the number of pucks used in braking
+To store hydraulic fluid in the brake assembly
+
+Explain the process of hydraulic braking in multiple-disc brakes.
+@@Hydraulic pressure compresses a stack of rotors and stators to create friction
+Hydraulic fluid is applied directly to the disc surface for cooling
+Hydraulic pressure is relieved to allow the disc to rotate freely
+
+Why is heat dissipation a challenge for multiple-disc brakes?
+@@The rotors and stators are thin and tend to warp under heat
+The brake assembly lacks cooling fins
+The hydraulic fluid is absorbed quickly by the disc
+
+What causes the piston to retract in multiple-disc brakes?
+@@Retracting springs pull the piston back after braking pressure is released
+Hydraulic pressure pushes the piston back
+The disc automatically realigns with the caliper
+
+How is wear typically measured in a multiple-disc brake system?
+@@Using a wear gauge to measure the rotor and stator thickness
+By visual inspection of the brake linings
+Using the length of the caliper bolts
+
+What are the key components of a multiple-disc brake assembly?
+@@An extended bearing carrier, rotors, stators, and a hydraulic piston
+A single disc and a stationary caliper
+Brake cables and a brake lever
+
+Describe how a DC wheel speed sensor differs from an AC wheel speed sensor in an anti-skid system.
+@@A DC sensor produces a voltage directly proportional to wheel speed, while an AC sensor produces a variable frequency signal proportional to wheel speed
+A DC sensor uses an electromagnet while an AC sensor does not
+A DC sensor requires a control valve, while an AC sensor requires a control box
+
+What is the function of the velocity comparator in an anti-skid system control unit?
+@@To compare the wheel speed with aircraft speed and detect skidding
+To measure hydraulic fluid levels in the brake system
+To maintain the brake pressure below a preset threshold
+
+When would the antiskid system return to manual braking mode after touchdown?
+@@When the aircraft speed drops to approximately 20 mph
+After the wheels stop rotating
+Once the hydraulic system is pressurized
+
+How does the anti-skid control unit respond to a sudden skid detected by the transient control output?
+@@It quickly reduces brake pressure to the affected wheel
+It locks the wheel to prevent further sliding
+It increases brake pressure to restore balance
+
+What additional safety function does the anti-skid system perform during takeoff?
+@@It disables braking to prevent wheels from rotating during retraction
+It engages full brake pressure to ensure smooth lift-off
+It activates the ground safety switch for increased stability
+
+In the anti-skid system, what issue might occur if the squat switch fails to activate upon landing?
+@@The brakes may engage too early, risking tire blowout
+The wheel speed sensors may become deactivated
+The control unit will disable all brakes until repair
+
+Explain the purpose of a pressure bias modulator circuit within an anti-skid system.
+@@To regulate brake pressure and optimize braking efficiency
+To monitor hydraulic fluid temperature
+To control the timing of brake application
+
+Why is locked wheel protection important in an anti-skid system?
+@@To prevent uneven tire wear and potential skidding during braking
+To engage brakes on both wheels simultaneously
+To ensure braking is applied only at high speeds
+
+What regular maintenance action is recommended to ensure the control valve in an anti-skid system remains functional?
+@@Cleaning or replacing hydraulic system filters
+Installing additional sensors near the brake assembly
+Testing at least once per year with an operational light test
+
+Why might the wheel speed sensor wiring in an anti-skid system require frequent inspection?
+@@It is subject to harsh environmental conditions that can affect integrity
+It easily becomes dislodged from the wheel assembly
+It must be adjusted with every landing cycle
+
+Describe the role of the summing amplifier in an anti-skid system.
+@@It combines input voltages to control brake pressure adjustments
+It compares the wheel speed with the hydraulic fluid speed
+It signals the landing gear to lock during takeoff
+
+How does the anti-skid system’s control unit handle signals indicating skidding on one wheel of a paired set?
+@@It relieves pressure on the slower rotating wheel to prevent further skid
+It increases pressure to both wheels until they reach the same speed
+It stops hydraulic flow to the faster rotating wheel
+
+Why must aircraft tires be carefully maintained in diverse operating conditions?
+@@They undergo multiple stresses and need consistent performance
+They are used to carry heavy weights over long distances
+They need to reduce speed to prevent overloading
+
+How does a bias ply tire’s construction contribute to its flexibility?
+@@The angled plies allow the sidewall to flex with the fabric
+The use of rubber makes it deform more easily
+Its inner liner creates added flexibility
+
+What role does high-strength carbon steel play in the tire bead?
+@@It anchors the tire carcass to the wheel rim
+It makes the tread resistant to abrasion
+It provides flexibility during landings
+
+Explain the benefit of using a radial tire on modern aircraft.
+@@It provides high load support with minimal deformation
+It increases flexibility in rough landing conditions
+It allows better heat resistance
+
+What would likely happen if a non-aircraft tire were used on an aircraft?
+@@It might fail due to insufficient high-impact load resistance
+It would withstand the forces but lose traction
+It would increase taxiing speed and heat tolerance
+
+How does the tire tread design aid in high-speed operations?
+@@The tread resists heat buildup and enhances durability
+The tread increases the flexibility of the tire
+The tread improves comfort during landings
+
+Why is it critical to inspect tire inflation pressure on aircraft tires?
+@@To maintain performance and prevent uneven wear
+To allow for longer storage periods
+To reduce the tire’s braking distance
+
+Describe the ideal method for approaching an overheated or damaged aircraft tire.
+@@Approach from an oblique angle after it has cooled
+Inspect immediately from any direction to reduce waiting time
+Approach directly in front of the tire
+
+Why might a bias ply tire be preferred over a radial for certain aircraft?
+@@It offers more flexibility due to angled plies
+It provides a higher speed tolerance
+It requires fewer materials to construct
+
+What could happen if the tire sidewall did not resist ozone effects?
+@@The tire could weaken and potentially fail
+The tire would increase in flexibility
+The tire would retain heat
+
+Explain why a tube-type tire lacks an inner liner.
+@@The tube itself holds air and prevents leaks
+The tube-type tire doesn’t need to hold air
+It provides extra weight to balance the tire
+
+Why are only manufacturer-specified tires used on aircraft?
+@@To ensure the tire meets the specific load and speed requirements
+To allow for frequent and varied usage across models
+To provide additional cushioning during rough landings
+
+What is the primary function of the grooves in aircraft tire tread?
+@@To help with cooling and channel water away
+To increase load capacity
+To reduce rubber use during production
+
+In a large passenger aircraft, which system component would typically receive input from air- ground sensing for its operation?
+@@Autopilot Flight Director Computer.
+Emergency locator beacon.
+In-flight entertainment unit.
+
+How do WOW (Weight on Wheels) sensors contribute to air-ground sensing in modern aircraft?
+@@They detect the bending of landing gear beams under the aircraft's weight to send a signal.
+They measure tire pressure upon landing to relay a weight estimate.
+They monitor the rotation speed of the wheels to determine ground contact.
+
+What type of signal is sent from the load sensor to the WOW(Weight on Wheels) card?
+@@Analog
+Digital
+Binary
+
+What component transmits air-ground status to other systems?
+@@WOW card
+Load sensor
+Gear actuator
+
+What is a basic difference between proximity switches and load sensors?
+@@Load sensors can detect weight
+Load sensors use hydraulic feedback
+Load sensors are mechanical
+
+What safety precaution must be taken when handling WOW cards?
+@@ESD protection
+Hydraulic isolation
+Gear pin installed
+
+What happens when the gear beam bends under weight?
+@@Sensor distance changes
+Circuit breaker trips
+Gear retracts
+
+What must be done after replacing a WOW(Weight on Wheels) card?
+@@Calibrate sensors
+Drain hydraulic fluid
+Replace actuator
+
+Where can the technician view and test air-ground system status?
+@@Gear maintenance page
+Autopilot screen
+Fuel control panel

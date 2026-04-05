@@ -8,15 +8,16 @@ export let answeredQuestions = [];
 export let currentFolder = ''; // Track current folder path
 
 // Current quiz state for try again functionality
-// Current quiz state for try again functionality
 export const quizState = {
   fileName: '',
   questionCount: 20,
   selectedLevels: [],
-  isLiveMode: CONFIG.DEFAULT_LIVE_TEST_MODE, // Use config default
+  isLiveMode: CONFIG.DEFAULT_LIVE_TEST_MODE,
+  isShuffleMode: true, // NEW: shuffle on by default
   allQuestions: [],
   hasSubmitted: false,
-  originalQuestionOrder: null
+  originalQuestionOrder: null,
+  wrongQuestions: [], // NEW: track wrong answers for redo feature
 };
 
 // State setters
@@ -78,9 +79,11 @@ export function saveQuizState(allQuestions, selectedLevels) {
   quizState.fileName = selectedFileName;
   quizState.questionCount = globalSelectedCount;
   quizState.selectedLevels = [...selectedLevels];
-  // Only set isLiveMode if it hasn't been set yet (use config default)
   if (quizState.isLiveMode === undefined) {
     quizState.isLiveMode = CONFIG.DEFAULT_LIVE_TEST_MODE;
+  }
+  if (quizState.isShuffleMode === undefined) {
+    quizState.isShuffleMode = true;
   }
   quizState.allQuestions = [...allQuestions];
 }
@@ -91,6 +94,7 @@ export function updateQuizState(updates) {
 
 export function resetQuizSubmission() {
   quizState.hasSubmitted = false;
+  quizState.wrongQuestions = [];
   answeredQuestions = [];
 }
 

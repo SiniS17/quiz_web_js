@@ -1,0 +1,1599 @@
+Transverse wave has:
+@@Displacement perpendicular to wave direction
+Displacement parallel to wave direction
+Displacement is up and down
+
+What is characters of longitudinal waves?
+@@It has regular regions of high (compressions) and low pressure (rarefaction) along the wave
+It has regular regions of high (compressions) and low pressure (rarefaction) along the wave depend on amplitude
+It has regular regions of low (compressions) and high pressure (rarefaction) along the wave
+
+The amplitude of a traverse wave is:
+@@Is half the distance measured vertically from the crest to the trough
+Is half the distance measured horizontally from the crest to the trough
+Is half the distance measured vertically from the crest to the crest of the next
+
+What is the definition of a wavelength (λ)?
+@@Is the distance from the crest of one wave to the crest of the next, or between any two similar points on adjacent waves
+Is half the distance measured vertically (height) from the crest to the trough
+Is the number of times the wave cycle repeats in a given unit of time
+
+What is the definition of a wavelength (λ)?
+@@Is the distance from the crest of one wave to the crest of the next, or between any two similar points on adjacent waves
+Is half the distance measured vertically (height) from the crest to the trough
+Is the number of times the wave cycle repeats in a given unit of time
+
+Frequency (f), can be obtained by:
+@@Dividing the wave's velocity by its wavelength
+Multiplying the wave's velocity by its wavelength
+Dividing the wave's velocity by its Amplitude
+
+How are frequency and ware period proportional to each other?
+@@If the frequency increases, the period decreases, and vice-versa
+If the frequency increases, the period increases,
+If the frequency increases, the period constant
+
+Given: velocity (v) = 6m/s, wavelenght (λ) = 30m, f=?
+@@f = 0.2 Hz
+f = 0.5 Hz
+f = 2 Hz
+
+For a frequency of electromagnetic wave is 2 Hz, the wavelength is:
+@@150.000 km
+150.000 m
+150.000 mm
+
+Given: velocity (v) = 9m/s, wavelenght (λ) = 30m, F=?
+@@F = 0.3 Hz
+F = 0.5 Hz
+F = 2 Hz
+
+For a frequency of electromagnetic wave is 5 Hz, the wavelength is:
+@@60.000 km
+60.000 m
+600.000 mm
+
+Given: F = 200 Mhz, The corresponding half wavelengths antenna =?
+@@Length of the antenna = 2,34 feet
+Length of the antenna = 23,4 feet
+Length of the antenna = 20 feet
+
+Given: velocity (v) = 4m/s, wavelenght (λ) = 80m, T=?
+@@20 s
+2 s
+5 s
+
+Given: velocity (v) = 3m/s, wavelenght (λ) = 90m, T=?
+@@30 s
+3 s
+5 s
+
+An electromagnetic wave consists of:
+@@An electric field and a magnetic field
+An electric field
+A magnetic field
+
+An electromagnetic radiation is classified:
+@@Radio, microwave, infrared, visible, ultraviolet, X-rays and gamma rays
+Radio, microwave, infrared, visible, ultraviolet, X-rays
+Radio, microwave, infrared, ultraviolet, X-rays and gamma rays
+
+Electromagnetic spectrum includes:
+@@Radio, Microwave, Infrared, UV, Visible light, X-ray, gamma ray
+Radio, Microwave, Infrared, UV, Visible light, X-ray
+Microwave, Infrared, UV, Visible light, X-ray, gamma ray
+
+What is the value of crest factor of triangle wave?
+@@1.732
+1.414
+0.707
+
+What is the value of RMS of square wave?
+@@1
+2
+0.707
+
+What is the value of crest factor of square wave?
+@@2
+1.414
+0.707
+
+What is the value of RMS of triangle wave?
+@@0.577
+2
+0.707
+
+To transmit radio waves, an AC generator is placed at the:
+@@Midpoint of the antenna
+Top of the antenna
+Bottom of the antenna
+
+As AC current builds and collapses in the antenna, what's happen?
+@@Electric and magnetic field build up, collapse, build up and collapse again, fluctuate around the antenna
+Electric build up, collapse, build up and collapse again,
+Magnetic build up, collapse, build up and collapse again,
+
+When AC current builds and collapses in the antenna, what's happen?
+@@A magnetic field and an electric field are built around the antenna
+A magnetic field are built around the antenna
+An electric field are built around the antenna
+
+A radio frequency of 16 MHz would be used for?
+@@HF communications
+Weather radar.
+VHF communications
+
+What is the purpose of a service interphone system?
+@@To allows communication between the flight deck and the passenger cabin as well as connecting both of these areas with ground personnel outside the aircraft
+To allows communication between the flight deck and the ATC as well as connecting both of these areas with ground personnel outside the aircraft
+To allows communication between the flight deck and the passenger cabin
+
+What is the purpose of VHF radio?
+@@For communications between aircraft and air traffic control (ATC), as well as air-to-air communication between aircraft
+For communications between aircraft and air traffic control (ATC), as well as communication the pilot and the flight attendant
+For communications between aircraft and air traffic control (ATC), as well as communication the pilot and ground staff
+
+What is the purpose of a service interphone system?
+@@To allows communication between the flight deck and the passenger cabin as well as connecting both of these areas with ground personnel outside the aircraft
+To allows communication between the flight deck and the ATC as well as connecting both of these areas with ground personnel outside the aircraft
+To allows communication between the flight deck and the passenger cabin
+
+Service interphone system allows:
+@@Communication between the flight deck and some areas on the aircraft
+Communication to other aircraft
+Communication to ground station
+
+What does element change in AM?
+@@The envelope of the carrier can be seen to change in line with the modulating signal
+The frequency of the signal varies as the voltage of the modulating signal changes
+The phase change manifests itself as a frequency change but the instantaneous frequency change is proportional to the integration of the amplitude.
+
+Which is the element modified in amplitude modulation?
+@@The carrier amplitude
+The carrier frequency
+The carrier phase
+
+Total bandwidth required for AM can be determined:
+@@Bandwidth of AM = 2 x Bandwith of the modulating signal
+Bandwidth of AM = Bandwith of the modulating signal
+Bandwidth of AM = 1/2 x Bandwith of the modulating signal
+
+What is function of the diode in the simple diode detector circuit?
+@@The diode rectifies the signal, only allowing the one-half of the alternating radio frequency waveform through
+The diode rectifies the signal, only allowing the alternating radio frequency waveform through
+The diode removes the radio-frequency parts of the signal, leaving the audio waveform
+
+What is function of the capacitor in the simple diode detector circuit?
+@@The capacitor is used as a simple low-pass filter to remove the radio-frequency parts of the signal, leaving the audio waveform
+The capacitor rectifies the signal, only allowing the one-half of the alternating radio frequency waveform through
+The capacitor rectifies the signal, only allowing the alternating radio frequency waveform through
+
+What is function of the mixer in the synchronous AM demodulation?
+@@The mixer mixs the in put signal with a locally generated signal with the same frequency and phase as the carrier
+The mixer mixs the in put signal with a locally generated signal with the different frequency and same phase as the carrier
+The mixer mixs the in put signal with a locally generated signal with the same frequency and different phase as the carrier
+
+Given: RMS value of modulating signal = 5, RMS value of carrier signal = 10, Modulation index = ?
+@@M = 0.5
+M = 2
+M = 50
+
+The frequency of the audio signal is 10 Khz, Bandwidth of AM = ?
+@@BAM = 20 Khz
+BAM = 10 Khz
+BAM = 40 Khz
+
+What is the function of a very high-gain amplifier in AM?
+@@To amplify the input signal before mixing it with the carrier wave
+To amplify the input signal after mixing it with the carrier wave
+To amplify the output signal after removing noise signal
+
+What is the function of a very oscillator in AM?
+@@To generate stable carrier signal
+To mix carrier signal and information signal
+To amplify the input signal before mixing it with the carrier wave
+
+What is the function of a very multiplier in AM?
+@@To mix carrier signal and information signal
+To generate stable carrier signal
+To amplify the input signal before mixing it with the carrier wave
+
+How to demodulate signal in AM?
+@@The diode rectifies the signal and a capacitor is used as a simple low-pass filter
+Using the quadrature detector
+Using a low-pass filter and a resistor
+
+Given: RMS value of modulating signal = 5, RMS value of carrier signal = 20, Modulation index = ?
+@@M = 0.25
+M = 2.5
+M = 25
+
+The frequency of the audio signal is 20 Khz, Bandwidth of AM = ?
+@@BAM = 40 Khz
+BAM = 10 Khz
+BAM = 20 Khz
+
+What does element change in FM?
+@@The frequency of the signal varies as the voltage of the modulating signal changes
+The envelope of the carrier can be seen to change in line with the modulating signal
+The phase change manifests itself as a frequency change but the instantaneous frequency change is proportional to the integration of the amplitude.
+
+Total bandwidth required for FM can be determined:
+@@BFM = 2(1 + ß)B, with ß = 4 most often
+BFM = 2(1 + ß)B, with ß = 2 most often
+BFM = 2(1 + ß)B, with ß = 3 most often
+
+If an FM signal is modulated by an audio signal, the frequency of the audio would relate to the:
+@@Rate of frequency change
+Rate of amplitude change
+Rate of phase change
+
+The frequency of the audio signal is 20 Khz, Bandwidth of FM = ?
+@@BFM = 200 Khz
+BFM = 100 Khz
+BFM = 40 Khz
+
+How to demodulate signal in FM?
+@@Using a quadrature detector
+The diode rectifies the signal and a capacitor is used as a simple low-pass filter
+Using a low-pass filter and a resistor
+
+The frequency of the audio signal is 40 Khz, Bandwidth of FM = ?
+@@BFM = 400 Khz
+BFM = 100 Khz
+BFM = 40 Khz
+
+The frequency of the audio signal is 30 Khz, Bandwidth of PM = ?
+@@BPM = 180 Khz
+BPM = 60 Khz
+BPM = 300 Khz
+
+Ground wave is:
+@@LF
+HF
+VHF
+
+Total bandwidth required for PM can be determined:
+@@BPM = 2(1 + β)B, with β = 2 most often
+BPM = 2(1 + β)B, with β = 4 most often
+BPM = 2(1 + β)B, with β = 1 most often
+
+What is distinct features about phase change and frequency change in PM?
+@@The phase change manifests itself as a frequency change but the instantaneous frequency change is proportional to the derivative of the amplitude.
+The phase change manifests itself as a frequency change but the instantaneous frequency change is proportional to the derivative of the frequency.
+The phase change manifests itself as a frequency change but the instantaneous frequency change is proportional to the integration of the amplitude.
+
+The frequency of the audio signal is 40 Khz, Bandwidth of PM = ?
+@@BPM = 240 Khz
+BPM = 40 Khz
+BPM = 400 Khz
+
+How to change frequency modulation to phase modulation?
+@@By simply adding a CR network to the modulating signal that integrates the bandwidth required in half and allows more efficient use of the radio spectrum
+By using voltage controlled oscillator
+By simply adding a CR network to the modulating signal that integrates the bandwidth required in twince
+
+The frequency of the audio signal is 20 Khz, Bandwidth of PM = ?
+@@BPM = 120 Khz
+BPM = 40 Khz
+BPM = 200 Khz
+
+What is the purpose of VHF radio?
+@@For communications between aircraft and air traffic control (ATC), as well as air-to-air communication between aircraft
+For communications between aircraft and air traffic control (ATC), as well as communication the pilot and the flight attendant
+For communications between aircraft and air traffic control (ATC), as well as communication the pilot and ground staff
+
+What is the characters of HF radio?
+@@HF radio waves bounce off of the ionosphere layer of the atmosphere
+HF radio waves bounce off of the troposphere layer of the atmosphere
+HF radio waves bounce off of the stratosphere layer of the atmosphere
+
+What are main factor of an antenna?
+@@An inductance, a capacitance, and a resistance
+An inductance, a capacitance
+An inductance, a resistance
+
+What characteristics are of major concern when considering an antennas?
+@@Length, Polarization, Directivity
+Length, Width, Directivity
+Length, Width, Polarization
+
+Given: F = 130 Mhz, The corresponding half wavelengths antenna =?
+@@Length of the antenna = 1,097 m
+Length of the antenna = 3,6 m
+Length of the antenna = 0,36 m
+
+Which of the following system has the smallest antenna?
+@@UHF
+VHF
+HF
+
+Length of Marconi Antenna is:
+@@Wavelength/4
+Wavelength x 4
+Wavelength/2
+
+What is polarization of the antenna?
+@@Is the way in which an electromagnetic wave emitted or received by an antenna oscillates in space, specifically the direction of oscillation of the electric field (E) component in the electromagnetic wave
+Is the way in which an electromagnetic wave emitted or received by an antenna oscillates in space, specifically the direction of oscillation of the electric field (E) component and magnetic field (B) component in the electromagnetic wave
+Is the way in which an electromagnetic wave emitted or received by an antenna oscillates in space, specifically the direction of oscillation of the magnetic field (B) in the electromagnetic wave
+
+What is the operative principle of loop antenna?
+@@When a radio wave strikes the loop antenna in line with the plane of the loop, current is generated first in one side,  and then in the other side. This causes the current flows  to have different phases, in which of the generated current varies proportionally to the angle at which the radio wave strikes the antenna loop
+The AC transmission current is fed to a oop antenna in the center. As the current alternates, current flow is greatest in the middle of the antenna and gradually less as it approaches the ends
+On fabric skinned aircraft, the ground plane that makes up the second one-fourth wavelength of the antenna must be fashioned under the skin where the loop antenna is mounted
+
+Why is a 1/4 wavelength antenna as effective as a 1/2 wavelength antenna when it is mounted on an aircraft?
+@@By using the mounting surface of the conductive aircraft skin to create the second 1/4 wavelength
+Because they are vertically polarized and create a field that is omni-directional
+Because it is most sensitive to signals approaching the antenna from the sides rather than head-on in the direction of flight
+
+What protective covers do coaxial cable have?
+@@Protective Plastic Covering, Shielding–Outer Conductor, Dielectric–Insulator
+Protective Plastic Covering, Shielding–Outer Conductor
+Protective Plastic Covering, Dielectric–Insulator
+
+What is the function of oscillator in a basic radio transmitter?
+@@To make frequency multiplier
+To make frequency audio
+To make the modulation
+
+What does the distance the carrier wave travels depend on?
+@@The amplification of the signal sent to the antenna
+The length and polarization of the antenna
+The length and directivityof the antenna
+
+The Transmitter consist of:
+@@The Oscillator, Multiplier, Audio processing, Modulator, Amplifier and Antenna
+Audio processing, Modulator, Amplifier and Antenna
+Multiplier, Audio processing, Modulator, Amplifier and Antenna
+
+The Receiver consist of:
+@@The Amplifier, Oscillator, Mixer, Demodulator and Antenna
+Oscillator, Mixer, Demodulator and Antenna
+The Amplifier, Oscillator, Mixer and Demodulator
+
+Why do radio transmitters and receivers become smaller?
+@@Due to the development of transistors, micro-transistors, and integrated circuits
+Due to the development of diode, transistors
+Due to the development of diode, transistors and wiring
+
+Transceiver is:
+@@Half-duplex
+Full-duplex
+Simplex
+
+What is the function of the antenna in the tranceiver?
+@@The transmitting and receiving functions
+The transmitting function
+The receiving functions
+
+Which primary components do The VHF Communication System have?
+@@Transceiver, Unit, standby control, Antenna
+Receiver, Unit, standby control, Antenna
+Transceiver, Unit, standby control
+
+In a type configuration, which equipment control the VHF transceiver?
+@@Audio and Radio Control Display Units, Flight Management System, Multi-functional Control Display Units
+Audio and Radio Control Display Units, Flight Management System, Multi-functional Control Display Units, VHF antenna
+Audio and Radio Control Display Units, Flight Management System, Multi-functional Control Display Units, VHF antenna, PTT switch
+
+What is the function of VHF com control panel?
+@@It allows tuning of the VHF frequency
+It allows to perform maintenance mode
+It allows to perform operational mode
+
+Which components are used to tune VHF frequency?
+@@ARCDU, RTU, RMP or RAMP
+ARCDU, RTU or FMC
+ARCDU, RTU, ACP or FMC
+
+The HF system consists of:
+@@A Transceiver, a Coupler, and an Antenna
+A Transmitter, a Coupler, and an Antenna
+A receiver, a Coupler, and an Antenna
+
+Where are HF antennas usually installed?
+@@At the leading edge of the vertical stabilizer
+At the leading edge of the horizontal stabilizer
+At the leading edge of the right wing
+
+The HF communications system is provided:
+@@For long range, air-to-ground and air-to-air communications
+For short range, air-to-ground and air-to-air communications
+For medium range, air-to-ground and air-to-air communications
+
+What power source is the HF transceiver powered by?
+@@28V DC bus 2
+28V DC bus 1
+28V DC bus 2 and 115V AC bus 1
+
+How to reduce turning time in HF system?
+@@The tuning data for a frequency that was tuned previously is stored in the unit memory
+The antenna coupler is installed near the tranceiver
+The tuning frequency is monitored by flight management system
+
+What is the purpose of SATCOM radio is?
+@@for enroute communication with ground stations and to connect passengers to the internet
+for enroute communication with ground stations and to connect the pilot to the ground staff
+for enroute communication with ground stations and warning
+
+What is the function of SATCOM?
+@@To communicate outside the aircraft
+To communicate outside and inside the aircraft
+To communicate inside the aircraft
+
+Given: MH = 80°, RB = 180°, MB=?
+@@260°
+100°
+360°
+
+Given: MH = 60°, RB = 160°, MB=?
+@@220°
+100°
+360°
+
+Which do components supply audio data to the Cockpit Voice Recorder (CVR)?
+@@RCAU or AMU
+ACP or RMP
+RMP or RTU
+
+How to protect RCAU against high intensity radio frequency (HIRF) lightning?
+@@Installation of a filter
+Installation of a motherboard
+Installation of an amplifier cards
+
+What the component does supply electric power to the boom/mask relays and bias voltages to the attendant handset and ground crew microphones?
+@@A motherboard
+A filter
+An amplifier cards
+
+How to change the analogue voltages into digital words?
+@@By the multiplexer in the analogue to digital converter
+By motherboard in the analogue to digital converter
+By audio card in the analogue to digital converter
+
+Which switch has a function similar to the INT/RAD switch on the ACP?
+@@The PTT switch on the yoke column or the side-stick control column
+The PA push button of cabin attendant hanset
+The service interphone push button
+
+What are main comunication functions of CIDS?
+@@Passenger Address, Cabin inter-phone, Service inter-phone, Crew signaling and alerting
+Passenger Address, Cabin inter-phone, Crew signaling and alerting
+Passenger Address, Service inter-phone, Crew signaling and alerting
+
+If PA all push button of cabin attendant handset is inoperative, how to rectify this defect?
+@@Replace cabin attendant handset
+Test CIDS
+Replace CIDS
+
+What is the function of PA?
+@@To do announcements from the cockpit or from a cabin crew station to the passengers
+To communicate between flight crew and flight attendant
+To do announcements from the cockpit to the passengers only
+
+What is the function of Passenger Address (PA)?
+@@It supplies one-way voice communication to do announcements from the cockpit or from a cabin crew station to the passengers
+It supplies two-way voice communication to do announcements from the cockpit or from a cabin crew station to the passengers
+It supplies one-way voice communication to do announcements from the cockpit to the passengers
+
+What is the function of service interphone?
+@@For communications between the service inter-phone jacks or between the service inter- phone jacks, the cockpit and the cabin crew stations
+For communications between the service inter-phone jacks only during maintenance
+For comunication between the service inter-phone jacks, the cockpit and the cabin crew stations
+
+The optional Emergency Crew Alerting System (ECAS) is used to:
+@@To indicate an unusual behavior in cabin or cockpit
+To indicate an unusual behavior in cabin only
+To indicate an unusual behavior in cockpit only
+
+What is the function of the optional "sterile cockpit" in Crew Signaling And Alerting system?
+@@To the cockpit crew inform the purser that they do not want to be disturbed
+To the purser inform the cockpit crew that all the cabin areas are ready for takeoff/landing
+lets the cockpit crew inform the purser that a dedicated cabin area is ready for takeoff/landing
+
+How to activate the function of Emergency Crew Alerting System (ECAS)?
+@@From the cabin by a P/B cabin alarm and from the cockpit via a P/B cockpit alarm
+From the cabin by a FAP and cockpit via CIDS automatically
+From the cabin by a FAP and from the cockpit via a P/B cockpit alarm
+
+How to inspect ELT before the 12 month due date?
+@@Perform an inspection for proper installation, battery corrosion, operation of the controls and crash sensor, and the presence of a sufficient signal at the antenna
+Perform an inspection for proper installation, battery power source, operation of the controls and crash sensor, and the presence of a sufficient signal at the antenna
+Perform an inspection for proper installation, battery corrosion, operation of the controls and crash sensor, an antenna corrosion
+
+Which type of ELT is often installed in the aircraft?
+@@The Automatic fixed ELT and the portable survival ELT
+The Automatic fixed ELT only
+The portable survival ELT
+
+How often must ELTs be inspected according to regulations?
+@@Every 12 months
+Every 6 months
+Every 18 months
+
+What is the minimum duration an ELT is required to transmit its distress signal?
+@@24 hours
+36 hours
+12 hours
+
+What is the operative principle of ELT?
+@@ELT has a sensor that automatically activates ELT when a collision or free fall exceeds a certain threshold, automatically sending out an emergency signal.
+ELT has a sensor that manually activates ELT in the case of the pilot press an emergency push button
+An ELT is an independent battery powered transmitter activated by contacting the seawater
+
+Which of the following is NOT a component of the COSPAS-SARSAT system?
+@@Air Traffic Control Centers (ATCs)
+Geostationary Satellites (GEOSATs)
+Low-Earth Orbiting Satellites (LEOSATs)
+
+Which of the following is NOT a typical method of ELT activation?
+@@Radio signal from air traffic control
+Manual activation by the pilot
+Water activation (for some models)
+
+Which of the following is NOT a component of the COSPAS-SARSAT system?
+@@Air Traffic Control Centers (ATCs)
+Geostationary Satellites (GEOSATs)
+Low-Earth Orbiting Satellites (LEOSATs)
+
+What is the minimum duration an ELT is required to transmit its distress signal?
+@@24 hours
+12 hours
+36 hours
+
+Which of the following is NOT a typical method of ELT activation?
+@@Radio signal from air traffic control
+Manual activation by the pilot
+Water activation (for some models)
+
+Where are CVR/FDR installed?
+@@The CVR/FDR are always located in the tail of the aircraft
+The CVR/FDR are located in the tail or middle of the aircraft
+The CVR/FDR are located in the APU compartment
+
+What color is black box?
+@@Orange
+Black
+Brown
+
+How long can a modern FDR typically store flight data?
+@@25 hours
+10 hours
+48 hours
+
+Which datas do the CVR record?
+@@Conversations of the flight crew as well as the ambient noises, like possible malfunctions in the aircraft
+Conversations of the flight crew as well as the engine data, air data, airspeed, altitude, engine power, fuel flow…
+The engine data, air data, airspeed, altitude, engine power, fuel flow…
+
+When does CVR/FDR record data?
+@@The CVR/FDR are switched on automatically as soon as one engine is running and it stops five minutes after the last engine is shut down.
+The CVR/FDR are switched on automatically as soon as two engine are running and it stops five minutes after the last engine is shut down.
+The CVR/FDR are switched on automatically as soon as one engine is running and it stops five minutes after the electric power is de-energized
+
+What is the function of ULB of CVR/FDR?
+@@It helps search teams locate the CVR or FDR when they are submerged underwater after an incident
+It has a memory unit to record data for CRV/FDR
+It is automatically triggered by the G-force sensing switch
+
+How to download data from CVR/FDR?
+@@By a readout device via the Ground Support Equipment (GSE) connector
+By a readout device via the Printed Wiring Assemblies (PWA) connector
+By a readout device via the Crash Survivable Memory Unit
+
+What is the purpose of the Underwater Locator Device (ULD) attached to the CVR/FDR?
+@@To emit an acoustic signal for locating the device underwater
+To protect the device from water damage
+To provide power to the device when submerged
+
+Which of the following is NOT a typical application of CVR/FDR data?
+@@Real-time monitoring of pilot performance during flights
+Developing more effective pilot training programs
+Improving air traffic management systems
+
+How long can a modern FDR typically store flight data?
+@@25 hours
+10 hours
+48 hours
+
+What is the purpose of the Underwater Locator Device (ULD) attached to the CVR/FDR?
+@@To emit an acoustic signal for locating the device underwater
+To protect the device from water damage
+To record underwater sounds
+
+Which of the following is NOT a typical application of CVR/FDR data?
+@@Real-time monitoring of pilot performance during flights
+Reconstructing the sequence of events in an accident
+Developing more effective pilot training programs
+
+How many signals a receiver on board an aircraft is received from a VOR transmitter?
+@@2
+3
+1
+
+To save spacem, the radio magnetic indicator combines:
+@@Indications from a magnetic compass, VOR, and ADF into one instrument
+Indications from a magnetic compass, VOR, and ADF, ILS into one instrument
+Indications from a magnetic compass, VOR, and ADF, DME into one instrument
+
+Which signal does the VOR procedure?
+@@A reference signal and a variable signal
+A reference signal and a heading signal
+A magnetic signal and a heading signal
+
+What are the popular VOR ground station?
+@@VORTAC, VOR, VOR-DME
+VORTAC, VOR
+VOR, VOR-DME
+
+Magnetic Bearing is:
+@@Magnetic Heading + Relative bearing
+Magnetic Heading - Relative bearing
+Relative bearing - Magnetic Heading
+
+What equipment are used for VOR based RNAV?
+@@VOR receiver, antenna, and VOR display equipment
+VOR receiver, and VOR display equipment
+VOR receiver, DME, and VOR display equipment
+
+What are the functions of receiver of VOR system in the aircraft?
+@@To decipher the phase difference and determine the aircraft’s position in degrees from the VOR ground based unit
+To decipher the phase difference and determine the altitude of the aircraft from the VOR ground based unit
+To decipher the phase difference and determine the vertical speed of the aircraft from the VOR ground based unit
+
+What is the function of the variable signal transmitted from VOR station?
+@@To determine the aircraft's bearing or radial from the VOR station.
+To determine the aircraft's attitude or position from the VOR station.
+To determine the aircraft's heading from the VOR station.
+
+The phase difference between the reference signal and the variable signal depend varies depending on:
+@@The aircraft's position in degrees from the VOR ground based unit
+The aircraft's altitude in degrees from the VOR ground based unit
+The aircraft's position in degrees from the magnetic pole
+
+When power is lost or or the VOR signal is weak or interrupted, what's happen?
+@@A NAV warning flag comes into view
+A VOR warning light comes into view
+A OBS warning light comes into view
+
+The operating principle of VOR radio (VHF Omnidirectional Range) is based on:
+@@Phase comparison of two signals: reference signal and variable Signal
+Reference signal and heading of the aircraft
+Variable Signal and heading of the aircraft
+
+What informations do ADF indicate?
+@@The relative or magnetic bearing to the station
+The magnetic bearing to the station
+The relative bearing to the station
+
+How to know the aircraft flight to or from the NDB?
+@@Based on the increase or decrease of the null signal
+Based on the phase of the null signal
+Based on the frequency of the null signal
+
+What is the function of instrument landing system is?
+@@It guides the aircraft to the runway while on an instrument landing approach
+It guides the aircraft for cruise and landing
+It guides the aircraft for cruise, approach and landing
+
+What equipment is used to provide horizontal guidance to the center line of the runway for landing?
+@@A localizer
+A glideslope
+A marker beacon
+
+What equipment is used to provide vertical guidance to the center line of the runway for landing?
+@@A glideslope
+A localizer
+A marker beacon
+
+What is the function of Marker beacons system?
+@@They transmit signals that indicate the position of the aircraft along the glidepath to the runway
+They receive signals that indicate the position of the aircraft along the glidepath to the runway
+They transmit signals that indicate the position of the aircraft along the glidepath to the takeoff
+
+What does RNAV mean?
+@@Is a general term used to describe the navigation from point A to point B without direct over flight of navigational aids
+Is a general term used to describe the navigation from point A to point B follwing navigational aids
+Is a general term used to describe the navigation from point A to point B follwing informantion of gyroscopes
+
+What instruments do FDS display?
+@@The flight director indicator (FDI), attitude director indicator (ADI), or electronic attitude director indicator (EADI)
+The flight director indicator (FDI), attitude director indicator (ADI)
+The attitude director indicator (ADI), or electronic attitude director indicator (EADI)
+
+What is the function of Distance measuring equipment?
+@@To calculate the distance from the aircraft to the DME unit at the VORTAC ground station and display it on the flight deck
+To calculate the distance from the aircraft to the ATC and display it on the flight deck
+To calculate the positon of the aircraft to the DME unit at the VORTAC ground station and display it on the flight deck
+
+The DME system consists of:
+@@An airborne DME transceiver, display, and antenna, as well as the ground based DME unit and its antenna
+An airborne DME transceiver, display, and antenna, as well as the ground based DME unit
+An airborne DME receiver, display, and antenna, as well as the ground based DME unit and its antenna
+
+What are advantages of RNAV over using navigational aids?
+@@The flight will be shorter and faster
+It calculates aircraft position more accurately
+It calculates aircraft attitude more accurately
+
+How to creat a waypoint by ground station?
+@@Using VORTAC or VOR/DME
+Using VOR
+Using VOR or ADF
+
+Which parameters are caculated by the RNAV computer for each way point?
+@@Heading, speed, and time readouts
+Heading, speed, altimeter and time readouts
+Heading, vertical speed, altimeter and time readouts
+
+The FMS consists of:
+@@Flight Management Computers (FMC) and Control Display Units (CDU)
+Flight Management Computers (FMC) and Fight Director Indicator (FDI)
+Flight Management Computers (FMC) and Attitude Director Indicator (ADI)
+
+What is purpose of FMS?
+@@To reduce the workload on the flight crew
+To guide the flight crew following the flight path
+To indicate the flight path for pilot
+
+What are advantages of FMS?
+@@On-time take-offs and landings, fuel conservation, reducing the workload on the flight crew and long engine and component life
+Reducing the workload on the flight crew and saving fuel
+Reducing the workload on the flight crew and long engine and component life
+
+Which does computer provide waypoints for EFIS?
+@@FMC
+FDC
+ADIRU
+
+How to control aircraft speed automatically?
+@@The FMC communicates with the Thrust Management System (TMS) to drives the auto- throttle
+The FMC communicates with Flight Control System (FCS or AFCAS) to drives control surface
+The FMC communicates with the Thrust Management System (TMS) to drives the auto-throttle and control surface
+
+Where are flight plans stored?
+@@FMS database
+FDS database
+ADIRU
+
+Before take-off, what datas do the pilot need to input on the CDU?
+@@The initial geographic location (latitude and longitude) and flight plans
+The latitude location and flight plans
+The longtitude location and flight plans
+
+Which of the following is NOT a main component of an FMS?
+@@In-Flight Catering System
+Automatic Flight Control System (AFCS)
+Aircraft Navigation System
+
+How does the FMS contribute to fuel efficiency?
+@@By optimizing the flight path and performing lean operations
+By limiting the number of passengers
+By reducing the weight of the aircraft
+
+Which of the following systems does the FMS typically integrate with?
+@@Navigation, weather, and traffic systems
+Exclusively the aircraft's entertainment system
+Only the aircraft's communication system
+
+What role does the FMS play in aircraft maintenance?
+@@It monitors inputs for faults and generates BITE information
+It performs physical repairs on the aircraft
+It schedules maintenance appointments
+
+How does the FMS adapt to changing flight conditions?
+@@It continuously optimizes the flight path based on variables like wind speed and direction
+It only adapts to changes in altitude, not other conditions
+It requires manual reprogramming by the pilot for any changes
+
+In terms of airline operations, how does the FMS contribute to profitability?
+@@By optimizing fuel usage, ensuring on-time performance, and contributing to equipment longevity
+By reducing the number of required crew members
+By allowing more passengers per flight
+
+What purposes do the FMC comunicates to the crew via CDU?
+@@To present its planned action, gain consensus, or ask for an input or decision
+To present its planned action or set up a flight plan
+To present its planned action, gain consensus or set up a flight plan
+
+Which segments GPS are include?
+@@A space system segment, a control system segment, and a user system segment
+A space system segment, a control system segment
+A control system segment, and a user system segment
+
+What parameters do the GPS provide?
+@@Position data, velocity rate, and system time to GPS receivers all around the world
+Position data, and system time to GPS receivers all around the world
+Position data, altimeter, and system time to GPS receivers all around the world
+
+How to the INS caculates into velocity and position of the aircraft?
+@@By measuring acceleration and angular rates, then mathematically integrates them
+By using data from FMS and GPS
+By using data from FDS and GPS
+
+How to provide error correction to the INS?
+@@By using an algorithm, known as a Kalman Filter
+By interface with the FMS and FDS
+By interface with the ATC
+
+In the modern aircraft, how to caculate the position of the aircraft?
+@@By INS-GPS integration Kalman Filter
+By ADRIU and FMS
+By ADRIU and VOR
+
+To determine the user's current position, GPS needs:
+@@At least three satellites
+At least four satellites
+At least two satellites
+
+To determine the elevation, GPS needs:
+@@At least four satellites
+At least three satellites
+At least two satellites
+
+What are the major elements of GLS?
+@@A global satellite constellation, a GBAS facility at each equipped airport, and avionics in each airplane
+A global satellite constellation, a GBAS facility at each equipped airport
+A global satellite constellation, a avionics in each airplane
+
+What is the purpose of a global satellite constellation of GLS?
+@@To supports worldwide navigation position fixing
+To provides local navigation satellite correction signals
+To process and provide guidance and control based on the satellite and GBAS signals
+
+What is the purpose of a GBAS facility at each equipped airport of GLS?
+@@To provides local navigation satellite correction signals
+To supports worldwide navigation position fixing
+To process and provide guidance and control based on the satellite and GBAS signals
+
+What is the purpose of an avionics in each airplane of GLS?
+@@To process and provide guidance and control based on the satellite and GBAS signals
+To supports worldwide navigation position fixing
+To provides local navigation satellite correction signals
+
+GPS is fault, which LRU you can test?
+@@MMR
+GPS computer
+ILS computer
+
+ILS is fault, which LRU you can test?
+@@MMR
+GPS computer
+ILS computer
+
+Where are GLS approach indicated?
+@@PDF
+ND
+ECAM
+
+Which type of data does CPDLC transmit?
+@@The text message
+The text message and voice signal
+The voice signal
+
+What informations do datalink system get from the FMC to send to ATC?
+@@Location, speed and altitude information about the aircraft
+Location, speed and attitude information about the aircraft
+Location, vertical speed and altitude information about the aircraft
+
+What are the advantages of MLS over ILS?
+@@MLS increases azimuth and elevation coverage, so the aircraft can choose its own approaches
+The MLS is easy for operation and maintenance
+MLS systems is used worldwide
+
+The MLS provides:
+@@Better runway utilization in comparison with the ILS
+Worse runway utilization in comparison with the ILS
+The same runway utilization as the ILS does
+
+The secondary system of MLS provides:
+@@Overshoot and departure guidance
+Back up for the azimuth station
+Back up for the DME
+
+What is the function of the MLS airborne equipment?
+@@To continuously display the position of the aircraft in relation to the preselected course and glide path along with distance information
+To continuously display the position of the aircraft in relation to the preselected course along with distance information
+To continuously display the position of the aircraft in relation to the glide path along with distance information
+
+Given: observed frequency = 1005 Hz, original frequency = 1000 Hz, θ = 0°, Ground speed of the aircraft = ?
+@@750 Km/h
+1500 Km/h
+1000 Km/h
+
+The amount of Doppler shift is directly proportional to:
+@@The aircraft velocity (groundspeed)
+The aircraft velocity (true air speed)
+The aircraft velocity (integrated speed)
+
+Given: observed frequency = 1010 Hz, original frequency = 1000 Hz, θ = 0°, Ground speed of the aircraft = ?
+@@15000 Km/h
+7500 Km/h
+10000 Km/h
+
+What does initializing of INS/IRS mean?
+@@An interface control head is used to enter starting location position data while the aircraft is stationary on the ground
+An interface control head is used to enter starting speed data while the aircraft is stationary on the ground
+An interface control head is used to enter starting ATA data while the aircraft is stationary on the ground
+
+What do elements need to caculate the position of the aircraft in INS?
+@@The accelerometers and the gyros
+The gyros only
+The accelerometers only
+
+The INS calculates latitude and longitude position and other nav data from:
+@@Initial position
+Direction in relation to the geographical North pole
+Ground speed
+
+What does the gyro do in the INS platform?
+@@Stabilizes the platform
+Calculates the resulting acceleration and determines the directional movement of aircraft
+Restores the pendulum to the null position
+
+What does the accelerometer do in the INS platform?
+@@Calculates the resulting acceleration and determines the directional movement of aircraft
+Restores the pendulum to the null position
+Stabilizes the platform
+
+What is the function of the CDU annunciators?
+@@Monitor the operation of the INS
+Enables the pilot to enter the data and operate the system
+Control the data shown on the monitor
+
+In the most modern aircraft, what does the system calculate the aircraft's position?
+@@IRS/GPS
+IRS/VOR/DME
+IRS/ADF
+
+The ACARS MU is controlled via:
+@@MCDUs
+DMU
+MCDUs and DMU
+
+The ACARS data is transmitted to the ground using:
+@@VHF communications radio, HF radio or satellite communications (SATCOM)
+VHF communications radio, HF radio
+HF radio or satellite communications (SATCOM)
+
+What type of message does the CFDIU send to the ACARS MU?
+@@Real time failure, warning in flight, Post flight report on ground
+Post flight report on ground
+Real time failure, warning in flight
+
+When does ACARS begins updating the dispatch office with a new estimated time of arrival?
+@@The aircraft comes out of cruise altitude
+The aircraft touches dowm
+The aircraft flights cruise
+
+On touchdown, What does the ACARS system do?
+@@The ACARS report is automatically sent to dispatch and the next crew heads for the gate
+The ACARS report is manually sent to dispatch by pilot and the next crew heads for the gate
+The ACARS report is automatically sent to printer
+
+When the plane comes to a final stop, What does the ACARS system do?
+@@The entire report is sent to a printer
+The ACARS report is automatically sent to dispatch and the next crew heads for the gate
+The ACARS begins updating the dispatch office with a new estimated time of arrival
+
+What data inputs do the ACARS use to determine the OOOI times:
+@@The landing gear doors, parking brake and weight-on-wheels sensors
+The landing gear doors, radio meter and weight-on-wheels sensors
+The passenger doors, parking brake and weight-on-wheels sensors
+
+Why electrical bonding is used to connect the avionics equipment to the aircraft structure?
+@@Because shock mounts are usually electrical insulators
+To against in-flight vibration and landing shock
+To fix the avionic equipment to the structure of the aircraft
+
+What are the functions of shock mounted equipment?
+@@To against in-flight vibration and landing shock
+To against landing shock
+To fix the avionic equipment to the structure of the aircraft
+
+How to cool the avionics equipment?
+@@The air-conditioned air over the avionics compartment to keep them cool
+By skin of the aircraft
+By bleed system
+
+Which types of radar are used by ATC?
+@@The primary radar (PSR) and secondary surveillance radar (SSR)
+The primary radar (PSR)
+The secondary surveillance radar (SSR)
+
+What are the primary functions of ATC transponders?
+@@It provides Air Traffic Control (ATC) with identification and location of an aircraft on the radar screens
+It provides Air Traffic Control (ATC) with identification, altidute and location of an aircraft on the radar screens
+It provides Air Traffic Control (ATC) with identification, attidute and location of an aircraft on the radar screens
+
+What frequency does the ground station use to transmit a pulse to the transponder?
+@@1030 MHz
+1090 MHz
+1010 MHz
+
+How does the transponder highlight the aircraft's target symbol on the radar screen?
+@@By pressing the IDENT button on the transponder
+By switching to Mode C
+By selecting a new octal code
+
+What is the purpose of placing the transponder control in the ALT or Mode C position?
+@@To transmit the pressure altitude of the aircraft to ATC
+To indicate the pressure altitude of the aircraft on PFD
+To control the aircraft's altitude automatically
+
+How does the transponder obtain the pressure altitude of the aircraft?
+@@From an altitude encoder electrically connected to the transponder
+From the ATC radar system
+From the aicraft's navigation system
+
+What prameters do the primary surveillance radar determine?
+@@Direction and distance of the aircraft from the transmitter
+Direction and position of the aircraft from the transmitter
+Direction and heading of the aircraft from the transmitter
+
+What type of radio waves does the primary radar (PSR) transmit?
+@@UHF and SHF radio waves
+VHF and HF radio waves
+LF and MF radio waves
+
+What is the purpose of the plan position indicator on the radar screen?
+@@To display the aircraft's direction and distance from tower
+To show the aircraft's altitude and speed
+To provide the aircraft's identification code
+
+How does the primary radar determine the distance of an aircraft from the transmitter?
+@@By calculating the time taken for reflected radio waves to return to the ground antenna
+By calculating the time from when radio waves are transmitted until they are received.
+By using the aircraft’s transponder transmission and reception signals
+
+What is the primary function of a secondary surveillance radar (SSR)?
+@@To add the third dimension of altitude to radar tracking
+To replace primary radar in detecting aircarft
+To transmit weather information to aircraft
+
+What is the pulse spacing for Mode A interrogation in SSR?
+@@8 microseconds
+21 microseconds
+2 microseconds
+
+What is the purpose of the third pulse (P2) transmitted by the SSR ground station?
+@@To prevent the transponder from replying to side lobe transmissions
+To activate the IDENT switch in the transponder
+To encode altitude information
+
+What happens when the IDENT switch is activated by the pilot?
+@@An Identification Pulse (IP) is transmitted for 18 seconds
+The transponder switches to Mode C automatically
+The transponder stops replying to SSR interrogations
+
+What is a key feature of the Mode S transponder?
+@@Bi-directional data link for air-air and ground-air communication
+Automatic altitude adjustment for aicraft
+Real-time weather updates for pilots
+
+How does Mode S ensure each aircraft has a unique identity code?
+@@By pre-assigning a unique identify code to each aircraft
+By allowing pilots to manually select a unique code
+By using the aircraft’s registration number as the code
+
+What additional function does Mode S provide when interfaced with TCAS?
+@@Airborne separation system for collision avoidance
+Distance between the aircraft and ground station
+Aircraft altitude and attitude information.
+
+How does Mode S reduce controller workload in ATC operations?
+@@By interrogating one aircraft at a time
+By automatically adjusting aicraft altitude
+By providing real-time weather data
+
+What is the advantage of mono-pulse in Mode S transponder replies?
+@@It calculates the aircraft's position using the phase of the reply
+It eliminates the need for SSR interrogation
+It provides real-time altitude adjustments
+
+Why is transponder testing a critical concern for aviators?
+@@Because a malfunction could report incorrect altitude information
+Because transponders require daily maintenance checks
+Because trsnponders are only used during emergencies
+
+How often is transponder testing typically required?
+@@Every 24 months
+Every 12 months
+Every 36 months
+
+What is included in the functionality testing for Mode C equipped aircraft?
+@@Correct operation of the Mode A code and altitude reporting
+Mode S 24-Bit aircraft address and magetic heading
+Elementary surveilance and enhanced surveilance parameter
+
+Which of the following is a Mode S Elementary Surveillance parameter?
+@@Aircraft Identification
+Magnetic Heading
+True Track Angle
+
+What additional parameter is tested in Mode S Enhanced Surveillance?
+@@Selected Altitude and barometric pressure setting
+Correct operation of the Mode A code
+Altitude reporting from ground to the ceiling
+
+How to test ATC mode A?
+@@Contact the local ATC Unit and advise them of your intention to conduct transponder testing, the start time and test duration, the altitude at which you will be testing, the aircraft identification, and Mode A code
+Contact the local ATC Unit and advise them of your intention to conduct transponder testing, the start time and test duration, the altitude of the aircarft
+Contact the local ATC Unit and advise them of your intention to conduct transponder testing, the start time and test duration, the altitude at which you will be testing, the aircraft identification
+
+What parameters do ATC mode C correctly function test?
+@@Correct operation of the Mode A code and altitude reporting including the check of the altitude sensor from ground to the ceiling of the aircraft
+Altitude reporting including the check of the altitude sensor from ground to the ceiling of the aircraft and capability report
+Altitude reporting including the check of the altitude sensor from ground to the ceiling of the aircraft and flight status
+
+What parameters do ATC mode S correctly function test?
+@@The Mode S 24-Bit aircraft address, Altitude reporting, Mode S Elementary Surveillance & Downlink Parameters and Mode S Enhanced Surveillance & Downlink Aircraft Parameters
+The Mode S 24-Bit aircraft address, Altitude reporting, Mode S Elementary Surveillance & Downlink Parameters
+Altitude reporting, Mode S Elementary Surveillance & Downlink Parameters and Mode S Enhanced Surveillance & Downlink Aircraft Parameters
+
+What is the first step before starting any transponder test?
+@@Set the Mode A code to 7776
+Contact the local Air Traffic Control Unit and provide test details
+Ensure the transponder is set to 'Altitude' mode
+
+What Mode A code is typically used during transponder testing?
+@@7776
+1200
+0000
+
+What precaution should be taken when testing altitude parameters (Mode C or S)?
+@@Radiate directly into the ramp test set via the prescribed attenuator
+Set the transponder to 'OFF' mode during altitude testing
+Perform the test without contacting ATC
+
+What altitude should be set when testing transponder parameters other than 'altitude'?
+@@1000 feet or over 60000 feet
+5000 feet or under 10000 feet
+2000 feet or over 70000 feet
+
+What is a blind encoder?
+@@An encoder mounted out of sight on an avionics rack or other out of the way place
+An encoder built indo the altimeter used in the panel
+An encoder that uses micro transistors and is completely solid state
+
+How many altitude codes are available for increments of 100 feet between 1200 feet MSL and 126700 feet MSL?
+@@1280 codes
+4096 codes
+256 codes
+
+What happens when the transponder selector is set to ALT?
+@@The transponder sends a digital representation of the aircraft's pressure altitude
+The transponder sends a digital representation of the aircraft's location
+The transponder deactivated all codes and stops responding to SSR interrogation
+
+What type of altitude encoder does not require a static port connection?
+@@Solid-state encoders using micro transistors
+Encoders with internal aneroids
+Blind encoders mounted on avionics racks
+
+What causes the encoder to become active during Mode C or S interrogation?
+@@The deactivates the 4096 location codes
+The activates the 4096 location codes
+The transponder selector being set to OFF
+
+What is the typical altitude increment reported by an altitude encoder?
+@@100 feet
+50 feet
+500 feet
+
+What is the purpose of the 1280 altitude codes in Mode C or S interrogation?
+@@To represent the aircraft's pressure altitude
+To represent the aircraft's location
+To deactivate the transponder during interrogation
+
+When a transponder selector is set on ALT, What information does the secondary surveillance radar receive?
+@@The pressure altitude of the aircraft
+The radio altitude of the aircraft
+The attitude of the aircraft
+
+What are the segments of ADS-B?
+@@ADS-B OUT and ADS-B IN
+ADS-B OUT, ADS-B IN and ground station
+ADS-B OUT, ADS-B IN and GPS
+
+What is the function of ADS-B?
+@@It is a collision avoidance system, and part of air traffic management, increasing safety, reducing fuel costs, and improving overall flight efficiency
+To provides local navigation satellite correction signals
+To process and provide guidance and control based on the satellite and GBAS signals
+
+What are advantages of ADS-B over conventional ground-based radar?
+@@The entire airspace can be covered with a much lower expense and ADS-B provides more accurate information
+The entire airspace can be covered with a much lower expense and ADS-B provides a lot of information
+The entire airspace can be covered with a much lower expense
+
+What is the function of ADS-B OUT?
+@@ADS-B OUT combines the positioning information available, i.e. location including altitude, velocity, and time. It then broadcasts this information to other ADS-B equipped aircraft and ground stations
+To process and provide guidance and control based on the satellite and GBAS signals
+To provides local navigation satellite correction signals
+
+Where is ADS-B information displayed?
+@@ND
+MCDU
+ECAM
+
+How to test ADS-B system?
+@@Using ADS-B test units
+Via MCDU
+Reset at ADS-B receiver
+
+Which of the following is a transmission frequency used by ADS-B?
+@@1090 ES MHz
+1030 MHz
+1030 MHz
+
+What is the frequency used by general aviation aircraft for ADS-B?
+@@978 MHz UAT
+1090 MHz UHF
+1030 MHz VHF
+
+What additional component is required for ADS-B OUT installation?
+@@Omni-directional antenna
+High-gain vertical blade antenna
+Directional ATC scanner array
+
+How does ADS-B compare to traditional ground-based radar in terms of cost?
+@@Requires lower implementation costs
+Requires expensive radar upgrades
+Involves similar infrastructure cost
+
+What does TIS-B (Traffic information services-broadcast) provide to an ADS-B IN equipped aircraft?
+@@Traffic information from non-ADS-B aircraft
+Transmission of satellite broadcasts
+Weather updates from satellite feed
+
+What service does FIS-B (Flight information services-broadcast) provide?
+@@Flight weather and NOTAM updates
+Air Traffic Visualizations and Charts
+Fuel Monitoring and Engine Logs
+
+What technology enables ADS-B to reduce the impact of weather on surveillance?
+@@Ultra-high frequency GPS signals
+Low-band analog transmission links
+Radar-based ground reflectors
+
+Which system does ADS-B IN enhance beyond the capabilities of?
+@@Traffic Collision Avoidance System
+Flight Data Recorder System
+Ground Proximity Warning System
+
+What role do inexpensive ground stations play in ADS-B implementation?
+@@Share traffic data with ATC network
+Process encrypted airspeed signals
+Transmit voice to cockpit directly
+
+What are two categories of Avionics test equipment?
+@@Shop test equipment and portable test equipment
+Shop test equipment and onboard test equipment
+Onboard test equipment and portable test equipment
+
+Why is a modular "remove and replace" approach commonly used in avionics maintenance?
+@@It simplifies and speeds up fault resolution
+It reduces the cost of purchasing test equipment
+It prevents all types of aircraft malfunctions
+
+Why might a suspected avionics unit pass a bench test but still fail when installed?
+@@It may only malfunction when integrated in the aircraft system
+It requires higher voltage when installed
+It was not manufactured according to specifications
+
+What is a key advantage of using portable avionics test equipment?
+@@It allows testing of a unit while installed in the aircraft
+It eliminates the need for any shop-based testing
+It replaces the need for technician training
+
+What are the two main categories of avionics test equipment based on function?
+@@Generators and analyzers
+Simulators and recorders
+omputers and multiplexers
+
+Which of the following is considered a type of analyzer?
+@@Digital multimeter
+Frequency modulator
+Signal amplifier
+
+Which type of test equipment provides a known input signal to the unit being tested?
+@@A generator to stimulate the unit
+An analyzer for fault isolation
+A recorder to log data
+
+The common multimeter is one type of:
+@@Analyzer
+Generator
+Processor
+
+The aircraft electronics are part of an integrated system connected via:
+@@A data bus
+An ethernet bus
+An analog bus
+
+The technicians use a wide variety of avionics testing equipment to:
+@@Investigate, test and repair the aircraft’s electronic units and systems
+Analyze the faults on the aircraft avionic system and component
+Test the the aircraft’s electronic units and systems before install on aircraft
+
+Portable avionic test equipment allows the technician:
+@@To test the suspected unit while it is installed
+To test the suspected unit before removed
+To test the suspected unit in shop
+
+The analyzer type of test equipment is used to:
+@@Determine whether the output of the unit is within design tolerances
+Determine whether the input of the unit is within design tolerances
+Determine whether the unit is within design tolerances
+
+Which type of of test equipment often have interaction with the unit being tested and release the test signal after conditions are met?
+@@Generators
+Analyzers
+Multimeters
+
+The modern digital multimeters include expanded capabilities to measure:
+@@Frequency, capacitance and temperature
+Impedance, capacitance and temperature
+Frequency, capacitance and pressure
+
+What are the technician should be aware when utilizing test equipment on both energized and de-energized avionics?
+@@The dangers of high voltage and electrocution
+The dangers of high current and electrocution
+The dangers of high current and voltage
+
+The oscilloscope measures variations of a parameter as:
+@@A function of time and displays them graphically on a screen
+A function of frequency and displays them graphically on a screen
+A function of time and displays them digitally on a screen
+
+The oscilloscope are primarily used:
+@@In bench testing of equipment
+On the actual aircraft
+For test aircraft computer
+
+What does oscilloscope measure?
+@@Voltage and other parameters obtained by processing the voltage signal
+Current and other parameters obtained by processing the current signal
+Resistance and other parameters obtained by processing the resistance signal
+
+Since oscilloscopes include the time domain, they are useful in indicating rapid variations such as:
+@@AC voltages, pulses, spikes and complex waveforms
+AC voltages, currents, frequencies and complex waveforms
+AC currents, spikes and complex waveforms
+
+The TDR is often used to check for standing waves in:
+@@Transmission lines
+Reception lines
+Feedback lines
+
+Which condition will appear on the graticule as a dip due to added impedance?
+@@A pinch condition
+A frayed condition
+Pinched and frayed
+
+The pinched and frayed conditions are often found as:
+@@A partial open or partial short
+A total open or total short
+A discontinuity
+
+The pinched and frayed conditions and will appear on the graticule as:
+@@Minor dips or rises in the trace signal
+Major dips or rises in the trace signal
+Minor dips or decrease in the trace signal
+
+What does a standing wave indication on a TDR trace usually suggest?
+@@An open or short in the line
+Presence of excessive power
+Signal properly terminated
+
+How is the location of a cable fault determined using a TDR?
+@@By reading the graticule scale
+By measuring reflected voltage
+By checking the fuse rating
+
+What kind of trace movement typically indicates a frayed cable on a TDR?
+@@Trace gradually drifting upward
+Trace spikes moving down sharply
+Flat-line trace with no movement
+
+What are the advantage of SSTDR technology for the technician?
+@@Ease of use, greater precision and portability
+Light weight, greater precision and portability
+Low cost, greater precision and portability
+
+The SSTDR performs:
+@@The same function as the TDR
+More function than the TDR
+Less function than the TDR
+
+The SSTDR provides:
+@@The same information as the TDR
+More information than the TDR
+Less information than the TDR
+
+Which circuits SSTDR do not interfere with?
+@@Digital circuits and the aircraft circuits do not affect the diagnostic equipment readings
+Analog circuits and the aircraft circuits which affect the diagnostic equipment readings
+All aircraft circuits which affect the diagnostic equipment readings
+
+The SSTDR are found as small as a digital multimeter and:
+@@Directly state whether the circuit is in an open or shorted state
+Indirectly state whether the circuit is in an open or shorted state
+Directly state whether the circuit is in a closed state
+
+The SSTDR indicates:
+@@How far down a transmission line is in feet or meters
+How strong signal in a transmission line
+How far down a reception line is in feet or meters
+
+What is a primary advantage of using SSTDR over traditional TDR?
+@@It offers greater precision and ease of use
+It requires no technician training
+It replaces the need for multimeters
+
+What does the SSTDR specifically avoid interfering with?
+@@Digital electronic circuits
+Coaxial cable insulation
+Aircraft electrical circuits
+
+What is a notable characteristic of SSTDR tools in terms of design?
+@@They are as small as a multimeter
+They require a large bench setup
+They must be used with external cooling
+
+How does SSTDR help technicians in locating faults in a circuit?
+@@By showing fault distance in feet or meters
+By suggesting repair techniques
+By identifying exact cable type
+
+What does the IFR 4000 tests?
+@@VHF NAV/ COM radio bands
+VHF COM radio bands
+VHF Radio NAV bands
+
+What is typically true about test equipment designed for a specific avionics unit?
+@@It helps make testing and troubleshooting easier
+It increases error rates in diagnostics
+It complicates basic troubleshooting tasks
+
+What should always be followed when using specialized avionics testing devices?
+@@Manufacturer’s specific instructions
+Technicians' personal preferences
+Generic aircraft wiring diagrams
+
+Which test equipment is commonly used for checking VHF NAV/COM radios?
+@@IFR 4000 Communication Tester
+TDR 3000 Diagnostic Unit
+ADS-B Portable Analyzer
+
+How does the ATE (Automatic Test Equipment) communicate with the unit being tested?
+@@Using a Test Unit Adapter
+Through a standard coaxial connector
+By wireless signal routing modules
+
+What is the primary function of VXI in avionics testing systems?
+@@Expansion of VME for instrumentation use
+Replacement for multimeter readings
+Conversion of analog signals to digital format
+
+What is an advantage of using VXI instruments in avionics testing?
+@@High-speed bus and compact modular design
+Larger package size for more power
+Slower data transmission for stability
+
+What does the term VXI refer to in avionics testing systems?
+@@A bus extension for instrumentation
+A system for remote sensor linking
+A voltage interface for display panels
+
+The VXI packages are usually
+@@Smaller than standard instrument packages
+Lager than standard instrument packages
+Equal standard instrument packages
+
+The VXI packages compare with standard instrument packages:
+@@Are usually smaller than and are interconnected with a high-speed bus
+Are usually larger than and are interconnected with a high-speed bus
+Are usually smaller than and are interconnected with a low-speed bus
+
+When does the VXI can operate?
+@@When they are plugged into the system and the control computer is plugged in as well
+When they are connected the system with the control computer
+When they are installed on the aircraft and the control computer is unplugged as well
+
+The Data bus analyzers are used to:
+@@Trouble shoot digital systems
+Detect failure of digital systems
+Communication in digital systems
+
+When using a data bus analyzer you must
+@@Follow the manufacturer’s instruction
+Follow the maintenance manual
+Plug into a removed LRU
+
+Which type of data bus standard that the analyzer must be compatible with?
+@@The type being used by the aircraft components
+The ARINC 429 data bus
+The ARINC 629 data bus
+
+What location the data bus analyzer typically plugs into so that incoming signals to the LRU can be evaluated?
+@@The location where an LRU is removed
+The plug of removed LRU
+A connector plug installed in cockpit
+
+How does a data bus analyzer evaluate system interfaces?
+@@By sending signals and checking for response
+By receiving signals from interface systems
+By analyzing signals from CMS (Central Maintenance System)
+
+What should a technician do when using a data bus analyzer?
+@@Follow the manufacturer’s operating instructions
+Modify the aircraft’s data bus protocol to match the analyzer
+Connect the analyzer to any available port without concern for compatibility
+
+What factor affects the calibration interval of avionics test equipment?
+@@Type, environment, and usage conditions
+Type, environment, and quality of test equipment
+Frequency of use and accuracy requirement
+
+Who is responsible for ensuring the correct test equipment is used?
+@@The technician performing the task
+The tool manufacturer’s service team
+The tool and equipment keeper
+
+What procedure should be followed if a data bus analyzer is not listed in the aircraft maintenance manual, but it meets all specified technical requirements?
+@@Coordinate with the aircraft manufacturer for approval
+Obtain written approval from the equipment supplier
+Obtain written approval from the local authority
+
+The calibration intervals for test equipment varies with:
+@@The type of equipment, environment, and use
+The manufacturer’s recommendation
+The Calibration Standards
+
+The accepted industry practice for calibration intervals is:
+@@Usually one year
+Usually one month
+Usually one time
+
+Who are the best authorities of what testing equipment can be used?
+@@The manufacturer of the equipment under test or the aircraft manufacturer
+The manufacturer of the equipment under test or the local authority
+The manufacturer of the avionic system equipment or the aircraft manufacturer
+
+Test equipment calibration standards must be derived from and traceable to:
+@@The National Institute of Standards and Technology
+The International Institute of Standards and Technology
+The International Institute of Standards and Measurement
+
+Test equipment calibration standards must be derived from and traceable to:
+@@Standards established by the test equipment manufacturer
+Standards established by the aircraft manufacturer
+Standards established by the aircraft component manufacturer
+
+For a description of avionics test equipment used for troubleshooting, you refer to:
+@@The equipment or aircraft manufacturer's instruction manual
+The test  equipment manufacturer's instruction manual
+The aircraft manufacturer's instruction manual
+
+Considerations for acceptance of the calibration intervals include:
+@@The manufacturer’s recommendation for the type of equipment and the repair facility’s past calibration history if applicable
+The aircraft manufacturer’s recommendation and the repair facility’s past calibration history if applicable
+The aircraft component manufacturer’s recommendation and the repair facility’s past calibration history
+
+If a manufacturer's manual does not describe a particular test procedure, the repair facility must:
+@@Coordinate with the manufacturer to develop an acceptable procedure prior to the use of the equipment
+Contact with the manufacturer to issue a new procedure prior to the use of the equipment
+Coordinate with the aircraft manufacturer to develop an acceptable procedure prior to the repair of the equipment
+
+When is an engineer required to carry out a full operational check of an avionics unit?
+@@After a repair or replacement of a particular avionics unit has been made
+Only when the unit is installed for the first time on a new aircraft
+Whenever the aircraft is scheduled for a routine maintenance inspection
+
+Who shares the responsibility with the pilot in ensuring that avionics equipment is functioning correctly after maintenance?
+@@The certifying engineer who performed or released the maintenance work
+The ground crew supervisor who scheduled the maintenance task
+The manufacturer who provided the equipment documentation

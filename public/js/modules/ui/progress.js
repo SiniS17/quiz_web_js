@@ -42,12 +42,10 @@ export function setupResultsContainer(questionCount) {
     roundBox.onclick = () => scrollToQuestion(i);
     resultsContainer.appendChild(roundBox);
 
-    // Mark as invalid if question is invalid after render
     setTimeout(() => {
       const questionDiv = document.querySelector(`#question-${i}`);
       if (questionDiv && isInvalidQuestion(questionDiv)) {
         roundBox.classList.remove('unanswered');
-        // Violet invalid gets a different progress box colour
         if (questionDiv.classList.contains('question-invalid-violet')) {
           roundBox.classList.add('invalid-violet');
         } else {
@@ -74,11 +72,28 @@ function createResultsButtons(container) {
     flex-wrap: wrap;
   `;
 
+  // Submit button
   const submitBtn = document.createElement('button');
-  submitBtn.className = 'primary-btn';
+  submitBtn.className = 'primary-btn submit-btn';
   submitBtn.innerHTML = '<i class="fas fa-check"></i> Submit';
   submitBtn.onclick = () => {
     import('../scoring.js').then(module => module.calculateScore());
+  };
+
+  // Feature 2: Results button (hidden until after submission)
+  const resultsBtn = document.createElement('button');
+  resultsBtn.className = 'primary-btn results-btn';
+  resultsBtn.innerHTML = '<i class="fas fa-trophy"></i> Results';
+  resultsBtn.style.display = 'none';
+  resultsBtn.onclick = () => {
+    // Re-show the floating score display
+    const scoreDisplay = document.getElementById('floating-score-display');
+    if (scoreDisplay) {
+      scoreDisplay.classList.add('show');
+    } else {
+      // If closed, recalculate (shouldn't happen normally but just in case)
+      import('../scoring.js').then(module => module.calculateScore());
+    }
   };
 
   const tryAgainBtn = document.createElement('button');
@@ -104,9 +119,27 @@ function createResultsButtons(container) {
   };
 
   buttonsContainer.appendChild(submitBtn);
+  buttonsContainer.appendChild(resultsBtn);
   buttonsContainer.appendChild(tryAgainBtn);
   buttonsContainer.appendChild(homeBtn);
   container.appendChild(buttonsContainer);
+}
+
+/**
+ * Feature 2: Hide submit, show results button after submission
+ */
+export function hideSubmitButton() {
+  const submitBtn = document.querySelector('#results-container .submit-btn');
+  if (submitBtn) {
+    submitBtn.style.display = 'none';
+  }
+}
+
+export function showResultsButton() {
+  const resultsBtn = document.querySelector('#results-container .results-btn');
+  if (resultsBtn) {
+    resultsBtn.style.display = 'flex';
+  }
 }
 
 /**
@@ -172,14 +205,4 @@ export function resetProgressBoxes() {
       box.className = 'round-box unanswered';
     }
   });
-}
-
-/**
- * Hide submit button (after submission)
- */
-export function hideSubmitButton() {
-  const submitBtn = document.querySelector('#results-container .primary-btn');
-  if (submitBtn && submitBtn.textContent.includes('Submit')) {
-    submitBtn.style.display = 'none';
-  }
 }
