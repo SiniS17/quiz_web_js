@@ -69,8 +69,12 @@ function shouldShowViolation(violationType) {
 export function createQuestionElement(questionText, index) {
   const validation = validateQuestionBlock(questionText);
 
+  // Opt-out files (ending in ' (-).txt') suppress all validation display
+  const fileName = getQuizState().fileName || '';
+  const isOptOutFile = fileName.endsWith(' (-).txt');
+
   // Decide whether to visually mark this question as invalid
-  const markInvalid = !validation.valid && shouldShowViolation(validation.violationType);
+  const markInvalid = !isOptOutFile && !validation.valid && shouldShowViolation(validation.violationType);
 
   const lines       = questionText.split('\n');
   const questionTitle = lines[0];
