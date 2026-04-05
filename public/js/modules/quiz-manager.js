@@ -95,32 +95,6 @@ export function parseQuestionRange(value, totalQuestions) {
 }
 
 /**
- * Select questions based on shuffle mode and range input
- */
-function selectQuestions(filtered, quizState) {
-  const isShuffleMode = quizState.isShuffleMode !== false; // default true
-
-  if (isShuffleMode) {
-    const shuffled = shuffle(filtered);
-    const count = getGlobalSelectedCount();
-    return shuffled.slice(0, count);
-  } else {
-    // Non-shuffle: use range from question count input
-    const rangeInput = document.getElementById('question-count');
-    const rawValue = rangeInput ? rangeInput.value : String(getGlobalSelectedCount());
-    const range = parseQuestionRange(rawValue, filtered.length);
-
-    if (range) {
-      // slice is 0-indexed, range.start/end are 1-indexed
-      return filtered.slice(range.start - 1, range.end);
-    } else {
-      // fallback: use count
-      return filtered.slice(0, getGlobalSelectedCount());
-    }
-  }
-}
-
-/**
  * Display questions in the quiz container
  */
 export function displayQuestions(allQuestions) {
@@ -149,23 +123,27 @@ export function displayQuestions(allQuestions) {
 
   const quizState = getQuizState();
   const isShuffleMode = quizState.isShuffleMode !== false;
+  const count = getGlobalSelectedCount();
 
-  let ordered;
+  // Shuffle once and use the same ordering everywhere so that
+  // originalQuestionOrder and the displayed questions are always in sync.
+  const ordered = isShuffleMode ? shuffle(filtered) : filtered;
+
+  let selectedQuestions;
   if (isShuffleMode) {
-    ordered = shuffle(filtered);
+    selectedQuestions = ordered.slice(0, count);
   } else {
-    ordered = filtered; // preserve original order
+    const rangeInput = document.getElementById('question-count');
+    const rawValue   = rangeInput ? rangeInput.value : String(count);
+    const range      = parseQuestionRange(rawValue, filtered.length);
+    selectedQuestions = range
+      ? filtered.slice(range.start - 1, range.end)
+      : ordered.slice(0, count);
   }
 
   updateQuizState({
     originalQuestionOrder: ordered,
-    bankInfo: ordered.map(q => q.bank || null)
-  });
-
-  const selectedQuestions = selectQuestions(filtered, quizState);
-
-  updateQuizState({
-    bankInfo: selectedQuestions.map(q => q.bank || null)
+    bankInfo: selectedQuestions.map(q => q.bank || null),
   });
 
   showLoading();
