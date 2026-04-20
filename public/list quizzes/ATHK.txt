@@ -156,6 +156,7 @@ Xe nạp nhiên liệu, xe thang, xe chở khách, xe nâng hàng, xe khởi đ�
 Trước khi đẩy máy bay ra khỏi bến đậu, người lái xe kéo đẩy máy bay phải thông báo cho ai?
 Thợ máy hoặc thành viên của tổ bay đang ngồi trên buồng lái.
 @@Đội chỉ huy máy bay lăn
+Không phải thông báo cho ai. Chỉ quan sát cẩn thận trước khi đẩy
 
 Khoảng cách an toàn tối thiểu phía trước một máy bay đang lăn là:
 125m.
