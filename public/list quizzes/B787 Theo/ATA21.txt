@@ -20,8 +20,8 @@ c) Either of the above
 
 Boeing mmel permits dispatch with a lower recirculation fan inoperative provided:
 a) Fan is deactivated and air conditioning packs operate normally.
-b) Fan is deactivated and air conditioning packs operate normally and at least 3 cabin air compressors operate normally.
-@@c) Fan is deactivated and air conditioning packs operate normally and at least 2 cabin air compressors operate normally.
+@@b) Fan is deactivated and air conditioning packs operate normally and at least 3 cabin air compressors operate normally.
+c) Fan is deactivated and air conditioning packs operate normally and at least 2 cabin air compressors operate normally.
 
 Compact mixer:
 a) Receives trim air from the trim air pressure regulator valve.
@@ -99,9 +99,9 @@ b) The control switches in the flight deck.
 c) The control switches in the galleys.
 
 Galleys are cooled by ICS:
-a) GCUs
+@@a) GCUs
 b) PECS
-@@c) SCUS
+c) SCUS
 
 How does the channel of a PCU operate?
 a) Both channel operates at a time
@@ -327,3 +327,452 @@ Purpose of Deflector Door?
 a) Supply air in to the CAC
 @@b) Prevent FOD
 c) Protect Ram fan
+Supply conditioned air to the airplane with a Ground air source:
+@@a) Make sure that there is an exit for conditioned air in the airplane fuselage, lower recirculation fans and packs are off.
+b) Make sure the FWD and AFT outflow valves are open and at least one passengers entry door is open.
+c) Make sure that the lower recirculation fans to OFF and the cooling packs are off.
+
+Temperature display of OFAR shows:
+@@a) Current ambient air temperature in degrees F or C. It changes the display from fahrenheit to celsius
+b) Current ambient air temperature in degrees C (celsius).
+c) Current ambient air temperature in degrees F (fahrenheit).
+
+The air cycle machine bypass valve (ABV) opens to:
+a) Control the temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (34oF).
+b) Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+@@c) Bypass the ACM if the ACM fails.
+
+The Alternate Ventilation System (AVS) automatically operation:
+a) Both outflow valves fail.
+@@b) Both packs fail.
+c) Engine start (MES)
+
+The boeing mmel permits dispatch with two cac inlet deflector doors inoperative provided:
+@@a) Door is deactivated in retracted position.
+b) Door is deactivated in partially deployed (preposition) position.
+c) Door is deactivated in fully deployed position.
+
+The CAC secondary (back up) surge margin control is:
+a) The CMSCs.
+b) The variable diffuser actuators (VDA)
+@@c) The Add Heat Valve (AHV).
+
+The ccs controls the electrical power to the heater for these conditions:
+@@a) heater power is on normally for ambient temperature less than 45oF and heater power is off when on ground and ambient temperature more than 55oF.
+b) Heater power is on normally for ambient temperature less than 40oF.
+c) Heater power is on normally for ambient temperature less than 45oF and heater power is off when on ground and ambient temperature more than 50oF.
+
+The economy cooling valve (ECV) opens at high altitude to:
+@@a) Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+b) Bypass the ACM if the ACM fails.
+c) The temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (340F).
+
+The Economy Cooling Valve opens at high altitude to:
+@@a) Decrease the power needs
+b) Increase pack outlet temperature
+c) Let air flow thru condenser
+
+The ECV goes to full closed for one of these conditions:
+a) Airplane altitude is more than 29,000 feet
+@@b) The 2 secondary heat exchanger outlet temperature sensors fail
+c) The ACM speed is less than 6000 rpm for 10 seconds
+
+The flight attendants can set the target temperature more than or less than the master temperature:
+a) ± 50C.
+@@b) ± 30C.
+c) ± 70C.
+
+The inlet air to the ofar supply sov comes from these devices, which is the sequence:
+a) In-line heater to humidifier and then to temperature sensor.
+b) Temperature sensor to in-line heater and then to humidifier.
+@@c) In-line heater to temperature sensor and then to humidifier.
+
+The L/R PECS loops are used to cool:
+a) FCAC
+@@b) CMSC
+c) GCU
+
+The low limit valve (LLV) opens to control:
+a) Bypass the ACM if the ACM fails.
+b) Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+@@c) The temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (34oF).
+
+The lower recirculation air high flow shutoff valve (HFSOV) closes:
+a) To Decreases the electrical load of the air conditioning system
+@@b) Automatically to prevent loss of cabin pressure because of downstream break in the lower recirculation ducts.
+c) when the pack control unit (PCU) senses lower recirculation air flow is too much for correct compact mixer operation.
+
+The lower recirculation air high flow shutoff valve (HFSOV) closes when:
+a) A sudden broken lower recirculation fan.
+b) A sudden increase in cabin pressure.
+@@c) A sudden decrease in cabin pressure.
+
+The Pack Control Unit (PCU) and ccs control the 3 pack modes. What is the mode?
+a) Pack control cooling mode, condenser bypass mode, economy cooling mode
+b) PCU cooling mode, condenser bypass mode, economy cooling mode.
+@@c) Only cooling mode, condenser bypass mode, heat exchanger economy cooling mode.
+
+The Pack Control Unit (PCU) causes the ECV to open during normal operation when:
+a) The economy cooling mode occurs in flight and ground.
+b) The economy cooling mode occurs in ground
+@@c) The economy cooling mode occurs in flight
+
+The pack control unit (PCU) controls the fan operation through:
+a) RFMC.
+@@b) CMSC or RFMC.
+c) CMSC.
+
+The PCU causes the ram fan motor controller to operate the ram air fan when:
+a) Ground operations with ambient temperature more than 30oF.
+@@b) There is no CMSC power source to operate the ram air fan.
+c) PECS cooling fluid temperature less than 155oF.
+
+The PCU causes the RFMC to operate the ram air fan for one of these conditions:
+@@a) Airplane in the air, PECS cooling fluid temperature more than 155oF, ground operations with ambient temperature less than 30oF, airplane power comes from one or 2 external power sources, there is no CMSC power source to operate the ram air fan, main engine start (mes) occurs.
+b) Airplane in the air, PECS cooling fluid temperature more than 155oF, ground operations with ambient temperature less than 30oF, airplane power comes from one external power sources, there is CMSC power source to operate the ram air fan, main engine start (mes) occurs
+c) Airplane in the air, PECS cooling fluid temperature more than 155oF, ground operations with ambient temperature less than 30oF, airplane power comes from one or 2 external power sources
+
+The positive pressure relief valve opens when cabin air pressure:
+a) Is lower than ambient pressure by a set value
+b) Is differential to the remote sensor unit sense port by 8.95 psi
+@@c) Is higher than ambient pressure by a set value
+
+The purpose of Low Limit Valve (LLV) is to:
+@@a) Prevent ice in the condenser
+b) Air flow thru ACM
+c) Control Pack air outlet temperature
+
+The purpose of Zonal Dryers is to send moisture air:
+a) Back to crown area
+b) To distribution ducts
+@@c) To mix bay area
+
+The ram air fan check valve is open:
+a) By the PCU.
+b) On the ground to let ram air flow through the heat exchangers.
+@@c) By the air pressure caused by airplane movement in the air.
+
+The remote sensors of pressurization system are located:
+a) On the VCU face
+@@b) In the EE compartment
+c) In PAX cabin
+
+The retracted position occurs on the ground:
+a) When the ambient temperature is more than 93oF (34oC)
+b) 1 engine is on and at more than 50 percent n2 and on the ground
+@@c) When the ambient temperature is more than 95oF (35oC) and on the ground
+
+The trim air pressure regulator valve control the pressure of the trim air:
+@@a) 5 psi more than the cabin pressure.
+b) 7 psi more than the cabin pressure.
+c) 2 psi more than the cabin pressure.
+
+The upper recirculation fan removes air from the passenger cabin crown area and sends it to:
+@@a) The cabin distribution ducts.
+b) The mix bay area
+c) The compact mixer
+
+The zonal dryer sends air into:
+@@a) The crown area and the mix bay.
+b) The compact mixer
+c) The cabin air distribution system.
+
+There are ____ CACs per ECS bay and normally on ground ____ CACs operates:
+a) 04 and 02
+@@b) 02 and 01
+c) 02 and 02
+
+There are ____ lav/gal ventilation fans:
+@@a) 2
+b) 3
+c) 1
+
+There are ____ lower recirculation fans at each ECS bay:
+@@a) 1
+b) None
+c) 2
+
+Two ICS pumps on ICS pump package operate:
+a) Pump 1 is the primary pump and operates until it fails.
+@@b) Only one pump at the time and change after landing
+c) At the same time
+
+Two lavatory/galley ventilation fans operate:
+a) In sequence and change after landing
+b) At the same time
+@@c) Fan 1 is the primary fan and operates until it fails.
+
+Two PECS pumps on PECS pump package operate:
+a) At the same time
+b) Pump 1 is the primary pump and operates until it fails.
+@@c) Only one pump at the time and change after landing
+
+Upper recirculation fan heat exchanger is equipped for:
+a) 787-8
+@@b) 787-9
+c) Both a and b
+
+What are purpose of the Variable Diffuser Actuator of CAC?
+a) Control the temperature and pressure of CAC output air.
+@@b) Control CAC efficiency and decrease surge effects.
+c) Control CAC efficiency only.
+
+What are the components to control CAC surge?
+a) AHV
+b) VDA
+@@c) Both a and b
+
+What control ram air fan when airplane power by external power?
+a) Common Computing Resource (CCR)
+b) Common Motor Start Controller (CMSC)
+@@c) Ram Fan Motor Controller (RFMC)
+
+What control Zonal Dryer?
+@@a) Common Computing Resource (CCR)
+b) Pack Control Unit (PCU)
+c) Cabin Services System Controller (CSSC)
+
+What does control of the trim air pressure regulator valve?
+a) CAC
+@@b) PCU
+c) Trim air pressure sensor
+
+What does control the CAC speed?
+a) PCU.
+@@b) CMSC.
+c) CCR.
+
+What does control the operation of the CACs?
+@@a) PCU.
+b) Hosted software in CCRs.
+c) CCS.
+
+What does control the operation of the ICS Pump Package?
+@@a) Common Core System (CCS).
+b) Pack Control Unit (PCU).
+c) Cabin Service System Controller (CSSC).
+
+What does control the operation of the lower recirculation air High Flow Shutoff Valve (HFSOV)?
+a) Pack Control Unit (PCU)
+@@b) It self-control
+c) Common Core System (CCS)
+
+What does control the ram fan ctrl?
+a) Control data goes to the ram fan motor controllers.
+@@b) Control data goes to the ram fan motor controllers or Common Motor Start Controllers (CMSC).
+c) Common Motor Start Controllers (CMSC).
+
+What does In-line duct heaters controlled by the CCS?
+a) Door heaters
+b) Shoulder heaters
+@@c) Galley heaters
+
+What does the coolant fluid use?
+a) The coolant fluid is bms 3-47
+b) The coolant fluid is bms 3-45
+@@c) The coolant fluid is bms 3-42
+
+What does the PCU use cac data for?
+a) The PCU uses this cac data to calculate the air flow through the cac: inlet and outlet pressure, outlet temperature, flow, speed, compressor characteristics
+b) The PCU uses this cac data to calculate the air flow through the cac: inlet and outlet pressure, outlet temperature, flow
+@@c) The PCU uses this cac data to calculate the air flow through the cac: inlet and outlet pressure, outlet temperature, flow, compressor characteristics.
+
+What does the position of the diverter valve in the heat exchanger assembly controls?
+a) GCU
+@@b) CCS
+c) PCU
+
+What is purpose of CAC for the trim air system and the air conditioning packs?
+a) The Cabin Air Compressor (CAC) supplies air of increased pressure at the necessary flow rate to the trim air system and the airconditioning packs.
+b) The Cabin Air Compressor (CAC) supplies air of increased pressure and temperature or speed at the necessary flow rate to the trim air system and the air conditioning packs.
+@@c) The Cabin Air Compressor (CAC) supplies air of increased pressure and temperature at the necessary flow rate to the trim air system and the air conditioning packs.
+
+What is the abbreviation TCS?
+@@a) The Temperature Control System (TCS)
+b) The Trim Control System (TCS)
+c) The Total Control System (TCS)
+
+What is the ECV controlled by?
+@@a) PCU
+b) CMSC
+c) CAC
+
+What is the function of High Efficiency Particulate Air (HEPA) filter elements?
+@@a) Remove particulates and infectious matter
+b) Remove particulates and infectious matter, dirty
+c) Remove particulates
+
+What is the function of the lower recirculation fan?
+a) The lower recirculation fan moves air from the mix bay through filters
+@@b) The lower recirculation fan moves air from the mix bay through filters and a heat exchanger to the compact mixer
+c) The lower recirculation fan moves air from the mix bay through filters and supplied air to CAC
+
+What is the galley heater?
+a) The galley heater is a 1-phase, 115v ac, 1000-watt heater
+b) The galley heater is a 1-phase, 270v ac, 1000-watt heater
+@@c) The galley heater is a 3-phase, 115v ac, 1500-watt heater
+
+What is the material the header of ram fan?
+a) The header of ram fan is a carbon structure
+b) The header of ram fan is a honeycomb structure
+@@c) The header of ram fan is a carbon fiber composite structure
+
+What is the primary Heat Exchanger (HX) for?
+a) The primary Heat Exchanger (HX) decreases the speed of the air supply air from the cabin air compressor
+@@b) The primary Heat Exchanger (HX) decreases the temperature of the hot.
+c) The primary Heat Exchanger (HX) increases the temperature of the cool.
+
+What is the purpose of the lower recirculation Heat Exchanger (HX)?
+a) The lower recirculation Heat Exchanger (HX) no change the temperature of the air from the lower recirculation fan.
+b) The lower recirculation Heat Exchanger (HX) increases the temperature of the air from the lower recirculation fan.
+@@c) The lower recirculation Heat Exchanger (HX) decreases the temperature of the air from the lower recirculation fan.
+
+What is the purpose of the water extractor?
+a) This prevents steam in the condenser.
+b) The water extractor collects liquid water from the condenser.
+@@c) The water extractor collects liquid water from the condenser and sends it to the ram air heat exchangers.
+
+What is the ram fan type?
+a) The ram air fan is a electric motor fan.
+@@b) The ram air fan is a variable speed electric motor fan.
+c) The ram air fan is a constant speed electric motor fan.
+
+What kind of aircraft is the upper recirculation heat exchanger for?
+a) B787-8 and B787-9
+@@b) B787-8 only
+c) B787-9 only
+
+What one of functions of air conditioning system is correct?
+@@a) Increase the relative humidity of the air to the passenger compartment
+b) Decrease the relative humidity of the air to the passenger compartment
+c) Increase the relative humidity of the air to the cargo compartment
+
+What position of Out Flow Valves on ground?
+@@a) Fully open
+b) Partial Close
+c) Close
+
+When can you use the Outflow Valve Manual Switch to move the outflow valves?
+a) When the cabin pressure is more than 8.6 psi above ambient
+b) When you manually set the landing altitude
+@@c) When the Outflow Valve Switches are in the MAN position.
+
+When do the control and tracking channels change?
+a) The control and tracking channels change at takeoff phase
+@@b) The control and tracking channels change at each flight.
+c) The control and tracking channels change at approach mode.
+
+When does the alternate ventilation system (AVS) operate?
+a) The forward equipment cooling is in override mode.
+@@b) There is a complete malfunction in the 2 air condition packs and they cannot give normal air supply.
+c) The forward cargo compartment fire extinguishing system operates.
+
+When does the captain foot heater enable?
+a) When left or right pack is on.
+b) When the airplane is on the ground.
+@@c) When the airplane is in the air.
+
+When does the condenser bypass mode occurs?
+a) The condenser bypass mode occurs when the 2 ACMs sensors fail and the airplane is below 29,000 feet
+@@b) The condenser bypass mode occurs when the 2 ACMs sensors fail and the airplane is above 29,000 feet
+c) The condenser bypass mode occurs when the 1 ACM sensors fail and the airplane is above 29,000 feet
+
+When does the flight deck air supply boost fan isolation valve opens?
+a) Forward equipment cooling system in override position and equal to or less than 1 CAC are in operation.
+b) Airplane in the air and no CAC is operating
+@@c) Forward equipment cooling system detects smoke and equal to or less than 2 CACs are inoperation.
+
+When does the flight deck humidification system operate?
+a) The HUMID switch on P5 is ON.
+@@b) During cruise and stop at the start of descent.
+c) Any engine N2>50%.
+
+When does the humidifier start operation?
+@@a) When the airplane is at cruise altitude
+b) When the airplane is at in the air
+c) When the airplane is at climb altitude
+
+When does the pilot foot rest surface heater operate?
+a) Both engine running (50% N2)
+@@b) Both packs and lower recirculation fans operate.
+c) In the air only.
+
+When does the power first goes to the PCU?
+a) The PCU software selects one PCU channel to be in control or the other channel to operate in a tracking mode.
+@@b) The PCU software selects one PCU channel to be in control and the other channel to operate in a tracking mode.
+c) The PCU software selects one PCU channel to be in control and the other channel to operate in a direct mode.
+
+When is the CAC deflector door in closed position (faired position)?
+a) On the ground.
+b) Two engines are on.
+@@c) In cruise.
+
+When the pack economy cooling mode:
+a) The air cycle machine (ACM) has a malfunction.
+b) The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+@@c) The pack control unit (PCU) causes the ECV to open during normal operation.
+
+When the pack in the condenser bypass mode:
+@@a) The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+b) The pack control unit (PCU) causes the ECV to open during normal operation.
+c) The air cycle machine (ACM) has a malfunction.
+
+When the pack in the heat exchanger only cooling mode:
+@@a) The air cycle machine (ACM) has a malfunction.
+b) The pack control unit (PCU) causes the ECV to open during normal operation.
+c) The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+
+When the smoke detector senses smoke in the OFCR or OFAR, the Common Core System (CCS) sends control data to:
+@@a) The exhaust sov to open.
+b) The exhaust sov to close
+c) The exhaust sov to close and it will be open when smoke detector senses no smoke.
+
+Where can you set the master temperature for all of the passenger zones?
+@@a) Air Conditioning panel on P5.
+b) Only Master Cabin Attendant Panel (CAP).
+c) Any Cabin Attendant Panel (CAP).
+
+Where do the FWD and AFT zonal dryers controller data uses?
+@@a) CSS
+b) CAC
+c) PCU
+
+Where does the overhead crew rest conditioned air come from?
+a) Zone A ducts
+@@b) Zone D ducts
+c) Zone C ducts
+
+Where is the source for forward cargo heating?
+a) From Mix bay
+b) From AFT EE cooling
+@@c) From FWD EE cooling
+
+Where is the top-off service port of ICS?
+@@a) In the right pack bay.
+b) In the p56 bay
+c) In the left pack bay
+
+Which component control PACK operation?
+a) CMSC
+@@b) PCU
+c) RPDU
+
+Which component does the primary surge margin control for CAC?
+@@a) CAC variable diffuser actuator (VCA).
+b) CMSC control the speed of CAC to prevent surge.
+c) CAC add heat valve (AHV).
+
+Which component does the secondary surge margin control for CAC?
+@@a) CAC add heat valve (AHV).
+b) CMSC control the speed of CAC to prevent surge.
+c) CAC variable diffuser actuator (VCA).
+
+Which of the following cargo heat system has ventilation mode?
+@@a) FWD and BULK
+b) FWD and AFT
+c) FWD
+
+Which pages shows PECS temperatures and valve positions?
+@@a) Page 2 of the air conditioning maintenance pages
+b) Page 1 of the air conditioning maintenance pages
+c) Page 1 of the power elec cooling pages
