@@ -327,6 +327,7 @@ Purpose of Deflector Door?
 a) Supply air in to the CAC
 @@b) Prevent FOD
 c) Protect Ram fan
+
 Supply conditioned air to the airplane with a Ground air source:
 @@a) Make sure that there is an exit for conditioned air in the airplane fuselage, lower recirculation fans and packs are off.
 b) Make sure the FWD and AFT outflow valves are open and at least one passengers entry door is open.
