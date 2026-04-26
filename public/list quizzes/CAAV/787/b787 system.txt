@@ -9,9 +9,9 @@ Torx plus.
 Torx and torx plus.
 
 How many external power panels does B787 airplane have? (B2)
-@@3.
+3.
 1.
-2.
+@@2.
 
 The hydraulic systems in B787 airplane are designed features with (B2)
 2 separate hydraulic systems: Yellow /Green with hydraulic pressure are 5000 psi.
