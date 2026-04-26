@@ -3,6 +3,46 @@ Zone 200.
 @@Zone 100.
 Zone 800.
 
+What is the type of fastener used for attachment in fixed panels on B787 airplane? (B2, no ans)
+Torx.
+Torx plus.
+Torx and torx plus.
+
+How many external power panels does B787 airplane have? (B2)
+@@3.
+1.
+2.
+
+The hydraulic systems in B787 airplane are designed features with (B2)
+2 separate hydraulic systems: Yellow /Green with hydraulic pressure are 5000 psi.
+@@3 separate hydraulic systems: Left /Center /Right with hydraulic pressure are 5000 psi. 
+3 separate hydraulic systems: Left /Center /Right with hydraulic pressure are 3000 psi.
+
+The brake system on B787 airplane is controlled and operated by (B2)
+Hydraulic.
+@@Electrical.
+Electrically control and Hydraulic operation.
+
+How to get access to the forward EE bay from the forward cargo compartment? (B2, no ans)
+You must remove a panel.
+Access door on the right side of the forward bulkhead wall.
+You can not access.
+
+The electrical power system P500 and P600 power conversion panels do these power changes: (A, B2, no ans)
+235v ac to 115v ac, 115v ac to 235v ac
+235v ac to 28v dc, 28v dc to +/- 130v dc.
+235v ac to 115v ac, 115v ac to 235v ac; 235v ac to 28v dc, 28v dc to +/- 130v dc. 
+
+The current return network (CRN) provides a: (B2) (no ans)
+Return path for only fault AC and DC current from the loads to the sources.
+Supply path for normal and fault AC and DC current from the sources to the loads.
+Return path for normal and fault AC and DC current from the loads to the sources.
+
+What is different between flight deck windows of B787 with other type airplane? (B2)
+Can open/ close from outside.
+Can open/ close from inside.
+@@Can not open/ close.
+
 When does the Phase II for Overweight/Hard landing inspect?
 For more detail visual inspection.
 If the pilot wrote in the report.
