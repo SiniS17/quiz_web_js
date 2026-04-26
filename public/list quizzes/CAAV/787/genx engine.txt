@@ -118,7 +118,6 @@ Only 01 VFSG is used.
 @@Both VFSG are used.
 The VFSG will take turn to start the engine.
 
-Ref: Engine - Oil, Indicating, Air, Ignition/Starting, Exhaust and Balancing - Powerplant Book 3 of 3, GEnx Engine, GE Engines – Air, page 156.
 The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE: (A, B1, B2)
 BAI valve is controlled by EMU.
 @@There is no flight deck control for the system.
