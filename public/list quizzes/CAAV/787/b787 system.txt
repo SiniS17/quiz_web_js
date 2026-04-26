@@ -4,11 +4,11 @@ Zone 200.
 Zone 800.
 
 What is the type of fastener used for attachment in fixed panels on B787 airplane? (B2, no ans)
-Torx.
+@@Torx.
 Torx plus.
 Torx and torx plus.
 
-How many external power panels does B787 airplane have? (B2)
+How many external power panels does B787 airplane have? (B2, no ans)
 3.
 1.
 @@2.
