@@ -31,7 +31,7 @@ You can not access.
 The electrical power system P500 and P600 power conversion panels do these power changes: (A, B2, no ans)
 235v ac to 115v ac, 115v ac to 235v ac
 235v ac to 28v dc, 28v dc to +/- 130v dc.
-235v ac to 115v ac, 115v ac to 235v ac; 235v ac to 28v dc, 28v dc to +/- 130v dc. 
+@@235v ac to 115v ac, 115v ac to 235v ac; 235v ac to 28v dc, 28v dc to +/- 130v dc. 
 
 The current return network (CRN) provides a: (B2) (no ans)
 Return path for only fault AC and DC current from the loads to the sources.
