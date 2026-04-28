@@ -1138,121 +1138,117 @@ Onboard maintenance systems monitor the aircraft for faults, record and store th
 flight crews
 maintenance personnel
 
-The data collected by onboard maintenance systems can
-be accessed:
+The data collected by onboard maintenance systems can be accessed:
 in flight
 on the ground
+@@both in flight and on the ground
 
-both in flight and on the ground
 Outputs from the CMC are provided in the form of:
 visual displays, printed text,
 visual displays, digital data that may be downloaded.
+@@visual displays, printed text, and digital data that may be downloaded.
 
-visual displays, printed text, and digital data that may be downloaded.
 It is common for a standard onboard maintenance system to have:
 @@two CMCs installed
 only one CMC installed
-
 three CMCs installed
+
 Class 1 faults are:
 @@the most serious, and involve something listed in the MEL.
-the system is still functioning normally, although it may not have
-
-full redundancy.
+the system is still functioning normally, although it may not have full redundancy.
 minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 Class 2 faults are:
 the most serious, and involve something listed in the MEL.
-
-the system is still functioning normally, although it may not have full redundancy.
+@@the system is still functioning normally, although it may not have full redundancy.
 minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 Class 3 faults are:
 the most serious, and involve something listed in the MEL.
-
 the system is still functioning normally, although it may not have full redundancy.
 @@minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 The information gathered by central maintenance computers can be relayed to the ground through:
 @@the ACARS system
-
 VHF system
 SATCOM system
+
 The individual system BITE circuits are connected to the CMC by:
 a digital control bus
-
-a digital data bus
+@@a digital data bus
 a digital address bus
+
 An Integrated modular avionics is a
 @@Design methodology
-
 An avionics system per se.
 Specific functions of the individual avionics systems
+
 An IMA aircraft
 Has non-redundant power supplies
-
-Might have three redundant power supplies
+@@Might have three redundant power supplies
 One power failure affects each individual system
+
 VHF communication frequency tuning can use a
 ARINC 629 data bus
-
 AFDX data bus
 @@ARINC 429 data bus
+
 IMA systems consist of a core system
 This processing circuitry is not shared by the various avionics systems
-
-The core system contains data processing circuitry that processes many different kinds of information.
+@@The core system contains data processing circuitry that processes many different kinds of information.
 The core system uses multiple computer processors for many different purposes
+
 Some of the features that can be included in cabin systems are:
 @@Passenger Address, Cabin Interphone, Audio and Video Entertainment
-
 Telephone, arrival airport weather.
 Flight Attendant Calling, cockpit and cabin crew information
+
 The Inflight entertainment system provides the passenger with
 @@Audio and video on demand.
-
 Audio via cabin speakers and video on a main screen
 Does not include music channels.
+
 Cabin monitoring systems are used to monitor
 @@Status of smoke and fire detectors in lavatories, Cabin temperature, passenger warning lights
-
 Status of smoke and fire detectors in lavatories, Cabin altitude, Status of galley equipment, such as water tanks.
 Cabin lighting and not cabin entry and exit door status (open or closed)
+
 A cabin intercommunication data system is used by
 Passengers to operate reading lights
-
-B.Flight attendants, pilots, and passengers.
+@@B.Flight attendants, pilots, and passengers.
 flight attendants and pilots only
+
 Some of the features that can be included in cabin systems are
 Cabin Interphone ,Flight Attendant Calling, Passenger seat adjustment
-
-Cabin Interphone, Flight Attendant ,Calling Moving Map Displays
+@@Cabin Interphone, Flight Attendant ,Calling Moving Map Displays
 Cabin Interphone, Flight Attendant Calling, Personal air temperature control
+
 Typical user interfaces for the Cabin System are
 @@Flight attendant panels, Cockpit handsets, Call buttons
-
 Flight attendant panels, Cabin handsets, Cabin layout
 Flight attendant panels, Reading lights, Gasper air outlets
+
 Aircraft information systems can be used to store and retrieve
 Airline policy manual and training manuals.
-
-Flight deck information systems, maintenance information systems, and passenger cabin information systems
+@@Flight deck information systems, maintenance information systems, and passenger cabin information systems
 Stored information is only retained for 25 hours
+
 Initial Aircraft information systems included
 High capacity flash drives,
-
 Compact disks
 @@Manuals, drawings, charts, microfilm or microfiche
+
 Aircraft information systems architecture selected by Airbus
 @@Is a networked real-time servers and routers
-
 Is unsecure both from the point of view of computer security and operational availability
 Does not include the data related to the flight
-The use of the digital electronics allows flight attendants
-to carry
 
+The use of the digital electronics allows flight attendants to carry
 A flash drive to insert in the onboard screen
 A weight saving digital Library
 @@Small device, such as a tablet
-Advantages electronic information system
 
+Advantages electronic information system
 Reduced weight and bulk
 @@Reduced weight, reduced bulk, and ease of update
 Easy to update and reduced weight.
