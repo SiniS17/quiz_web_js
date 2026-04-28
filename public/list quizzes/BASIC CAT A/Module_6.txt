@@ -424,44 +424,49 @@ Anodizing.
 Metal spraying.
 
 Corrosion on copper is identified by.
+Red/brown rust
 Black powder.
 @@Green to blue copper salts on the corroded part
-Fretting corrosion occurs when
 
+Fretting corrosion occurs when
 Water is trapped between moving parts.
 @@Two mating surfaces are subject to slight relative motion.
 Improperly heat treated.
-Intergranular corrosion is also known as what?
 
+Intergranular corrosion is also known as what?
 Stress corrosion.
 @@Exfoliation.
 Galvanic.
-Corrosion of metals in a metal to metal joint or corrosion at the edge of a joint is
 
+Corrosion of metals in a metal to metal joint or corrosion at the edge of a joint is
 Filiform corrosion.
 Fretting corrosion.
 @@Crevice corrosion.
-Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralize the acid?
 
+Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralize the acid?
 Sulphur and Lime
 Hot distilled water.
 @@Sodium bicarbonate of soda.
-A primary cause of intergranular corrosion is.
 
-Improper heat treatment.
+A primary cause of intergranular corrosion is.
+@@Improper heat treatment.
 Improper application of primer.
 Dissimilar metal contact
-Aircraft bolts are almost always manufactured in
 
+Aircraft bolts are almost always manufactured in
 Class 2, free fit
 @@Class 3, medium fit
 Class 4, close fit
-Most commonly used thread form in aviation is
 
-Unified or metric threads
+Most commonly used thread form in aviation is
+@@Unified or metric threads
 Round thread.
 Buttress.
-@@Pitch of a screw thread is defined as.           A. Distance from the centre of one crest to the next.    B. Difference between major diameter and minor diameter.     C. Distance between the crest and the root of the thread.
+
+Pitch of a screw thread is defined as.           
+Distance from the centre of one crest to the next.    
+Difference between major diameter and minor diameter.     
+Distance between the crest and the root of the thread.
 
 A metric screw thread angle is.
 7 °
