@@ -133,7 +133,7 @@ What is the equation of a straight line with gradient m and intercept on the y a
 x = y + mc.
 y = cx + m.
 
-What is the equation of the line shown?
+What is the equation of the line shown? [IMG:module_1 basic cat A graph.png]
 y = 2x + 2.
 @@y = -2-x.
 y = x-2.
