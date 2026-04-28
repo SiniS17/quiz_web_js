@@ -1,0 +1,802 @@
+1. A dry powder extinguisher is colored.
+Green.
+Red.
+@@Blue.
+
+2. Which type of extinguisher can be used for an electric fire?
+Foam.
+Water.
+@@CO2.
+
+3. If welding in the hangar is necessary, no aircraft are to be:
+within 5 meters of the welding operation
+@@within 10 meters of the welding operation
+within 15 meters of the welding operation
+
+4. The colour of CO2 type fire extinguisher is.
+Red.
+@@Black.
+Green.
+
+5. Which type of extinguisher can be used for engine fire?
+@@CO2.
+BCF.
+Water.
+
+6. Fire on landing gear brake should be extinguished with.
+@@Dry powder extinguisher.
+Carbon dioxide extinguisher.
+Water extinguisher.
+
+7. The most appropriate fire extinguisher for an aircraft wheel and brake fire would be.
+Carbon dioxide.
+@@Dry powder.
+Water.
+
+8. Neither oil nor grease should be used as a lubricant on couplings or pipelines carrying.
+@@Oxygen.
+Kerosene.
+Nitrogen.
+
+9. All oxygen lines should be marked and should have
+@@at least 5 cm of clearance from moving parts, electrical wiring, and all fluid lines.
+at least 10 cm of clearance from moving parts, electrical wiring, and all fluid lines
+at least 15 cm of clearance from moving parts, electrical wiring, and all fluid lines
+
+10. The colour of vaporizing liquids type fire extinguisher is.
+Red.
+Black.
+@@Green.
+
+1. When using a reamer.
+Use no lubricant.
+@@Use the same lubricant as was used on the drill bit.
+Use lard oil.
+
+2. The difference between high and low limits of a size for a dimension is known as the.
+Deviation.
+@@Tolerance.
+Fit.
+
+3. Vices should be wiped over frequently
+@@with an oily rag.
+with an dry rag
+with a brush
+
+4. Metal covered benches should have its surfaces cleaned
+@@with a kerosene rag.
+with a dry rag
+with a soft brush
+
+5. Plain wooden benches should be cleaned
+with a soft brush
+with a dry rag
+@@with a stiff brush
+
+6. Some materials are flammable must be stored
+@@outdoors or in specially designed cabinets
+in a vented room
+in a room far from hangar.
+
+7. Tool calibration for tool takes place per:
+@@the standard specified by the equipment manufacturer, design organization
+The maintenance organization
+requirement of authority
+
+1. When using a moving coil as an ammeter the greatest amount of current flows through the.
+Bushes.
+Coil.
+@@Shunt.
+
+2. How are files classified?
+By length, grade and material
+@@By length, grade, cut and section
+By length, grade, cut, section and material.
+
+3. One megohm is equal to.
+1,000 ohms.
+@@1,000,000 ohms.
+100,000 ohms.
+
+4. The test equipment normally used to carry out a continuity test on an electrical cable is.
+A high tension circuit tester.
+An ammeter.
+@@A low reading ohmmeter.
+
+5. A voltage drop across a component is measured by placing the meter in.
+@@Parallel with the component.
+Series with the component.
+Series with the power source.
+
+6. On barrel of micrometer, each of the sections between the tenths divisions (between 1, 2, 3, 4, and so forth) is divided into:
+@@four parts of 0.025 inch each.
+four parts of 0.05 inch each.
+four parts of 0.02 inch each.
+
+7. When torque loading, a wrench should be selected where the required value falls.
+@@At the top end of the range.
+In the middle of the range.
+At the bottom end of the range
+
+8. Torque loading is determined by multiplying the tangent force applied at the free end of the spanner.
+By the dia. Of the bolt and the distance of its point of application.
+By the distance moved by the point of application.
+@@By its distance of application from the axis of the bolt.
+
+9. When tightening a nut on a bolt the torque loading applied is
+independent of whether the threads are wet or dry
+inversely proportional to the force applied to the spanner
+@@the tangential application of the force times the perpendicular distance from the point of application to the centre of the bolt.
+
+10. How are taper reamers classified?
+Taper and diameter of small end
+@@Length and diameter of large end
+Length, diameter of large end, and diameter of small end
+
+11. The purpose of a taper tap is to.
+Produce a fine thread.
+@@Start a thread.
+Form a tapered thread.
+
+12. Hammers are classified by
+shape of head and length of shaft
+weight and length of shaft
+@@weight and type of head
+
+13. When measuring current in a circuit, the ammeter is placed.
+@@In series with the circuit.
+In series with the shunt.
+In parallel with the circuit.
+
+14. Scribers are used to
+@@mark guide lines on material
+produce an accurate finish
+make centre pop marks for drilling
+
+15. Which electrical measuring device needs a power source?
+A voltmeter.
+@@An ohmmeter.
+An ammeter.
+
+16. The main scale of a metric vernier caliper is calibrated in.
+Millimetres.
+Micro-meters.
+@@Millimetres and half millimetres.
+
+17. A multiplier resistance is used to extend the working range of the.
+Ammeter.
+@@Voltmeter.
+Ohmmeter.
+
+18. An AC voltmeter reads.
+Peak value.
+Peak to peak value.
+@@Average value.
+
+19. To measure ac with a moving coil, it.
+Can be directly connected.
+Is rectified and measures peak value.
+@@Is rectified and measures average value.
+
+20. When using a reamer, in which direction should it be turned?
+Anti-clockwise when Cutting and removing.
+Clockwise when cutting and anti-clockwise when removing.
+@@Clockwise when cutting and removing.
+
+21. When installing a blade in a hacksaw frame, mount the blade with:
+@@the teeth pointing forward
+the teeth pointing backward
+both of direction are allowed
+
+22. Crossfiling is a method used for:
+@@filing the edges of metal parts that must fit tightly together.
+filling the larger surfaces need to be smoothed and squared
+filling the vertical holes
+
+23. Triangular and three square files are used for:
+draw filing and to some extent for filing soft metals
+filing slots and key seats, and for surface filing
+@@filing internal angles, clearing out corners, and filing taps and cutters
+
+24. Burring tools are used to:
+remove a burr from round hole
+@@remove a burr from an edge of a sheet or to deburr a hole
+remove a burr from the metal surface
+
+25. Reamers are used to
+@@smooth and enlarge holes to exact size.
+make a new thread
+remove a stuck bolt in the hole.
+
+26. A hole that is to be reamed to exact size must be drilled about
+0.005 to 0.007 inch under size.
+0.002 to 0.006 inch under size.
+@@0.003 to 0.007 inch under size.
+
+27. A tap is used to
+@@cut threads on the inside of a hole
+remove a stuck bolt in the hole
+cut the external threads on round stock.
+
+1. What is third angle projection?
+each view represents the side of the object furthest from the adjacent view.
+@@each view represents the side of the object nearest to it in the adjacent view.
+each view is at an angle of 30 degrees to the plane of projection.
+
+2. Which pictorial projection shows one face in true elevation and line of depth normally draw at 30° or 45° to the horizontal?
+@@Oblique.
+Perspective.
+Isometric.
+
+3. If a design amendment is made on a drawing.
+@@a new issue number and date must be allocated to the drawing.
+the old issue number is retained, with the amendment date added.
+no change in issue number or date is necessary.
+
+4. The scale of an engineering drawing is shown as 1:4. This indicates it is.
+@@drawn to a quarter.
+drawn to scale.
+drawn four times larger.
+
+5. An orthographic projection usually shows.
+one, three-dimensional view of an object.
+a pictorial view of the object.
+@@three, two-dimensional views of an object.
+
+6. 10:1 on an engineering drawing indicates.
+the drawing is full size.
+the drawing is one tenth full size.
+@@the drawing is ten times full size.
+
+7. Lines known as short dashes (thin) are used on drawings to indicate.
+@@hidden detail.
+visible outlines.
+cutting revolved.
+
+8. Drawing numbers are.
+the same as serial numbers.
+changed after each drawing amended after May 28, 1999.
+@@unique to each drawing.
+
+9. Break lines are used.
+to show where components are expected to break.
+in sectional drawing.
+@@where it would be inconvenient (because of limited space) to draw long lengths of the same section.
+
+10. An oblique projection.
+is the same as an isometric projection.
+has one view looking directly at one face with the lines representing depth drawn at 90°.
+@@has one view looking directly at one face with the lines representing depth drawn at a constant angle.Ref EASA Module 7A - Maintenance Practices/ Engineering Drawings, Diagrams and Standards.
+
+11. A drawing in which the subassemblies or parts are shown as brought together on the aircraft is called.
+@@an installation drawing.
+a detail drawing.
+a sectional drawing.
+
+12.  A line used to show an edge which is not visible is a.
+break line.
+phantom line.
+@@hidden line.
+
+13. One purpose for schematic diagrams is to show the.
+size and shape of components within a system.
+@@functional location of components within a system.
+physical location of components within a system.
+
+14. In a first angle orthographic projection the plan view is placed.
+above the front elevation.
+below the side elevation.
+@@below the front elevation.
+
+1. Which of the following is a 'Bilateral Tolerance’?
+2 inches -0.002.
+2 inches +0.002.
+@@2 inches ±0.002.
+
+2. Which of the following is checked when using a 'GO / NO -GO' gauge?
+Clearance.
+@@Tolerance.
+Allowance.
+
+3. Which of the following shafts would you use to obtain a clearance fit in a bush 0.750 inch diameter?
+0.752 inch.
+@@0.748 inch.
+750 inch.
+
+4. What is the maximum bow allowed in a strut?
+1 in 200.
+1 in 500.
+@@1 in 600.
+
+5. A tolerance is.
+a permitted difference between new and worn dimensions.
+@@a permitted variation on a dimension to allow for inaccuracy of equipment.
+a required difference in dimension between mating parts to obtain a certain class of fit.
+
+6. A transition fit is one in which the shaft is.
+larger than the hole.
+smaller than the hole.
+@@the same size as the hole.
+
+7. If there is a positive allowance between the smallest possible hole and the largest possible shaft, the fit is known as.
+a transition fit.
+@@a clearance fit.
+an interference fit.
+
+8. The British Standards System provides for:
+21 types of holes designated by small letters a, b, c, d, etc., and 21 types of shaft designated by capital letters: A, B, C, D, etc.,
+@@21 types of holes designated by capital letters A, B, C, D, etc., and 21 types of shaft designated by small letters: a, b, c, d, etc.,
+25 types of holes designated by capital letters A, B, C, D, etc., and 25 types of shaft designated by small letters: a, b, c, d, etc.,
+
+9. Which of the following is a “Unilateral Tolerance”?
+5.325 inches +0.002 /-0.002 inches
+5.325 inches +0.1/-0.002 inches
+@@5.325 inches +0.00/-0.002 inches
+
+10. Bow in a shaft can be determined in a workshop by utilizing
+T blocks, a surface gauge and a dial indicator.
+@@V blocks, a surface gauge and a dial indicator.
+H blocks, a surface gauge and a dial indicator.
+
+1. A wire clamped vertically at one end and horizontally at the other end should have a bend radius of no less than.
+@@3 times the diameter of the wire.
+5 times the diameter of the wire.
+10 times the diameter of the wire.
+
+2. What gauge of pin would a yellow plastic insert/extract tool be used on?
+16 - 14.
+@@12 - 10.
+22 - 18.
+
+3. What gauge of pin would a red plastic insert/extract tool be used on?
+12 - 10.
+@@22 - 18.
+16 - 14.
+
+4. What gauge of pin would a blue plastic insert / extract tool be used on?
+12 - 10
+@@16 - 14
+22 - 18
+
+5. To find a high resistance or open circuit, carry out.
+a milli-volt drop test.
+@@a continuity check.
+a bonding check.
+
+6. The maximum bonding resistance on an aircraft primary structure should normally not exceed
+@@0.003 ohm
+0.01 ohms.
+0.001 ohms.
+
+7. A hole is placed in the lowest point of electrical cable conduit.
+to allow for pull-through of the cables.
+to secure the conduit to a piece of aircraft structure.
+@@to allow for drainage of moisture.
+
+8. Splices should not be used within
+@@30 cm of a termination device.
+3 inches of a termination device
+0.5 feet of a termination device
+
+9. Forward release electrical connectors are removed by the wire being.
+pushed forwards.
+twisted to the right.
+@@pulled backwards.
+
+10. Why are copper wires used in electrical systems?
+They have high permeability.
+They do not give off a magnetic field.
+@@They have a low resistance to current.
+
+11. When crimping wires, the wire should.
+be flush with the crimp.
+@@extend 0.8 mm beyond the crimp.
+be beneath the crimp.
+
+12. A white/blue insertion-extraction tool would be used on a cable of what size
+10
+22
+@@16
+
+13. An in-line splice should be positioned on the.
+terminal of the loom.
+outside of the loom.
+@@outer surface of the loom for easy inspection.
+
+14. A cable loom should be protected by conduit when fed through the.
+main equipment centre.
+@@wheel well door.
+cargo compartment ceiling.
+
+15. The size of proper conduit for electrical wires must be.
+75% larger than the maximum diameter of wires.
+@@25% larger than the maximum diameter of wires.
+100% larger than the average diameter of wires.
+
+16. Blue metal extract tool would be used with contacts sized.
+@@16.
+12.
+22.
+
+17. Dielectric strength is:
+the ability of the insulator to withstand current difference
+@@the ability of the insulator to withstand potential difference
+the ability of the insulator to withstand resistance difference
+
+18. Maximum dielectric strength values can be measured by:
+raising the current of a test sample until the insulation breaks down
+raising the frequency of a test sample until the insulation breaks down
+@@raising the voltage of a test sample until the insulation breaks down
+
+19. In hightemperature, applications, the terminal temperature rating must be:
+lower than the ambient temperature plus current related temperature rise.
+@@greater than the ambient temperature plus current related temperature rise.
+equal to the ambient temperature plus current related temperature rise.
+
+20. Hydraulic crimping tools are used for crimping:
+terminal wire sizes 4, 6, 12 and 16
+@@terminal wire sizes 8, 6, 4, and 2
+terminal wire sizes 6, 8, 12 and 14
+
+21. Identification markings should be placed at each end of the wire and at:
+38 inchs maximum intervals along the length of the wire.
+@@38 cm maximum intervals along the length of the wire.
+3.8 feet maximum intervals along the length of the wire.
+
+1. When riveting, the distance from the edge to the rivet (land) should not be less than.
+1D
+@@2D
+4D
+
+2. The average rivet pitch usually ranges:
+@@from 4 to 6 rivet diameters
+from 6 to 8 rivet diameters
+from 8 to 10 rivet diameters
+
+3. Transverse pitch is usually:
+65 percent of the rivet pitch
+@@75 percent of the rivet pitch
+85 percent of the rivet pitch
+
+4. The smallest allowable transverse pitch is
+@@2 1/2 rivet diameters.
+3 1/2 rivet diameters
+4 1/2 rivet diameters
+
+5. The minimum spacing between flush head rivets
+shall not be less than 2 times the diameter of the rivet.
+@@shall not be less than 4 times the diameter of the rivet.
+shall not be less than 6 times the diameter of the rivet.
+
+6. The minimum edge distance for universal rivets is
+1 times the diameter of the rivet
+@@2 times the diameter of the rivet
+3 times the diameter of the rivet
+
+7. The countersunk head angle can vary
+from 40° to 80°
+@@from 60° to 120°
+from 80° to 140°
+
+8. Rivets most commonly chosen in the assembly and repair of aircraft range:
+from 1/32 inch to 1/8 inch in diameter.
+from 3/16 inch to 3/16 inch in diameter
+@@from 3/32 inch to 3/8 inch in diameter
+
+1. Metal tubing is sized by:
+@@outside diameter (o.d.)
+inside diameter (i.d)
+circumference of the tube
+
+2. The wall thickness is typically printed on the tubing in:
+Tens of an inch
+Hundreds of an inch
+@@Thousands of an inch
+
+3. A number 10 piece of tubing with a wall thickness of 0.063" has an inside diameter of:
+0.399"
+@@0.499"
+0.599"
+
+4. Tube forming consists of four processes:
+Bending, flaring, beading and cutting
+Beading, bending, cutting, and flaring.
+@@Cutting, bending, flaring, and beading.
+
+5. The assembly can be formed by hand bending during installation, if:
+the tube diameter  is 1⁄2"
+the tube diameter  is 1⁄4"
+@@the tube diameter is 1⁄6"
+
+1. A wear check on a cylinder head valve spring should include.
+@@length under load.
+diameter and length.
+length off-load.
+
+2. Overheating is evidenced as:
+Blistering of the surface protection
+A change of color of the metal due to the loss of temper.
+@@Blistering of the surface protection and/ or a change of color of the metal due to the loss of temper.
+
+3. Springs are manufactured from.
+@@high carbon alloy steel with high strength requirements.
+low carbon alloy steel with high strength requirements.
+high carbon alloy steel with low strength requirements.
+
+1. Needle roller bearings.
+@@are susceptible to brinelling.
+can accept a small amount of misalignment.
+are designed to carry axial loads.
+
+2. When rotating a ball bearing by hand, a regular click indicates.
+damage to the balls.
+intergranular corrosion in the outer ring.
+@@a cracked ring.
+
+3. Brinelling of a wheel bearing could be caused by.
+rotation of the outer race in the wheel housing.
+@@heavy landing.
+overheating of the brakes.
+
+4. Brinelling of a bearing is.
+bluing of the bearing due to overheating.
+@@shallow smooth depressions caused by the rollers being forced against the cup, due to overtorquing.
+indentations in the race surface caused by continual static vibration.
+
+5. A tapered roller bearing is designed to take.
+radial loads only.
+@@both radial and axial loads.
+axial loads only.
+
+1. An aircraft control chain is connected using.
+@@nuts and bolts.
+quick release pins.
+a split link and spring clip.
+
+2. The initial lubricant on a new chain.
+must be replaced with grade altitude grease.
+should be removed and replaced with the approved oil.
+@@should not be removed.
+
+3. If a control chain can be lifted clear of a tooth, it should be.
+rejected as unserviceable.
+@@removed and an elongation check carried out.
+cleaned, re-tensioned and inspected after a period of time.
+
+4. A typical percentage limit of elongation could be:
+@@2% when the clean and dry chain is loaded with the correct tension.
+2% when the grease-applied chain is loaded with the correct tension.
+5% when the clean and dry chain is loaded
+
+5. Backlash is a type of wear associated with.
+@@gears.
+rivets.
+bearings.
+
+6. If corrosion is found on a chain.
+@@replace the chain.
+clean off the corrosion and if acceptable re-fit the chain.
+lubricate the chain.
+
+7. Pushpull tubes are generally made in short lengths
+to save the space
+@@to prevent vibration and bending under compression loads.
+to install/remove easily
+
+1. A control cable that has been contaminated with acid should be.
+cleaned.
+@@rejected.
+cleaned, inspected, and reinspected after a period of time.
+
+2. Check the swaged fitting with:
+@@a "go no-go" gauge
+a tensionmeter
+a vernier caliper
+
+3. How would you inspect a cable for fraying?
+Run your fingers the full length of the cable.
+Operate the controls and feel for stiffness.
+@@Run a rag the full length of the cable.
+
+4. The check for a cable pulling out of a swaged fitting is by.
+seeing that the cable is still past the safety holes in the swage.
+@@looking for a shiny surface on the cable near the fitting.
+seeing that there are no broken wires near the fitting.
+
+5. A cable is replaced.
+when a shiny portion is found.
+when each strand is worn to limits.
+@@if a chemical spillage is suspected.
+
+6. The best way to check control cables for broken wires is to.
+@@run a rag along the cable in both directions.
+examine them visually.
+increase the tension and check with a magnifying glass.
+
+7. Examine cable routing at fairleads to ensure that deflection angles are:
+no greater than 2° maximum.
+@@no greater than 3° maximum.
+no greater than 4° maximum.
+
+8. A cable should be replaced when individual wires are worn greater than.
+@@40%.
+60%.
+20%.
+
+1. When mooring an aircraft what type of rope should be used?
+@@Nylon.
+Fibre, tied tight due to stretch when wet.
+Fibre, with some slack due to shrinkage when wet.
+
+2. Removal of ice by the use of deicing fluid on the aircraft, before flight.
+must be 1 hour before flight to enable fluid to be cleaned from aircraft.
+will provide sufficient prevention of ice formation until take off.
+@@may remove ice for a period of time depending on the airfield conditions.
+
+3. Deicing fluid should be applied:
+within 60 minutes of flight.
+@@within 2 hours of flight
+in the whole of flight
+
+4. When Ground Power is connected to aircraft, the generators are.
+paralleled to supply.
+paralleled to supply for ground starting only.
+@@never paralleled.
+
+5. If ice and snow is found on the wings of an aircraft. Before flight:
+the snow should be removed but ice can remain because it has no appreciable affect on the airflow.
+@@all snow and ice must be removed.
+ice should be removed but snow can remain because the airflow will remove it.
+
+6. When refueling an aircraft from a tanker, why are the aircraft and tanker bonded together?
+To discharge static electricity from the aircraft to the tanker.
+@@To maintain the aircraft and tanker at the same electrical potential.
+To enable the aircraft re-fuel pumps to be operated from the tanker electrical supply.
+
+7. Immediately after the engine starts, check the oil pressure indicator. If oil pressure does not show within:A. 15 seconds, stop the engine and determine the trouble.
+@@30 seconds, stop the engine and determine the trouble
+45 seconds, stop the engine and determine the trouble
+8. Do not fuel an aircraft when there is lightning within:
+
+5 km.
+@@8 km
+15 km
+1. Torque loading is carried out to provide.
+
+as tight a joint as possible.
+@@sufficient clamping without over-stressing.
+flexibility.
+2. A metallic stiff nut.
+
+cannot be torque loaded.
+@@cannot be used in areas in excess of 250oC.
+is pre lubricated and does not need lubricating.
+3. Removal of corrosion from aluminium clad alloy is best done.
+
+mechanically by buffing.
+chemically by trichloroethylene.
+@@chemically by sulphuric acid solution.
+4. The treatment for stress corrosion is.
+
+not the same as fatigue corrosion.
+the same as for surface corrosion or surface cracks in sheet metal.
+@@always the replacement of the part.
+5. Very light corrosion on aluminium alloy can be removed by.
+
+using a solvent.
+rubbing with wire wool.
+using Alocrom 1200.
+6. To remove corrosion on Ferrous metals use.
+
+selenious acid rust remover.
+sulphuric acid rust remover.
+@@phosphoric acid rust remover.
+7. How is damage classified on an aircraft skin?
+
+Negligible, repairable, replacement.
+Negligible, allowable, replacement.
+Negligible, allowable, repairable.
+8. A jig is device that allows:
+
+the manufacture, repair components to a high dimensional accuracy.
+as a reference when checking the C of G position.
+to support the structure during repairs.
+@@9. The majority of nuts, bolts and setscrews, on an aircraft, are subject to a standard torque value. This depends on:A. their material, finish, lubrication, thread type and size
+
+their material, shape, lubrication
+their material, shape, size
+1. When inspecting an aircraft after a lightning strike, you should observe.
+entry damage.
+
+all signs of burning.
+entry and exit damage.
+2. To ensure protection against HIRF affecting audio and navigation aids.
+@@ensure that all audio and navigation equipment is adequately screened.
+
+inspect and check all bonding leads to ensure their serviceability and replace if defective.
+ensure that the correct number of static wicks are fitted.
+3. Which of the following is a preventive process against HIRF?
+Monitoring HIRF on the communication system.
+
+Visual inspections.
+Periodically checking aircraft bonding.
+4. Skin wrinkling on the lower surface of a wing is caused by.
+@@hogging.
+
+tension.
+sagging.
+5. The most easily detected sign of an excessive load having been imposed during a landing is:
+Deformed gear
+
+Wrinkled wing skin
+Cracked frame
+6. A lightning strike on an aircraft would show.
+@@the entry and exit point.
+
+the entry point only.
+the exit point only.
+7. HIRF interference occurs when.
+in use on mid frequencies.
+
+in use on low frequencies.
+@@in use on all frequencies
+8. What is the primary purpose of bonding of metallic parts of an aircraft?
+To provide a return path for electrical two-wire system.
+
+To prevent high potential differences between metallic parts from building up.
+To prevent lightening strikes.
+9. Which of the following could be a primary cause of HIRF protection failure?
+Corrosion on bonding leads.
+
+Broken or missing static wicks.
+@@Unserviceable radio filters.
+10. What is the reason for a primary bonding connection’s large cross-sectional area?
+To carry the static discharge current to the conducting nose wheel.
+
+To carry lightening discharge current should the need arise.
+To maintain the airframe at the same potential throughout.
+1. ATA specification 100 is.
+the procedures which must be complied with before an aircraft can be given a Certificate of Airworthiness in the Transport Category (Passenger).
+
+the International standardization of maintenance manuals, illustrated parts catalogues, overhaul and repair manuals, service bulletins and letters.
+the American FAA specification controlling the manufacture of aluminium and its alloys.
+2. Maintenance Schedules are issued.
+in a folder with the operators name on the cover.
+
+with an approval certificate by the CAA.
+@@by the operator with CAA approval.
+3. After a mandatory inspection has been carried out by a Licensed Engineer, what is issued.
+a Certificate of Maintenance Review.
+
+Certificate of Release to Service.
+a Flight Release Certificate.
+4. A Certificate of Release to Service must be issued after.
+@@a repair has been carried out in accordance with an approved repair scheme.
+
+a re-fuel has been done.
+engine runs.
+5. The purpose of the CRS is.
+to ensure that the log book entry is complete.
+
+to turn a log book or job card entry into a legal document and to ensure that the signatory takes full responsibility for the work done.
+to comply with article 15 of the ANO which states that an aircraft must not fly unless it is properly equipped for the intended flight.
+6. What work has to be recorded and signed for?
+Only work which entails a duplicate inspection.
+
+Only work involving replacements.
+@@All work carried out.
+7. Rubber components should be stored.
+@@in a cool dark area.
+
+in warm and humid conditions.
+in a well lit room.
+8. Storage of components to prevent corrosion is helped.
+@@by using silica gel.
+
+by wrapping in grease proof paper.
+by placing them in a plastic box.
+9. Dye penetrant kits should be stored.
+@@out of sunlight in a dry place.
+
+in direct sunlight to keep it dry.
+in a dark damp cupboard.

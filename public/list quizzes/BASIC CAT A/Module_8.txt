@@ -1,0 +1,353 @@
+1. If a pilot changes the altimeter setting from 30.11 in.Hg to 29.96 in.Hg, what will be the approximate change in indication?
+@@Altimeter will indicate 150 feet lower
+Altimeter will indicate 150 feet higher
+Altimeter will indicate 0.15 in.Hg higher .
+
+2. Which is the ratio of the water vapour actually present in the atmosphere to the amount that would be present if the air were saturated at the prevailing temperature and pressure?
+Dew point
+@@Relative humidity
+Absolute humidity
+
+3. The amount of water vapour capacity in the air (humidity holding capacity of the air) is
+@@greater on a hotter day and lower on a colder day
+doesn't have a significant difference
+greater on a colder day, and lower on a hotter day
+
+4. The temperature lapse rate below the tropopause is
+1°C per 1000 ft
+@@2°C per 1000 ft
+3°C per 1000 ft
+
+5. What is absolute humidity?
+@@The actual amount of the water vapour in a mixture of air and water
+The temperature to which humid air must be cooled at constant pressure to become saturated.
+The ratio of the water vapour actually present in the atmosphere to the amount that would be present if the air were saturated at the prevailing temperature and pressure
+
+6. The state of the atmosphere is characterized by some key variables, namely
+pressure, temperature, and humidity
+@@pressure, temperature, humidity and density
+pressure, temperature and density
+
+7. In which of the following conditions will air density be highest?
+Hot humid day at sea level
+@@Cold dry day at sea level
+Hot dry day at 500 ft
+
+8. The temperature of the lower stratosphere
+@@remains constant
+increases with altitude
+decreases with altitude
+
+9. Which condition is the actual amount of water vapour in a mixture of air and water?
+@@Absolute humidity
+Dew point
+Relative humidity
+
+Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
+10. At sea level, ISA atmospheric pressure is
+10 Bar
+@@14.7 PSI
+
+14.7 kPa
+Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
+11. With an increase in altitude under I.S.A. conditions the temperature in the troposphere
+increases
+
+decreases
+remains constant
+Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
+1. If the IAS is increased by a factor of 4, by what factor would the drag increase?
+
+4
+@@16
+8
+2. When airflow velocity over an upper cambered surface of an aerofoil decreases, what takes place?
+
+Pressure increases, lift increases
+@@Pressure increases, lift decreases
+Pressure decreases, lift increases
+3. The difference between the mean camber line and the chord line of an aerofoil is
+
+neither are straight
+they both may be curved
+@@one is always straight and the other may be straight
+4. Subsonic flow over a cambered aerofoil at 4° angle of attack will cause
+
+an increase in speed and drop in pressure over the upper surface and a decrease in speed and a rise in pressure over the lower surface
+a decrease in speed and drop in pressure over the upper surface and a decrease in speed and a drop in pressure over the lower surface
+@@an increase in speed and drop in pressure over the upper surface and an increase in speed and a drop in pressure over the lower surface
+5. The vertical component of the aerodynamic resultant is defined as
+
+lift
+total aerodynamic force
+drag
+6. Which statement is correct about the Cl and angle of attack?
+
+For a symmetric aerofoil, if angle of attack = 0, Cl =0
+For an asymmetric aerofoil, if angle of attack = 0, Cl =0
+For a symmetric aerofoil, if angle of attack = 0, Cl is not equal to 0
+7. What determines the coefficient of lift?
+
+The aircraft designer
+@@Aerofoil shape and angle of attack
+The amount of camber
+8. Which of the following describes the 'Empennage'?
+
+Nose section of an aircraft, including the cockpit
+@@Tail section of the aircraft, including fin, rudder, tail plane and elevators
+The wings, including the ailerons
+9. The induced drag of an aircraft
+
+increases with increasing speed
+@@decreases with increasing speed
+increases if aspect ratio is increased
+10. Bernoulli’s equation states that
+
+static pressure equals stagnation pressure
+dynamic pressure equals stagnation pressure
+@@the sum of static pressure and dynamic pressure is equal to stagnation pressure
+11. Induced drag can be reduced by the use of
+
+fairings at junctions between fuselage and wings
+@@high aspect ratio wings
+streamlining
+12. On a symmetrical aerofoil the camber line is
+
+equal to the chord
+less than the chord
+greater than the chord
+13. Which of the following can reduce induced drag?
+
+Smooth surfaces
+@@Winglets
+Streamlining
+14. Which of the following statements about boundary layers is correct?
+
+The turbulent boundary layer is thinner than the laminar boundary layer
+The turbulent boundary layer gives a lower skin friction than the laminar boundary layer
+@@The turbulent boundary layer has more kinetic energy than the laminar boundary layer
+15. The boundary layer of a body in a moving airstream is
+
+a layer of air over the surface where the airspeed is changing from free stream velocity to zero velocity
+a thin layer of air over the surface where the air is stationary
+a layer of air which is moving at free stream speed
+16. The angle of attack of an aerofoil section is the angle between the
+
+underside of the wing surface and the mean airflow
+@@chord line and the relative airflow
+chord line and the centre line of the fuselage
+17. A High Aspect Ratio wing is a wing with
+
+short span, long chord
+long span, long chord
+@@long span, short chord
+18. Downwash, on a wing section during flight, occurs
+
+at the trailing edge only
+at both the leading edge and the trailing edge
+at the leading edge only
+19. Lift is a function of
+
+velocity, wing shape, wing area and CL
+@@velocity, wing area, CL and density
+velocity, density, wing shape and lift coefficient
+20. The Mean Aerodynamic Chord (MAC) for a given wing of any planform is
+
+the wing area divided by the wing span
+@@the chord of a rectangular wing with same moment and lift
+the average chord of the actual aeroplane
+1. 'Load factor' has the following meaning:
+
+The ratio of a specified load to the mass of the aircraft the former being expressed in terms of aerodynamic and inertia forces
+The ratio of a specified load to the mass of the aircraft, the former being expressed in terms of aerodynamic forces, inertia forces and ground reactions
+@@The ratio of a specified load to the weight of the aircraft, the former being expressed in terms of aerodynamic forces, inertia forces and ground reactions
+2.  Which of the following are lift increasing device?
+
+Flaps only
+Slots only
+@@Flaps and slots
+3. A boundary layer fence on a swept wing will
+
+improve the high speed characteristics
+increase the critical Mach Number
+@@improve the low speed characteristics
+4. A deployed slat will
+
+increase the camber of the aerofoil and increase the effective angle of attack, suction peak so that Clmax is reached at higher angle of attack
+increase the boundary layer energy and increase the suction peak on the fixed part of the wing, so that the stall is postponed to higher angle of attack
+@@increase the boundary layer energy, move the suction peak from the fixed part of the wing to the slat, the stall is postponed to higher angle of attack
+5. The type of flaps which increase both lift and area of the wing is a
+
+slotted flap
+plain flap
+@@Fowler flap
+6. What happens to lift when flaps are lowered?
+
+Decreases
+Remains same
+@@Increases
+7. In a gliding flight
+
+lift is greater than weight
+@@lift is less than weight
+lift is zero
+8. A slotted flap will increase the CLmax by
+
+increasing only the camber of the aerofoil
+@@increasing the camber of the aerofoil and improving the boundary layer
+increasing the critical angle of attack
+9. A stall warning device must be set to operate
+
+at a speed just above stalling speed
+at a speed just below stalling speed
+at the stalling speed
+10. A stick shaker is intended to come into operation
+
+prior to the actual moment of aircraft stall
+at the actual moment of aircraft stall
+immediately after the aircraft is stalled
+11. About which axis of the aircraft does a rolling motion take place?
+
+Vertical axis
+@@Longitudinal axis
+Lateral axis
+12. After take-off the slats (when installed) are always retracted later than the flaps. Why?
+
+Because SLATS EXTENDED gives a large decrease in stall speed with relatively less drag
+Because SLATS EXTENDED provides a better view from the cockpit than FLAPS EXTENDED
+Because FLAPS EXTENDED gives a large increase in stall speed with relatively less drag
+13. Aircraft flying in the transonic range most often utilize
+
+high wings
+@@sweptback wings
+advanced super-critical airfoils
+14. An aeroplane has the following flap settings: 0°, 15°, 30° and 45°. Slats can be selected too. Which of the above selections will produce the greatest negative influence on the CL/CD ratio?
+
+Flaps from 15° to 30°
+@@Flaps from 30° to 45°
+Flaps from 0° to 15°
+15. An aircraft banks into a turn. No change is made to the airspeed or angle of attack. What will happen?
+
+The aircraft enters a side slip and begins to lose altitude
+The aircraft turns with no loss of height
+The aircraft yaws and slows down
+16. An aircraft is flying into the wind. In a given amount of time, it will
+
+fly with the same IAS as in still air, but travel less distance
+fly with a higher IAS than in still air, and travel further
+fly with a higher IAS than in still air, and travel less
+17. An aircraft wing is said to have stalled when the
+
+boundary layer is completely turbulent
+speed of the aircraft falls below the stalling speed
+@@airflow separates from the upper surface
+18. An increase in angle of attack (below the stalling angle of attack) increases lift because
+
+induced drag is reduced
+the vertical component of weight is reduced
+@@the lift coefficient increases
+19. An increase of wing loading will
+
+increase the stall speed
+decrease the minimum gliding angle
+decrease take off speeds
+1. The lateral axis is
+
+a straight line through the CG parallel to a line joining the wingtips
+a straight line through the CG from nose to tail
+a straight line through the CG at right angles to the longitudinal and lateral axis
+2. The lateral axis is also called the
+
+pitch axis
+normal axis
+roll axis
+3. Dihedral wings combat instability in
+
+side-slip
+pitch
+yaw
+4. An aircraft with neutral stability has its attitude changed due to a gust of wind, how will this effect it?
+
+It will return to its original attitude
+It will go further out of control continuously
+@@It will remain in its new attitude
+5. The directional axis
+
+acts through the C of G, perpendicular to the longitudinal axis and lateral axis.
+is perpendicular to the longitudinal axis
+is perpendicular to the horizontal axis
+6. If an aircraft returns to a position of equilibrium it is said to be
+
+positively stable
+neutrally stable
+negatively stable
+7. Which of the following is used to counteract yaw?
+
+Fin area
+Lateral dihedral
+Longitudinal dihedral
+8. Dutch roll is an oscillatory motion that is an interaction between
+
+longitudinal and directional stability
+@@lateral and directional stability
+longitudinal and lateral stability
+9. Lateral stability is about the
+
+vertical axis
+@@longitudinal axis
+lateral axis
+10. Dutch Roll is
+
+a type of slow roll
+primarily a pitching instability
+@@a combined rolling and yawing motion
+11. Movement of an aircraft about its vertical axis
+
+is yawing
+is pitching
+is rolling
+12. The pendulum effect on a high wing aircraft
+
+increases lateral stability
+decreases lateral stability
+has no effect on lateral stability
+13. Longitudinal stability is provided by the
+
+horizontal stabilizer
+vertical stabilizer
+mainplane
+14. The fin gives stability about which axis?
+
+Lateral axis
+@@Vertical axis
+Longitudinal axis
+15. Dihedral improves
+
+longitudinal stability
+directional stability
+@@lateral stability
+16. An aircraft, which is longitudinally stable, will tend to return to level flight after a movement in which axis?
+
+Roll
+Yaw
+@@Pitch
+17. Stability of an aircraft is
+
+the ability of the aircraft to rotate about an axis
+the tendency of the aircraft to stall at low airspeed
+@@the tendency of the aircraft to return to its original trimmed position after having been displaced
+18. A high wing position gives
+
+the same lateral stability as a low wing
+@@more lateral stability than a low wing
+less lateral stability than a low wing
+19. The three axes concerned with stability of an aircraft have
+
+longitudinal axis nose to tail, lateral axis at furthest span point, vertical axis through centre of pressure
+vertical axis through C of G. Lateral axis - wing tip to wing tip. Longitudinal axis - nose to tail but not through C of G
+@@longitudinal, lateral and vertical axis all passing through aircraft centre of gravity
+20. Yawing is a rotation around
+
+the vertical axis obtained by the elevator
+the lateral axis obtained by the rudder
+@@the vertical axis obtained by the rudder

@@ -1,0 +1,149 @@
+1. Typical displays on an EHSI are.
+Engine indications.
+@@VOR, Map, Plan and weather radar.
+VOR, Plan, Map and Attitude.
+
+2. What is the fixed feature of an ADI?
+The glideslope pointer.
+@@The aircraft symbol.
+The lateral deviation bar.
+
+3. Engine parameters are displayed on.
+@@ECAM.
+EHSI.
+FMSCDU
+
+4. What is the fixed feature of an ADI?
+The glideslope pointer.
+@@The aircraft symbol.
+The lateral deviation bar.
+
+5. What are the basic elements for 'Classic T' format?
+Direction, altitude and height.
+Airspeed, pitch and roll.
+@@Airspeed, attitude, altitude and direction
+
+6. On an EFIS system the weather radar is displayed on.
+The FMC CDU.
+The EADI.
+@@The EHSI
+
+7. EADI displays show.
+Pitch, roll and waypoints.
+@@Pitch and roll attitudes.
+Heading and weather radar.
+
+8. Radio altitude is displayed on an EFIS system.
+On the Electronic Horizontal Situation Indicator.
+@@On the Electronic Attitude Direction Indicator.
+On the RMI.
+
+9. On a modern 'glass cockpit' aircraft, engine information is displayed on.
+FMS.
+EFIS.
+@@ECAM.
+
+10. What does EFIS mean?
+Electronic Fire Indication Signal.
+@@Electronic Flight Instrument System.
+Electronic Flight Information System.
+
+11. What does EICAS mean?
+Electronic indicator and control alerting system.
+@@Engine indicating and Crew alerting system.
+Electronic indicator and crew alerting system.
+
+12. What does ECAM mean?
+Engine Centralised Aircraft Management System.
+Engine Centralised Aircraft Monitoring System.
+@@Electronic Centralised Aircraft Monitoring System.
+
+13. On an EADI, the Flight Director command bars show.
+The path with respect to the horizon.
+@@The required path with respect to the actual path.
+The actual path with respect to the required path.
+
+14. What would you expect to see displayed on an EADI display?
+Compass heading, selected heading and VOR.
+Course information, weather radar, way point alert and bearing pointers.
+@@Flight director command bars, slip indicator, rate to altitude& autoland.
+
+15. An EADI display of flight director commands are coloured.
+cyan.
+@@magenta.
+red.
+
+16. The EFIS system consists of.
+EHSI, Mode control panel, EADI.
+@@EADI, EHSI, Symbol generators.
+Mode control Panel, RDMI, EHSI.
+
+1. A BYTE is usually.
+@@An 8 bit word.
+A six bit word.
+A 12 bit word.
+
+2. A computer using RAM would utilize.
+Magnetic tape.
+A compact disc.
+@@An integrated circuit (chip).
+
+3. What is EPROM?
+Enhanced programmable read only memory.
+@@Erasable programmable read only memory.
+Erasable programming read only module.
+
+4. How many bytes can be carried in a 32bit word?
+8 bytes.
+@@4 bytes.
+2 bytes.
+
+5. Data is usually stored in.
+RAM.
+@@ROM.
+EEPROM.
+
+6. A computer requires to operate, a.
+Address bus, a data bus only.
+@@Data bus, a control bus, a address bus.
+Data bus, a control bus only.
+
+1. What precautions are required when removing ESDS equipment?
+@@Wear a wrist strap connected to an approved ground point.
+No special precautions are required.
+Keep one hand on the airframe.
+
+2. Electrostatic discharge occurs when.
+The ground lead on a wrist strap touches the skin.
+Materials are rubbed together or pulled apart.
+@@Materials of different potential are brought in close proximity to each other.
+
+3. The resistance of the wrist strap used as part of anti static precautions should be.
+Clipped into a receptacle with a 200 megaohm resistor connected to a common ground point.
+1 megohm - 200 megohm.
+@@Clipped into a receptacle with a 1 megaohm resistor connected to a common ground point.
+
+4. Which insulating materials should be kept out of the work area.
+Vinyl, rubber, mica, copper
+@@Vinyl, rubber, mica, nylon
+Vinyl, rubber, mica, nylon, conductive footwear.
+
+5. After attaching a wrist strap to your wrist (which is connected to aircraft ground), prior to removal of ESDS equipment, the resistance measured.
+Between your skin and the pin ground must be >1 megohms.
+Between the strap and the pin ground must be <1 megohms.
+@@Between the strap and the pin ground must be >1 Megohms.
+
+6. A wrist band must be worn when working with ESDS devices.
+@@To dissipate and prevent static build-up on the operator
+To prevent the operator from getting an electric shock.
+To dissipate static charge on the device.
+
+7. A humid atmosphere.
+@@Reduces static charge.
+Eliminates static charge.
+Has no effect on the level of charge.
+
+8. Static Safe Workstation must have
+@@Floor and table-top mats both connected through a 1 mega-ohm resistor connected to a common ground point.
+Floor and table-top mats both connected through a 20 mega-ohm resistor connected to a common ground point.
+Floor and table-top mats do not require static protection, only personal require protection.
