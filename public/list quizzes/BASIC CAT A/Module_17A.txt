@@ -1,303 +1,299 @@
-1. The propeller is 'feathered' when the blades are at
+The propeller is 'feathered' when the blades are at
 20° to plane of rotation.
 0° to plane of rotation.
 @@90° to plane of rotation.
 
-2. The plane of rotation is defined as
+The plane of rotation is defined as
 the plane in which thrust force acts
 the angle at which the blade strikes the airflow
 @@the plane in which the propeller rotates
 
-3. Relative airflow is the airflow due to the
+Relative airflow is the airflow due to the
 Aircraft forward speed only
 Propeller rotation only
 @@Combination of propeller rotation and aircraft forward speed
 
-4. When in the windmill position ATM
+When in the windmill position ATM
 is not related to CTM
 opposes CTM
 @@assists CTM
 
-5. The thrust face of a propeller blade is the
+The thrust face of a propeller blade is the
 @@Blade face or flat side
 Root to which the gear segment is fitted
 Blade back or curved side
 
-6. A left handed propeller is one that?
+A left handed propeller is one that?
 is fitted to an engine on the left side of the aircraft
 rotates clockwise when viewed from the rear
 @@rotates clockwise when viewed from the front
 
-7. Given that blade angle is measured from the centre of the hub, the blade angle at the blade shank is considered to be
+Given that blade angle is measured from the centre of the hub, the blade angle at the blade shank is considered to be
 @@highest
 Master Station value
 lowest
 
-8. Thrust bending force on a propeller blade
+Thrust bending force on a propeller blade
 can be used in propeller design to reduce some operation stress
 @@tends to bend the propeller blade forward at the tip
 intensifies the centrifugal forces to some degrees
 
-9. A right hand propeller
+A right hand propeller
 rotates clockwise when viewed from the front
 is always fitted to the starboard engine
 @@rotates clockwise when viewed from the rear
 
-10. The maximum airspeed of the aerofoil section of a propeller blade is at the
+The maximum airspeed of the aerofoil section of a propeller blade is at the
 root
 master station
 @@tip
 
-1. What is the minimum longitudinal clearance?
+What is the minimum longitudinal clearance?
 1 inch
 2 inches
 @@1/2 inch
 
-2. The term 'Blade stations' refer to distances from the
+The term 'Blade stations' refer to distances from the
 blade root to blade tip
 @@hub centre to blade tip
 blade shank to blade tip
 
-3. A reverse pitch propeller is
+A reverse pitch propeller is
 A propeller which varies from coarse to fine pitch automatically
 Where the blade pitch has been increased - to increase the forward thrust
 @@Where the blade pitch has been reduced to a negative pitch to reduce the aircraft's speed
 
-4. The master element station is usually situated
+The master element station is usually situated
 at 0.7 blade span away from blade root
 @@at 0.7 blade span away from centre of hub
 at 0.7 blade span away from blade tip
 
-5. Splined shafts on propeller installation are used normally on
+Splined shafts on propeller installation are used normally on
 @@large engines
 lightweight engines
 small engines
 
-6. Propeller blade stations are measured from
+Propeller blade stations are measured from
 the root
 the master station
 @@the centre of the hub
 
-7. What is the purpose of small holes at the tip of wooden propellers?
+What is the purpose of small holes at the tip of wooden propellers?
 @@Drainage
 Pivot points used during manufacture
 Balancing
 
-8. Nickel sheaths are used for
+Nickel sheaths are used for
 aerodynamics
 @@erosion prevention
 strength
 
-9. Metal at the tip and along the leading edge of a wooden propeller is
+Metal at the tip and along the leading edge of a wooden propeller is
 @@for protection
 for balancing
 for Anti-icing
 
-10. The variable pitch change mechanism is housed inside the
+The variable pitch change mechanism is housed inside the
 propeller shaft
 @@propeller hub
 propeller blades
 
-11. The blade face is the surface of the propeller blade that
+The blade face is the surface of the propeller blade that
 corresponds to the upper surface of an aerofoil or cambered side
 the airflow hits directly, which will be either the flat or curved side, depending on whether the propeller is windmilling or being driven by the engine
 @@corresponds to the lower surface of an aerofoil or flat side
 
-12. If a flanged propeller shaft has dowel pins
+If a flanged propeller shaft has dowel pins
 check carefully for front cone bottoming against the pins
 @@the propeller can be installed in only one position
 install the propeller so that the blades are positioned for hand propping
 
-1. Reduction gearing allows the
+Reduction gearing allows the
 Blade tips to rotate slower than the root of the propeller blade.
 @@Blade tips to operate below the speed of sound.
 Blade tips to operate above the speed of sound.
 
-2. Blade cuffs are fitted to the root of the blades
+Blade cuffs are fitted to the root of the blades
 @@To increase flow of cooling air into the engine nacelle.
 To increase thrust
 To increase the strength of the blade
 
-3. The term spinner is applied to
+The term spinner is applied to
 A propeller tip vortex
 An acrobatic manoeuvre
 @@A streamline covering over the propeller hub
 
-4. The advantage of the beta range is it allows
+The advantage of the beta range is it allows
 high power settings with higher than normal pitch settings when in flight
 low fine pitch settings with high power
 @@C low power settings with higher than normal pitch setting for ground manoeuvres
 
-5. Counterweights are used to
+Counterweights are used to
 balance the blades
 @@counteract the CTM of the blades
 counter the ATM of the blades
 
-6. In a propeller with counterweights, what is used to make it move to fine pitch?
+In a propeller with counterweights, what is used to make it move to fine pitch?
 Centrifugal force acting on the counterweight
 ATM
 @@Governor oil pressure
 
-7. If the speeder spring pressure of a CSU is increased the blade will
+If the speeder spring pressure of a CSU is increased the blade will
 will not move
 coarsen off
 @@fine off
 
-8. The gear type pump in a C.S.U. or P.C.U
+The gear type pump in a C.S.U. or P.C.U
 assist the governor valve to move
 lubricates the entire propeller system
 @@boosts engine oil system pressure
 
-9. Possible blade angles are
+Possible blade angles are
 @@from max. reverse to feather position
 from max. reverse to take-off position
 from ground idle to feather position
 
-10. If governor flywheel overcomes the speeder spring, it indicates
+If governor flywheel overcomes the speeder spring, it indicates
 @@overspeed
 underspeed
 onspeed
 
-11. If underspeed occurs, the propeller blades move towards
+If underspeed occurs, the propeller blades move towards
 feathering
 coarse pitch
 @@fine pitch
 
-12. When the flyweights fly outwards in a PCU, this is known as
+When the flyweights fly outwards in a PCU, this is known as
 @@overspeed
 underspeed
 onspeed
 
-1. Propeller de-icing for varying rates of icing can be varied by
+Propeller de-icing for varying rates of icing can be varied by
 @@increasing cyclic timing
 increasing propeller RPM
 increasing the AC or DC voltage
 
-2. Ice formation on the propellers, when the aircraft is in flight, will
+Ice formation on the propellers, when the aircraft is in flight, will
 decrease available engine power
 @@decrease thrust and cause excessive vibration
 increase aircraft stall speed and increase noise
 
-3. Propeller slip rings
+Propeller slip rings
 @@conduct electrical power for de-icing
 convey oil for PCU to pitch change mechanism
 minimise slip
 
-4. On an electrical de-icing system, the brush block is used to transfer power to
+On an electrical de-icing system, the brush block is used to transfer power to
 the de-icing boot
 @@the slip ring
 the timer
 
-5. Propeller anti-icing may be achieved by
+Propeller anti-icing may be achieved by
 using commercial de-icing fluid sprayed on the propeller
 @@using iso-propyl alcohol de-icing fluid sprayed on the blade
 a using hot air from the compressor
 
-6. If an element in the propeller overshoe becomes open circuit
+If an element in the propeller overshoe becomes open circuit
 the overshoe is removed and element replaced
 the element can be replaced in situ
 @@the entire overshoe must be replaced
 
-7. Ice is removed from blades by
+Ice is removed from blades by
 Rubber boots inflated in sequence using compressor hot air
 @@Inboard and outboard boot sections heated in sequence by action of the timer
 A continuously heated electrical boot
 
-8. Propeller blades are electrically de-iced by
+Propeller blades are electrically de-iced by
 generating eddy currents in the blades
 electric heating elements wound around the blade root
 @@electric heating elements bound in rubber overshoes on the leading edge of the blades
 
-9. Blade dual heating elements are positioned
+Blade dual heating elements are positioned
 @@inboard and outboard, but both near root
 upper and lower surfaces of blades
 one at the tip and one near the root, the centre blade portion is cleared by slipstreaming
 
-1. Composite propellers may have minor repairs carried out by
+Composite propellers may have minor repairs carried out by
 Any approved 3rd party maintenance organization
 The operator
 @@Any approved composite repair facility
 
-2. How is blending carried out on an aluminium propeller blade?
+How is blending carried out on an aluminium propeller blade?
 By using a scraper
 By using a coarse file and peening
 @@By using a needle file and finish with emery cloth
 
-3. Propeller blade tracking is the process of determining
+Propeller blade tracking is the process of determining
 That the blade angles are within specified tolerance of each other
 The plane of rotation of the propeller with respect to the aircraft longitudinal axis
 @@The positions of the tips of the propeller blades relative to each other
 
-4. Blade tracking is adjusted by
+Blade tracking is adjusted by
 @@by fitting shims to the propeller shaft hub
 adding lead wool to the blade shank
 re-seating the propeller on the front and rear cones
 
-5. Thrust and camber faces of a propeller should be blended out to
+Thrust and camber faces of a propeller should be blended out to
 5 times the depth of damage
 @@20 times to the depth of damage
 10 times to the depth of damage
 
-6. Which of the following determines oil and grease specifications for lubrication of propellers?
+Which of the following determines oil and grease specifications for lubrication of propellers?
 Airframe manufacturers
 Engine Manufacturers
 @@Propeller manufacturers
 
-7. The application of more protective coating on one blade than another when refinishing a wood propeller
+The application of more protective coating on one blade than another when refinishing a wood propeller
 has little or no effect on operating characteristics
 should never be done
 @@may be necessary to achieve final balancing
 
-8. A metal propeller may be statically balanced by
+A metal propeller may be statically balanced by
 removing metal from the opposite blade
 @@adding or removing lead wool to the hollow blade roots
 adding varnish to the lighter blade
 
-9. Leading edges should be blended out to
+Leading edges should be blended out to
 5 times the depth of damage
 30 times the depth of damage
 @@10 times the depth of damage
 
-10. Which of the following is the most dangerous place to have a crack on a propeller?
+Which of the following is the most dangerous place to have a crack on a propeller?
 Trailing edge
 @@Leading edge
 Tip
 
-11. Dynamic balance is confirmed by use of
+Dynamic balance is confirmed by use of
 knife edges and mandrel
 a tracking check
 @@a vibration analyzer
 
-12. When preparing a propeller blade for inspection it should be cleaned with
+When preparing a propeller blade for inspection it should be cleaned with
 steel wool
 methyl ethyl ketone
 @@mild soap and water
 
-1. A wooden propeller should be stored in a
+A wooden propeller should be stored in a
 Room with high humidity to stop it drying and cracking
 @@Dry and well ventilated area
 Warm but light storeroom
 
-2. Short term temporary storage of a propeller is a period of up to
+Short term temporary storage of a propeller is a period of up to
 A.30 days
 B.60 days
 @@C.90 days
 
-3. If you find defects on the blades, spinner or backplate before it goes in the store, what do you do?
+If you find defects on the blades, spinner or backplate before it goes in the store, what do you do?
 There may be no attention given to the components
 Put it in store and will be seen and rectified on build-up
 @@The defects must be rectified before the propeller is accepted in storage
 
-4. When storing wooden propellers
+When storing wooden propellers
 store in a dry well ventilated and illuminated location
 wrap in greaseproof paper
 @@store in a horizontal position
 
-5. The maximum storage periods for installed propellers are detailed in the
+The maximum storage periods for installed propellers are detailed in the
 propeller overhaul and repair manual
 Airworthiness Notices
 @@Aircraft Maintenance Manual
-
-Total: 1074 questionsTotal: 1074 questionsTotal: 1074 questions
-@@Total: 1074 questions
-@@Total: 1074 questions

@@ -1,812 +1,812 @@
-1. In what section of a turbojet engine is the jet nozzle located?
+In what section of a turbojet engine is the jet nozzle located?
 Turbine.
 @@Exhaust.
 Combustion.
 
-2. On a twin rotor fan engine, the high pressure turbine drives
+On a twin rotor fan engine, the high pressure turbine drives
 the fan
 the N1 gas generator
 @@the high pressure compressor and accessory gearbox
 
-3. Which statements are true regarding aircraft engine propulsion?
+Which statements are true regarding aircraft engine propulsion?
 Turbojet and turbofan engines impart a relatively large amount of acceleration to a smaller mass of air.
 In modern turboprop engines, nearly 50 percent of the exhaust gas energy is extracted by turbines to drive the propeller and compressor with the rest providing exhaust thrust.
 @@An engine driven propeller imparts a relatively small amount of acceleration to a large mass of air.
 
-4. If the temperature of the mass of air is increased while its volume is kept constant, then pressure will
+If the temperature of the mass of air is increased while its volume is kept constant, then pressure will
 decrease
 stay the same
 @@increase
 
-5. There is no peak pressure in a jet engine because of
+There is no peak pressure in a jet engine because of
 continuous flow of air
 @@constant pressure combustion
 compression in stages
 
-6. A free turbine engine with two compressor and three turbine is
+A free turbine engine with two compressor and three turbine is
 three spool
 single spool
 @@two spool
 
-7. An example of a divergent duct is the
+An example of a divergent duct is the
 propelling nozzle
 passage between the nozzle guide vanes
 @@jet pipe at the exit from the turbine
 
-8. In a twin spool compressor system, the first stage turbine drives the
+In a twin spool compressor system, the first stage turbine drives the
 N1 and N2 compressors.
 N1 compressor.
 @@N2 compressor.
 
-9. In what section of a turbojet engine is the jet nozzle located?
+In what section of a turbojet engine is the jet nozzle located?
 Turbine.
 @@Exhaust.
 Combustion.
 
-10. On a twin rotor fan engine, the high pressure turbine drives
+On a twin rotor fan engine, the high pressure turbine drives
 the fan
 the N1 gas generator
 @@the high pressure compressor and accessory gearbox
 
-11. When the volume of fixed mass of gas is reduced to a quarter of its original volume, the pressure will be
+When the volume of fixed mass of gas is reduced to a quarter of its original volume, the pressure will be
 reduced by quarter
 @@increased by 4 times
 increased by 8 times
 
-12. Which of the following is the better combination?
+Which of the following is the better combination?
 @@Centrifugal compressor, axial flow turbine, can-type combustion chamber
 Centrifugal compressor, can-type combustion chamber, centrifugal type turbine
 Axial flow single rotor compressor, annular-type combustion chamber, two-stage split turbine
 
-13. The principle of jet propulsion is
+The principle of jet propulsion is
 @@every action has a equal and opposite reaction
 the interaction of fluids and gases
 the calorific value of fuel burnt is equal to aircraft thrust
 
-14. The velocity of subsonic air as it flows through a convergent nozzle
+The velocity of subsonic air as it flows through a convergent nozzle
 decreases
 remains constant
 @@increases
 
-15. The 'core engine' or 'gas generator' is made up of the following components:
+The 'core engine' or 'gas generator' is made up of the following components:
 Inlet, compressor, combustion chamber, turbine, exhaust
 Compressor, turbine, exhaust, propelling nozzle
 @@Turbine, combustion chamber, compressor
 
-16. Newton's First Law of Motion, generally termed the Law of Inertia, states:
+Newton's First Law of Motion, generally termed the Law of Inertia, states:
 @@Every body persists in its state of rest, or of motion in a straight line, unless acted upon by some outside force.
 Force is proportional to the product of mass and acceleration.
 To every action there is an equal and opposite reaction.
 
-17. The basic gas turbine engine is divided into two main sections: the cold section and the hot section.
+The basic gas turbine engine is divided into two main sections: the cold section and the hot section.
 @@The hot section includes the combustor, turbine, and exhaust
 The hot section includes the combustor, diffuser, and exhaust
 The cold section includes the engine inlet, compressor, and turbine sections.
 
-18. A modern gas turbine engine accelerates
+A modern gas turbine engine accelerates
 @@a large mass of air at a relatively low velocity
 a small mass of air at a relatively high velocity
 a large mass of air at a relatively high velocity
 
-19. In a ducted fan engine, the fan is driven by the
+In a ducted fan engine, the fan is driven by the
 accessory gearbox
 @@turbine
 air passing over the compressor
 
-20. The working cycle of gas turbine engine is the
+The working cycle of gas turbine engine is the
 Diesel cycle
 @@Brayton cycle
 Otto cycle
 
-1. The intake of a gas turbine engine is designed to
+The intake of a gas turbine engine is designed to
 Protect compressor from FOD
 Provide streamlined fairing for aircraft
 @@Provide turbulent free air
 
-2. Anti icing of jet engine air inlets is commonly accomplished by
+Anti icing of jet engine air inlets is commonly accomplished by
 electrical heating elements located within the engine air inlet cowling.
 @@engine bleed air ducted through the critical areas.
 electrical heating elements inside the inlet guide vanes.
 
-3. The inlet door on a variable geometry intake is open at
+The inlet door on a variable geometry intake is open at
 @@subsonic speeds
 idle speed
 supersonic speeds
 
-4. Inlet guide vanes are anti-iced with
+Inlet guide vanes are anti-iced with
 @@engine bleed air
 rubber boots
 thermal blankets
 
-5. Engine anti-ice is taken from
+Engine anti-ice is taken from
 @@HP compressor
 Turbine
 LP compressor
 
-6. Engine compressor stall may be induced during rapid attitude changes if the aircraft has
+Engine compressor stall may be induced during rapid attitude changes if the aircraft has
 @@engine intakes mounted close to the fuselage
 long engine intakes
 engine pods mounted under the wings
 
-7. What is true for a bellmouth intake?
+What is true for a bellmouth intake?
 @@Velocity increases and pressure decreases
 Pressure and velocity decrease
 Pressure increases and velocity decreases
 
-8. The purpose of a bellmouth compressor inlet is to
+The purpose of a bellmouth compressor inlet is to
 @@maximize the aerodynamic efficiency of the inlet.
 provide an increased ram air effect at low airspeeds.
 provide an increased pressure drop in the inlet.
 
-9. Electrical anti-ice
+Electrical anti-ice
 heats oil which is distributed around engine
 heats air which is distributed around engine
 @@heats elements, placed under mats around engine
 
-10. In subsonic multi-engine aircraft, a normal inlet duct will
+In subsonic multi-engine aircraft, a normal inlet duct will
 decrease and then increase in size, front to rear, along length of the duct
 increase and then decrease in size, front to rear, along length of the duct
 @@increase in size, front to rear, along length of the duct
 
-1. Compressor stalls may be eliminated by using which of the following systems?
+Compressor stalls may be eliminated by using which of the following systems?
 @@Compressor bleed-air system and variable vane system
 Inlet guide vane and stator vane system
 Front and rear compressor system
 
-2. The variable stator vanes are controlled by
+The variable stator vanes are controlled by
 @@The ECU
 The HMU
 The VBV gear motor
 
-3. The ring of fixed blades at the intake of an axial flow compressor are called
+The ring of fixed blades at the intake of an axial flow compressor are called
 A.first stage stator blades
 first stage diffuser blades
 @@inlet guide vanes
 
-4. What is a compressor stage?
+What is a compressor stage?
 One Nozzle Guide Vane and one rotor
 @@One rotor plus one stator
 One compressor rotor and one nozzle guide vane
 
-5. Stall will occur in the high pressure stages of an axial flow compressor because
+Stall will occur in the high pressure stages of an axial flow compressor because
 air mass flow is increased when the compressor is turning at high speed
 @@air mass flow is reduced when the compressor is turning at high speed
 air mass flow is reduced when the compressor is turning at low speed
 
-6. The two types of centrifugal compressor impellers are
+The two types of centrifugal compressor impellers are
 impeller and diffuser.
 rotor and stator.
 @@single entry and double entry.
 
-7. What purpose do the diffuser vanes of a centrifugal compressor serve?
+What purpose do the diffuser vanes of a centrifugal compressor serve?
 To convert pressure energy into kinetic energy.
 @@To convert kinetic energy into pressure energy.
 To increase the air velocity.
 
-8. Compressor blades are reduced in size from
+Compressor blades are reduced in size from
 front to rear to maintain compressor efficiency
 HP to LP to maintain pressure
 @@LP to HP to maintain axial velocity
 
-9. A bypass engine LP compressor
+A bypass engine LP compressor
 @@supplies more air than is required for combustion
 supplies less air than is required for combustion
 supplies only the required quantity for combustion
 
-10. Variable inlet guide vanes help to prevent
+Variable inlet guide vanes help to prevent
 compressor runaway
 @@compressor stalling
 ice build up on compressor blades
 
-1. Combustor air that is not used to support combustion
+Combustor air that is not used to support combustion
 @@will film cool the liner and dilute combustion chamber exit temperature
 is by-pass air
 is considered as the total air flow
 
-2. Air through the combustion chamber retains a constant
+Air through the combustion chamber retains a constant
 Temperature
 Velocity
 @@Pressure
 
-3. In which type of turbine engine combustion chamber is the case and liner removed and installed as one unit during routine maintenance?
+In which type of turbine engine combustion chamber is the case and liner removed and installed as one unit during routine maintenance?
 @@Annular
 Can
 Can annular
 
-4. The types of combustion chamber used in gas turbine engine are
+The types of combustion chamber used in gas turbine engine are
 tubo-annular, can-annular and multiple-can
 multiple-can, annular and variable
 @@Can, Annular and Can annular
 
-5.  The air passing through the combustion chamber of a jet engine is
+The air passing through the combustion chamber of a jet engine is
 speeded up and heated by the action of the turbines
 entirely combined with fuel and burned
 @@used to support combustion and to cool the engine
 
-6. The main purpose of combustion is to
+The main purpose of combustion is to
 @@increase gas velocity
 increase gas mass flow
 increase gas pressure
 
-7. An annular combustion chamber is preferred over the can design combustion chamber because
+An annular combustion chamber is preferred over the can design combustion chamber because
 it is easier to construct and has even pressure throughout the chamber
 it has multi spray nozzle, less chances of flame out and easy maintenance
 @@it gives a smaller engine diameter for the same cross sectional area of airflow and has longer life
 
-8. Why is it necessary to have a combustion chamber drain?
+Why is it necessary to have a combustion chamber drain?
 To prevent pressure build-up in the combustion chamber
 @@To allow unburnt fuel to drain away
 To allow fuel to return to LP when hp cock is closed.
 
-9. How are combustion liner walls cooled in a gas turbine engine?
+How are combustion liner walls cooled in a gas turbine engine?
 By the pattern of holes and louvers cut in the diffuser section.
 By bleed air vented from the engine air inlet.
 @@By secondary air flowing through the combustion chamber
 
-10. Fuel entering the combustion chamber from an atomizer spray nozzle enters as
+Fuel entering the combustion chamber from an atomizer spray nozzle enters as
 @@a fuel/air mixture
 fuel in air pulses
 fuel continuously
 
-1. A nozzle guide vane is
+A nozzle guide vane is
 hollow in construction to allow for thermal expansion
 @@hollow in construction to allow for flow of cooling air
 solid in construction to support the guide vane
 
-2. Forces driving the turbine are due to
+Forces driving the turbine are due to
 @@momentum and directional acceleration of gases
 expansion of gases
 aerodynamic lift imposing impulse on blades
 
-3. Turbine blades can be cooled by
+Turbine blades can be cooled by
 @@film and transpiration
 convection and thermal barrier
 film and radiation
 
-4. Gas pressure through the turbine section will generally
+Gas pressure through the turbine section will generally
 @@decrease
 remain the same
 increase
 
-5. What is meant by a shrouded turbine?
+What is meant by a shrouded turbine?
 The turbine wheel is enclosed by a protective shroud to contain the blades in case of failure.
 The turbine wheel has a shroud or duct which provides cooling air to the turbine blades.
 @@The turbine blades are shaped so that their ends form a band or shroud.
 
-6. Why do some turbine engines have more than one turbine wheel attached to a single shaft?
+Why do some turbine engines have more than one turbine wheel attached to a single shaft?
 A.To facilitate balancing of the turbine assembly.
 To help stabilize the pressure between the compressor and the turbine.
 @@To extract more power from the exhaust gases than a single wheel can absorb.
 
-7. Which of the following is most likely to occur in the turbine section of a gas turbine engine?
+Which of the following is most likely to occur in the turbine section of a gas turbine engine?
 Pitting
 @@Cracking
 Galling
 
-8. Jet engine turbine blades removed for detailed inspection must be reinstalled in
+Jet engine turbine blades removed for detailed inspection must be reinstalled in
 a specified slot 90° away in the direction of rotation.
 a specified slot 180° away.
 @@the same slot.
 
-9. As the hot gases flow through an impulse turbine blading, the velocity
+As the hot gases flow through an impulse turbine blading, the velocity
 will decrease
 @@will increase
 remains constant
 
-10. Air used to cool HP turbines is tapped from the
+Air used to cool HP turbines is tapped from the
 @@last few stages of the compressor
 mid-stages of the compressor
 first few stages of the compressor
 
-1. An exhaust cone placed aft of the turbine in a jet engine will cause the pressure in the first part of the exhaust duct to
+An exhaust cone placed aft of the turbine in a jet engine will cause the pressure in the first part of the exhaust duct to
 increase and the velocity to increase.
 @@increase and the velocity to decrease.
 decrease and the velocity to increase.
 
-2. The function of the exhaust cone assembly of a turbine engine is to
+The function of the exhaust cone assembly of a turbine engine is to
 @@straighten and collect the exhaust gases into a solid exhaust jet.
 swirl and collect the exhaust gases into a single exhaust jet.
 collect the exhaust gases and act as a noise suppressor.
 
-3. On front fan engines, to obtain thrust reversal, the
+On front fan engines, to obtain thrust reversal, the
 hot and cold streams are reversed
 hot stream is reversed
 @@cold stream is reversed
 
-4. The exhaust section is designed to
+The exhaust section is designed to
 @@impart a high exit velocity to the exhaust gases.
 decrease temperature, therefore decreasing pressure.
 increase temperature, therefore increasing velocity.
 
-5. The struts on the exhaust cone
+The struts on the exhaust cone
 straighten the gas flow only.
 support the exhaust cone only.
 @@support the exhaust cone and straighten the gas flow.
 
-6. What is the proper operating sequence when using thrust reversers to slow an aircraft after landing?
+What is the proper operating sequence when using thrust reversers to slow an aircraft after landing?
 @@Retard thrust levers to ground idle, select reverse thrust, then advance power levers as required, and then retard thrust reverser levers to ground idle.
 Advance thrust levers up to takeoff position as conditions require, select thrust reverse, de-select thrust reverser, retard thrust levers to ground idle.
 Select thrust reverse, advance thrust reverser levers no higher than 75% N1, and retard thrust reverser levers to idle at approximately normal taxi speed.
 
-7. Thrust reversal on a high bypass engine is achieved by
+Thrust reversal on a high bypass engine is achieved by
 bucket type doors
 @@blocker doors
 clamshell configuration
 
-8. As the air flows out at the outflow of a choked nozzle
+As the air flows out at the outflow of a choked nozzle
 @@velocity increases and pressure decreases
 velocity and pressure decrease
 velocity decreases and pressure increases
 
-9. Normal gas turbine engine's exhaust duct is
+Normal gas turbine engine's exhaust duct is
 convergent/divergent
 @@convergent
 divergent
 
-10. Thrust reversers may be operated at
+Thrust reversers may be operated at
 high Power
 any power
 @@low Power.
 
-1. Oil used in a gas turbine engine is usually
+Oil used in a gas turbine engine is usually
 mineral
 natural
 @@synthetic
 
-2. Ignition of fuel depends upon
+Ignition of fuel depends upon
 Volatility
 @@Both volatility and atomisation
 Atomisation
 
-3. When using Prist or Biopor
+When using Prist or Biopor
 @@it is left and burnt with the fuel
 it is flushed out immediately
 it is diluted with water to a 3-1 mix
 
-4. What action is taken to protect integral fuel tanks from corrosion due to micro biological contamination?
+What action is taken to protect integral fuel tanks from corrosion due to micro biological contamination?
 Rubber liners are installed in the tank
 @@An Anti-microbial additive is added to the fuel
 The inside of the tank is coated with yellow chromate
 
-5. The viscosity of a liquid is a measure of its
+The viscosity of a liquid is a measure of its
 weight, or density.
 @@resistance to flow.
 rate of change of internal friction with change in temperature.
 
-6. In addition to lubricating (reducing friction between moving parts), engine oil performs what functions?
+In addition to lubricating (reducing friction between moving parts), engine oil performs what functions?
 Cools, seals, prevents corrosion
 @@Cools, seals, prevents corrosion, cushions shock loads
 Cools and seals
 
-7. The types of water present in aviation fuel are
+The types of water present in aviation fuel are
 dissolved and entrained both harmful
 @@dissolved that is harmless and entrained that is harmful
 dissolved that is harmful and entrained that is harmless
 
-8. Compared to reciprocating engine oils, the types of oils used in turbine engines?
+Compared to reciprocating engine oils, the types of oils used in turbine engines?
 @@have less tendency to produce lacquer or coke.
 are required to carry and disperse a higher level of combustion by-products.
 may permit a somewhat higher level of carbon formation in the engine.
 
-1. What is the purpose of the last chance oil filters?
+What is the purpose of the last chance oil filters?
 To assure a clean supply of oil to the lubrication system.
 @@To filter the oil immediately before it enters the main bearings.
 To prevent damage to the oil spray nozzle.
 
-2. What is the primary purpose of the oil to fuel heat exchanger?
+What is the primary purpose of the oil to fuel heat exchanger?
 De aerate the oil
 Cool the fuel
 @@Cool the oil
 
-3. Oil flow through a filter is
+Oil flow through a filter is
 for a pressure filter, inside to out
 @@for a pressure filter, outside to in
 for a scavenge filter, inside to out.
 
-4. What will result if an oil filter element becomes completely blocked?
+What will result if an oil filter element becomes completely blocked?
 Oil will flow at the normal rate through the system
 @@Oil will flow at a reduced rate through the system
 Oil flow to the engine will stop.
 
-5. A turbine engine dry sump lubrication system of the self contained, high pressure design
+A turbine engine dry sump lubrication system of the self contained, high pressure design
 has no heat exchanger.
 stores oil in the engine crankcase.
 @@consists of pressure, breather, and scavenge subsystems.
 
-6. How is engine oil usually cooled?
+How is engine oil usually cooled?
 @@By a fuel/oil cooler
 By ram air
 By bleed air
 
-7. How are the teeth of the gears in the accessory section of an engine normally lubricated?
+How are the teeth of the gears in the accessory section of an engine normally lubricated?
 @@By splashed or sprayed oil.
 By submerging the load bearing portions in oil.
 By surrounding the load bearing portions with baffles or housings within which oil pressure can be maintained.
 
-8. The sump in a dry sump oil system
+The sump in a dry sump oil system
 provides lubrication for the main bearings
 houses all the engine oil
 @@is used as a collecting point only
 
-1. Why is it necessary to control fuel supply to the engine during rapid acceleration?
+Why is it necessary to control fuel supply to the engine during rapid acceleration?
 To control maximum RPM
 @@To prevent excessively high EGT and possible compressor surge
 To prevent compressor stall above cruise RPM
 
-2. A fuel heater prevents
+A fuel heater prevents
 @@entrained water in fuel freezing
 pipelines freezing
 LP fuel filter icing
 
-3. The purpose of the LP fuel pump is to
+The purpose of the LP fuel pump is to
 ensure the fuel flow governor gets enough fuel
 @@ensure the HP fuel pump does not cavitate
 pump fuel from the aircraft fuel tanks to the engine
 
-4. Fuel boost pumps are cooled using
+Fuel boost pumps are cooled using
 @@fuel
 ram air
 Fuel pumps do not require cooling
 
-5. What power supplies the EEC during normal operation?
+What power supplies the EEC during normal operation?
 Main aircraft aircraft bus
 @@A dedicated generator
 Aircraft batteries
 
-6. One advantage of FADEC over the normal hydro-mechanical fuel system is that it
+One advantage of FADEC over the normal hydro-mechanical fuel system is that it
 reduces fuel consumption
 @@improves engine performance and reduces pilot work-load
 improves the thrust
 
-7. Where is the engine fuel shutoff valve usually located?
+Where is the engine fuel shutoff valve usually located?
 @@Downstream of the engine driven fuel pump.
 Adjacent to the fuel pump.
 Aft of the firewall.
 
-8. Which valve ensures the adequate fuel flow?
+Which valve ensures the adequate fuel flow?
 @@The fuel metering valve
 The burner staging valve
 The HP fuel SOV
 
-1. Engine anti-ice is taken from the
+Engine anti-ice is taken from the
 Turbine
 @@HP compressor
 LP compressor
 
-2. In an axial flow turbine engine, compressor bleed air is sometimes used to aid in cooling the
+In an axial flow turbine engine, compressor bleed air is sometimes used to aid in cooling the
 @@turbine, vanes, blades, and bearings.
 inlet guide vanes.
 fuel.
 
-3. Air used for film cooling of the HP nozzle guide vanes (NGVs) is
+Air used for film cooling of the HP nozzle guide vanes (NGVs) is
 ducted into the by-pass duct
 @@passes into the gas stream
 ducted overboard
 
-1. On light up, the gas temperature will
+On light up, the gas temperature will
 @@rise rapidly, then fall as RPM increases to idle.
 rise rapidly.
 rise slowly.
 
-2. During engine starting, self sustaining speed is the RPM at which
+During engine starting, self sustaining speed is the RPM at which
 light-up occurs
 @@the starter can be disengaged
 steady idling is attained.
 
-3. Generally, when removing a turbine engine igniter plug, in order to eliminate the possibility of the technician receiving a lethal shock, the ignition switch is turned off and
+Generally, when removing a turbine engine igniter plug, in order to eliminate the possibility of the technician receiving a lethal shock, the ignition switch is turned off and
 disconnected from the power supply circuit.
 the transformer exciter input lead is disconnected and the centre electrode grounded to the engine after disconnecting the igniter lead from the plug and waiting the prescribed time.
 @@the igniter lead is disconnected from the plug and the centre electrode grounded to the engine after disconnecting the transformer-exciter input lead and waiting the prescribed time.
 
-4. The primary advantage of pneumatic (air turbine) starters over comparable electric starters for turbine engines is
+The primary advantage of pneumatic (air turbine) starters over comparable electric starters for turbine engines is
 a decreased fire hazard
 @@high power-to-weight ratio
 reduction gearing not required
 
-5. What is the first engine instrument indication of a successful start of a turbine engine?
+What is the first engine instrument indication of a successful start of a turbine engine?
 A rise in the engine fuel flow.
 A rise in oil pressure.
 @@A rise in the exhaust gas temperature.
 
-6. Is it safe to touch the output from one ignition exciter 10 minutes after switching off the system?
+Is it safe to touch the output from one ignition exciter 10 minutes after switching off the system?
 Yes, even if there is voltage at the output, without input power this is not dangerous
 Yes, I can be sure that there is no longer any voltage at the output
 @@No, even after hours there can be a dangerous voltage at the output
 
-7. A gas turbine engine normally has provisions for what total number of igniter plugs in the combustion chamber?
+A gas turbine engine normally has provisions for what total number of igniter plugs in the combustion chamber?
 @@Two
 One
 Three
 
-8. Self sustaining speed is
+Self sustaining speed is
 take off velocity
 V1 speed
 @@the RPM at which the engine continues without external assistance
 
-9. A hung start will be indicated by
+A hung start will be indicated by
 @@RPM lower than than self sustaining speed
 engine fails to light up
 EGT exceeding limit
 
-10. How does the ignition system of a gas turbine engine differ from that of a reciprocating engine?
+How does the ignition system of a gas turbine engine differ from that of a reciprocating engine?
 Magneto to engine timing is not critical.
 One igniter plug is used in each combustion chamber.
 @@A high energy spark is required for ignition.
 
-11. The speed at which an engine will accelerate under its own power is known as
+The speed at which an engine will accelerate under its own power is known as
 ground idle
 @@self-sustaining speed
 light up speed
 
-1. How are EGT thermocouples connected?
+How are EGT thermocouples connected?
 Series
 @@Parallel
 Parallel / Series
 
-2. Torque pressure is usually read from a
+Torque pressure is usually read from a
 direct reading pressure gauge
 tension gauge
 @@torque meter
 
-3. Fuel flow indication is taken from
+Fuel flow indication is taken from
 A.after the HP pump
 after the LP pump
 @@after either HP Pump or LP Pump
 
-4. Where is Turbine Outlet Temperature (TOT) measured?
+Where is Turbine Outlet Temperature (TOT) measured?
 @@Downstream of the turbine
 Upstream of the turbine
 In the combustion chamber
 
-5. In what units are gas turbine engine tachometers calibrated?
+In what units are gas turbine engine tachometers calibrated?
 Actual engine RPM.
 @@Percent of engine RPM.
 Percent of engine pressure ratio.
 
-6. The speed of the motor in the tacho-indicator depends on
+The speed of the motor in the tacho-indicator depends on
 current
 voltage
 @@frequency
 
-7. Fuel flow is measured in
+Fuel flow is measured in
 @@lbs/hr or kg/hr
 litres (volume)
 lbs/min or kg/min
 
-8. Engine pressure ratio is the total pressure ratio between the
+Engine pressure ratio is the total pressure ratio between the
 front of the engine inlet and the aft end of the compressor.
 aft end of the compressor and the aft end of the turbine.
 @@front of the compressor and the rear of the turbine.
 
-1. What type of reduction gear is used on most turboprop modern engines?
+What type of reduction gear is used on most turboprop modern engines?
 @@Epicyclic reduction gear
 Helical cut parallel spur gears
 Straight cut parallel spur gears
 
-2. A free-turbine turbo-prop engine has
+A free-turbine turbo-prop engine has
 2 turbine stages driving one shaft
 3 turbine stages driving one shaft
 @@2 or more turbine stages driving two shafts
 
-3. Modern high performance turbo-prop aeroplanes use a
+Modern high performance turbo-prop aeroplanes use a
 fixed pitch propeller
 @@constant speed propeller
 ground adjustable propellers
 
-4. A turbo-propeller engine utilises a
+A turbo-propeller engine utilises a
 @@either centrifugal compressor or axial flow compressor
 axial flow compressor
 centrifugal compressor
 
-5. A free turbine is usually found on a
+A free turbine is usually found on a
 turbo-fan
 turbo-jet
 @@turbo-prop
 
-6. A free turbine is
+A free turbine is
 @@connected directly to the power output shaft
 not directly connected to the power output shaft
 connected directly to the propeller and compressor
 
-7. A free-turbine engine has how many turbines?
+A free-turbine engine has how many turbines?
 3
 1
 @@2
 
-1. On a twin spool turbo-shaft engine, the free turbine is connected to the
+On a twin spool turbo-shaft engine, the free turbine is connected to the
 HP gearbox
 LP gearbox
 @@output gearbox
 
-2. In the majority of helicopters, the thrust generated by the gas generator is absorbed by the
+In the majority of helicopters, the thrust generated by the gas generator is absorbed by the
 HP turbine
 @@Free power turbine
 LP turbine
 
-3. A turbo-shaft engine has
+A turbo-shaft engine has
 @@a power shaft which is not connected to the compressor
 neither of the other answers
 a mechanical connection between compressor and the power turbine
 
-4. The output of a turboshaft engine
+The output of a turboshaft engine
 @@is torque
 is thrust
 drives a fan
 
-5. In relation to a turbo-shaft engine, what is the power turbine?
+In relation to a turbo-shaft engine, what is the power turbine?
 It is a turbine designed to drive the compressor and the load
 @@It is a turbine wheel dedicated to drive the load
 It is another name for a compressor turbine
 
-6. What is the purpose of a free-wheeling unit as fitted to a helicopter reduction gearbox?
+What is the purpose of a free-wheeling unit as fitted to a helicopter reduction gearbox?
 @@It will not allow the rotor to back-drive the engine
 It will prevent the engine from overspeeding the rotor
 It de-couples the engine from the rotor on engine start-up
 
-1. An APU has
+An APU has
 variable speed and is self contained
 automatically controlled thrust and is self contained
 @@constant speed and is self contained
 
-2. What are the two most important signals when monitoring an APU?
+What are the two most important signals when monitoring an APU?
 @@EGT and RPM
 EGT and Oil Pressure
 Oil Pressure and Inlet Pressure
 
-3. An APU is usually rotated during start by
+An APU is usually rotated during start by
 a pneumatic starter.
 a turbine impingement system.
 @@an electric starter.
 
-4. Auxiliary power units provide
+Auxiliary power units provide
 hydraulic and pneumatic power
 @@pneumatic and electrical power
 hydraulic and electrical power
 
-5. When is the APU at its greatest load?
+When is the APU at its greatest load?
 @@With bleeds open and with generator loads on line
 With generator loads on line
 With bleeds closed
 
-6. An APU power lever is located
+An APU power lever is located
 @@An APU is fully automatic and does not require a power lever
 behind the throttles
 at the Flight Engineer Station
 
-7. What initiates APU shutdown?
+What initiates APU shutdown?
 Low oil pressure, low oil quantity, high oil temperature
 Overspeed, fire detection, low oil quantity
 @@Fire detection, low oil pressure, high oil temperature, overspeed
 
-8. From where does the APU receive a fire signal?
+From where does the APU receive a fire signal?
 It is dependent on the engine fire system
 @@It has its own system
 It is dependent on the airframe system
 
-9. When necessary, APU engine cooling before shutdown may be accomplished by
+When necessary, APU engine cooling before shutdown may be accomplished by
 unloading the generator(s).
 @@closing the bleed air valve.
 opening the bleed air valve.
 
-10. An APU load compressor
+An APU load compressor
 loads the APU when electrical loads are required
 supplies air to the gas generator
 @@supplies air to the aircraft
 
-1. Forward engine mounts take which loads?
+Forward engine mounts take which loads?
 @@Thrust, vertical and side loads
 Centrifugal, thrust and axial
 Thrust, vertical and impact
 
-2. Rubber anti-vibration pads are fitted to engine
+Rubber anti-vibration pads are fitted to engine
 components to prevent fatigue
 @@pylons to prevent vibration through the airframe
 cradles to prevent damage during transportation
 
-3. A powerplant consists of
+A powerplant consists of
 a basic engine plus E.C.U
 a basic engine plus thrust reverser, exhaust system and gear box with accessories
 @@the complete engine as it would be found on aircraft including all connections, controls, cowlings, intake etc
 
-4. Vibration mounts are used for
+Vibration mounts are used for
 @@preventing engine vibration loads being transmitted to the airframe structure
 stopping vibrations entering the engines
 damping out vibration stresses on engine when being transported on an engine stand
 
-5. Acoustic blankets are installed to
+Acoustic blankets are installed to
 increase thermal efficiency
 aid the streamlining of the engine
 @@reduce noise levels
 
-6. Where are the lifting points on a high bypass turbine engine?
+Where are the lifting points on a high bypass turbine engine?
 @@On the fan and turbine casing
 On the fan and compressor casing
 On the fan, turbine and compressor casing
 
-1. The fire extinguisher used on an aircraft engine is
+The fire extinguisher used on an aircraft engine is
 @@Halogenated Hydrocarbons
 Sodium Chlorate
 Inert Carbon
 
-2. 3 ways to test serviceability of a fixed fire bottle in situ are
+3 ways to test serviceability of a fixed fire bottle in situ are
 weigh, pressure, pop up indicator
 @@pressure, pop up indicator, blow-out disc
 weigh, pressure, blow-out disc
 
-3. In a two shot fire extinguishing system
+In a two shot fire extinguishing system
 @@extinguishers distributed once to either engine compartment
 extinguisher distributed twice to each engine compartment
 one squib can be fired, if that fails then the 2nd squib can be fired
 
-4. For fire detection and extinguishing purposes, aircraft powerplant areas are divided into fire zones based on
+For fire detection and extinguishing purposes, aircraft powerplant areas are divided into fire zones based on
 @@the volume and smoothness of the airflow through engine compartments.
 hot and cold sections of the engine.
 engine type and size.
 
-5. The advantage of the two shot fire bottle system is
+The advantage of the two shot fire bottle system is
 @@both bottles can be used in either of the engines
 one bottle can be used twice
 one bottle can be discharged after certain time delay from the other bottle
 
-6. Gas turbine engine fire bottles contain which of the following as extinguishing agents?
+Gas turbine engine fire bottles contain which of the following as extinguishing agents?
 @@Halogenated Hydrocarbon
 Carbon Dioxide
 Water
 
-7. The explosive cartridge in the discharge valve of a fire extinguisher container is
+The explosive cartridge in the discharge valve of a fire extinguisher container is
 not a life dated unit.
 @@a life dated unit.
 mechanically fired.
 
-8. What is the function of a fire detection system?
+What is the function of a fire detection system?
 @@To activate a warning device in the event of a powerplant fire.
 To discharge the powerplant fire extinguishing system at the origin of the fire.
 To identify the location of a powerplant fire.
 
-9. In the event of an engine fire whilst carrying out ground runs (under cowl fire with cowls fitted and cold) the appropriate action would be?
+In the event of an engine fire whilst carrying out ground runs (under cowl fire with cowls fitted and cold) the appropriate action would be?
 @@Move throttle lever to idle, close HP cock, pull fire handle, discharging bottles
 Pull fire handle, move throttle lever to idle, close HP cock, discharge bottles
 Pull fire handle, discharge bottles, move throttle lever to idle, close HP cock
 
-10. What is the operating principle of the spot detector sensor in a fire detection system?
+What is the operating principle of the spot detector sensor in a fire detection system?
 @@A bimetallic thermos switch that closes when heated to a high temperature
 Resistant core material that prevents current flow at normal temperatures
 A conventional thermocouple that produces a current flow.
 
-1. A magnetic chip detector detects
+A magnetic chip detector detects
 @@Ferrous particles only
 Particles held in suspension
 Particles which are too small for the naked eye
 
-2. Normal gas turbine engine starting sequence is
+Normal gas turbine engine starting sequence is
 @@Starter, ignition, fuel
 Fuel, starter, ignition
-3. When running down an engine
+When running down an engine
 
 It should be done as slowly as possible to assist thermal stress
 It should be done as quickly as possible to stop excess of fuel gathering
 @@It should be done as slowly as possible to reduce thermal stress
-4. When accelerating from 'light-up' to ground idling speed, the EGT will
+When accelerating from 'light-up' to ground idling speed, the EGT will
 
 Increase above idle value then decrease to normal
 Decrease below idle value then increase to normal
 Remain constant
-5. A hung start or false start is one in which?
+A hung start or false start is one in which?
 
 'light up' occurs, but the RPM does not increase
 There is no 'light up'
 The engine does not rotate
-6. What is the first engine instrument indication of a successful start of a turbine engine?
+What is the first engine instrument indication of a successful start of a turbine engine?
 
 A rise in the engine fuel flow.
 @@A rise in the exhaust gas temperature.
 A rise in oil pressure.
-7. During starting of an engine, light-up is indicated by the
+During starting of an engine, light-up is indicated by the
 
 Fuel-flow indicating system
 @@Exhaust gas temperature
 Tachometer-indicating system
-8. The most satisfactory extinguishing agent for an intake fire is
+The most satisfactory extinguishing agent for an intake fire is
 
 Methyl bromide
 @@Carbon dioxide

@@ -1,199 +1,197 @@
-1. A neutron has,
+A neutron has,
 The opposite charge to an Electron but half the weight of a proton.
 The same charge as an Electron but half the mass.
 @@No electrical charge but will add weight to the nucleus.
 
-2. The unit which consists of two or more different types of atoms is known as a.
+The unit which consists of two or more different types of atoms is known as a.
 Particle of an element.
 @@Molecule of a compound.
 Molecule of an element.
 
-3. What charge does the nucleus of an atom possess?
+What charge does the nucleus of an atom possess?
 @@Positive.
 Neutral.
 Negative.
 
-4. If electrons are added to an atom it becomes.
+If electrons are added to an atom it becomes.
 A neutral ion.
 A positive ion.
 @@A negative ion.
 
-5. If a free electron is given to another atom, that atom is a.
+If a free electron is given to another atom, that atom is a.
 Valency atom.
 @@Negative ion.
 Positive ion.
 
-6. The atomic number of an atom is determined by the number of
+The atomic number of an atom is determined by the number of
 @@Protons.
 Electrons.
 Neutrons.
 
-1. On current is found in.
+On current is found in.
 Conductors and semi-conductors.
 @@Liquids and gasses.
 Semi-conductors.
 
-2. Electricity conducts through.
+Electricity conducts through.
 Vacuum.
 @@Solids and liquids and gasses.
 Solids only.
 
-3. Electricity built up as an electrical charge on the surface of an object. It is considered
+Electricity built up as an electrical charge on the surface of an object. It is considered
 DC
 AC
 @@Static
 
-4. If an insulated conductor is placed near to a negatively charged rod, the nearest end of the conductor becomes.
+If an insulated conductor is placed near to a negatively charged rod, the nearest end of the conductor becomes.
 No change will occur.
 Negatively charged.
 @@Positively charged.
 
-5. The electromagnetic force between two charged bodies is.
+The electromagnetic force between two charged bodies is.
 Inversely proportional to the distance between them
 @@Inversely proportional to the square of the distance between them.
 Proportional to the distance between them.
 
-6. What effect do the electrons of one atom have upon the electrons of another atom?
+What effect do the electrons of one atom have upon the electrons of another atom?
 They have no effect on each other.
 @@They repel each other.
 They attract each other.
 
-7. If a negatively charged conductor is placed next to an insulated rod.
+If a negatively charged conductor is placed next to an insulated rod.
 The rod becomes negatively charged.
 The rod has no charge.
 @@The rod becomes positively charged.
 
-1. Which of the following is 1 Amp?
+Which of the following is 1 Amp?
 @@1000 mA.
 1000 kA.
 1000 μA.
 
-2. A volt can be considered to be a.
+A volt can be considered to be a.
 Unit of electrical power.
 Quantity of electrical energy.
 @@Unit of electrical pressure.
 
-3. What is 3.25 volts in millivolts?
+What is 3.25 volts in millivolts?
 @@3,250 millivolts.
 325,000 millivolts.
 3.25 millivolts.
 
-4. Electromotive force is.
+Electromotive force is.
 Watts.
 Ohms.
 @@Volts.
 
-5. 1µF capacitor is equivalent to.
+1µF capacitor is equivalent to.
 1,000,000 Farads.
 @@0.000,001 Farads.
 0.001 Farads.
 
-6. What is the SI unit of conductance?
+What is the SI unit of conductance?
 Ohm.
 @@Siemen.
 Ohm-metre.
 
-7. Potential difference is another term for
+Potential difference is another term for
 @@Voltage
 Charge
 Energy
 
-1. A piezoelectric device generates electricity through.
+A piezoelectric device generates electricity through.
 Friction.
 Light.
 @@Pressure.
 
-2. A photozoidal cell produces electricity when subjected to.
+A photozoidal cell produces electricity when subjected to.
 @@Light.
 Pressure.
 Heat.
 
-3. A component that produces an output voltage due to incident light is called a.
+A component that produces an output voltage due to incident light is called a.
 Liquid crystal.
 @@Solar cell.
 Light emitting diode.
 
-4. Thermocouple harnesses are made from the same materials as the thermocouple so that.
-@@Mini junctions are not formed.        
-The resistance is not increased beyond limits.
-They will not corrode.
-
-5. A simple generator converts mechanical energy and magnetism into?
+Thermocouple harnesses are made from the same materials as the thermocouple so that.
+@@Mini junctions are not formed.        B. The resistance is not increased beyond limits.C. They will not corrode.
+A simple generator converts mechanical energy and magnetism into?
 Lines of flux per revolution
+
 Reverse polarity
 @@Electrical energy
-
-6. A solar cell or a photovoltaic cell is a device that:
+A solar cell or a photovoltaic cell is a device that:
 Converts sun energy into electricity.
+
 Converts electricity energy into light energy
 @@Converts light energy into electricity.
-
-7. Thermocouples generate:
+Thermocouples generate:
 @@A voltage between the two wires that is proportional to the temperature at the junction.
+
 A current between the two wires that is proportional to the temperature at the junction
 A variable resistance between the two wires that is proportional to the temperature at the junction
-
-1. A battery rated at 40 Ah will supply 200 mA for.
+A battery rated at 40 Ah will supply 200 mA for.
 @@200 hours.
+
 20 hours.
 5 hours.
-
-2. A 20 cell battery with each cell having an internal resistance of 0.1 ohms is charged with 2 leads having a total resistance of 0.1 ohms. The battery is charged with a current of 5 amps. What is the charging voltage?
+A 20 cell battery with each cell having an internal resistance of 0.1 ohms is charged with 2 leads having a total resistance of 0.1 ohms. The battery is charged with a current of 5 amps. What is the charging voltage?
 0.5 volts.
+
 10.5 volts.
 0.005 volts.
-
-3. Two 10V, 20 Ah batteries are connected in parallel and connected across a 10 ohm load. How long could they supply normal current before the voltage begins to decay?
+Two 10V, 20 Ah batteries are connected in parallel and connected across a 10 ohm load. How long could they supply normal current before the voltage begins to decay?
 @@40 hours.
+
 20 hours.
 4 hours.
-4. A zinc-carbon battery life depends upon.
-
+A zinc-carbon battery life depends upon.
 @@The amount of zinc.
+
 The purity of the carbon rod.
 The amount of the electrolyte paste.
-
-5. Two batteries 12V and 40 Ah each, are in series. What is the total capacity?.
+Two batteries 12V and 40 Ah each, are in series. What is the total capacity?.
 12V 80 Ah.
+
 24V 40 Ah.
 24V 80Ah.
-
-6. If a battery has got low internal resistance, then the.
+If a battery has got low internal resistance, then the.
 No load voltage will be the same as on load voltage.
+
 On load voltage will be greater than no load voltage.
 @@No load voltage will be greater than on load voltage.
-
-7. Conventional current flow inside a battery is from.
+Conventional current flow inside a battery is from.
 Either anode to cathode or cathode to anode, depending on the active elements.
+
 Cathode to anode.
 @@Anode to cathode.
-
-1. Convention requires that in a symmetrical 3 phase system, the.
+Convention requires that in a symmetrical 3 phase system, the.
 @@Red voltage is taken as the reference phase.
+
 Yellow voltage phase leads the red phase by 120 degrees.
 Red voltage phase leads the blue phase by 120 degrees.
-
-2. One advantage of using AC electrical power in aircraft is.
+One advantage of using AC electrical power in aircraft is.
 @@Space and weight can be saved, since AC devices, especially motors, are smaller and simpler than DC devices.
+
 AC electrical motors can be reversed while DC motors cannot.
 The effective voltage is 1.41 times the maximum instantaneous voltage; therefore, less power input is required.
-
-3. Frequency (Hz) is the number of cycles per.
+Frequency (Hz) is the number of cycles per.
 Minute
-@@Second
+
+Second
 Revolution
-
-4. An integrated step input at unequal time base produces.
+An integrated step input at unequal time base produces.
 a sine wave.
+
 a square wave.
 @@saw tooth wave.
-
-5. An integrated step input at unequal time base produces.
+An integrated step input at unequal time base produces.
 a sine wave.
+
 a square wave.
 @@saw tooth wave.
-
-6. A wave form having equal amplitude and time base is a.
+A wave form having equal amplitude and time base is a.
 Rectangular.
+
 Saw tooth.
 @@Square waveform

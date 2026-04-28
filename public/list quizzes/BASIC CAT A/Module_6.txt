@@ -1,697 +1,694 @@
-1. What temperature would steel be tempered at?
+What temperature would steel be tempered at?
 At the annealing temperature.
 Above the annealing temperature.
 @@Below the annealing temperature.
 
-2. Chromium added to plain carbon steel.
+Chromium added to plain carbon steel.
 @@Increases its resistance to corrosion.
 Turns it into a non-ferrous alloy.
 Makes the metal softer
 
-3. Purpose of case hardening is to.
+Purpose of case hardening is to.
 @@Produce a hard case over a tough core.
 Reduce the carbon in the steel.
 Introduce carbon into the steel
 
-4. Tempering entails.
+Tempering entails.
 @@Heating under the UCP and slow cooling.
 Heating over the UCP and fast cooling.
 Heating over the UCP and slow cooling.
 
-5. Nitriding is.
+Nitriding is.
 Tempering.
 Anodizing.
 @@Case hardening
 
-6. A ferrous metal contains.
+A ferrous metal contains.
 Aluminium.
 @@Iron.
 Magnesium.
 
-7. With respect to ferrous metals which of the following is true?
+With respect to ferrous metals which of the following is true?
 Iron is not any element of ferrous metals.
 @@Iron is a main element and most ferrous metal are magnetic.
 Iron is a main element and ferrous metals are not magnetic.
 
-8. The normalizing process on steel is required sometimes as it
+The normalizing process on steel is required sometimes as it
 Provides a corrosion resistant layer that prevents oxidation.
 Allows the material a greater stress per unit area.
 @@Relieves internal stress suffered after engineering processes
 
-9. The hardness of steel depends upon.
+The hardness of steel depends upon.
 Formation of pearlite into austenite.
 @@Formation of cementite. (iron carbide)
 The iron austenite grain structure
 
-10. The difference between annealing and normalizing is.
+The difference between annealing and normalizing is.
 @@Both are heated above the UCT, cool slowly to anneal, cool in air to normalize
 Both are heated below the UCT, cool in air to anneal, cool slowly to normalize.
 Both are heated above the UCT, cool in air to anneal, cool slowly to normalize.
 
-11. Normalizing of steel is done to.
+Normalizing of steel is done to.
 @@Remove residual stress of the manufacturing process.
 Make steel softer.
 Restore the fatigue life of steel.
 
-12. When normalizing the material is.
+When normalizing the material is.
 Quenched immediately.
 @@Left to cool in room temperature.
 Cooled slowly
 
-13. Cast iron is.
+Cast iron is.
 Very malleable.
 Tough.
 @@Brittle.
 
-14. Case hardening can be carried out on.
+Case hardening can be carried out on.
 Titanium.
 @@Any ferrous metal.
 Duralumin.
 
-15. Steel is tempered.
+Steel is tempered.
 @@After hardening.
 Before hardening.
 To increase hardening
 
-16. A low carbon steel would normally be case hardened using.
+A low carbon steel would normally be case hardened using.
 The nitriding process.
 Flame or induction hardening.
 @@Pack or gas carburizing
 
-17. Normalizing steels.
+Normalizing steels.
 Increases toughness.
 Increases the hardness.
 @@C  Relieves the stresses
 
-18. When metal is first heated slightly above its critical temperature and then cooled rapidly it is common that the metal will increase in.
+When metal is first heated slightly above its critical temperature and then cooled rapidly it is common that the metal will increase in.
 Brittleness.
 Hardness
 @@Both of the above
 
-19. Annealing steels.
+Annealing steels.
 Toughens the metal.
 @@Makes the metal malleable.
 Makes the metal brittle
 
-20. Tempering of hardened steel is carried out to.
+Tempering of hardened steel is carried out to.
 Retain surface hardness, but soften the core.
 Retain core hardness, but soften the surface.
 @@Significantly reduce the brittleness without suffering a major drop in its strength
 
-21. Malleable materials are.
+Malleable materials are.
 @@Easy to forge.
 Easy to cast.
 Highly ductile.
 
-22. If a material has to undergo deep cold forming operation. The essential property would be.
+If a material has to undergo deep cold forming operation. The essential property would be.
 Ductility.
 @@Malleability.
 Elasticity.
 
-23. Ductility is the property of a metal which permits it
+Ductility is the property of a metal which permits it
 To be permanently drawn, bent, or twisted but is subject to breaking
 @@To be permanently drawn, bent, or twisted
 Not to be used for fuselage and wing skin
 
-24. Non-heat treatable materials.
+Non-heat treatable materials.
 Cannot be hardened.
 @@Can be hardened by strain hardening or cold working.
 Can be hardened by annealing. Correct Answer is. can be hardened by strain hardening or cold working.
 
-25. The ease with which a material can be forged, rolled and extruded without fracture is an indication of a material's.
+The ease with which a material can be forged, rolled and extruded without fracture is an indication of a material's.
 @@malleability.
 ductility.
 brittleness.
 
-1. Wrought alloys are used most widely in aircraft construction for
+Wrought alloys are used most widely in aircraft construction for
 Stringers, bulkheads
 Skin, rivets, and extruded sections
 @@Stringers, bulkheads, skin, rivets, and extruded sections
 
-2. The metal, which must not be heated in a salt bath, is.
+The metal, which must not be heated in a salt bath, is.
 @@Magnesium alloy.
 Duralumin.
 Rivets made of alclad
 
-3. The critical process of heat treatment is.
+The critical process of heat treatment is.
 @@Temperature, method of heating and cooling.
 Temperature and method of heating only.
 Method of heating only
 
-4. What is the effect of precipitation heat treatment on aluminium?
+What is the effect of precipitation heat treatment on aluminium?
 @@It speeds up age hardening process.
 It delays the age hardening process.
 It softens the material to allow it to be worked
 
-5. If caustic soda turns a material black what is it?
+If caustic soda turns a material black what is it?
 @@Aluminium alloy.
 Alclad.
 Aluminium.
 
-6. What chemical is used to identify aluminium alloys?
+What chemical is used to identify aluminium alloys?
 @@Caustic soda.
 Copper sulphate.
 Nitric acid
 
-7. Precipitation treating makes the metal.
+Precipitation treating makes the metal.
 Precipitation treating makes the metal.
 Less strong and hard.
 @@Harder, stronger and less ductile
 
-8. Clad aluminium alloy (alclad) has a pure aluminium coating of.
+Clad aluminium alloy (alclad) has a pure aluminium coating of.
 0.002.
 1% of alloy thickness.
 @@5% of alloy thickness.
 
-9. Titanium can be identified by placing it on a grinding wheel and looking for.
+Titanium can be identified by placing it on a grinding wheel and looking for.
 Red Sparks.
 Yellow Sparks.
 @@White Sparks.
 
-10. Pure aluminium is.
+Pure aluminium is.
 @@Highly resistant to corrosion.
 Not resistant to corrosion.
 Reasonably resistant to corrosion.
 
-11. The main metal in monel is.
+The main metal in monel is.
 Aluminium.
 @@Nickel.
 Stainless steel.
 
-12. The time between removal from heat treatment furnace and quenching must be not more than.
+The time between removal from heat treatment furnace and quenching must be not more than.
 3 seconds.
 @@B   10 seconds.
 7 seconds
 
-13. Monel metal consists of approximately.
+Monel metal consists of approximately.
 @@66% Chromium and 33% Copper.
 66% Copper and 33% Nickel.
 66% Nickel and 33% Copper.
 
-14. The aluminum code number 1100 identifies what type of aluminum?
+The aluminum code number 1100 identifies what type of aluminum?
 Aluminum alloy containing 11 percent copper.
 Aluminum alloy containing zinc.
 @@99 percent commercially pure aluminum. Aluminum identified by the code number 1100 is 99 percent commercially pure aluminum.
 
-15. In the four-digit aluminium index system number 2024, the first digit indicates
+In the four-digit aluminium index system number 2024, the first digit indicates
 @@The major alloying element.
 The number of major alloying elements used in the Metal.
 The percent of alloying metal added
 
-16. A material containing approximately 66% nickel and 33% copper is known as.
+A material containing approximately 66% nickel and 33% copper is known as.
 Nimonic.
 @@Monel metal.
 Invar
 
-17. The extrusion process
+The extrusion process
 Involves the forcing of metal through an opening in a die
 Of metals such as lead, tin, and aluminum may be extruded cold
 @@Both A and B are correct
 
-1. Fibre weave strength is greatest in the direction of the.
+Fibre weave strength is greatest in the direction of the.
 Weft.
 @@Warp.
 Bias.
 
-2. Why are Electric motors not recommended for use with composite materials?
+Why are Electric motors not recommended for use with composite materials?
 Carbon dust wears the bearings.
 @@Carbon is conductive and can cause an electrical short circuit.
 They are not as strong as air driven tools.
 
-3. A mechanic has completed a bonded honeycomb repair using the potted compound repair technique. What non-destructive testing method can be used to determine the soundness of the repair after the repair has cured?.
+A mechanic has completed a bonded honeycomb repair using the potted compound repair technique. What non-destructive testing method can be used to determine the soundness of the repair after the repair has cured?.
 Eddy current test.
 @@Metallic ring test. ( Tap test)
 Ultrasonic test.
 
-4. How do you reduce or remove electrostatic charges which may build up on composite surfaces?.
+How do you reduce or remove electrostatic charges which may build up on composite surfaces?.
 A.No special treatment is necessary because fibre glass is an ins
 @@The surface is treated with a special conductive paint.
 The surface is impregnated with copper strips.
 
-5. Useful method for the detection of internal delamination’s, voids, or inconsistencies in composite components not otherwise discernible using visual or tap methodology is
+Useful method for the detection of internal delamination’s, voids, or inconsistencies in composite components not otherwise discernible using visual or tap methodology is
 X-ray
 @@Ultrasonic
 Eddy current
 
-6. Storage temperature of prepreg, film adhesive, and foaming adhesives is
+Storage temperature of prepreg, film adhesive, and foaming adhesives is
 Between -18°C to 0°C
 Near 4°C
 @@Below -18°C
 
-7. What available NDE techniques are used to defect water ingression in radomes?
+What available NDE techniques are used to defect water ingression in radomes?
 @@Radiography, thermography, moisture meter
 Radiography, thermography, tap test, dye penetrant
 Radiography, thermography, eddy current, ultrasonic
 
-8. Delamination, resin starved areas, resin rich areas, blisters, air bubbles, wrinkles, voids, thermal decomposition are included in
+Delamination, resin starved areas, resin rich areas, blisters, air bubbles, wrinkles, voids, thermal decomposition are included in
 @@Manufacturing defects
 In-service defects
 Manufacturing defects and In-service defects
 
-9. Environmental degradation, impact damage, fatigue, cracks from local overload, de-bonding, delamination, fiber fracturing, erosion are included in
+Environmental degradation, impact damage, fatigue, cracks from local overload, de-bonding, delamination, fiber fracturing, erosion are included in
 Manufacturing defects
 @@In-service defects
 Manufacturing defects and In-service defects
 
-10. Which types of damages cannot be found during visual inspections?
+Which types of damages cannot be found during visual inspections?
 Resin starvation, resin richness, wrinkles, ply bridging, discoloration (due to overheating, lightning strike, etc.)
 Impact damage by any cause, foreign matter, blisters, and dis-bondin
 @@Internal flaws in the composite, such as delamination’s, dis-bonds, and matrix crazing
 
-11. Peel plies are used to
+Peel plies are used to
 Seal the vacuum bag to the part or tool
 @@Create a clean surface for bonding purposes.
 Creates a path for the air and volatiles to escape from the repair
 
-12. Which vacuum bagging technique is frequently used for removable aircraft parts, such as flight controls, access panels, etc., and when a part's geometry and/or the repair location makes it very difficult to properly vacuum bag and seal the area in a vacuum?
+Which vacuum bagging technique is frequently used for removable aircraft parts, such as flight controls, access panels, etc., and when a part's geometry and/or the repair location makes it very difficult to properly vacuum bag and seal the area in a vacuum?
 Single Side Vacuum Bagging
 @@Envelope Bagging.
 Impregnation Using a Vacuum Bag
 
-13. Replacement of a wooden spar is.
+Replacement of a wooden spar is.
 Only permitted by the manufacturer.
 A minor repair.
 @@A major repair.
 
-14. A crack is found in a wooden spar, you.
+A crack is found in a wooden spar, you.
 Must replace the spar section.
 @@Might be able to repair the spar.
 Must replace the entire spar.
 
-15. Kevlar and Nomex are types of.
+Kevlar and Nomex are types of.
 Glass fiber composite.
 @@Aramid fiber.
 Aluminium alloy.
 
-1. Intergranular corrosion is caused by.
+Intergranular corrosion is caused by.
 Improperly assembled components.
 @@Improper heat treatment.
 Dissimilar metal contact
 
-2. After a product has been manufactured and all heat treatment has been carried out the stress remaining if any is termed as.
+After a product has been manufactured and all heat treatment has been carried out the stress remaining if any is termed as.
 @@Residual stress.
 Working stress.
 Applied stress.
 
-3. When buffing surface of Aluminium Alloy, what material are you removing?
+When buffing surface of Aluminium Alloy, what material are you removing?
 @@Oxide layer.
 Aluminium.
 Alloy
 
-4. Galvanic corrosion caused by electrolytic action is the result of
+Galvanic corrosion caused by electrolytic action is the result of
 @@Contact between two unlike metals.
 Excessive anodization.
 The wrong quenching agent
 
-5. Corrosion may be regarded as the destruction of metal by.
+Corrosion may be regarded as the destruction of metal by.
 @@Electrochemical action.
 Hydroelectric action.
 Electromechanical action
 
-6. Which of these is a common cause of corrosion
+Which of these is a common cause of corrosion
 Water in fuel.
 @@Spilled battery acid
 Untreated metal.
 
-7. What is stress corrosion?
+What is stress corrosion?
 @@Corrosion in an area under cyclic loading.
 Corrosion due to fretting.
 Corrosion in an area under continuous loading.
 
-8. Chemical attack is a direct result of.
+Chemical attack is a direct result of.
 Intergranular corrosion.
 @@Cathodic & anodic changes in the material.
 Filiform corrosion.
 
-9. Galvanic corrosion is caused by.
+Galvanic corrosion is caused by.
 Incorrect heat treatments or incorrect alloying.
 Cyclic stressing and a decrease in cross sectional area.
 @@The joining of 2 dissimilar metals.
 
-10. Corrosion will spread more rapidly when metals are exposed to
+Corrosion will spread more rapidly when metals are exposed to
 Cold climates.
 @@Higher temperature
 Dry climates
 
-11. Corrosion control begins at the.
+Corrosion control begins at the.
 Production stage.
 Manufacturing stage.
 @@Design stage.
 
-12. When galvanic corrosion takes place, which part corrodes?
+When galvanic corrosion takes place, which part corrodes?
 @@Anode.
 Oxide film coating.
 Cathode
 
-13. Corrosion caused by galvanic action is the result of.
+Corrosion caused by galvanic action is the result of.
 @@Contact between two unlike metals.
 Excessive anodization.
 Excessive etching
 
-14. When dissimilar metals are brought together, or the same metal in different states, one metal forms the anode and the other the cathode. Which will suffer from corrosion?
+When dissimilar metals are brought together, or the same metal in different states, one metal forms the anode and the other the cathode. Which will suffer from corrosion?
 Both will corrode equally
 The cathode.
 @@The anode.
 
-15. Black streaks back from a rivet hole signify.
+Black streaks back from a rivet hole signify.
 Galvanic corrosion.
 Intergranular corrosion.
 @@Fretting
 
-16. The lifting or flaking of the metal at the surface due to delamination of grain boundaries caused by the pressure of corrosion is.
+The lifting or flaking of the metal at the surface due to delamination of grain boundaries caused by the pressure of corrosion is.
 @@Exfoliation.
 Electrolysis.
 Trans granulation
 
-17. Aluminium is.
+Aluminium is.
 @@Not resistant to corrosion.
 Highly resistant to corrosion.
 Reasonably resistant to corrosion
 
-18. In the galvanic series, the most noble metal will, if joined to another metal.
+In the galvanic series, the most noble metal will, if joined to another metal.
 Always be at the top of the table
 Corrode before the less noble metal.
 @@Allow the less noble metal to corrode first.
 
-19. What is the indication of fretting corrosion on aluminium alloy?.
+What is the indication of fretting corrosion on aluminium alloy?.
 @@Black powder.
 Brown powder
 White powder
 
-20. What action is taken to protect integral tanks from corrosion due to micro-biological growth?.
+What action is taken to protect integral tanks from corrosion due to micro-biological growth?.
 The inside of the tank is coated with yellow chromate.
 Rubber liners are installed in the tank.
 @@A biocidal additive is used in the fuel
 
-21. What type of corrosion attacks grain boundaries of aluminium alloys which are improperly or inadequately heat treated?.
+What type of corrosion attacks grain boundaries of aluminium alloys which are improperly or inadequately heat treated?.
 Stress corrosion.
 @@Intergranular corrosion
 Surface corrosion.
 
-22. Intergranular corrosion in structural aluminium alloy parts.
+Intergranular corrosion in structural aluminium alloy parts.
 Are not likely to occur in parts fabricated from heat-treated sheet aluminium.
 @@May be detected by the white, powdery deposit formed on the surface of the metal.
 Cannot always be detected by surface indications
 
-23. Corrosion under the surface coating can be detected by
+Corrosion under the surface coating can be detected by
 Frosted appearance
 Roughening of the surface
 @@Paint or plating is lifted off the surface in small blisters
 
-24. Corrosion at the grain boundaries is called.
+Corrosion at the grain boundaries is called.
 @@Intergranular.
 Fretting.
 Filiform
 
-25. Fretting corrosion occurs where?
+Fretting corrosion occurs where?
 @@Two material are subject to very slight movement between the two.
 A deep scratch increases to become fretting corrosion.
 Pitting corrosion is allowed to become more pronounced
 
-26. What are the signs of fretting corrosion?
+What are the signs of fretting corrosion?
 @@Black stain around a rivet
 Intergranular cracking.
 Flaking
 
-27. Surface corrosion on stainless steel is identified by.
+Surface corrosion on stainless steel is identified by.
 @@Uniform red, brown, stain.
 White film.
 Black pitting
 
-28. The usual manufacturer’s anti-corrosion process to be applied to Fe aircraft parts is.
+The usual manufacturer’s anti-corrosion process to be applied to Fe aircraft parts is.
 @@Cadmium plating.
 Anodizing.
 Metal spraying.
 
-29. Corrosion on copper is identified by.
-Red/brown rust.
+Corrosion on copper is identified by.
 Black powder.
 @@Green to blue copper salts on the corroded part
+Fretting corrosion occurs when
 
-30. Fretting corrosion occurs when
 Water is trapped between moving parts.
 @@Two mating surfaces are subject to slight relative motion.
 Improperly heat treated.
+Intergranular corrosion is also known as what?
 
-31. Intergranular corrosion is also known as what?
 Stress corrosion.
 @@Exfoliation.
 Galvanic.
+Corrosion of metals in a metal to metal joint or corrosion at the edge of a joint is
 
-32. Corrosion of metals in a metal to metal joint or corrosion at the edge of a joint is
 Filiform corrosion.
 Fretting corrosion.
 @@Crevice corrosion.
+Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralize the acid?
 
-33. Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralize the acid?
 Sulphur and Lime
 Hot distilled water.
 @@Sodium bicarbonate of soda.
+A primary cause of intergranular corrosion is.
 
-34. A primary cause of intergranular corrosion is.
-@@Improper heat treatment.
+Improper heat treatment.
 Improper application of primer.
 Dissimilar metal contact
+Aircraft bolts are almost always manufactured in
 
-1. Aircraft bolts are almost always manufactured in
 Class 2, free fit
 @@Class 3, medium fit
 Class 4, close fit
+Most commonly used thread form in aviation is
 
-2. Most commonly used thread form in aviation is
-@@Unified or metric threads
+Unified or metric threads
 Round thread.
 Buttress.
+@@Pitch of a screw thread is defined as.           A. Distance from the centre of one crest to the next.    B. Difference between major diameter and minor diameter.     C. Distance between the crest and the root of the thread.
 
-3. Pitch of a screw thread is defined as.           A. Distance from the centre of one crest to the next.    B. Difference between major diameter and minor diameter.     C. Distance between the crest and the root of the thread.
-4. A metric screw thread angle is.
+A metric screw thread angle is.
 7 °
 57 °
+@@60 °
 
-60 °
-5. Aircraft bolts with a cross or asterisk marked on the bolt head are
+Aircraft bolts with a cross or asterisk marked on the bolt head are
 Made of aluminum alloy.
 Close tolerance bolts.
+@@Standard steel bolts.
 
-Standard steel bolts.
-6. A particular component is attached to the aircraft structure by the use of an aircraft bolt and a castle tension nut combination. If the cotter pin hole does not align within the recommended torque range, the acceptable practice is to
+A particular component is attached to the aircraft structure by the use of an aircraft bolt and a castle tension nut combination. If the cotter pin hole does not align within the recommended torque range, the acceptable practice is to
 @@The nut may not be over torque
 Tighten below the torque range.
-
 Change washers and try again.
-7. A bolt with a single raised dash on the head is classified as an
+
+A bolt with a single raised dash on the head is classified as an
 @@AN corrosion-resistant steel bolt.
 NAS standard aircraft bolt.
-
 NAS close tolerance bolt.
-8. Where is an AN clevis bolt used in an airplane?
+
+Where is an AN clevis bolt used in an airplane?
 For tension and shear load conditions.
 Where external tension loads are applied.
+@@Only for shear load applications.
 
-Only for shear load applications.
-9. A bolt with an X inside a triangle on the head is classified as an
+A bolt with an X inside a triangle on the head is classified as an
 NAS standard aircraft bolt.
 @@NAS close tolerance bolt.
-
 AN corrosion-resistant steel bolt.
-10. Aircraft bolts are usually manufactured with a
+
+Aircraft bolts are usually manufactured with a
 Class 1 fit for the threads.
 Class 2 fit for the threads.
+@@Class 3 fit for the threads.
 
-Class 3 fit for the threads.
-11. How is the locking feature of the fiber-type locknut Obtained?
+How is the locking feature of the fiber-type locknut Obtained?
 @@By the use of an unthreaded fiber locking insert.
 By a fiber insert held firmly in place at the base of the load carrying section.
-
 By making the threads in the fiber insert slightly smaller than those in the load carrying section.
-12. Which type of pin is used with tie rod terminals and in secondary controls which are not subject to continuous operation?
+
+Which type of pin is used with tie rod terminals and in secondary controls which are not subject to continuous operation?
 @@Flathead pin
 Taper pin
-
 Cotter pin.
-13. Plain washers, both the AN960 and AN970,
+
+Plain washers, both the AN960 and AN970,
 @@Are used under hex nuts
 Are used with machine screws or bolts where the self locking or castellated type nut is not appropriate
-
 Are used where a bolt is installed at an angle to a surface, or where perfect alignment with a surface is required.
-14. Lock washers, both the AN935 and AN936,
+
+Lock washers, both the AN935 and AN936,
 Are used under hex nuts
 @@Are used with machine screws or bolts where the self-locking or castellated type nut is not appropriate
-
 Are used where a bolt is installed at an angle to a surface, or where perfect alignment with a surface is required.
-15. The ball socket and seat washers, AC950 and AC955,
+
+The ball socket and seat washers, AC950 and AC955,
 Are used under hex nuts
 Are used with machine screws or bolts where the selflocking or castellated type nut is not appropriate.
+@@Are used where a bolt is installed at an angle to a surface, or where perfect alignment with a surface is required.
 
-Are used where a bolt is installed at an angle to a surface, or where perfect alignment with a surface is required.
-16. What method is used on most modern aircraft to safety turn buckles?
+What method is used on most modern aircraft to safety turn buckles?
 The double wrap method
 @@Clip locking method
-
 Single wrap spiral method
-17. The AN-3 and the AN-73 series bolts are
+
+The AN-3 and the AN-73 series bolts are
 @@Interchangeable for all practical purposes
 Tension and shear strengths are different.
-
 Are non-drilled head bolts
-18. What metal is suitable for riveting magnesium alloy?
+
+What metal is suitable for riveting magnesium alloy?
 Monel metal
 @@5606 aluminium alloy
-
 2024 aluminium alloy
-19. If  D or DD rivets are not broached in time , or removed from the freezer in time, they
+
+If  D or DD rivets are not broached in time , or removed from the freezer in time, they
 @@Must be re-heat treated before use
 Can be re-heat treated once then discarded
-
 Must be discarded
-20. An aluminium alloy rivet identification is
+
+An aluminium alloy rivet identification is
 D embossed
 X embossed
+@@Embossed
 
-Embossed
-21. D and DD rivets are refrigerated to
+D and DD rivets are refrigerated to
 @@Retard age hardening
 Increase age hardening
-
 Precipitation harden
-22. What do you do to 2017 and 2024 rivets after heat treatment?
+
+What do you do to 2017 and 2024 rivets after heat treatment?
 @@Use immediately or refrigerate
 Leave for a minimum of 2 hours before using
-
 Refrigerate for a minimum of 2 hours before using
-23. An American rivet with a cross on the head is
+
+An American rivet with a cross on the head is
 2117 aluminium alloy
 @@5056t aluminium alloy
-
 2124 aluminium alloy
-24. A countersunk rivet of the ‘SP’ series has a head style of
+
+A countersunk rivet of the ‘SP’ series has a head style of
 90o
 @@100o
-
 20o
-25. When a solid rivet is formed it only holds 75% of its shear strength, the other 25% comes from
+
+When a solid rivet is formed it only holds 75% of its shear strength, the other 25% comes from
 Heating the completed assembly
 Cooling completed assembly
+@@Leaving assembly for 4 days to age harden
 
-Leaving assembly for 4 days to age harden
-26. One of the main advantages of the Hi-Lok type fasteners over earlier generations is that.
+One of the main advantages of the Hi-Lok type fasteners over earlier generations is that.
 @@They can be installed with ordinary hand-tools.
 They can be removed and reused again.
-
 The squeezed on collar installation provides a more secure, tighter fit.
-27. Deutsch rivet consists of
+
+Deutsch rivet consists of
 An aluminium sleeve and the hardened steel drive pin
 @@A stainless steel sleeve and the hardened steel drive pin
-
 The stainless steel sleeve and the aluminium drive pin
-28. Which thread form is compatible with the unified or metric forms?
+
+Which thread form is compatible with the unified or metric forms?
 Obsolete British Standard thread forms
 Whitworth thread forms.
+@@Neither A nor B is correct
 
-Neither A nor B is correct
-29. Lock plates are used
+Lock plates are used
 Where positive retention of a nut is required
 Are used where positive retention of a nut is required.
+@@Both A and B are correct
 
-Both A and B are correct
-30. Jo-bolts
+Jo-bolts
 Consists of three parts
 Are resistance to vibration, weight saving, and are fast to install by one person.
+@@Both A and B are correct
 
-Both A and B are correct
-1. A fluid line marker with a skull & crossbones is.
+A fluid line marker with a skull & crossbones is.
 Fluid line carries toilet waste.
 @@Warning symbol.
-
 Radioactive symbol.
-2. The international marking for a fire protection pipe line is a series
+
+The international marking for a fire protection pipe line is a series
 Circles.
 Squares.
+@@Diamonds.
 
-Diamonds.
-3. The end of the fitting that passes through the bulkhead is
+The end of the fitting that passes through the bulkhead is
 Shorter than the other end(s), which allows a locknut to be installed, securing the fitting to the bulkhead.
 Equal to the other end(s), which allows a locknut to be installed, securing the fitting to the bulkhead.
+@@Longer than the other end(s), which allows a locknut to be installed, securing the fitting to the bulkhead.
 
-Longer than the other end(s), which allows a locknut to be installed, securing the fitting to the bulkhead.
-4. Size of MS flareless tube fittings MS 21900 –4D is
+Size of MS flareless tube fittings MS 21900 –4D is
 4/8 inch
 @@4/16 inch
-
 4/32 inch
-5. MS flareless tube fittings MS 21900 –4D is made from
+
+MS flareless tube fittings MS 21900 –4D is made from
 @@Aluminum Alloy
 Steel
-
 Brass
-1. Ball and roller bearings are made from a combination of low carbon steel and a percentage of.
+
+Ball and roller bearings are made from a combination of low carbon steel and a percentage of.
 Chromium.
 @@Nickel.
-
 Nickel chrome
-2. Thrust bearings transmit.
+
+Thrust bearings transmit.
 @@Thrust loads, thus limiting axial movement.
 Radial loads, thus limiting axial movement.
-
 Thrust loads, thus limiting radial movement.
-1. Backlash is a type of wear associated with.
+
+Backlash is a type of wear associated with.
 @@Gears.
 Rivets.
-
 Bearings.
-2. A gear with teeth twisted at an angle from the gear center line is a
+
+A gear with teeth twisted at an angle from the gear center line is a
 @@Helical Worm Gear
 Rack and pinion.
-
 Bevel gears
-3. Rack and pinion gears
+
+Rack and pinion gears
 @@Are used in changing rotary motion into linear motion or the reverse.
 Has multiple uses.
-
 Has less precision than most other options.
-1. Control cable pulleys should be lubricated
+
+Control cable pulleys should be lubricated
 Every C check.
 When stiffness is felt in the control column.
+@@Not required bearings are sealed lubricated at the factory
 
-Not required bearings are sealed lubricated at the factory
-2. If the turnbuckles are in a control system to
+If the turnbuckles are in a control system to
 Enable quick disconnect of cables.
 @@Enable cable tension to be adjusted.
-
 Enable cable ends to be joined without swaging.
-3. A 7x7 cable has seven strands each of.
+
+A 7x7 cable has seven strands each of.
 Fourteen wires.
 @@Seven wires.
-
 One wire.
-4. In a Teleflex flexible control system, the Teleflex cable consists of.
+
+In a Teleflex flexible control system, the Teleflex cable consists of.
 multi strand steel wires and is used primarily as a single one way device operated from a control lever.
 @@a high tensile steel wire with a right or left hand helix wire wound on to it. The system can operate in two directions.
-
 a flexible seven or nineteen strand steel cable used for the operation of manual flying controls.
-5. A cable tension regulator will be installed in a flying control system to.
+
+A cable tension regulator will be installed in a flying control system to.
 automatically compensate for low cable tension caused by worn cables.
 compensate for rapid movement of the controls by taking up the slack.
+@@allow for variations in temperature which will vary the cable tension.
 
-allow for variations in temperature which will vary the cable tension.
-6. How are changes in direction of a control cable accomplished?
+How are changes in direction of a control cable accomplished?
 Bell cranks.
 Fairleads.
+@@Pulleys.
 
-Pulleys.
-1. A cable loom should be protected by conduit when fed through the.
+A cable loom should be protected by conduit when fed through the.
 Main equipment center.
 @@Wheel wells
-
 Cargo compartment ceiling
-2. Why are copper wires used in electrical systems?
+
+Why are copper wires used in electrical systems?
 They have high permeability.
 They do not give off a magnetic field.
+@@Copper has a higher conductivity
 
-Copper has a higher conductivity
-3. The main advantage of Coaxial cables is
-@@they are shielded against electrostatic and magnetic fields and they will not pick up any energy, or be
-@@influenced by other strong fields.
-
+The main advantage of Coaxial cables is
+@@they are shielded against electrostatic and magnetic fields and they will not pick up any energy, or be influenced by other strong fields.
 The outer sheathing is damage proof
 They do not require secure cable clamping.
