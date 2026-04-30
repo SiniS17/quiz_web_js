@@ -653,150 +653,152 @@ To discharge static electricity from the aircraft to the tanker.
 @@To maintain the aircraft and tanker at the same electrical potential.
 To enable the aircraft re-fuel pumps to be operated from the tanker electrical supply.
 
-Immediately after the engine starts, check the oil pressure indicator. If oil pressure does not show within:A. 15 seconds, stop the engine and determine the trouble.
+Immediately after the engine starts, check the oil pressure indicator. If oil pressure does not show within:
+15 seconds, stop the engine and determine the trouble.
 @@30 seconds, stop the engine and determine the trouble
 45 seconds, stop the engine and determine the trouble
-Do not fuel an aircraft when there is lightning within:
 
+Do not fuel an aircraft when there is lightning within:
 5 km.
 @@8 km
 15 km
-Torque loading is carried out to provide.
 
+Torque loading is carried out to provide.
 as tight a joint as possible.
 @@sufficient clamping without over-stressing.
 flexibility.
-A metallic stiff nut.
 
+A metallic stiff nut.
 cannot be torque loaded.
 @@cannot be used in areas in excess of 250oC.
 is pre lubricated and does not need lubricating.
-Removal of corrosion from aluminium clad alloy is best done.
 
+Removal of corrosion from aluminium clad alloy is best done.
 mechanically by buffing.
 chemically by trichloroethylene.
 @@chemically by sulphuric acid solution.
-The treatment for stress corrosion is.
 
+The treatment for stress corrosion is.
 not the same as fatigue corrosion.
 the same as for surface corrosion or surface cracks in sheet metal.
 @@always the replacement of the part.
-Very light corrosion on aluminium alloy can be removed by.
 
-using a solvent.
+Very light corrosion on aluminium alloy can be removed by.
+@@using a solvent.
 rubbing with wire wool.
 using Alocrom 1200.
-To remove corrosion on Ferrous metals use.
 
+To remove corrosion on Ferrous metals use.
 selenious acid rust remover.
 sulphuric acid rust remover.
 @@phosphoric acid rust remover.
-How is damage classified on an aircraft skin?
 
-Negligible, repairable, replacement.
+How is damage classified on an aircraft skin?
+@@Negligible, repairable, replacement.
 Negligible, allowable, replacement.
 Negligible, allowable, repairable.
-A jig is device that allows:
 
-the manufacture, repair components to a high dimensional accuracy.
+A jig is device that allows:
+@@the manufacture, repair components to a high dimensional accuracy.
 as a reference when checking the C of G position.
 to support the structure during repairs.
-@@The majority of nuts, bolts and setscrews, on an aircraft, are subject to a standard torque value. This depends on:A. their material, finish, lubrication, thread type and size
 
+The majority of nuts, bolts and setscrews, on an aircraft, are subject to a standard torque value. This depends on:
+@@their material, finish, lubrication, thread type and size
 their material, shape, lubrication
 their material, shape, size
+
 When inspecting an aircraft after a lightning strike, you should observe.
 entry damage.
-
-all signs of burning.
+@@all signs of burning.
 entry and exit damage.
+
 To ensure protection against HIRF affecting audio and navigation aids.
 @@ensure that all audio and navigation equipment is adequately screened.
-
 inspect and check all bonding leads to ensure their serviceability and replace if defective.
 ensure that the correct number of static wicks are fitted.
+
 Which of the following is a preventive process against HIRF?
 Monitoring HIRF on the communication system.
-
-Visual inspections.
+@@Visual inspections.
 Periodically checking aircraft bonding.
+
 Skin wrinkling on the lower surface of a wing is caused by.
 @@hogging.
-
 tension.
 sagging.
+
 The most easily detected sign of an excessive load having been imposed during a landing is:
 Deformed gear
-
-Wrinkled wing skin
+@@Wrinkled wing skin
 Cracked frame
+
 A lightning strike on an aircraft would show.
 @@the entry and exit point.
-
 the entry point only.
 the exit point only.
+
 HIRF interference occurs when.
 in use on mid frequencies.
-
 in use on low frequencies.
 @@in use on all frequencies
+
 What is the primary purpose of bonding of metallic parts of an aircraft?
 To provide a return path for electrical two-wire system.
-
-To prevent high potential differences between metallic parts from building up.
+@@To prevent high potential differences between metallic parts from building up.
 To prevent lightening strikes.
+
 Which of the following could be a primary cause of HIRF protection failure?
 Corrosion on bonding leads.
-
 Broken or missing static wicks.
 @@Unserviceable radio filters.
+
 What is the reason for a primary bonding connection’s large cross-sectional area?
 To carry the static discharge current to the conducting nose wheel.
-
-To carry lightening discharge current should the need arise.
+@@To carry lightening discharge current should the need arise.
 To maintain the airframe at the same potential throughout.
+
 ATA specification 100 is.
 the procedures which must be complied with before an aircraft can be given a Certificate of Airworthiness in the Transport Category (Passenger).
-
-the International standardization of maintenance manuals, illustrated parts catalogues, overhaul and repair manuals, service bulletins and letters.
+@@the International standardization of maintenance manuals, illustrated parts catalogues, overhaul and repair manuals, service bulletins and letters.
 the American FAA specification controlling the manufacture of aluminium and its alloys.
+
 Maintenance Schedules are issued.
 in a folder with the operators name on the cover.
-
 with an approval certificate by the CAA.
 @@by the operator with CAA approval.
+
 After a mandatory inspection has been carried out by a Licensed Engineer, what is issued.
 a Certificate of Maintenance Review.
-
-Certificate of Release to Service.
+@@Certificate of Release to Service.
 a Flight Release Certificate.
+
 A Certificate of Release to Service must be issued after.
 @@a repair has been carried out in accordance with an approved repair scheme.
-
 a re-fuel has been done.
 engine runs.
+
 The purpose of the CRS is.
 to ensure that the log book entry is complete.
-
-to turn a log book or job card entry into a legal document and to ensure that the signatory takes full responsibility for the work done.
+@@to turn a log book or job card entry into a legal document and to ensure that the signatory takes full responsibility for the work done.
 to comply with article 15 of the ANO which states that an aircraft must not fly unless it is properly equipped for the intended flight.
+
 What work has to be recorded and signed for?
 Only work which entails a duplicate inspection.
-
 Only work involving replacements.
 @@All work carried out.
+
 Rubber components should be stored.
 @@in a cool dark area.
-
 in warm and humid conditions.
 in a well lit room.
+
 Storage of components to prevent corrosion is helped.
 @@by using silica gel.
-
 by wrapping in grease proof paper.
 by placing them in a plastic box.
+
 Dye penetrant kits should be stored.
 @@out of sunlight in a dry place.
-
 in direct sunlight to keep it dry.
 in a dark damp cupboard.

@@ -43,311 +43,307 @@ Which condition is the actual amount of water vapour in a mixture of air and wat
 Dew point
 Relative humidity
 
-Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
 At sea level, ISA atmospheric pressure is
 10 Bar
 @@14.7 PSI
+7 kPa
 
-14.7 kPa
-Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
 With an increase in altitude under I.S.A. conditions the temperature in the troposphere
 increases
-
-decreases
+@@decreases
 remains constant
-Refer: EASA Module 8 - Basic Aerodynamics/ Physics of the atmosphere
-If the IAS is increased by a factor of 4, by what factor would the drag increase?
 
+If the IAS is increased by a factor of 4, by what factor would the drag increase?
 4
 @@16
 8
-When airflow velocity over an upper cambered surface of an aerofoil decreases, what takes place?
 
+When airflow velocity over an upper cambered surface of an aerofoil decreases, what takes place?
 Pressure increases, lift increases
 @@Pressure increases, lift decreases
 Pressure decreases, lift increases
-The difference between the mean camber line and the chord line of an aerofoil is
 
+The difference between the mean camber line and the chord line of an aerofoil is
 neither are straight
 they both may be curved
 @@one is always straight and the other may be straight
-Subsonic flow over a cambered aerofoil at 4° angle of attack will cause
 
+Subsonic flow over a cambered aerofoil at 4° angle of attack will cause
 an increase in speed and drop in pressure over the upper surface and a decrease in speed and a rise in pressure over the lower surface
 a decrease in speed and drop in pressure over the upper surface and a decrease in speed and a drop in pressure over the lower surface
 @@an increase in speed and drop in pressure over the upper surface and an increase in speed and a drop in pressure over the lower surface
-The vertical component of the aerodynamic resultant is defined as
 
-lift
+The vertical component of the aerodynamic resultant is defined as
+@@lift
 total aerodynamic force
 drag
-Which statement is correct about the Cl and angle of attack?
 
-For a symmetric aerofoil, if angle of attack = 0, Cl =0
+Which statement is correct about the Cl and angle of attack?
+@@For a symmetric aerofoil, if angle of attack = 0, Cl =0
 For an asymmetric aerofoil, if angle of attack = 0, Cl =0
 For a symmetric aerofoil, if angle of attack = 0, Cl is not equal to 0
-What determines the coefficient of lift?
 
+What determines the coefficient of lift?
 The aircraft designer
 @@Aerofoil shape and angle of attack
 The amount of camber
-Which of the following describes the 'Empennage'?
 
+Which of the following describes the 'Empennage'?
 Nose section of an aircraft, including the cockpit
 @@Tail section of the aircraft, including fin, rudder, tail plane and elevators
 The wings, including the ailerons
-The induced drag of an aircraft
 
+The induced drag of an aircraft
 increases with increasing speed
 @@decreases with increasing speed
 increases if aspect ratio is increased
-Bernoulli’s equation states that
 
+Bernoulli’s equation states that
 static pressure equals stagnation pressure
 dynamic pressure equals stagnation pressure
 @@the sum of static pressure and dynamic pressure is equal to stagnation pressure
-Induced drag can be reduced by the use of
 
+Induced drag can be reduced by the use of
 fairings at junctions between fuselage and wings
 @@high aspect ratio wings
 streamlining
-On a symmetrical aerofoil the camber line is
 
-equal to the chord
+On a symmetrical aerofoil the camber line is
+@@equal to the chord
 less than the chord
 greater than the chord
-Which of the following can reduce induced drag?
 
+Which of the following can reduce induced drag?
 Smooth surfaces
 @@Winglets
 Streamlining
-Which of the following statements about boundary layers is correct?
 
+Which of the following statements about boundary layers is correct?
 The turbulent boundary layer is thinner than the laminar boundary layer
 The turbulent boundary layer gives a lower skin friction than the laminar boundary layer
 @@The turbulent boundary layer has more kinetic energy than the laminar boundary layer
-The boundary layer of a body in a moving airstream is
 
-a layer of air over the surface where the airspeed is changing from free stream velocity to zero velocity
+The boundary layer of a body in a moving airstream is
+@@a layer of air over the surface where the airspeed is changing from free stream velocity to zero velocity
 a thin layer of air over the surface where the air is stationary
 a layer of air which is moving at free stream speed
-The angle of attack of an aerofoil section is the angle between the
 
+The angle of attack of an aerofoil section is the angle between the
 underside of the wing surface and the mean airflow
 @@chord line and the relative airflow
 chord line and the centre line of the fuselage
-A High Aspect Ratio wing is a wing with
 
+A High Aspect Ratio wing is a wing with
 short span, long chord
 long span, long chord
 @@long span, short chord
-Downwash, on a wing section during flight, occurs
 
-at the trailing edge only
+Downwash, on a wing section during flight, occurs
+@@at the trailing edge only
 at both the leading edge and the trailing edge
 at the leading edge only
-Lift is a function of
 
+Lift is a function of
 velocity, wing shape, wing area and CL
 @@velocity, wing area, CL and density
 velocity, density, wing shape and lift coefficient
-The Mean Aerodynamic Chord (MAC) for a given wing of any planform is
 
+The Mean Aerodynamic Chord (MAC) for a given wing of any planform is
 the wing area divided by the wing span
 @@the chord of a rectangular wing with same moment and lift
 the average chord of the actual aeroplane
-'Load factor' has the following meaning:
 
+'Load factor' has the following meaning:
 The ratio of a specified load to the mass of the aircraft the former being expressed in terms of aerodynamic and inertia forces
 The ratio of a specified load to the mass of the aircraft, the former being expressed in terms of aerodynamic forces, inertia forces and ground reactions
 @@The ratio of a specified load to the weight of the aircraft, the former being expressed in terms of aerodynamic forces, inertia forces and ground reactions
-Which of the following are lift increasing device?
 
+Which of the following are lift increasing device?
 Flaps only
 Slots only
 @@Flaps and slots
-A boundary layer fence on a swept wing will
 
+A boundary layer fence on a swept wing will
 improve the high speed characteristics
 increase the critical Mach Number
 @@improve the low speed characteristics
-A deployed slat will
 
+A deployed slat will
 increase the camber of the aerofoil and increase the effective angle of attack, suction peak so that Clmax is reached at higher angle of attack
 increase the boundary layer energy and increase the suction peak on the fixed part of the wing, so that the stall is postponed to higher angle of attack
 @@increase the boundary layer energy, move the suction peak from the fixed part of the wing to the slat, the stall is postponed to higher angle of attack
-The type of flaps which increase both lift and area of the wing is a
 
+The type of flaps which increase both lift and area of the wing is a
 slotted flap
 plain flap
 @@Fowler flap
-What happens to lift when flaps are lowered?
 
+What happens to lift when flaps are lowered?
 Decreases
 Remains same
 @@Increases
-In a gliding flight
 
+In a gliding flight
 lift is greater than weight
 @@lift is less than weight
 lift is zero
-A slotted flap will increase the CLmax by
 
+A slotted flap will increase the CLmax by
 increasing only the camber of the aerofoil
 @@increasing the camber of the aerofoil and improving the boundary layer
 increasing the critical angle of attack
-A stall warning device must be set to operate
 
-at a speed just above stalling speed
+A stall warning device must be set to operate
+@@at a speed just above stalling speed
 at a speed just below stalling speed
 at the stalling speed
-A stick shaker is intended to come into operation
 
-prior to the actual moment of aircraft stall
+A stick shaker is intended to come into operation
+@@prior to the actual moment of aircraft stall
 at the actual moment of aircraft stall
 immediately after the aircraft is stalled
-About which axis of the aircraft does a rolling motion take place?
 
+About which axis of the aircraft does a rolling motion take place?
 Vertical axis
 @@Longitudinal axis
 Lateral axis
-After take-off the slats (when installed) are always retracted later than the flaps. Why?
 
-Because SLATS EXTENDED gives a large decrease in stall speed with relatively less drag
+After take-off the slats (when installed) are always retracted later than the flaps. Why?
+@@Because SLATS EXTENDED gives a large decrease in stall speed with relatively less drag
 Because SLATS EXTENDED provides a better view from the cockpit than FLAPS EXTENDED
 Because FLAPS EXTENDED gives a large increase in stall speed with relatively less drag
-Aircraft flying in the transonic range most often utilize
 
+Aircraft flying in the transonic range most often utilize
 high wings
 @@sweptback wings
 advanced super-critical airfoils
-An aeroplane has the following flap settings: 0°, 15°, 30° and 45°. Slats can be selected too. Which of the above selections will produce the greatest negative influence on the CL/CD ratio?
 
+An aeroplane has the following flap settings: 0°, 15°, 30° and 45°. Slats can be selected too. Which of the above selections will produce the greatest negative influence on the CL/CD ratio?
 Flaps from 15° to 30°
 @@Flaps from 30° to 45°
 Flaps from 0° to 15°
-An aircraft banks into a turn. No change is made to the airspeed or angle of attack. What will happen?
 
-The aircraft enters a side slip and begins to lose altitude
+An aircraft banks into a turn. No change is made to the airspeed or angle of attack. What will happen?
+@@The aircraft enters a side slip and begins to lose altitude
 The aircraft turns with no loss of height
 The aircraft yaws and slows down
-An aircraft is flying into the wind. In a given amount of time, it will
 
-fly with the same IAS as in still air, but travel less distance
+An aircraft is flying into the wind. In a given amount of time, it will
+@@fly with the same IAS as in still air, but travel less distance
 fly with a higher IAS than in still air, and travel further
 fly with a higher IAS than in still air, and travel less
-An aircraft wing is said to have stalled when the
 
+An aircraft wing is said to have stalled when the
 boundary layer is completely turbulent
 speed of the aircraft falls below the stalling speed
 @@airflow separates from the upper surface
-An increase in angle of attack (below the stalling angle of attack) increases lift because
 
+An increase in angle of attack (below the stalling angle of attack) increases lift because
 induced drag is reduced
 the vertical component of weight is reduced
 @@the lift coefficient increases
-An increase of wing loading will
 
-increase the stall speed
+An increase of wing loading will
+@@increase the stall speed
 decrease the minimum gliding angle
 decrease take off speeds
-The lateral axis is
 
-a straight line through the CG parallel to a line joining the wingtips
+The lateral axis is
+@@a straight line through the CG parallel to a line joining the wingtips
 a straight line through the CG from nose to tail
 a straight line through the CG at right angles to the longitudinal and lateral axis
-The lateral axis is also called the
 
-pitch axis
+The lateral axis is also called the
+@@pitch axis
 normal axis
 roll axis
-Dihedral wings combat instability in
 
-side-slip
+Dihedral wings combat instability in
+@@side-slip
 pitch
 yaw
-An aircraft with neutral stability has its attitude changed due to a gust of wind, how will this effect it?
 
+An aircraft with neutral stability has its attitude changed due to a gust of wind, how will this effect it?
 It will return to its original attitude
 It will go further out of control continuously
 @@It will remain in its new attitude
-The directional axis
 
-acts through the C of G, perpendicular to the longitudinal axis and lateral axis.
+The directional axis
+@@acts through the C of G, perpendicular to the longitudinal axis and lateral axis.
 is perpendicular to the longitudinal axis
 is perpendicular to the horizontal axis
-If an aircraft returns to a position of equilibrium it is said to be
 
-positively stable
+If an aircraft returns to a position of equilibrium it is said to be
+@@positively stable
 neutrally stable
 negatively stable
-Which of the following is used to counteract yaw?
 
-Fin area
+Which of the following is used to counteract yaw?
+@@Fin area
 Lateral dihedral
 Longitudinal dihedral
-Dutch roll is an oscillatory motion that is an interaction between
 
+Dutch roll is an oscillatory motion that is an interaction between
 longitudinal and directional stability
 @@lateral and directional stability
 longitudinal and lateral stability
-Lateral stability is about the
 
+Lateral stability is about the
 vertical axis
 @@longitudinal axis
 lateral axis
-Dutch Roll is
 
+Dutch Roll is
 a type of slow roll
 primarily a pitching instability
 @@a combined rolling and yawing motion
-Movement of an aircraft about its vertical axis
 
-is yawing
+Movement of an aircraft about its vertical axis
+@@is yawing
 is pitching
 is rolling
-The pendulum effect on a high wing aircraft
 
-increases lateral stability
+The pendulum effect on a high wing aircraft
+@@increases lateral stability
 decreases lateral stability
 has no effect on lateral stability
-Longitudinal stability is provided by the
 
-horizontal stabilizer
+Longitudinal stability is provided by the
+@@horizontal stabilizer
 vertical stabilizer
 mainplane
-The fin gives stability about which axis?
 
+The fin gives stability about which axis?
 Lateral axis
 @@Vertical axis
 Longitudinal axis
-Dihedral improves
 
+Dihedral improves
 longitudinal stability
 directional stability
 @@lateral stability
-An aircraft, which is longitudinally stable, will tend to return to level flight after a movement in which axis?
 
+An aircraft, which is longitudinally stable, will tend to return to level flight after a movement in which axis?
 Roll
 Yaw
 @@Pitch
-Stability of an aircraft is
 
+Stability of an aircraft is
 the ability of the aircraft to rotate about an axis
 the tendency of the aircraft to stall at low airspeed
 @@the tendency of the aircraft to return to its original trimmed position after having been displaced
-A high wing position gives
 
+A high wing position gives
 the same lateral stability as a low wing
 @@more lateral stability than a low wing
 less lateral stability than a low wing
-The three axes concerned with stability of an aircraft have
 
+The three axes concerned with stability of an aircraft have
 longitudinal axis nose to tail, lateral axis at furthest span point, vertical axis through centre of pressure
 vertical axis through C of G. Lateral axis - wing tip to wing tip. Longitudinal axis - nose to tail but not through C of G
 @@longitudinal, lateral and vertical axis all passing through aircraft centre of gravity
-Yawing is a rotation around
 
+Yawing is a rotation around
 the vertical axis obtained by the elevator
 the lateral axis obtained by the rudder
 @@the vertical axis obtained by the rudder

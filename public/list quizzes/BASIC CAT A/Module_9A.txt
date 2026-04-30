@@ -1,7 +1,7 @@
 The company's safety policy should be defined in:
 Safety Management System (SMS) manual
 The Maintenance (MM) manual
-@@C.The Maintenance Organization Exposition (MOE)
+@@The Maintenance Organization Exposition (MOE)
 
 The memory of an individual can be aided by:
 @@Detailed checklist
@@ -19,24 +19,24 @@ Skill and Experience based
 Knowledge based
 
 The famous Murphy's Law says:
-@@A.If something can go wrong, it will.
-B.If something can go wrong, we can stop it
-C.If something can go wrong, we can blame others
+@@If something can go wrong, it will.
+If something can go wrong, we can stop it
+If something can go wrong, we can blame others
 
 The SHEL model of human factors takes into account
-A.Software, Hardware, Efficiency and Liveware
-@@B.Software, Hardware, Environment and Liveware
-C.Software, Hardware, Environment and Location
+Software, Hardware, Efficiency and Liveware
+@@Software, Hardware, Environment and Liveware
+Software, Hardware, Environment and Location
 
 Learning of a routine by repeated practice is known as:
-A.Episodic memory
-@@B.Motor programming
-C.Cognitive learning
+Episodic memory
+@@Motor programming
+Cognitive learning
 
 The impact of human factors and human error is most important to
-A.Technicians and engineers
-B.Planners and managers
-@@C.It is equally important to technicians, engineers, planners and Managers
+Technicians and engineers
+Planners and managers
+@@It is equally important to technicians, engineers, planners and Managers
 
 70 - 80% of the total focusing ability of the human eye is carried out by the:
 Iris.
@@ -49,9 +49,9 @@ The pupil.
 The cornea.
 
 The type of memory is most susceptible to interference from external influences is:
-A.Long term.
-B.Ultra-short term.
-@@C.Short term
+Long term.
+Ultra-short term.
+@@Short term
 
 The Extreme discomfort experienced by a maintenance engineer due to working in a confined space is known as:
 @@Claustrophobia (Fear of confined spaces)
@@ -59,7 +59,7 @@ Acrophobia (Fear of heights)
 Agoraphobia (Fear of leaving the place)
 
 The 'working memory' is consider as:
-A.Long term memory.
+Long term memory.
 @@Short term memory.
 Ultra-short-term memory.
 
@@ -71,7 +71,7 @@ Last for 12 months.
 Human error can be caused by:
 High body temperature.
 Normal body temperature.
-@@C.Low body temperature.
+@@Low body temperature.
 
 If a maintenance engineer has a cold or flu, He/ She should:
 Only absent himself from duty if his work contract includes sickness pay.
@@ -96,7 +96,7 @@ Culture.
 An engineer who has developed his own way of performing a task:
 @@Is in regular violation punishable by law.
 Is improving maintenance efficiency.
-C.Should be commended for his resourcefulness.
+Should be commended for his resourcefulness.
 
 The difference between what a person 'can' do and what he 'will' do is largely determined by his:
 @@Motivation.
@@ -119,34 +119,34 @@ All the members participate in team activities and discussions.
 All the team members work in isolation and therefore provide highly individual solutions to the same problems.
 
 Long shift work will.
-A.Initially decrease your diagnostic and maintenance ability but eventually increase your diagnostic and maintenance ability as you get used to it.
+Initially decrease your diagnostic and maintenance ability but eventually increase your diagnostic and maintenance ability as you get used to it.
 @@Always decrease your diagnostic and maintenance ability.
 Always increase your diagnostic and maintenance ability.
 
 Group polarization can result in:
-@@A.A group making a more cautious or extreme decision
-B.A group making a better decision than the individual
-C.Members of the group not talking to one another
+@@A group making a more cautious or extreme decision
+A group making a better decision than the individual
+Members of the group not talking to one another
 
 In a discussion, the person who is most likely to be agreed with is.
-A.The person who repeats the point most times.
-B.The most argumentative person.
-@@C.The person with the highest status.
+The person who repeats the point most times.
+The most argumentative person.
+@@The person with the highest status.
 
 The aim of human factors programs within an organization is.
-A.to safeguard the health and safety of maintenance personnel by reducing accidents in the workplace.
-@@B.To optimize the relationship between maintenance personnel and systems with a view to improving safety, efficiency and well-being.
-C.To reduce costs by increasing efficiency, safety and quality and decreasing waste through human error.
+to safeguard the health and safety of maintenance personnel by reducing accidents in the workplace.
+@@To optimize the relationship between maintenance personnel and systems with a view to improving safety, efficiency and well-being.
+To reduce costs by increasing efficiency, safety and quality and decreasing waste through human error.
 
 Consumption of alcohol before/during work will:
 @@Increases mental and physical reaction times.(Slow Performance)
 Has no affect upon mental and physical reaction times. (Normal Performance)
-C.Decreases mental and physical reaction times. (Fast Performance)
+Decreases mental and physical reaction times. (Fast Performance)
 
 The only permitted stimulant when working is:
 Bromine.
 @@Caffeine.
-C.Amphetamine.
+Amphetamine.
 
 The symptoms of stress are:
 Violence, sickness, absence from work, drug and alcohol abuse.
@@ -161,12 +161,12 @@ An individual can find noise levels annoying but still perform well indefinitely
 The environmental noise level has a effect on maintenance team it:
 Always improves concentration and quality of work.
 @@Always decreases concentration and quality of work.
-C.Has no effect on concentration of quality of work.
+Has no effect on concentration of quality of work.
 
 Human performance is limited by:
 Physical factors only.
 Mental factors only.
-@@C.Always Both physical factors and mental factors
+@@Always Both physical factors and mental factors
 
 In an error chain, an accident can be prevented by breaking:
 All links in the error chain.
@@ -179,44 +179,44 @@ More than one link in the error chain.
 @@Only one link which is the main cause, in the error chain.
 
 Environmental stresses are.
-@@A.Caused by noise, fumes, heat and vibration.
-B.Tolerated by everyone equally.
-C.Not normally cumulative.
+@@Caused by noise, fumes, heat and vibration.
+Tolerated by everyone equally.
+Not normally cumulative.
 
 Employers must provide their employees with personal ear protectors if the noise level reaches.
-A.70 dB.
-@@B.85 dB.
-C.60 dB.
+70 dB.
+@@85 dB.
+60 dB.
 
 The maximum allowable noise dose is.
-@@A.85 dB.
-B.any combination of noise and time which exceeds 90 dB TWA.
-C.90 dB for 24 hours.
+@@85 dB.
+any combination of noise and time which exceeds 90 dB TWA.
+90 dB for 24 hours.
 
 Environmental capture' is a type of error possible when an engineer does the same job repeatedly.
-A.But on different types of aircraft.
-@@B.On the same type of aircraft.
-C.In a short timescale.
+But on different types of aircraft.
+@@On the same type of aircraft.
+In a short timescale.
 
 When working with bright lights consideration should be given to.
-A.Blurred image.
-B.Shadows.
-@@C.Glare.
+Blurred image.
+Shadows.
+@@Glare.
 
 Which of the following is true?
-A.Noise affects the standard of work proportionately with the level of the noise.
-B.Noise does not affect a person's standard of work.
-@@C.Noise does affect the standard of work with certain people.
+Noise affects the standard of work proportionately with the level of the noise.
+Noise does not affect a person's standard of work.
+@@Noise does affect the standard of work with certain people.
 
 Excess noise in a working environment can.
-A.Raise resistance to other stresses.
-B.Not affect performance.
-@@C.Lower resistance to other stresses.
+Raise resistance to other stresses.
+Not affect performance.
+@@Lower resistance to other stresses.
 
 Which of the following environments is best suited to aircraft maintenance?
-A.Working outside, at night, in the rain.
-B.Working outside, in the direct midday sun.
-@@C.Working inside in a well lit, comfortable hangar.
+Working outside, at night, in the rain.
+Working outside, in the direct midday sun.
+@@Working inside in a well lit, comfortable hangar.
 
 Itemized checklists should be followed by:
 In any order, provided all steps are completed.
@@ -224,12 +224,12 @@ In any order, provided all steps are completed.
 As per one memorized.
 
 A good Shift/work handover constitutes:
-@@A.A written and verbal account of the work done.
+@@A written and verbal account of the work done.
 A written documentation of the work done.
 A verbal account of the work done.
 
 When you performing a given a task and you are unsure of the task then you should:
-@@A.Consult the appropriate approved data.
+@@Consult the appropriate approved data.
 Ask someone who has done it before.
 Consult type training course materials.
 
@@ -254,24 +254,24 @@ Traceability.
 @@Good troubleshooting and traceability for the entire team.
 
 A good practice for a shift handover is for shifts to be specifically rostered so there is an overlap of:
-A.5 - 10 minutes
-@@B.20 - 30 minutes
-C.2 - 3 hours
+5 - 10 minutes
+@@20 - 30 minutes
+2 - 3 hours
 
 When describing tasks, the term 'complex system' refers to a task:
-A.Involving fault finding
-@@B.Which may be broken down into many steps
-C.Which involve decision making rather than practical work
+Involving fault finding
+@@Which may be broken down into many steps
+Which involve decision making rather than practical work
 
 At lower light levels, the visual sensing is performed mainly by the:
-A.Safety Cones
-B.Safety rods
-@@C.Safety Cones, Safety barriers and/or reflective tapes.
+Safety Cones
+Safety rods
+@@Safety Cones, Safety barriers and/or reflective tapes.
 
 Technical communication between two engineers can go wrong if:
-@@A.The recipient makes an assumption of the meaning of the information being transmitted
-B.The sender uses a sketch to augment the information transmittal
-C.The recipient uses body language to provide feedback to the sender
+@@The recipient makes an assumption of the meaning of the information being transmitted
+The sender uses a sketch to augment the information transmittal
+The recipient uses body language to provide feedback to the sender
 
 A good safe working environment written Communication provides:
 Traceability.
@@ -294,19 +294,19 @@ An individual working alone
 with certain people whether they are working in a team or alone
 
 List three examples of non-verbal communication.
-A.Verbal, written, and textual
-B.Graphic, symbolic and spoken
-@@C.Graphic, symbolic and body language
+Verbal, written, and textual
+Graphic, symbolic and spoken
+@@Graphic, symbolic and body language
 
 What constitutes a good work handover?
-@@A.A written and verbal account of the work done.
-B.A written documentation of the work done.
-C.A verbal account of the work done.
+@@A written and verbal account of the work done.
+A written documentation of the work done.
+A verbal account of the work done.
 
 A good shift handover should include details of.
-A.Tasks that have been completed; persons who carried out the tasks; tasks to be carried out and general company and technical information.
-B.Tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and tools required to carry out the tasks.
-@@C.Tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and general company and technical information.
+Tasks that have been completed; persons who carried out the tasks; tasks to be carried out and general company and technical information.
+Tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and tools required to carry out the tasks.
+@@Tasks that have been completed; tasks in progress, their status, any problems encountered etc.; tasks to be carried out and general company and technical information.
 
 Working excessively long shifts and unsociable hours can lead to:
 @@Decreased ability to detect defects during aircraft maintenance.
@@ -344,12 +344,12 @@ Fatigue.
 @@Complacency
 
 The incident where a 737 lost oil from both engines is a direct result of
-A.Engine vibration
-B.Human factors
-@@C.Human error
+Engine vibration
+Human factors
+@@Human error
 
 Tunnel Vision is an example of:
-@@A.Lack of Awareness.
+@@Lack of Awareness.
 Fatigue.
 Stress.
 
@@ -369,31 +369,31 @@ That you have Three things in place: planning, attitude, supplies.
 @@That you have Four things in place: planning, attitude, supplies, and communications.
 
 When someone is working in an enclosed space (such a fuel tank/LG bay/THS) another person should be outside the space in constant communication to:
-A.Ensure compliance with the maintenance manual
-B.Provide instructions to the tradesman
-@@C.For safety reasons
+Ensure compliance with the maintenance manual
+Provide instructions to the tradesman
+@@For safety reasons
 
 When a person moves from a poorly lit area to a well-lit area, what is the minimum time they should allow for the eyes to adapt:
-@@A.7 minutes
-B.7 seconds
-C.30 seconds
+@@7 minutes
+7 seconds
+30 seconds
 
 In an organization which practices human factors there is:
-A.No blame cultures
-@@B.No blame unless there is a deliberate violation
-C.Punishment for all violations
+No blame cultures
+@@No blame unless there is a deliberate violation
+Punishment for all violations
 
 Engineers often work on raised platforms, ladders etc. What dangers can this contribute to:
-A.Staging may be made of wood
-@@B.Ladder may slip and man falls from heights
-C.Two workers may be carrying out maintenance on the same lift
+Staging may be made of wood
+@@Ladder may slip and man falls from heights
+Two workers may be carrying out maintenance on the same lift
 
 During maintenance “Attention Getters"(like cone, safety barriers/Remove before flight etc..) are used for;
-@@A.To get the operators full attention
-B.To gain the operators attention whilst allowing them to continue with the task in hand
-C.To make the operator focus his/her attention fully on the task in hand
+@@To get the operators full attention
+To gain the operators attention whilst allowing them to continue with the task in hand
+To make the operator focus his/her attention fully on the task in hand
 
 In the 'slips, lapses and mistakes' definition of errors, forgetting to replace an engine cowling would be considered as:
-A.Slip
-@@B.Lapse
-C.Mistake
+Slip
+@@Lapse
+Mistake

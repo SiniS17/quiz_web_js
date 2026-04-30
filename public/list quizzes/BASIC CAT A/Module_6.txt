@@ -224,7 +224,7 @@ Eddy current test.
 Ultrasonic test.
 
 How do you reduce or remove electrostatic charges which may build up on composite surfaces?.
-A.No special treatment is necessary because fibre glass is an ins
+No special treatment is necessary because fibre glass is an ins
 @@The surface is treated with a special conductive paint.
 The surface is impregnated with copper strips.
 
@@ -424,7 +424,7 @@ Anodizing.
 Metal spraying.
 
 Corrosion on copper is identified by.
-Red/brown rust
+Red/brown rust.
 Black powder.
 @@Green to blue copper salts on the corroded part
 
@@ -463,9 +463,9 @@ Most commonly used thread form in aviation is
 Round thread.
 Buttress.
 
-Pitch of a screw thread is defined as.           
-Distance from the centre of one crest to the next.    
-Difference between major diameter and minor diameter.     
+Pitch of a screw thread is defined as.
+@@Distance from the centre of one crest to the next.
+Difference between major diameter and minor diameter.
 Distance between the crest and the root of the thread.
 
 A metric screw thread angle is.

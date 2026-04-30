@@ -278,981 +278,977 @@ Controlling the supply of air to the cabin
 Controlling the output of the compressor
 @@Controlling the amount of air discharged from the cabin
 
-Avionic Systems (ATA 22, 23, 34)
 What are the main areas of the autopilot?
 Error, correction, demand, resolved.
 Error, correction, follow up, demand.
+@@Error, correction, follow up, command
 
-Error, correction, follow up, command
 Autopilot, when on approach to landing, how many axis are used?
 2
 4
+@@3
 
-3
 A Yaw Damper is:
 An elevator augmentor
 @@A rudder damper designed to avoid the "Dutch roll"
-
 A roll trim tab
+
 An Automatic Flight Control System receives inputs from the following ground based transmitters.
 DME, ILS, ADF
 @@VOR, ILS
-
 RA, ADF, ILS
+
 A yaw damper receives error signals from:
 @@the turn coordinator rate gyro
 Vertical gyros
-
 Directional gyros
+
 Pilot's instinctive cut-out buttons are positioned.
 on right side of control wheel
 @@on side of control wheel furthest from throttles
-
 on left side of control wheel
+
 Inputs to the rudder channels initially originate from:
 Compass gyro and gyro for AH
 AH gyro and turn and slip gyro
+@@Compass gyro and turn and slip gyro
 
-Compass gyro and turn and slip gyro
 An aircraft is "homing" to a radio beacon whilst maintaining a relative bearing of zero. If the magnetic heading decreases, the aircraft is experiencing:
 @@right drift
 left drift
-
 zero drift
+
 Which of the following is the ICAO allocated frequency band for ADF receivers?
 255 - 455 kHz
 @@200 - 1750 kHz
-
 300 - 3000 kHz
+
 In order to obtain an ADF bearing the:
 @@signal must be received by both the sense and loop aerials
 sense aerial must be tuned separately
-
 mode selector should be switched to “loop”
+
 The ADF reception loop is always used so that the electromotive force (EMF)
 @@induced is zero
 induced is maximum
-
 is zero
+
 A loop aerial, as used in the ADF, will
 Always rotate at constant speed before locking on to a signal from an NDB
 Will provide the most accurate bearing when it is aligned in the direction resulting in highest signal strength to the ADF receiver
+@@Receive a minimum or null signal from a transmitter when the plane of the loop is at right angles to the direction of the transmitter
 
-Receive a minimum or null signal from a transmitter when the plane of the loop is at right angles to the direction of the transmitter
 Of the bearing indicators available for use on ADFs, the most sophisticated one is:
 The Relative Bearing Indicator
 @@The Radio Magnetic Indicator
-
 The Deviation Indicator
+
 SATCOM is used to.
 Monitor aircraft
 @@Relay transmissions to and from the aircraft
-
 Determine the position of the aircraft
+
 121.5 MHz is what frequency?
 VOR
 @@VHF
-
 ILS
+
 Which frequency is used to achieve line of sight radio communication?
 HF
 VHF
+@@VHF and UHF
 
-VHF and UHF
 Which is the frequency separation between consecutive frequencies in the VHF band
 75 KHz
 50 KHz
+@@25 KHz
 
-25 KHz
 VHF frequency is.
 @@108 – 136.975 MHz
 108 - 112 MHz.
-
 108 - 118 MHz.
+
 A radio frequency of 16 MHz would be used for ?
 weather radar.
 marker beacons.
+@@HF communications
 
-HF communications
 Service interphone system allows
 @@communication between the flight deck and some areas on the aircraft
 communication to other aircraft
-
 Communication to ATC
-Instrument system (ATA 31)
+
 Which of these barometric instruments uses a restrictor to compute its output?
 Machmeter
-
-VSI
+@@VSI
 ASI
+
 In a Air Data Computer (ADC) system, Mach information is derived from.
 pitot and static pressures
-
-indicated airspeed and altitude
+@@indicated airspeed and altitude
 indicated air speed and total air temperature
+
 In a Air Data Computer, altitude is produced from.
 @@static air pressure
-
 pitot air pressure and total air temperature
 pitot air pressure
+
 In a Air Data Computer (ADC), Indicated Air Speed (IAS) is produced from.
 static pressure only
-
 pitot pressure only
 @@pitot and static air pressure
+
 A machmeter works.
 @@always
-
 always except on the ground
 above 10,000 ft
+
 In Airways flying, what is the barometric scale of the altimeter set to?
 QFE
-
 QNH
 @@1013.25
+
 The pressure measured at the forward facing orifice of a pitot tube is the:
 static pressure
-
-total pressure
+@@total pressure
 total pressure plus static pressure
+
 A pitot tube covered by ice which blocks the ram air inlet will affect the following instrument (s):
 altimeter only.
-
-airspeed indicator only
+@@airspeed indicator only
 vertical speed indicator only
+
 In a standard atmosphere and at the sea level, the calibrated airspeed (CAS) is:
 higher than the true airspeed (TAS).
-
 independent of the true airspeed (TAS).
 @@equal to the true airspeed (TAS)
+
 What corrections must be applied to indicated airspeed to produce true airspeed?
 Correction for heading and altitude
-
 Correction for wind and temperature
 @@Correction for altitude and temperature
+
 Total air pressure consists of static pressure plus:
 Differential pressure.
-
 Total pressure.
 @@Dynamic pressure
+
 A lead-acid battery is considered to be fully charged when the.
 cells begin to gas freely
-
-SG and voltage remain constant for specified period
+@@SG and voltage remain constant for specified period
 SG reaches 1.180
+
 The preferred method of battery charging a Ni-Cad battery is constant.
 power
-
 voltage
 @@current
+
 To parallel an alternating current generator with one or more other generators, phase A must be.
 90 degrees out-of-phase and ABC
-
-in-phase with other generators and ABC
+@@in-phase with other generators and ABC
 in-phase with other generators and CBA only
+
 A fuse-type current limiter
 limits current flow to a load
-
 can be used as a radio suppressor
 @@opens a circuit after a time/current condition has been exceeded.
+
 Voltage is controlled by.
 the constant speed drive
-
 the swashplate
 @@the voltage regulator
+
 In an AC generation system, the frequency and phase rotation.
 must be out of phase prior to paralleling.
-
 is of no consequence after paralleling.
 @@must be synchronised prior to paralleling.
+
 The output frequency of a hydraulically driven standby generator is controlled by.
 an IDG
-
-a hydraulically actuated swash plate
+@@a hydraulically actuated swash plate
 a CSD
+
 An AC generator used with a CSD.
 does not need a voltage controller because voltage is kept constant.
-
-needs a voltage controller to maintain voltage with increasing load.
+@@needs a voltage controller to maintain voltage with increasing load.
 does not need a voltage controller because current is kept constant.
+
 One of the main functions of the airline battery is to:
 Provide electric power for heating
-
-Be an emergency source of electric power
+@@Be an emergency source of electric power
 Provide DC power for certain equipment
+
 Circuit breakers protecting circuits may be:
 used only in AC circuits.
-
 used only in DC circuits.
 @@used in AC and DC circuits
+
 The output voltage of DC generators used in aircraft is normally regulated by:
 Varying the RPM of the generator.
-
 Controlling the current in the armature (anker) windings.
 @@Controlling the current in the field windings
+
 Assume a constant speed DC generator providing a constant output voltage. If the electrical load increases, the voltage regulator will:
 change the direction of the excitation current.
-
 maintain the intensity of the excitation current constant.
 @@increase the intensity of the excitation current
+
 The primary purpose of the reverse current relay is to:
 Prevent the generator from delivering current to the generator.
-
-Prevent the battery from delivering current to the generator.
+@@Prevent the battery from delivering current to the generator.
 Prevent the generator from delivering too much current
+
 The so-called "hot buses" or "direct buses" are:
 @@directly connected to the battery
-
 kept in operating conditions by an electrical resistance in the case of energy failure.
 automatically connected to the battery if generators have failed
+
 A bus-bar is:
 @@a distribution point for electrical power
-
 a device permitting operation of two or more switches together
 the stator of a moving coil instrument
+
 A static inverter is a:
 device for reversing the polarity of the static charge
-
-transistorized unit used to convert DC into AC
+@@transistorized unit used to convert DC into AC
 static discharger
+
 If voltage and frequency of the generator drop to zero in flight, it would be an indication that the.
 @@CSD driveshaft had sheared
-
 phase sequence detection circuit has operated
 bus tie interlock is inoperative
+
 Assuming all systems are operating normally, as aircraft electrical load increases, generator output voltage will
 increases and amperage output increases.
-
-remain constant and amperage output increases.
+@@remain constant and amperage output increases.
 decrease and amperage output increases.
+
 What is the small pin on the DC ground power connector?
 Positive to battery relay
-
-Positive to external power relay
+@@Positive to external power relay
 Ground or earth
+
 How is RAT driven?
 @@Airstream
-
 Compressor
 Fan
+
 The most widely used electrical frequency in aircraft is:
 200 Hz
-
 50 Hz
 @@400 Hz
+
 When an overvolt is present on an AC generator system, the tripping circuit.
 trips after a time delay.
-
-trips after a time delay inversely proportional to overvolt amplitude.
+@@trips after a time delay inversely proportional to overvolt amplitude.
 trips at a set level.
+
 In an AC distribution system, the purpose of the synchronising bus-bar is to.
 supply essential services.
-
-provide interconnection between the generator load busbars.
+@@provide interconnection between the generator load busbars.
 provide a means of monitoring the load.
+
 The moving part in an AC generator is usually referred to as the:
 oscillator
-
 stator
 @@rotor
+
 The function of a constant speed drive (CSD) in an AC generating system is to :
 vary the engine rpm (within limits) to compensate for various AC loads.
-
 vary generator rpm in order to compensate for various AC loads.
 @@drive the generator at a constant speed.
+
 AC generator output indications are measured in.
 @@KVA & KW
-
 KW
 KW & KVAR
+
 In the event of complete AC generator failure in an AC split bus-bar generation system, how is power maintained to the essential AC bus-bar?
 By power fed from static inverter only
-
 By power fed from a hot battery bus-bar only
 @@By power fed from a battery supplied static inverter
+
 A 3 phase AC generator has 3 separate stator windings spaced at :
 90°
-
 60°
 @@120°
+
 Assuming a CSD fault is indicated, the CSD should be disconnected:
 on the ground only.
-
 at flight idle engine rpm.
 @@during engine operation only
+
 A Constant Speed Drive aims at ensuring
 equal AC voltage from all generators.
-
 that the CSD remains at a constant RPM not withstanding the generator RPM
 @@that the electric generator produces a constant frequency.
+
 The specifications for emergency equipment requirements on any given aircraft are found in EASA issued airworthiness codes
 CS-23
-
-CS-25
+@@CS-25
 CS-33
+
 Some items regularly considered emergency equipment are:
 @@Life Rafts, Flashlights, Fire Axes …
-
 Life Vests, First Aid Kits, Water Boilers …
 Fire Axes, Ovens, Life Vests …
+
 If a seat belt is not functional and cannot be changed before flight
 The seat must be placarded and can use
-
 The seat can use without placard
 @@The seat must be placarded and not used
+
 Seat belts and harnesses are constructed from
 Fiberglass Webbing
-
-Nylon Webbing
+@@Nylon Webbing
 Cotton Webbing
+
 Cabin layout is a result of considerations for
 Comfort for passengers and flight attendants
-
-Safety requirements and practical functional arrangements to serve the passengers
+@@Safety requirements and practical functional arrangements to serve the passengers
 Comfort for passengers and flight crews
+
 Galleys themselves are preconstructed
 One assembly
-
-Modular units
+@@Modular units
 One unit
+
 Cargo compartments are lined with
 Any material of panels
-
-Fire resistant sidewall and ceiling panels
+@@Fire resistant sidewall and ceiling panels
 Fire resistant for ceiling panels only
+
 On pulling the fire handle, the aural warning.
 goes off, the light goes off, hydraulics, bleed air and generator goes off.
-
 stays on, the light extinguishes, the generator goes off line.
 @@goes off, the light remains on, the generator goes off line.
+
 When a fire test on a Systron Donor fire detector system is carried out.
 a signal passes through the unbroken centre conductor to produce the warning.
-
-it checks the integrity of the contacts.
+@@it checks the integrity of the contacts.
 the signal passes through the centre and back through the outer to give warning.
+
 A fire detection loop must be capable of.
 @@using master warning visual and aural signals.
-
 detecting fire/overheat condition within 5 seconds and extinguishing such that after 30 seconds the condition is no longer present.
 using master warning visual signals only.
+
 A toilet is fitted with thermal protection.
 to protect against freezing at altitude.
-
-to protect against the dangers of smoke and fire in the event of an overheat.
+@@to protect against the dangers of smoke and fire in the event of an overheat.
 to protect against continuous flushing.
+
 What external warning is there for an APU fire?
 Aural
-
-Both aural and a red light
+@@Both aural and a red light
 Red light
+
 In a gas firewire system, what causes the firewire caption to come on when heat is applied?
 Continuity
-
-Pressure
+@@Pressure
 Capacitance increase
+
 A cargo compartment which will contain a fire itself and ventilate is a class.
 A
-
-D
+@@D
 C
+
 What test is carried out to ensure serviceability of a squib?
 Bottles are fired.
-
 Safety ohmmeter is used to check voltage.
 @@A continuity check.
+
 Smoke detectors consist of a.
 lamp detecting 2% smoke
-
-photoelectric cell
+@@photoelectric cell
 semiconductor loop
+
 What are the minimum number of fire bottles in a cabin with 201- 300 people?
 3 BCF.
-
-4 Fire Extinguishers
+@@4 Fire Extinguishers
 4 Methyl Bromide
+
 How can fire extinguisher be identified as being used?
 Check the tell-tale wire
-
-Weighed
+@@Weighed
 Check the pressure
+
 The indication of the fire detection systems is performed by a:
 warning bell
-
 warning light
 @@warning light and a warning bell
+
 In normal flight, if the control wheel is moved to the left, then the aileron on the right wing will.
 Decrease the angle of attack of the right hand wing.
-
-Increase the angle of attack of the right hand wing.
+@@Increase the angle of attack of the right hand wing.
 Keep the angle of attack of the right wing constant.
+
 Aileron input is fed into the yaw damper system to.
 Prevent nose pitching down.
-
 Prevent nose pitching up.
 @@Prevent adverse yaw in a turn.
+
 In an automatic flight control system, when may the yaw damper be applied?
 During manual control only.
-
-During either manual or automatic control.
+@@During either manual or automatic control.
 During automatic control only.
+
 The aircraft is controlled about the lateral axis by the.
 Ailerons
-
 Rudder
 @@Elevator
+
 The aircraft is controlled about the vertical axis by the.
 Elevator
-
-Rudder
+@@Rudder
 Ailerons
+
 A stick shaker is a device which.
 Helps extricate an aircraft from soft ground.
-
 Gives a short period of extra lift to assist take off.
 @@Vibrates the control column near stalling speed.
+
 The aircraft is controlled about the longitudinal axis by the.
 @@Ailerons
-
 Elevator
 Rudder
+
 Which of the following is not a primary flying control?
 @@Tailplane
-
 Elevator
 Rudder
+
 A tab which assists the pilot to move a flying control by moving automatically in the opposite direction to the control surface is called a.
 Trim tab
-
 Servo tab
 @@Balance tab
+
 When spoilers are used asymmetrically, they combine with.
 @@Ailerons
-
 Elevators
 Rudder
+
 What is used to correct any tendency of the aircraft to move towards an undesirable flight attitude?
 @@Trim tabs
-
 Spring tabs
 Balance tabs
+
 A fuel crossfeed valve is usually in.
 @@The closed position
-
 The open position
 Its last position
+
 As the aircraft maneuvers, some probes are in more fuel than others due to the attitude of the aircraft. The indication
 @@Remains steady, because the total capacitance transmitted by all of the probes remains the same
-
 Remains steady for center tank and difference of wing tanks
 Remains steady for wing tanks and steady for center tank
+
 Fuel tanks interconnected must have.
 Vents to allow overfueling.
-
-Protection against overfill for tanks and fuel system
+@@Protection against overfill for tanks and fuel system
 Tank where fuel is fed from both tanks to engine inlet.
+
 Cross feed valves permit fuel transfer from.
 Tank to tank.
-
 Left tank to right tank.
 @@Any tank to any engine
+
 In a light fixed wing aircraft, the fuel warning light indicates.
 Pump failure.
-
 The tank does not pressurise.
 @@Ice blockage, filter popped or pump fail.
+
 How is fuel supplied to a turbine engine?
 @@By a fuel boost pump.
-
 By suction from the engine driven fuel pump.
 By a gravity feed pump.
+
 A fuel tank suction valve will open when.
 @@The booster pump fails.
-
 Both the engine driven and booster pump fail.
 The engine driven pump fails.
+
 To prevent water condensation in a fuel tank.
 @@The tank should be filled as full as possible
-
 The tank should be filled with the minimum fuel possible.
 The filler cap should be left open.
+
 When considering the basic categories of fuel tank construction, which of the following is most prone to leaks?
 Rigid
-
-Integral
+@@Integral
 Flexible
+
 A leak from a fuel tank which manifests as fuel dripping from the tank is classified as a.
 Stain
-
 Seep
 @@Run
+
 The advantages of integral fuel tanks are that they.
 Are cheaper to manufacture, more durable and easier to maintain.
-
-Use the maximum volume for fuel and have the minimum amount of weight.
+@@Use the maximum volume for fuel and have the minimum amount of weight.
 Are easier to design and construct and use the maximum volume of fuel.
+
 Accumulators as fitted to aircraft hydraulic systems.
 Are only ever used in an emergency
-
-Store fluid under pressure
+@@Store fluid under pressure
 Provide additional fluid if leaks occur
+
 A check flow valve in a hydraulic system prevents.
 Pump cavitation
-
-Reverse flow
+@@Reverse flow
 Overpressure
+
 A constant delivery pump has its output varied with.
 @@Regulators
-
 Gears
 Servo pressure
+
 A hydraulic closed system is one where.
 @@Pressure is maintained at the selector valves at all times.
-
 There is no pressure at the selector valves when no functions are required.
 Most of the major components of the system are included in a self contained unit.
+
 What constitutes a hydraulic power pack?
 Variable swashplate pump.
-
-Reservoir, pump, selector valve, filter.
+@@Reservoir, pump, selector valve, filter.
 Hydraulic oil accumulator.
+
 If an accumulator loses air pressure, there will be.
 Rapid depressurisation of system.
-
 Pump cavitation.
 @@Rapid fluctuations of instruments.
+
 One reason for fitting an accumulator in a hydraulic system is to.
 Minimize the possibility of pump cavitation.
-
-Absorb pressure surges
+@@Absorb pressure surges
 Relieve excess pressure.
+
 A thermal relief valve is fitted to a hydraulic system to.
 Prevent a leak back of pressure.
-
 Prevent excess temperature.
 @@Relieve excess pressure
+
 A component in a hydraulic system which ensures instantaneous action when a service is selected is.
 @@Accumulator.
-
 Engine driven pump.
 Selector.
+
 A shuttle valve is used for.
 Preventing fluid loss from a leaking jack.
-
 Maintaining fluid press when the emergency system fails.
 @@Change over from main to auxiliary system in the case of failure.
+
 The purpose of a mechanical sequence valve is to ensure the operation of.
 @@Landing gear and doors
-
 Safety switches
 Brake anti-skid units
+
 A hydraulic accumulator is charged with initial air pressure of 1000 PSI. When the hydraulic system pressure of 3000 PSI is reached, the air pressure is.
 4000 PSI
-
-3000 PSI
+@@3000 PSI
 1000 PSI
+
 Hydraulic reservoirs are pressurized to.
 Provide a reserve of stored energy.
-
 Maintain a constant fluid level.
 @@Minimize the possibility of pump cavitation.
+
 In aircraft hydraulic systems, it is permissible to use.
 @@Only the specified fluid.
-
 Any fluid of the same specific gravity.
 Any hydraulic fluid available.
+
 To enable a hydraulic system to operate two components requiring different pressures.
 @@A pressure reducing valve is used.
-
 A pressure regulating valve is used.
 A pressure relief valve is used.
+
 On large transport aircraft, the windshield wiper system is.
 One system for both sides but with the same power source
-
 Independent on each side but with the same power source
 @@Independent on each side with different power sources.
+
 On large transport aircraft, the windshield wiper system is.
 One system for both sides but with the same power source.
-
 Independent on each side but with the same power source.
 @@Independent on each side with different power sources.
+
 A deicer boot is completely bonded to the leading edge to.
 Provide smoother airflow over leading edge
-
-Prevent electrical static build up
+@@Prevent electrical static build up
 Provide more efficient deicer cycles
+
 Air for anti-icing of the wings is obtained from.
 Air conditioning ducting
-
-Engine compressors
+@@Engine compressors
 A combustion heater
+
 The usual material for pipelines in a fluid deice system.
 Stainless steel
-
 Monel
 @@Nylon
+
 When operating a windscreen wiper on the ground, make sure to.
 Use slow wiper only.
-
-Use water as lubricant when operating.
+@@Use water as lubricant when operating.
 Place soft cloth between blade and window.
+
 There are two types of ice are encountered during flight:
 @@Clear ice and rime ice
-
 Block ice and clear ice
 Crushed ice and rime ice
+
 When ice collect on the ice detector probe, the established
 Temperature decreases
-
-Frequency of vibration decreases
+@@Frequency of vibration decreases
 Frequency of vibration increases
+
 The most common source of the heated air is
 @@The turbine engine compressor bleed air
-
 The APU compressor bleed air
 Air conditioning system
+
 Windshield heating provides.
 Thermal expansion for a tighter fit.
-
-Impact resistance enhancement.
+@@Impact resistance enhancement.
 Increases strength to resist cabin pressure.
+
 Adjustment of a windshield wiper system consists of adjusting
 @@The wiper blade tension, the angle at which the blade sweeps across the windshield, and proper parking of the wiper blades.
-
 The wiper blade tension, the angle at which the blade sweeps across the windshield, and speed of the wiper blades
 The angle at which the blade sweeps across the windshield, speed of the wiper blades and the angle of wiper arms
+
 Spongy brakes are usually a result of.
 Internal leakage
-
-Air in the system
+@@Air in the system
 External leakage
+
 Tubeless tyres are stored.
 At 15 to 20 P.S.I
-
 Horizontally maximum of four high with smallest diameter tyre on top.
 @@Vertically
+
 A restrictor valve.
 Speed up the flow in one direction
-
-May be used to slow down undercarriage extension
+@@May be used to slow down undercarriage extension
 Restrict the extent of travel of the undercarriage
+
 The function of the oil in a shock absorber is to.
 Ensure the separator does not bottom.
-
-Damp the rebound.
+@@Damp the rebound.
 Absorb the landing shock.
+
 Fuse plugs in aircraft tyres are.
 For over temperature protection.
-
-For overpressure protection.
+@@For overpressure protection.
 To deflate the tyre before removal.
+
 A red dot / triangle mark on aircraft tyres means.
 Military reference.
-
-The light part of the tyre.
+@@The light part of the tyre.
 Breather points.
+
 When fitting a tyre, the red dot should be positioned.
 On the other side of the wheel opposite to the charging valve.
-
 Opposite the charging valve.
 @@Adjacent to the charging valve.
+
 The cam plate in a nose undercarriage is.
 Part of the shimmy damper.
-
-To align for nose wheel on nose undercarriage retraction.
+@@To align for nose wheel on nose undercarriage retraction.
 For alignment of the nose wheel steering on nose undercarriage extension.
+
 A fusible plug fitted to an aircraft wheel prevents.
 Over inflation of tyres during servicing.
-
 Brakes seizure, if brake stators and rotors weld together under excessive temperatures.
 @@Tyre bursts due to high temperatures created by excessive braking.
+
 If the shuttle valve was stuck in the normal position.
 Neither system will be available.
-
-Emergency braking will not be available.
+@@Emergency braking will not be available.
 Normal braking will not be available.
+
 The fusible plugs installed in some aircraft wheel will.
 Facilitate servicing of the wheel assembly.
-
-Melt at a specified elevated temperature.
+@@Melt at a specified elevated temperature.
 Eliminate the need to check air pressure
+
 Excessive wear in the shoulder area of an aircraft tyre is an indication of.
 @@Under-inflation
-
 Over-inflation
 Excessive toe-in
+
 When the landing gear is locked up, the cockpit indicator shows.
 Red light
-
-No indication
+@@No indication
 Green light
+
 On a multi-brake unit with automatic adjusters, brake wear is checked by.
 Using a go-no go gauge to measure the gap between the cylinder and the thrust plate.
-
-Application of the brakes and checking indicator pin protrusion.
+@@Application of the brakes and checking indicator pin protrusion.
 Measuring the protrusion of the indicator pins with the brakes released.
+
 With aircraft lights - which of the following is true?
 @@Starboard light green, port light red, tail light white.
-
 Starboard light red, port light green, tail light Red.
 Starboard light red, port light green, tail light White.
+
 A fluorescent tube contains.
 Orange coatings, rare gases and mercury vapour.
-
-Phosphor coatings, rare gases and mercury vapour.
+@@Phosphor coatings, rare gases and mercury vapour.
 Iodine coatings and rare gases.
+
 The visible angle of a white tail navigation light is.
 11°
-
-140°
+@@140°
 110°
+
 Wing navigation lights must be visible through which angle?
 @@110°
-
 125°
 180°
+
 Upper and lower strobe lights are coloured.
 Green
-
-Red
+@@Red
 White
+
 How are passenger reading lights normally tested?
 @@Each one is switched on individually at passenger panel.
-
 By using a READ LIGHT TEST switch at any passenger panel.
 By using a READ LIGHT TEST switch on the cabin attendant panel.
+
 In what position should the selector switch be for a standby and emergency lighting system during flight
 @@Armed
-
 OFF
 ON
+
 Service lights include.
 refuelling lights, engine scanning lights, logo lights.
-
 avionics bay lights, engine scanning lights, baggage compartment lights.
 @@baggage compartment lights, avionics bay lights, refuelling lights.
+
 The wing inspection lights are usually controlled through a relay by:
 @@an on/off toggle switch in the cockpit
-
 A push-button in cabin
 A DIM/BRIGHT control knob
+
 A high-intensity white flash is produced from a:
 @@strobe light
-
 fluorescent tube
 landing light
+
 Anti-collision lights can be provided by:
 @@rotating beacon or strobe lights
-
 fluorescent tubes
 retractable assembly.
+
 Oxygen cylinders are considered empty when the pressure inside drops below
 0 psi
-
-50 psi
+@@50 psi
 65 psi
+
 What pressure are oxygen cylinders usually pressurised to?
 300 PSI
-
-1800 PSI
+@@1800 PSI
 3000 PSI
+
 When charging an oxygen bottle with gaseous oxygen, the oxygen is.
 @@Passed into the bottle slowly to keep the temperature at approximately ambient.
-
 Passed into the bottle at any rate as this does not affect temperature.
 Passed into the bottle as quickly as possible to keep the temperature down.
+
 How do oxygen cylinders show over pressure?
 @@Green rupturing disc
-
 Audible warning
 Red rupturing disc
+
 A chemical oxygen generator has a supply duration of at least.
 @@15 minutes
-
 30 minutes
 5 minutes
+
 High pressure pneumatic source is a.
 @@Reciprocating pump.
-
 Centrifugal Compressor.
 Butterfly pump.
+
 Two compressors driven by separate engines use.
 Interconnected to share loads.
-
-NRVs to prevent compressors driving each other.
+@@NRVs to prevent compressors driving each other.
 PRVs.
+
 When high pressure pneumatic air or nitrogen is used to move hydraulic fluid to an actuator, it is called
 @@Pneudraulics
-
 Leading- up pressure
 Combined pressure
+
 A normal working temperature in the pneumatic manifold of close to
 140oC
-
 165oC
 @@200oC
+
 A pressure regulator maintains system pressure with a
 Shut-off valve
-
-Relief valve
+@@Relief valve
 Isolation valve
+
 ______are used to lower the system pressure to that require by a particular component or sub system.
 @@Pressure reducing valves
-
 Pressure relief valves
 Nonreturn valves
+
 Pneumatic manifold ____ is a key parameter monitored on the flight deck
 @@Pressure
-
 Temperature
 Humidity
+
 On a high pressure pneumatic system, if the drain plug for oil and water is left open for long periods of time, the system would.
 @@Lose pressure from the compressor side only.
-
 Lose pneumatic pressure partially.
 Lose all pressure.
+
 Wing anti-ice and engine starter air use of pneumatic manifold air
 @@Without temperature adjustment
-
 With temperature adjustment
 With temperature and pressure adjustment
+
 A pump that increasing both the velocity and the pressure of the air, this is type of
 @@Centrifugal impeller pump
-
 Piston pump
 Vane pump
+
 An “X” on an isolation valve symbol or the APU shutoff valve symbol shows the valve has
 Closed
-
 Opened but the pressure is abnormal
 @@Failed
+
 Waste water drain masts.
 Are not heated.
-
 Are heated using low amperage in the Air and on ground.
 @@Are heated using low amperage with the aircraft on ground only.
+
 Drinking water pipes are prevented from freezing by.
 Installation of neoprene foam insulation.
-
-Wrapping the pipes with heated tapes or ribbons.
+@@Wrapping the pipes with heated tapes or ribbons.
 Placing the pipes adjacent to hot water piping.
+
 Onboard maintenance systems monitor the aircraft for faults, record and store the fault data, and provide information about these faults to.
 @@flight crews and maintenance personnel
-
 flight crews
 maintenance personnel
+
 The data collected by onboard maintenance systems can be accessed:
 in flight
-
 on the ground
 @@both in flight and on the ground
+
 Outputs from the CMC are provided in the form of:
 visual displays, printed text,
-
 visual displays, digital data that may be downloaded.
 @@visual displays, printed text, and digital data that may be downloaded.
+
 It is common for a standard onboard maintenance system to have:
 @@two CMCs installed
-
 only one CMC installed
 three CMCs installed
+
 Class 1 faults are:
 @@the most serious, and involve something listed in the MEL.
-
 the system is still functioning normally, although it may not have full redundancy.
 minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 Class 2 faults are:
 the most serious, and involve something listed in the MEL.
-
-the system is still functioning normally, although it may not have full redundancy.
+@@the system is still functioning normally, although it may not have full redundancy.
 minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 Class 3 faults are:
 the most serious, and involve something listed in the MEL.
-
 the system is still functioning normally, although it may not have full redundancy.
 @@minor discrepancies within a monitored system. They do not affect the operation of the aircraft.
+
 The information gathered by central maintenance computers can be relayed to the ground through:
 @@the ACARS system
-
 VHF system
 SATCOM system
+
 The individual system BITE circuits are connected to the CMC by:
 a digital control bus
-
-a digital data bus
+@@a digital data bus
 a digital address bus
+
 An Integrated modular avionics is a
 @@Design methodology
-
 An avionics system per se.
 Specific functions of the individual avionics systems
+
 An IMA aircraft
 Has non-redundant power supplies
-
-Might have three redundant power supplies
+@@Might have three redundant power supplies
 One power failure affects each individual system
+
 VHF communication frequency tuning can use a
 ARINC 629 data bus
-
 AFDX data bus
 @@ARINC 429 data bus
+
 IMA systems consist of a core system
 This processing circuitry is not shared by the various avionics systems
-
-The core system contains data processing circuitry that processes many different kinds of information.
+@@The core system contains data processing circuitry that processes many different kinds of information.
 The core system uses multiple computer processors for many different purposes
+
 Some of the features that can be included in cabin systems are:
 @@Passenger Address, Cabin Interphone, Audio and Video Entertainment
-
 Telephone, arrival airport weather.
 Flight Attendant Calling, cockpit and cabin crew information
+
 The Inflight entertainment system provides the passenger with
 @@Audio and video on demand.
-
 Audio via cabin speakers and video on a main screen
 Does not include music channels.
+
 Cabin monitoring systems are used to monitor
 @@Status of smoke and fire detectors in lavatories, Cabin temperature, passenger warning lights
-
 Status of smoke and fire detectors in lavatories, Cabin altitude, Status of galley equipment, such as water tanks.
 Cabin lighting and not cabin entry and exit door status (open or closed)
+
 A cabin intercommunication data system is used by
 Passengers to operate reading lights
-
-B.Flight attendants, pilots, and passengers.
+@@Flight attendants, pilots, and passengers.
 flight attendants and pilots only
+
 Some of the features that can be included in cabin systems are
 Cabin Interphone ,Flight Attendant Calling, Passenger seat adjustment
-
-Cabin Interphone, Flight Attendant ,Calling Moving Map Displays
+@@Cabin Interphone, Flight Attendant ,Calling Moving Map Displays
 Cabin Interphone, Flight Attendant Calling, Personal air temperature control
+
 Typical user interfaces for the Cabin System are
 @@Flight attendant panels, Cockpit handsets, Call buttons
-
 Flight attendant panels, Cabin handsets, Cabin layout
 Flight attendant panels, Reading lights, Gasper air outlets
+
 Aircraft information systems can be used to store and retrieve
 Airline policy manual and training manuals.
-
-Flight deck information systems, maintenance information systems, and passenger cabin information systems
+@@Flight deck information systems, maintenance information systems, and passenger cabin information systems
 Stored information is only retained for 25 hours
+
 Initial Aircraft information systems included
 High capacity flash drives,
-
 Compact disks
 @@Manuals, drawings, charts, microfilm or microfiche
+
 Aircraft information systems architecture selected by Airbus
 @@Is a networked real-time servers and routers
-
 Is unsecure both from the point of view of computer security and operational availability
 Does not include the data related to the flight
-The use of the digital electronics allows flight attendants
-to carry
 
+The use of the digital electronics allows flight attendants to carry
 A flash drive to insert in the onboard screen
 A weight saving digital Library
 @@Small device, such as a tablet
-Advantages electronic information system
 
+Advantages electronic information system
 Reduced weight and bulk
 @@Reduced weight, reduced bulk, and ease of update
 Easy to update and reduced weight.

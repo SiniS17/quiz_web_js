@@ -159,7 +159,7 @@ The HMU
 The VBV gear motor
 
 The ring of fixed blades at the intake of an axial flow compressor are called
-A.first stage stator blades
+first stage stator blades
 first stage diffuser blades
 @@inlet guide vanes
 
@@ -274,7 +274,7 @@ The turbine wheel has a shroud or duct which provides cooling air to the turbine
 @@The turbine blades are shaped so that their ends form a band or shroud.
 
 Why do some turbine engines have more than one turbine wheel attached to a single shaft?
-A.To facilitate balancing of the turbine assembly.
+To facilitate balancing of the turbine assembly.
 To help stabilize the pressure between the compressor and the turbine.
 @@To extract more power from the exhaust gases than a single wheel can absorb.
 
@@ -549,7 +549,7 @@ tension gauge
 @@torque meter
 
 Fuel flow indication is taken from
-A.after the HP pump
+after the HP pump
 after the LP pump
 @@after either HP Pump or LP Pump
 
@@ -781,33 +781,33 @@ Particles which are too small for the naked eye
 Normal gas turbine engine starting sequence is
 @@Starter, ignition, fuel
 Fuel, starter, ignition
-When running down an engine
 
+When running down an engine
 It should be done as slowly as possible to assist thermal stress
 It should be done as quickly as possible to stop excess of fuel gathering
 @@It should be done as slowly as possible to reduce thermal stress
-When accelerating from 'light-up' to ground idling speed, the EGT will
 
-Increase above idle value then decrease to normal
+When accelerating from 'light-up' to ground idling speed, the EGT will
+@@Increase above idle value then decrease to normal
 Decrease below idle value then increase to normal
 Remain constant
-A hung start or false start is one in which?
 
-'light up' occurs, but the RPM does not increase
+A hung start or false start is one in which?
+@@'light up' occurs, but the RPM does not increase
 There is no 'light up'
 The engine does not rotate
-What is the first engine instrument indication of a successful start of a turbine engine?
 
+What is the first engine instrument indication of a successful start of a turbine engine?
 A rise in the engine fuel flow.
 @@A rise in the exhaust gas temperature.
 A rise in oil pressure.
-During starting of an engine, light-up is indicated by the
 
+During starting of an engine, light-up is indicated by the
 Fuel-flow indicating system
 @@Exhaust gas temperature
 Tachometer-indicating system
-The most satisfactory extinguishing agent for an intake fire is
 
+The most satisfactory extinguishing agent for an intake fire is
 Methyl bromide
 @@Carbon dioxide
 Dry chemical
