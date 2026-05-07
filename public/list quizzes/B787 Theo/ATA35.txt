@@ -164,8 +164,8 @@ Oxygen flow after 10 seconds
 Oxygen flow immediately
 
 What happens if an Oxygen line to the Capt. Oxygen mask is broken?
-@@The flow fuse is fully closed
-The flow fuse is not fully closed
+The flow fuse is fully closed
+@@The flow fuse is not fully closed
 The flow fuse are closed all supply lines
 
 What happens when the system operates and the masks fall?
