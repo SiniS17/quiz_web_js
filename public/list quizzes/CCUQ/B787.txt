@@ -147,6 +147,7 @@ Which source supplies 28VDC to 3 axis BDAs (Backdrive Actuator)?(E&A Repair)
 Captain instrument bus.
 @@First officer instrument bus.
 Back-up bus.
+
 The communications system includes these systems: (E&A Repair)
 flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
 @@ELT, DCMF, flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
@@ -296,6 +297,7 @@ What are the location of VSS (Video Surveillance System) cameras ?(E&A Repair)
 02 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
 @@01 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
 01 above the flight deck entry door, 01 adjacent to door 1 left, 01 adjacent to door 1 right and 01 adjacent to aft attendant seats.
+
 In addition to systems that traditionally get electrical power,The 787 electrical system supplies power for: (E&A Repair)
 @@Engine start, Pressurization, Wing ice protection, Stabilizer trim, Wheel brake systems.
 Engine start,  Pressurization, Wing ice protection, landing gear alternate extension system
@@ -615,6 +617,7 @@ What is the caution when you install the VFSG(Variable Frequency Starter Generat
 Make sure that you use pliers that have metal  jaws to tighten the electrical connectors or you will cause damage to the electrical connectors.
 @@Make sure that there is no tension in the electrical harnesses when you connect the electrical connectors. if there is tension, adjust the harness in the spring clips and hinge clamps. tension can cause damage to the electrical connectors and the harnesses.
 Both a and b are correct.
+
 What is the function of display and crew alert function ( DCAF ) ?(E&A Repair)
 Getting and processing aircraft system and crew input data, then making the graphic commands and sending them to HDDs and HUDs.
 @@Getting and processing aircraft system and crew input data, then making the display commands and sending them to graphics generators.
@@ -714,6 +717,7 @@ When do master warning lights or master caution lights go off after coming on? (
 When you push the aural cancel switch or the warning/caution condition goes away.
 Only when the warning/caution condition goes away.
 @@When you push the master/caution switch or the warning/caution condition goes away.
+
 For controllingthe lighting systems, B787 use:(ME Repair, E&A Repair)
 @@The airplane CDN (Common Data Network) and software
 The dimmer control units (DCU) and relays related
@@ -793,6 +797,7 @@ What are the components of position light system ?(E&A Repair)
 Red forward position light on the right wing tip, green forward position light on the left wing tip, white rear position lights and white tailcone position lights.
 @@Green forward position light on the right wing tip, red forward position light on the left wing tip, white rear position lights and white tailcone position lights.
 Red forward position light on the right wing tip, green forward position light on the left wing tip, white rear position lights.
+
 The air data reference system (ADRS) uses its components and software functions to calculate airplane parameter such as(E&A Repair)
 @@Airspeed, Barometric altitude and Temperature.
 Temperature.
@@ -1012,6 +1017,7 @@ When there is a terrain conflict threat, what message shows on the ND (Navigatio
 TERRAIN shows in red.
 @@TERRAIN shows in red if the alert is a warning and shows amber if the alert is a caution.
 TERR POS shows in red.
+
 Where is location of CCR (Common Computing Resource) cabinets? (E&A Repair)
 in the aft equipment center
 @@in the forward equipment center
@@ -1019,7 +1025,7 @@ in the forward crown area
 
 How many channels does each RDC (Remote Data Concentrator) have (E&A Repair)
 One
-Two
+@@Two
 tree
 
 How many ARS(ARINC 664 network remote switch) are there in CCS  (E&A Repair)
@@ -1091,6 +1097,7 @@ How do the RDC channels connect to network switch channels ? : (E&A Repair)
 @@RDC Channel A and B respectively connect to network switch channel A and B.
 Each of RDC channel A and B connect to both network switch channel A and B.
 Neither a and b is correct.
+
 How does the Cabin Service System Controller (CSSC) transmit Control data and digital audio signal ? (E&A Repair)
 The signal from the CSSC go to each of the CZU (Cabin Zone Unit)s simultaneously and then back to the CSSC
 @@The signal from the CSSC go to each of the CZU (Cabin Zone Unit)s in sequence and then back again to the CSSC
@@ -1170,6 +1177,7 @@ When you use the FDH (Flight Deck Handset) to make the ground crew call, how doe
 The data goes through an RDC (Remote Data Concentrator) to the CDN (Common Data Network),then goes to CSSC(Cabin Service System controller).
 @@The data goes to CSSC(Cabin Service System controller) through forward CZU(Cabin Zone Unit).
 The data goes directly to the CDN (Common Data Network),then goes to CSSC(Cabin Service System controler).
+
 During Do the BITE test of the IFES, on the SYSTEM SUMMARY screen, the indicator lights in the BITE Failure column are green and show a zero value mean: (E&A Repair)
 @@LRU BITE passed
 LRU BITE failure
@@ -1214,6 +1222,7 @@ With the Connectivity Power Switch ON, Wi-Fi service, the Connectivity servic
 @@Disabled automatically when aircraft below 10,000 feet MSL( Mean Sea Level )
 Enabled automatically immediately when aircraft in the air
 Enabled since aircraft still on the ground
+
 How does The CMCF (Central Maintenance Computing Function) operate ?(E&A Repair)
 one CMCF on ML and one CMCF can operates at a time
 Maximum  three CMCF (Central Maintenance Computing Function) can operates at a time
@@ -1313,6 +1322,7 @@ Where does the ACMF(Airplane Condition Monitoring Function) main menu show : (E&
 ML(Maintenance Laptop) and MFD(Multi Function Display)DU(Display Unit)
 EFB (Electronic Flight Bag)DU (Display Unit) and MFD(Multi Function Display)DU(Display Unit)
 @@ML(Maintenance Laptop) and EFB (Electronic Flight Bag)DU (Display Unit)
+
 Where are the EFB (Electronic Flight Bag)EU (Electronics Unit)s located? (E&A Repair)
 in the Aft equipment center
 @@in the forward equipment center
@@ -1422,6 +1432,7 @@ What is the most common cause of wire bundle and wire component degradation: (E&
 Paint.
 @@Hydraulic fluid.
 Cleaning agents.
+
 Radome (internal) general visual inspection is belong to general visual inspection task of :
 Zone 200.
 @@Zone 100.
@@ -1471,6 +1482,7 @@ What should you do before spoiler-flap interference inspection?
 Spoiler deactivation in down position.
 @@Spoiler deactivation in up position.
 Use alternate flap extension.
+
 Push TEST switch to SYSTEM position to do the test of refuel system:
 The refuel valves that are open will close then open again, two valves of a time.
 @@The refuel valves that are open will close then open again, one valve of a time.
@@ -1545,6 +1557,7 @@ What are these steps for correct lubrication?
 Use correct grease for Teflon bearings and bushings.
 @@Until the used grease is visual removed and only new grease comes outs.
 Set pressure at least > 200 psi for totally grease comes in the parts.
+
 What does control the operation of the CACs?
 Hosted software in CCRs.
 CCS.
@@ -1679,6 +1692,7 @@ When does the flight deck humidification system operate?
 Any engine N2>50%.
 The HUMID switch on P5 is ON.
 @@During cruise and stop at the start of descent.
+
 Where is the captain/first officer seat ECU?
 Behind the seat.
 In the sidewall.
@@ -1728,6 +1742,7 @@ Where is the portable emergency locator transmitter?
 In the emergency slide pack of door 1L and 4R.
 @@In the mounting bracket of door 1L and 4R.
 In the area above passenger compartment ceiling at approximately station 1732.
+
 The extinguishing systems use manual fire extinguishing mode:
 Lavatories, APU and cargo compartments.
 Engines, lavatories and APU.
@@ -1787,6 +1802,7 @@ How many are there the fire extinguisher bottles for the wheel well overheat?
 1 bottles for each wheel well.
 1 bottles for each main wheel well.
 @@No fire extinguishing system for the wheel well.
+
 The flight control software is in:
 CCS.
 @@FCE.
@@ -1926,6 +1942,7 @@ When does we use lock out tool to dispatch the spoiler EMA inoperative?
 If the hydraulic spoiler dispatch tool is not available.
 If the spoiler EMA doesn’t have a shearout.
 @@If the spoiler EMA has a shearout.
+
 To transfer fuel from one tank to a different tank, we use: (ME Repair, E&A Repair)
 The Refuel Control Panel (RCP) only.
 The Fuel Control Panel (FCP) only.
@@ -2030,6 +2047,7 @@ The ground test for the left aft boost pump is required: (ME Repair, E&A Repair)
 Electric power from APU.
 @@Electric power from external power.
 Electric power from battery.
+
 The hydraulic system supplies pressurized hydraulic fluid to these airplane systems: (ME Repair, E&A Repair)
 Primary flight controls, Landing gear normal brake, Nose wheel steering, High lift system, Thrust reversers.
 @@Primary flight controls, Landing gear actuation, Nose wheel steering, High lift system, Thrust reversers.
@@ -2129,6 +2147,7 @@ Determines a clogged filter condition of case drain filter module: (ME Repair, E
 Show on hydraulic maintenance page.
 Pop-out indicators on the filters.
 @@EICAS shows a related status message.
+
 The primary ice detection system (PIDS) is fully automated and: (ME Repair, E&A Repair)
 Operates on the ground.
 @@Operates in flight.
@@ -2178,6 +2197,7 @@ The window heat control system (WHCS) operates in backup mode: (ME Repair, E&A R
 @@Supply only forward window anti-fog.
 Supply only forward window anti-ice.
 Supply forward window anti-ice and anti-fog.
+
 How do you open nose landing gear door for ground maintenance (ME Repair, E&A Repair)
 Use gear door control switch on P40 panel.
 @@Use gear door control switch on P56 panel.
@@ -2233,7 +2253,7 @@ Move to left.
 Move to right.
 @@Never move.
 
-. Push the Rudder pedal disconnect switch on nose wheel steering (NWS) tiller module (ME Repair, E&A Repair)
+Push the Rudder pedal disconnect switch on nose wheel steering (NWS) tiller module (ME Repair, E&A Repair)
 @@Permits a test of rudder movement without nose wheel movement.
 To disconnect mechanical links between rudder pedals and tillers.
 To disconnect tillers position input.
@@ -2327,6 +2347,7 @@ Which statement about the autobrake function after you deactivate a brake is NOT
 The autobrake function will continue to operate normally if the deactivation was done with the related CMCF special function.
 @@The autobrake function will continue to operate normally if the deactivation was done with manual deactivation procedure for the brake.
 The autobrake function will not operate if the deactivation was done with manual deactivation procedure for the brake.
+
 The Crew oxygen pressure indication on EICAS is: (ME Repair, E&A Repair)
 Highest pressure of the transducers on the 2 cylinders.
 Lowest pressure of the transducers on the 2 cylinders.
@@ -2376,6 +2397,7 @@ When the BIT is complete, LEDs under oxygen PSU door is ON, it shows: (ME Repair
 A board failure.
 A cable test failure.
 @@The BIT successfully passed the test.
+
 The ultraviolet (UV) water treatment module gets power from: (ME Repair, E&A Repair)
 @@L 115v ac main bus through remote power distribution unit.
 R 115v ac main bus through remote power distribution unit.
@@ -2425,6 +2447,7 @@ Which sensor senses for waste tank full status? (ME Repair, E&A Repair)
 Waste tank point level sensor.
 Waste tank continuous level sensor.
 @@Point level sensor is primary, continuous level sensor is backup if the point level sensor fails.
+
 Which of the following statements is TRUE:? (ME Repair)
 The NGS operates automatically with PACK control switch in ON position.
 @@The NGS operates automatically with no flight deck control interface.
@@ -2468,12 +2491,13 @@ There is an isolation valve body and driveshaft in each fuel tank, their access 
 Nitrogen Enriched Air (NEA) is circulated in the center tank by:? (ME Repair)
 @@The center tank jet pump ejector - the vent action draws the mixture of NEA and vent air across the center tank to the left center tank vent
 The center tank jet pump ejector - the vent action circulate NEA only to the left center tank vent
-@@The center tank jet pump ejector – the vent action blows NEA thru the piccolo tubes the center tank
+The center tank jet pump ejector – the vent action blows NEA thru the piccolo tubes the center tank
 
 What are the components for the structural thermal protection system in and around the nitrogen generation system (NGS) pack? (ME Repair)
 Pack bay temperature sensor, Overheat detection temperature sensors.
 Pack bay temperature sensor, Overheat detection temperature sensors.
 @@Pack bay temperature sensor, overheat detection temperature sensors, insulation blankets.
+
 What does 787 APU supply? (ME Repair)
 Electrical and bleed air.
 @@Electrical power only.
@@ -2523,6 +2547,7 @@ APUC operation data is stored in? (ME Repair)
 @@The data memory module (DMM) which is a part of the inlet sensor module.
 The data memory module (DMM) which is located on APU compressor section.
 The data memory module (DMM) which is located next to APUC.
+
 The Passenger Entry Doors (PED) types? (ME Repair)
 @@Have the same dimensions, the hinge cover and escape slide bustle are different for type A and type C doors
 Have different dimensions for type A and C doors.
@@ -2572,6 +2597,7 @@ The flight deck door? (ME Repair)
 @@Has hinges on the left side and opens in the aft direction.
 Has hinges on the right side and opens in the aft direction.
 Has hinges on the left side and opens in the forward direction.
+
 Which of the flight compartment window can be opened? (ME Repair)
 No1 window
 No2 window.
@@ -2611,6 +2637,7 @@ Each PED window has:? (ME Repair)
 2 pane: Plastic outer pane (structural), and Electrically dimmable window (EDW) pane.
 3 panes:Plastic outer pane (structural),Electrically Heated window (EHW) pane and Plastic inner pane.
 @@3 panes: Plastic outer pane (structural), Electrically dimmable window (EDW) pane, and Plastic inner pane.
+
 GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to:? (ME Repair)
 The improvement of the specific fuel consumption.
 @@The fact that there is no external engine air bleeds taken for aircraft.
@@ -2660,6 +2687,7 @@ Which engine mount transmit the thrust loads to the strut? (ME Repair)
 Forward mount.
 Both mounts.
 @@Aft mount.
+
 GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to:? (ME Repair)
 The improvement of the specific fuel consumption.
 @@The fact that there is no external engine air bleeds taken for aircraft.
@@ -2709,6 +2737,7 @@ Which engine mount transmit the thrust loads to the strut? (ME Repair)
 Forward mount.
 Both mounts.
 @@Aft mount.
+
 The engine used on VNA B787 aircraft is? (ME Repair)
 GE90.
 @@GEnx-1B.
@@ -2768,6 +2797,7 @@ The fan blades are made of………. with titanium leading and trailing edges to
 Titanium.
 Steel.
 @@Carbon Fiber Reinforced Plastic (CFRP).
+
 The unit that control the fuel flow is called:? (ME Repair)
 @@FMU.
 HMU.
@@ -2807,6 +2837,7 @@ What information does engine rating plug provide to EEC? (ME Repair)
 Engine rating and N2 trim levels.
 Engine rating and N2 levels.
 @@Engine rating and N1 trim levels.
+
 During subsequent starts, the EEC changes between ignition systems every 2nd start attempt, that means ? (ME Repair)
 @@It will use system 1 for 2 start attempts then system 2 for 2 start attempts.
 It will use system 1 for 1 start attempt then system 2 for 1 start attempt.
@@ -2846,6 +2877,7 @@ During engine start, the EEC releases the start switch to the NORM position? (ME
 At 50% N2 when the EEC turns off ignition.
 @@At 65% N2.
 At 75% N2.
+
 The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE: ? (ME Repair)
 BAI valve is controlled by EMU.
 @@There is no flight deck control for the system.
@@ -2870,6 +2902,7 @@ The purpose of the Transient Bleed Valve (TBV) is to ? (ME Repair)
 Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle.
 Remove the load on the high pressure compressor (HPC) during rapid deceleration.
 @@Both a. and b.
+
 Which of the following statements is TRUE: ? (ME Repair)
 You can move the reverse thrust levers at any position of the forward thrust lever.
 @@The reverse thrust lever is blocked when the forward thrust lever is forward of idle a minimum of 3 degrees.
@@ -2894,6 +2927,7 @@ If a TCM event occurs, what does TCMA do? (ME Repair)
 @@TCMA function commands engine shutdown.
 TCMA function maintains the engine thrust.
 TCMA function gradually reduces engine thrust.
+
 N1 speed sensor is located ? (ME Repair)
 On the fan case.
 @@On the back of the fan hub frame at the 7:00 position on the engine core.
@@ -2918,6 +2952,7 @@ The EMU gets power from airplane 115v ac when the engine start switch is set to 
 Power is not removed until 20 minutes after shutdown.
 Power is not removed until 30 minutes after shutdown.
 @@Power is not removed until it has analyzed the data (can be up to 10 minutes after shutdown).
+
 To open Thrust reverser cowl, which latch is to be opened first? (ME Repair)
 V-blade latch.
 Sleeve latches.
@@ -2967,6 +3002,7 @@ During T/R Stow operation: ? (ME Repair)
 A time delay in the IPA software keeps the track lock open for 10 seconds after the stow command.
 A time delay in the EEC keeps the IV open for 20 seconds after stow is commanded.
 @@Both a. and b.
+
 The oil tank is located on the ? (ME Repair)
 @@RH side of the fan case.
 LH side of the fan case.
