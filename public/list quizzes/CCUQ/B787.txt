@@ -1,1 +1,3063 @@
-something here
+Can the aircraft be dispatched with BDAs of three control axis inoperative?(E&A Repair)
+@@All could be inoperative provide affected actuators deactivated and auto-pilot function still operate normally.
+All could be inoperative provide affected actuators deactivated and auto pilot function INOPERATIVE, the aircraft must be also dispatched with MEL Item 22-11-01.
+all could be inoperative provide the flight crew has been warned about the work load increasing during flight.
+
+For the aircraft dispatch with one auto throttle servo motor inoperative, which is correct procedure? (E&A Repair)
+Thrust levers must be manually set for whole flight route.
+@@Thrust levers must be manually set for take off and go around thrust.
+Affected thrust lever must be manually set for take off and go around thrust.
+
+The auto pilot controls the airplane attitude in(E&A Repair)
+All flight phase.
+Climb, cruise, decent, approach, autoland.
+@@All flight phase except takeoff (flight director only) .
+
+The backdrive actuators for each axis locate on: (E&A Repair)
+Either captain or FO side.
+Captain side only, torque tubes send the movement to the FO side.
+@@FO side only, torque tubes send the movement to the captain side.
+
+What is the funcion of AFDS? (E&A Repair)
+Controls the attitude of the airplane only.
+Supplies indications and flight director commands so the flight crew can  manually control the attitude of the airplane only.
+@@Controls the attitude of the airplane and Supplies indications and flight director commands so the flight crew can  manually control the attitude of the airplane.
+
+The auto pilot can be engaged with F/D: (E&A Repair)
+ON.
+OFF.
+@@ON or OFF.
+
+For removal and installation of the autopilot disconnect switch, you must: (E&A Repair)
+@@install a rig pin in the control wheel.
+install a collar and warning tag in the control wheel.
+Move the control wheel full travel first.
+
+If the engage removal signal is true, the AFDS (Autopilot Flight Director System): (E&A Repair) Removes the engage requests to the PFCF (Primary Flight Control Function).
+Disengages all backdrive actuators.
+Sends a disengage warning to caution and warning system.
+@@All of above
+
+You can engage the autopilot on the ground with: (E&A Repair)
+the flaps fully retracted and ground speed more than 80 knots.
+@@the flaps fully retracted and ground speed less than 80 knots.
+the flap fully extended and ground speed more than 80 knots.
+
+The autopilot engages in the takeoff mode when: (E&A Repair)
+Aircraft on the ground.
+Flight director is off.
+@@Aircraft not on the ground, Flight director is on, Mode selected is takeoff/go around.
+
+The thrust management system (TMS) can control engine thrust in: (E&A Repair)
+@@in all phases of flight from takeoff to approach and landing.
+in some criticalphases of flight.
+in all phases of flight except takeoff and landing.
+
+The TMF controls the throttle lever movement in accordance with: (E&A Repair)
+Pilot commands from the MCP (Mode Control Panel) only.
+FMF (Flight Management Function)VNAV (Vertical Navigation) mode requests and speed or thrust targets only.
+@@All of above.
+
+The autothrottle disconnects automatically when: (E&A Repair)
+System failure, Either thrust reverser lever to the reverse idle position, pilots move the thrust levers during landing after the autothrottle starts to retard the throttles to idle.
+Both engines shut down.
+@@All above are corrected.
+
+The control wheel backdrive actuator (BDA) moves the control wheel during: (E&A Repair)
+The autopilot is engaged.
+The autopilot sends a roll command.
+@@The autopilot is engaged and sends a roll command.
+
+The mode control panel (MCP) is: (E&A Repair)
+The mode control panel (MCP) is the primary pilot interface with the auto pilot function.
+The mode control panel (MCP) is the secondary pilot interface with the autoflight function.
+@@The mode control panel (MCP) is the primary pilot interface with the autoflight function.
+
+The procedures to engage the A/P are: (E&A Repair)
+@@Pushing either of the 2 autopilot engage switches on the MCP.
+Pushing both autopilotengage switches simultaneously.
+Both a and b are correct.
+
+What is the procedure to disengage the A/P ? (E&A Repair)
+Push the A/P disconnect switch on the wheel..
+Manually override the autopilot commands to the flight controls..
+@@Both a and b are correct.
+
+What happens if you push an autopilot disconnect switch the second time ?: (E&A Repair)
+Autopilot disconnected.
+Visual and aural alerts to come on.
+@@All the alerts are cancelled.
+
+When the autothrottle disconnects, these are the visual and aural alerts: (E&A Repair)
+Master caution light and aural alert.
+@@EICAS message, master caution light and aural alert.
+EICAS message, master warning light and aural alert.
+
+Where do you see the autothrottle mode and Autopilot Flight Director Systemmode ? (E&A Repair)
+On the HUDs (Head Up Display).
+@@ON the FMA (Flight Mode Annunciator) at the top of PFD.
+ON the FMA (Flight Mode Annunciator) at the top of ND.
+
+What are  purposes The AFDS (Autopilot Flight Director System) ? (E&A Repair)
+Automatically control the altitude of the A/C; Supply commands to move the thrust levers
+@@Automatically control the attitude of the A/C; Supply indications and commands
+Automatically control engine thrust in all phases of flight from takeoff to approach and landing
+
+Where is the TMF (Thrust Management Function) software? (E&A Repair)
+@@In the GPM (General Processing Module ) of the CCR cabinet
+In the FCM (Flight Control Module) of the FCE (Flight Control Electronics)
+In the CSM (Controller Server Module) of the CCS (Common Core System)
+
+The TMF (Thrust Management Function) moves the thrust levers in response to: (E&A Repair)
+Pilot commands from the MFK (Multifunction Keypad)
+@@Pilot commands from the MCP (Mode Control Panel)
+Pilot commands from the MFD (Multifunction Display)
+
+When the autothrottles engage in the VNAV (Vertical Navigation) mode, the FMF (Flight Management Function) and the TMF (Thrust Management Function) will:(E&A Repair)
+@@FMF and TMF will work together
+FMF will work as master and  TMF is slaver
+FMF will work as primary and TMF is standby
+
+There are 2 brushless, 28v dc autothrottle servo motors in the TCM (Throttle Control Module). One moves the left thrust lever. The other moves the right thrust lever?(E&A Repair)
+The servo motors are components in the thrust management system
+The servo motors are line replaceable
+@@The servo motors are not line replaceable
+
+When does the MCP slave lane become master lane ?  (E&A Repair)
+@@When the master slave fails.
+Everytime the autothrottle re-engages or disengages.
+All of above.
+
+When VNAV is engaged, how can pilots manually set the target speed or altitude data on MCP?(E&A Repair)
+Turn the related selector switch on MCP then pull it
+Turn the related selector switch on MCP then push it.
+@@Push the related selector switch on MCP then turn it.
+
+In the flight level change (FLCH) mode, how is the airplane controlled to fly to the selected  target altitude?(E&A Repair)
+The autoflight controls airspeed with the elevators.
+The autothrottle controls the engine thrust.
+@@Both of above.
+
+Which componnet normally tunes the ILS frequency and sets the ILS course in approach mode?(E&A Repair)
+AFF (Autoflight Function )
+@@FMF (Flight management Function)
+TMF (Thrust management Function)
+
+Which source supplies 28VDC to 3 axis BDAs (Backdrive Actuator)?(E&A Repair)
+Captain instrument bus.
+@@First officer instrument bus.
+Back-up bus.
+The communications system includes these systems: (E&A Repair)
+flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
+@@ELT, DCMF, flight interphone, service interphone, SELCAL, VHF, HF, SATCOM, GRD crew call function
+SELCAL, VHF, HF, SATCOM, GRD crew call function
+
+The captain ACP has a direct interface with a jack on the P40 panel for: (E&A Repair)
+@@Towing operations
+Engine run- up
+Refueling.
+
+Maintenance personnel use the flight interphone headset connection jack to communicate with the flight deck through:(E&A Repair)
+P5 panel
+@@P40 panel
+P8 panel
+
+Purpose of the service interphone system: (E&A Repair)
+lets the ground crew talk with each other
+@@lets the ground crew talk with each other and to the flight crew.
+Lets the ground crew talk to the flight crew.
+
+The interphone jacks in these locations: (E&A Repair)
+P40 panel ONLY
+P57 panel ONLY
+@@P40 panel and P57 panel.
+
+The audio gateway unit (AGU) changes: (E&A Repair)
+The analog audio to digital ONLY
+@@The analog audio to digital and digital audio to analog
+The digital audio to analog ONLY
+
+When and how does the ground crew call horn come on? (E&A Repair)
+@@a. Call from the flight deck in 3 seconds, continuously when ERS is on battery power, 1 Hz interval when there is an APU fire, continuously when low flow detected in fwd or aft equipment cooling system.
+b. Call from the flight deck in 3 seconds, continuously when ERS is on battery power, continuously when there is an APU fire, continuously when low flow detected in fwd or aft equipment cooling system.
+c. Call from the flight deck in 3 seconds, continuously when ERS is on battery power, continuously when low flow detected in fwd or aft equipment cooling system.
+
+The ground crew call system and horn are disabled when: (E&A Repair)
+A/C on ground
+@@A/C in flight
+A/C on ground and touch down.
+
+The VHF aeronautical communication band is between: (E&A Repair)
+116.00 MHz and 134.975 MHz.
+118.00 MHz and 134.975 MHz.
+@@118.00 MHz and 136.975 MHz.
+
+The data format input to the VHF radios is: (E&A Repair)
+@@ARINC 429 low speed
+ARINC 629 low speed
+ARINC 429 high speed
+
+When is the HF communication not allowed to transmit ? (E&A Repair)
+Personnel are on the surface of the airplane.
+During refueling or defueling.
+@@All above are corrected.
+
+The location of the HF couplers  B787-9  are: (E&A Repair)
+@@on the upper fuselage under the vertical fin fairing
+in the vertical stabilizer, below the lower edge of the HF antenna
+On the leading edge of vertical stabilizer.
+
+The location of the HF antenna B787-9  is: (E&A Repair)
+on the leading edge of the vertical stabilizer
+@@a wire type antenna above the HF couplers in the vertical fin fairing
+on the upper fuselage under the vertical fin fairing
+
+The ELT antenna is : (E&A Repair)
+@@on the top centerline of the fuselage at fuselage station 1733
+on the botom centerline of the fuselage at fuselage station 1733
+on the near centerline of the fuselage at fuselage station 1733
+
+The purpose of the static dischargers are: (E&A Repair)
+@@Decreasing the static electricity from the airplane surfaces and  the interference with radio receivers and other electrical components
+Decreasing the interference with radio receivers and other electrical components
+Increasing the interference with radio receivers and other electrical components
+
+How many static dischagers on the B787-9: (E&A Repair)
+50
+60
+@@54
+
+The communications systems provide: (E&A Repair)
+The voice data only.
+The communications data only.
+@@The voice and data communications.
+
+The flight interphone system has these outputs: (E&A Repair)
+@@The COMM/warning speakers, Jack modules and Digital signal to CDN.
+The Jack modules and Digital signal to CDN.
+The COMM/warning speakers, and Digital signal to CDN.
+
+What causes an EICAS message to show: (E&A Repair)
+The a push-to-talk (PTT) signal for more than 20 seconds.
+The a push-to-talk (PTT) signal for more than 15 seconds.
+@@The a push-to-talk (PTT) signal for more than 30 seconds.
+
+The ground crew call system has interface with: (E&A Repair)
+@@The ACP and CSSC software function.
+The ACP.
+The CSSC software function
+
+Which components do the SELCAL (Selective Calling) function?(E&A Repair)
+SELCAL Decoded Unit
+@@AGU (Audio Gateway Unit)s
+ACP (Audio Control Panel )
+
+Where is The SRT (Satellite Receiver Transmitter) located ? (E&A Repair)
+In the FWD equipment center
+@@In the AFT equipment center
+In the crown area
+
+How many channels are there in The SATCOM system ?(E&A Repair)
+Four: 2 channels  for data and  2 channels  for voice communication
+@@Three: 1 channels  for data and  2 channels  for voice communication
+Two : 1 channels  for data and  1 channels  for voice communication
+
+To make sure that the 24-bit Aircraft ID is correct if you changed the switch positions of the (ELT) programmable switch module? (E&A Repair)
+@@Do the Emergency Locator Transmitter - Functional Test
+Do the Emergency Locator Transmitter - Sytem Test
+Do the Emergency Locator Transmitter - Operational Test
+
+What kind of video signals the SCIU (Surveillance Camera Interface Unit) send to the EFB (Electronic Flight Bag) system? (E&A Repair)
+Analog signals
+Analog for video and Digital for voice
+@@Digital data
+
+How do the flight crew use the ACP (Audio Control Panel) and the TCP (Tuning Control Panel) to control the HF (High Frequency) communication system ?(E&A Repair)
+Using TCP to select the HF (High Frequency) communication systemand  ACP to tune the HF radios.
+@@Using ACP to select the HF (High Frequency) communication system and TCP  to tune the HF radios.
+Using TCP to select the HF (High Frequency) communication systemand  ACP to select the mode of operation.
+
+What is the function of VHF (Very High Frequency) communication transceiver?(E&A Repair)
+@@Changing RF (Radio Frequency) signals to audio and datalink signals during receive operations, and changing datalink and audio signals to RF (Radio Frequency) signals during transmit operations.
+Changing RF (Radio Frequency) signals to audio and datalink signals during transmit operations, and changing datalink and audio signals to RF (Radio Frequency) signals during receive operations.
+Receiving and transmiting RF (Radio Frequency) signals in the VHF (Very High Frequency) frequency range.
+
+Can we select more than one receiver switch and transmit switch on ACP(Audio Control Panel) at the same time ?(E&A Repair)
+Yes we can.
+We can only select more than one transmit switch at the same time.
+@@We can only select more than one receiver switch at the same time.
+
+When service interphone system is connected to flight interphone system, how do the AGU(AudioGateway Unit) and ACP(Audio Control Panel) send the audio signal ?(E&A Repair)
+@@The AGUs decode the flight interphone audio and send it to the service interphone jacks whereas The ACPs decode the service interphone audio and send it to the selected flight interphone headsets and comm/warning speakers.
+AGUs process the all audio signals and send to ACPs which send them to interphone jacks, flight inerphone headsets and comm/warning speakers.
+The ACPs decode the flight interphone audio and send it to the service interphone jacks whereas The AGUs decode the service interphone audio and send it to the selected flight interphone headsets and comm/warning speakers.
+
+What are the location of VSS (Video Surveillance System) cameras ?(E&A Repair)
+02 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
+@@01 above the flight deck entry door, 01 adjacent to door 1 left and 01 adjacent to door 1 right.
+01 above the flight deck entry door, 01 adjacent to door 1 left, 01 adjacent to door 1 right and 01 adjacent to aft attendant seats.
+In addition to systems that traditionally get electrical power,The 787 electrical system supplies power for: (E&A Repair)
+@@Engine start, Pressurization, Wing ice protection, Stabilizer trim, Wheel brake systems.
+Engine start,  Pressurization, Wing ice protection, landing gear alternate extension system
+Stabilizer trim, Wheel brake systems, nose gear stearing system.
+
+The main battery supplies standby power for:
+RAT  extends, APU fire detection system.
+@@Critical component and loads until RAT extends , Brakes electric, Refueling left main tank (limited times), hot Battery Bus, Towing, Ground operations.
+Towing, Ground operations, refueling the right main tank (limited times).
+
+After arrival, you found the main battery has event, you will: (E&A Repair)
+Replace the new main battery, battery charger and the main battery enclosure burst disk indicatior.
+Reset the event battery.
+@@Remove the main battery, main battery heat shield, main battery enclosure, main battery insulation blanket, main battery charger, main battery enclosure burst disk indicator and vent tube assembly for inspect and replace as required.
+
+If the parking brake is set and you disconnect or remove the main battery, you can: (E&A Repair)
+@@Not release the parking brake.
+Release the parking brake.
+Release with APU Battery available.
+
+The APU battery supplies 28v dc for: (E&A Repair)
+APU start
+@@Navigation lights (during towing operations) and APU start
+Redundant backup power for some components, APU start and Navigation lights (during towing operations)
+
+What is the location of APU and main Battery? (E&A Repair)
+@@Main battery in fwd EE bay and APU battery in aft EE bay.
+FWD EE  bay.
+AFT EE bay.
+
+The bus power control units (BPCU) in the P300 and P400 panels have: (E&A Repair)
+@@The same parts number
+The different parts number
+All above in correct.
+
+The forward external power sources supply power to the left and right 115v ac buses: (E&A Repair)
+@@Directly
+Through auto transformer units (ATU).
+All above in correct
+
+The forward external power sources also supply power to the 235v ac buses: (E&A Repair)
+Directly
+@@through auto transformer units (ATU)
+Automatic.
+
+Packs and cargo heat are inoperative with only forward external power: (E&A Repair)
+OFF
+AUTO
+@@ON
+
+If an engine starts, some ground handling loads do not receive power because : (E&A Repair)
+Some ground handling loads are not designed to receive variable frequency  power
+Some ground activities do not occur when an engine is running
+@@A and B are correct
+
+The maximum amount of power a forward external power connector can use is: (E&A Repair)
+@@90 KVA
+120 KVA
+140 KVA
+
+The electrical power system P500 and P600 power conversion panels do these power changes: (E&A Repair)
+235v ac to 115v ac, 115v ac to 235v ac
+235v ac to 28v dc, 28v dc to +/- 130v dc.
+@@All above are corrected
+
+The EBPSUs each receive  28v dc inputs from: (E&A Repair)
+The  transformer rectifier unit (TRU) output
+the hot battery bus
+@@all above are corrected
+
+The P300 and P400 panels are: (E&A Repair)
+@@The primary 115v ac and 28v dc power distribution panels
+the secondary  115v ac and 28v dc power distribution panels
+the stanby  115v ac and 28v dc power distribution panels
+
+Where is the possible location can you operate CBIC: (E&A Repair)
+Maintenance laptop ONLY
+@@Maintenance laptop or Flight deck multifunction displays (MFD).
+Flight deck multifunction displays (MFD).
+
+The Hight  voltage +/-270v dc goes to motor controllers to operate these high load electric motors: (E&A Repair)
+Air conditioning compressors, Electric hydraulic pumps, Ram fans, Nitrogen generation system, VFSGs - for engine start and motoring, ASGs - for APU start, Override jettison fuel pumps.
+Air conditioning compressors, Electric hydraulic pumps, Ram fans
+@@Air conditioning compressors, Electric hydraulic pumps, Ram fans, Nitrogen generation system, VFSGs - for engine start and motoring, ASGs - for APU start
+
+The P49 panel supplies 28v dc for: (E&A Repair)
+Manual ram air turbine (RAT) deployment.
+airplane towing operations.
+@@manual ram air turbine (RAT) deployment and airplane towing operations
+
+These conditions are necessary to disconnect the generator on the ground: (E&A Repair)
+@@Power applied, FUEL CONTROL switch in RUN position  AND Push GEN DISC switch
+Power applied
+FUEL CONTROL switch in RUN position  AND Push GEN DISC switch
+
+If external power is connected to the left or right forward receptacle, when does BPCU(Bus Power Control Units) close the forward EPC (external power contactor) ?: (E&A Repair)
+@@When the power quality monitored by BPCU is good.
+When left or right FWD EXT PWR switch is pushed.
+When the power quality monitored by L2 GCU is good.
+
+When is theairplane in the GROUND HANDLING mode?: (E&A Repair)
+When forward external power is connected and selected on, APU is not running and both engines are off.
+@@When forward external power is connected but not selected on, APU is not running and both engines are off.
+When APU is running on ground and the GROUND SERVICE switch on the master attendant switch panel is on.
+
+How many modules are there in each RPDU (Remote Power Distribution Unit) ?: (E&A Repair)
+There are 02 microprocessor modules for control, 03 AC modules and 03 DC modules.
+There are 02 microprocessor modules for control, 16 AC modules and DC modules.
+@@There are 02 microprocessor modules for control, 01 to 06  AC modules and DC modules.
+
+What are the current ratings of the electrical loads supplied by SPDU (Secondary Power Distribution Unit) ?: (E&A Repair)
+Up to 50 amps AC and 45 amps DC.
+Up to 10 amps for DC and AC.
+@@Up to 50 amps DC and 45 amps AC.
+
+What are the position of GNR (Ground Neutral Relay) and SC (Starter Contactor) of VFSG(variable frequency starter generator) when it operates as a starter?:(E&A Repair)
+GNR closes and SC opens.
+@@GNR is opens and SC is closes.
+Both GNR and SC close.
+
+Where does the Main Battery Charger take POWER from (E&A Repair)
+@@The Captain instrument bus
+The F/O instrument bus
+The Ground service  bus
+
+The purpose of Battery Diode Module(E&A Repair)
+Prevents charge of the main battery when captain instrument  bus is paralleled with another 28v dc source
+@@Prevents charge of the main battery when hot battery bus is paralleled with another 28v dc source
+Prevents charge of the main battery when hot battery bus have 28v dc power
+
+How many External POWER source on B787 (E&A Repair)
+2External POWER source: 1 forward and 1 aft
+3External POWER source: Left , Right and Center
+@@3External POWER source: 2 forward and 1 aft
+
+Which computer control AFT Ext  POWER (E&A Repair)
+@@The L2 GCU (Generator Control Unit)
+The BPCU (bus power control units)
+The L2 ATRU (Auto Transformer Rectifier Unit)
+
+What component controls the loadshed on B787? (E&A Repair)
+@@The BPCU (Bus Power Control Unit)s
+The ATRU (Auto Transformer Rectifier Unit)
+The ELCU (Electrical Load Control Unit)
+
+If the VFSG is disconnected during an airplane operation? (E&A Repair)
+The VFSG must be swapped with VFSG on other Eng
+The VFSG can be re service when AC on ground
+@@The VFSG must be replaced
+
+Where is the galley autotransformer unit (GATU) located ? (E&A Repair)
+Right aft cargo compartment
+Aft  Galley compartment
+@@Left aft cargo compartment
+
+The GATU (Galley Auto Transformer Unit) Will: (E&A Repair)
+@@Changes 3-phase, 235v ac from the main buses to 3-phase, 115v ac
+Changes 3-phase, 115v ac from external ground power to 3-phase, 230v ac
+Change variable frequency 235v ac from the 235v ac buses to +/-270v dc during normal operation
+
+The ATRU (Auto Transformer Rectifier Unit)s will (E&A Repair)
+Changes 3-phase, 235v ac from the main buses to 3-phase, 115v ac
+Changes 3-phase, 115v ac from external ground power to 3-phase, 230v ac
+@@Change variable frequency 235v ac from the 235v ac buses to +/-270v dc during normal operation
+
+Why must do open CB of PECS before Remove/Install CMSC (E&A Repair)
+To stop the pumps off integrating cooling system (ICS)
+@@To stop the pumps off Power Electronics Cooling System
+To stop the liquid cooling pump  inside CMSC
+
+A function of the CRN (Current Return Network) is: (E&A Repair)
+Increases EME (Electromagnet Energy) and HIRF (High Intensity Radiation Frequency) effects
+@@Supplies a return path for ac and dc fault currents from the loads to the sources
+Lightning protection for Mail landing gear and Main landing gear Door
+
+Which Circuit Breaker the CBIC (Circuit Breaker Indication and Control) can monitor but no control? (E&A Repair)
+@@Thermal Circuit Breaker
+Electronic Circuit Breaker
+solid-state relays in the Flight Control Electronics Power Supply Module
+
+How many PMG (Permanent Magnet Generator) inside VFSG? (E&A Repair)
+There are 2
+There are 5
+@@There are 3
+
+Which RPDU (Remote Power Distribution Unit)s send and receive data to and from the BPCU (Bus Power Control Unit)s ? (E&A Repair)
+Standard RPDU
+@@Gateway RPDU
+Both RPDU
+
+What colour of the CRN (Current Return Network ) cables and straps? (E&A Repair)
+@@They are Green
+They are Red
+They are Blue
+
+What kind of power supply by ACgeneration system on B787? (E&A Repair)
+115v AC and 28v AC
+@@235v ac and 115v ac
+235v ac and 28v ac
+
+What is the normal position of the GNR (Generator Neutral Relay) ? (E&A Repair)
+Connects the neutral line of the VFSG and ASG together
+Opens the ground to the neutral line of the related VFSG or ASG
+@@Connects the ground to the neutral line of the related VFSG or ASG
+
+The airplane is in the GROUND HANDLING mode if all these conditions Exist ?(E&A Repair)
+Aft external power is connected , The APU is running, Both engines are off
+Forward external power is connected  and selected ON, The APU is not running, one engines is off
+@@Forward external power is connected  but not selected ON, The APU is not running, Both engines are off
+
+Which External power source(s) can be used for Left Engine Start with no loads shed ? (E&A Repair)
+Can use two forward and one aft power source
+Can use two forward external power sources
+@@Cannot start Left ENG by external power with no Loads shed
+
+The Control of the ESIC (Electrical System Indication and Control) is from? : (E&A Repair)
+A EFB (Electronic Flight Bag) on the flight deck
+AML (Maintenance Laptop) with wired connection
+@@A MFD (Multi Function Display) on the flight deck
+
+What kind of electrical power do the 6 generator channels supply ?  (E&A Repair)
+@@3–phase, variable-frequency, 235v ac
+3–phase, constant-frequency, 235v ac
+3–phase, variable-frequency, 115v ac
+
+What is the purpose of load management function in BPCUs(Bus Power Control Unit) ?  (E&A Repair) It disconnects electrical loads only when engines start, to prevent insufficient power supply for VFSG(variable frequency starter generator).
+@@It disconnects electrical loads to keep the load levels less than the power supply levels, to prevent an overload condition of the electrical power sources.
+It disconnects electrical loads only when engines are operating, to prevent the VFSGs from
+removing too much power from the engines.
+
+What is the condition for controlling the CBIC (Circuit Breaker Indication and Control) function on maintenance laptop ?  (E&A Repair)
+When the airplane is on the ground and GND TEST switch is in NORM.
+When the airplane is on the ground and GND TEST switch must be in DATA LOAD/ENABLE.
+@@When the airplane is on the ground and GND TEST switch is not in NORM.
+
+What kind of load do the ELCU (Electrical Load Control Unit)control and supply protection?(E&A Repair)
+The load with rating up to 50 amps AC.
+@@The large loads which receive current and ac voltage that is more than the rating of the thermal circuit breakers.
+4 ATRUs(Auto Transformer Rectifier Unit)
+
+When APU(Auxiliary Power Unit)starts on APU battery, how does the ASG (APU Starter Generator) receive power?(E&A Repair)
+The ATRU (Auto Transformer Rectifier Unit) changes the 235v ac to +/-270v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
+The ATRU (Auto Transformer Rectifier Unit) changes the 235v ac to +/-135v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
+@@The ATRU (Auto Transformer Rectifier Unit) changes the 115v ac to +/-135v dc for the CMSC (Common Motor Starter Controller) that supplies power to the right ASG (APU Starter Generator).
+
+When is the purpose of SPU (Start Power Unit)?(E&A Repair)
+When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 235v ac, then supplies power only to the R2 ATRU (Auto Transformer Rectifier Unit).
+@@When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 115v ac, then supplies power only to the R2 ATRU (Auto Transformer Rectifier Unit).
+When APU starts on battery, SPU changes 28v dc from the APU (Auxiliary Power Unit) battery to 3-phase 115v ac, then supplies power only to the R1 ATRU (Auto Transformer Rectifier Unit).
+
+What is the limitation of controlling the ESIC (Electrical System Indication and Control)? (E&A Repair)
+There is no limitation.
+You can control the ESIC on only one MFD or maintenance laptop at a time.
+@@You can control the ESIC on only one MFD at a time.
+
+How manyoil heat exchangers do the VFSGs (Variable Frequency Starter Generator) have ?  (E&A Repair)
+@@For one engine, 02 VFSGs have 02 different AOHEs (Air/Oil Heat Exchanger) and a FOHE (Fuel/Oil Heat Exchanger).
+For one engine, 02 VFSGs have 02 different AOHEs (Air/Oil Heat Exchanger) and 02 FOHEs (Fuel/Oil Heat Exchanger).
+For one engine, each VFSG has a different AOHE (Air/Oil Heat Exchanger) and a FOHE (Fuel/Oil Heat Exchanger).
+
+How are the CMSCs(Common Motor Starter Controller) and ATRUs (Auto Transformer Rectifier Unit)cooled ?  (E&A Repair)
+@@The PECS (Power Electronics Cooling System) supplies cooling fluid to cool the CMSCs and the ATRU.
+The air conditioning system processes to make cool air to cool the CMSCs and the ATRUs.
+The 2 forward EE cooling supply fans move air to cool the CMSCs and the ATRUs.
+
+What are contained in SPDU (Secondary Power Distribution Unit) cabinet ? (E&A Repair)
+There are 8 power modules and 2 microprocessor modules.
+There are 6 power modules and 2 microprocessor modules.
+@@There are 16 power modules and 2 microprocessor modules.
+
+What is the function of VFSG (Variable Frequency Starter Generator) GCU (Generator Control Unit)  ? (E&A Repair)
+It continuously monitors the total horsepower extractionfrom each engine to prevent the overload condition  .
+It controls and monitors the engine start.
+@@It monitors and controls the output voltage,and give the fault and current protection.
+
+When is the GCB (Generator Control Breaker) closed by the GCU (Generator Control Unit)?(E&A Repair)
+When engine starts, there are no protective fault conditions.
+@@When engine is in operation, VFSG (Variable Frequency Starter Generator) output voltage and frequency are in limits and there are no protective fault conditions.
+As long as engine strart is done,the SC (Starter Contactor) opens and GNR (Ground Neutral Relay) closes.
+
+What are the the nominal output ratings of the VFSG(Variable Frequency StarterGenerator)?(E&A Repair)
+3-phase, 115v ac, 250 KVA and 360-800 Hz
+@@3-phase, 235v ac, 250 KVA and 360-800 Hz
+3-phase, 235v ac, 250 KVA and 400 Hz
+
+What are the protection function of the RAT (Ram Air Turbine)GCU (Generator Control Unit) ? (E&A Repair)
+Underfrequency protection
+Overvoltage protection
+@@Both a and b are correct.
+
+What is the function of the DCLPU (DC Lightning Protection Unit) ? (E&A Repair)
+@@Supply lightning surge protection to some RPDUs (Remote Power Distribution Unit)
+Supply lightning surge protection to some SPDUs (Secondary Power Distribution Unit) and RPDUs (Remote Power Distribution Unit)
+Supply lightning surge protection to some BPCU(Bus Power Control Units)
+
+What happens when the DRIVE DISC switch is pushed in air ? (E&A Repair)
+The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, and GCR (Generator Control Relay) opens to remove excitation from the VFSG
+The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, and GCB (Generator Control Breaker) opens.
+@@The related VFSG (Variable Frequency Starter Generator) is disconnected from the gearbox drive, GCR (Generator Control Relay) opens to remove excitation from the VFSG, and GCB (Generator Control Breaker) opens.
+
+What are the necessary conditions to disconnect manually the VFSG(Variable Frequency Starter Generator) on ground? (E&A Repair)
+VFSG low oil pressure sensed.
+@@Power is applied and engine fuel control switch moves to the RUN position.
+Power is applied
+
+What happens when high oil temperature (199 +/- 3 deg C) of the VFSG(Variable Frequency Starter Generator) is detected ? (E&A Repair)
+The DRIVE indication shows amber and the flight crew must manually disconnect the VFSG
+@@The VFSG is automatically disconnected by melting an internal solder pellet.
+Nothing happens.
+
+When you reconnect the VFSG(Variable Frequency Starter Generator) to the input shaft, what is the different between the first and second time you pull the disconnect manual reset handle ? (E&A Repair)
+@@You must ensure that the force to pull the disconnect manual reset handle the second time is less than the first time.
+you must  hear or feel the “click” tension at the second time you pull the disconnect manual reset handle.
+Both a and b are correct.
+
+What is the caution when you install the VFSG(Variable Frequency Starter Generator) harnesses? (E&A Repair)
+Make sure that you use pliers that have metal  jaws to tighten the electrical connectors or you will cause damage to the electrical connectors.
+@@Make sure that there is no tension in the electrical harnesses when you connect the electrical connectors. if there is tension, adjust the harness in the spring clips and hinge clamps. tension can cause damage to the electrical connectors and the harnesses.
+Both a and b are correct.
+What is the function of display and crew alert function ( DCAF ) ?(E&A Repair)
+Getting and processing aircraft system and crew input data, then making the graphic commands and sending them to HDDs and HUDs.
+@@Getting and processing aircraft system and crew input data, then making the display commands and sending them to graphics generators.
+Getting and processing aircraft system and crew input data, then making the display commands and sending them to EICAS.
+
+How many outputs does each graphics generator have ? (E&A Repair)
+4.
+5
+@@6.
+
+Where is the clock display ?(E&A Repair)
+@@On auxiliary display of PFD.
+On auxiliary display of ND.
+On status page .
+
+Flight crews and maintenance personel use CCD ( Cursor Control Device ) to control the cursor and make a selections on: (E&A Repair)
+Either captain or FO side HDDs and EFB DUs
+@@Onside inboard HDD, onside part of lower HDD and onside EFB DU.
+Onside HUDs and EFB DUs.
+
+The EFIS(Electronic Flight Instrument System )/DSP(Display Select Panel) has this control for the NDs( Navigation Display ):(E&A Repair)
+@@ND mode selector,range selector and map switches.
+ND mode selector,EICAStransfer switch and map switches.
+ND mode selector,EICAStransfer switch and meters switch.
+
+What shows on the HUD combiners when it is not in the correct deployed position ?(E&A Repair)
+It shows blank.
+OFF HUD.
+@@ALIGN HUD.
+
+What is the function of RLS (Remote Light Sensor)?(E&A Repair)
+@@The RLS (Remote Light Sensor) sends an ambient light analog signalto the CDN (Common Data Network) for automatic brightness control of the HDD (Head-Down Display).
+The RLS (Remote Light Sensor) sends an ambient light analog signal to the CDN (Common Data Network) for automatic indication of the HDD (Head-Down Display).
+Both a and b are correct.
+
+If one GG ( Graphics generator ) failed, how many displays can show data?: (E&A Repair)
+7.
+@@6.
+4.
+
+The alternate EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) function is used for: (E&A Repair)
+@@Control all the switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) except for the cursor control selector.
+Control all the switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) and  the cursor control selector.
+Control some switches on the captain and first officer EFIS (Electronic Flight Instrument System)/DSP (Display Select Panel) except for the cursor control selector.
+
+How to get access to CMCF(Central Maintenance Computing Function).?: (E&A Repair)
+Using MFD (Multi Function Display) or ML (maintenance laptop).
+@@Using MFD (Multi Function Display) , ML (maintenance laptop) or EFB (Electronic Flight Bag).
+Using only MFD.
+
+What kind of messages on EICAS (Engine Indication and Crew Alerting System) display are crew alerting messages ?:(E&A Repair)
+Caution, comm and memo message.
+@@Warrning, caution and advisory message.
+Warrning, caution, memo and advisory message.
+
+If there is a status message, can we dispatch the aircraft ? (E&A Repair)
+We must clear the message before dispatching the aircraft.
+@@We must clear the message or defer the fault condition in accordance with MMEL before dispatching the aircraft.
+None of above.
+
+How many flight recorders are there in the FRS (Flight Recorder System)?  (E&A Repair)
+1.
+@@2.
+3.
+
+What data is recorded and stored in flight recorder?  (E&A Repair)
+@@Flight parameters, flight compartment audio and datalink messages.
+Last 20 hours of flight parameters.
+Flight parameters and flight compartment audio .
+
+DCAF (Display and Crew Alerting Function) makes  alerts and then send data to: (E&A Repair)
+Graphic generators - for display on the PDS (Primary Display System) and Master warning and caution lights.
+@@Graphic generators - for display on the PDS (Primary Display System), ACP (Audio Control Panel) - to make aural alerts and Master warning and caution lights.
+Graphic generators - for display on the PDS (Primary Display System), ACP (Audio Control Panel) - to make aural alerts.
+
+When does the stick shaker actuators cause the control columns to shake?: (E&A Repair)
+@@When the airplane is near the stall condition.
+When Engine fire is detected.
+Both a and b are correct.
+
+To download of cockpit voice data from the FR (Flight Recorder) we can: (E&A Repair)
+Download  data from the forward FR using airplane network
+Download data directly from the aft FR using J4 connection
+@@Download data from the forward FR  and the aft FR in the shop
+
+The DCAF (Display and Crew Alerting Function) uses the nose gear pressure transducer signals to : (E&A Repair)
+Do a check of the nose gear cylinder pressure
+@@Do a check of the stabilizer green band position calculation
+Do a check of the Air/Ground mode calculation
+
+When getting more than 1 input, how does the printer work ?(E&A Repair)
+The request from CMCF (Central Maintenance Computing Function) will be printed first,followed by DCMF(Data Communication Management Function), ACMF (Airplane Condition Monitoring Function), and EFB (Electronic Flight Bag).
+@@The request from DCMF(Data Communication Management Function) will be printed first,followed by CMCF (Central Maintenance Computing Function), ACMF (Airplane Condition Monitoring Function), and EFB (Electronic Flight Bag).
+The request from ACMF (Airplane Condition Monitoring Function) will be printed first,followed by CMCF (Central Maintenance Computing Function), DCMF(Data Communication Management Function), and EFB (Electronic Flight Bag).
+
+When do master warning lights or master caution lights go off after coming on? (E&A Repair)
+When you push the aural cancel switch or the warning/caution condition goes away.
+Only when the warning/caution condition goes away.
+@@When you push the master/caution switch or the warning/caution condition goes away.
+For controllingthe lighting systems, B787 use:(ME Repair, E&A Repair)
+@@The airplane CDN (Common Data Network) and software
+The dimmer control units (DCU) and relays related
+The CSSC(Cabin Service System Controller) and cabin attendant panel
+
+The B787 lighting systems use HID (High Intensity Discharge) bulbs for ? (E&A Repair)
+Fflight deck light
+Cabin compartment light
+@@Exterior lights
+
+How are the annunciator lights controlled?(E&A Repair)
+@@Each system controls its annunciator lights
+CSS (Cabin Services System) software
+A panel lighting hosted function in CCR
+
+Which light in flight compartment contain an emergency dome light (E&A Repair)
+first officer's aft and the pilot's forward dome lights
+first officer's forward and the pilot's forward dome lights
+@@First officer's forward and the pilot's aft dome lights
+
+The service lights give light for maintenance and servicing, the service lights in which areas are the same? (E&A Repair)
+@@In Main Landing Gear wheel and in Forward main equipment
+In Forward main equipment and at the refuel control panel
+at the refuel control panel and in Main Landing Gear wheel well
+
+The interior cargo compartment lights are : (E&A Repair)
+On the cargo compartment sidewall. The lights are the same in all the cargo compartments
+@@On the cargo compartment ceiling. The lights are the same in all the cargo compartments
+On the cargo compartment ceiling. The lights are difference in all the cargo compartments
+
+In which position light, when an LED (Light Emitting Diode) fails, you must change the LED (Light Emitting Diode) module assembly with lens. (E&A Repair)
+Forward position lights
+@@The rear position lights
+The tailcone position lights
+
+On the lighting panel on cockpit, to control the white anti-collision lights(E&A Repair)
+@@Use the STROBE switch
+use the BEACON switch
+use the NAV  switch
+
+All the emergency lights come on when this conditions(E&A Repair)
+The emergency light switch on the P5 panel is in the ARMED position
+@@A test is done from the master attendant switch panel
+The emergency light switch on the P5 panel is in the TEST position
+
+The 2 emergency egress lights use LED (Light Emitting Diode)s and show what colour(E&A Repair)
+@@white
+Red
+Green
+
+What are the position of the wing illumination lights?(E&A Repair)
+The wing illumination lights  are in the left and right wing roots.
+@@The wing illumination lights  are in the left and right side of the fuselage, forward of the wing strakelet.
+The wing illumination lights  are in the left and right wing tips.
+
+How are the upper and lower body anti-collision lights synchronized to flash at the same time(E&A Repair)
+@@By a synch wire connects the upper and lower lights.
+By the exterior light function in GPM.
+Neither a and b is correct.
+
+What is the purpose of logo lights ?(E&A Repair)
+They help airplane in collision avoidance.
+They help airplane for night landing.
+@@They make the airline identification more visible.
+
+How do the wing landing lights get power from RPDU?(E&A Repair)
+@@Each of the 2 lights gets power from one output of a triple power supply.
+Each of the 2 lights gets power from one output of a double power supply.
+The wing landing lights get power from RPDU directly.
+
+When does the taxi light come on ?(E&A Repair)
+when the NLG (Nose Landing Gear) landing light switch or the NLG (Nose Landing Gear) taxi light switch is on if the flaps are fully extended.
+when the NLG (Nose Landing Gear) landing light switch or the NLG (Nose Landing Gear) taxi light switch is on if the MLG (Main Landing Gear) is compressed.
+@@when the NLG (Nose Landing Gear) landing light switch or the NLG (Nose Landing Gear) taxi light switch is on if the NLG (Nose Landing Gear) is down and locked.
+
+What are the components of position light system ?(E&A Repair)
+Red forward position light on the right wing tip, green forward position light on the left wing tip, white rear position lights and white tailcone position lights.
+@@Green forward position light on the right wing tip, red forward position light on the left wing tip, white rear position lights and white tailcone position lights.
+Red forward position light on the right wing tip, green forward position light on the left wing tip, white rear position lights.
+The air data reference system (ADRS) uses its components and software functions to calculate airplane parameter such as(E&A Repair)
+@@Airspeed, Barometric altitude and Temperature.
+Temperature.
+Airspeed
+
+The pitot-static system has these components: (E&A Repair)
+3 pitot probes
+6 static ports
+@@3 pitot probes and 6 static ports
+
+The Probe heat is on: (E&A Repair)
+when two engine is shutdown
+when GPU connected
+@@when an engine is running
+
+The damage to the static ports is:(E&A Repair)
+Permitted
+@@No permitted
+Within certain allowable limit
+
+The static ports are: (E&A Repair)
+@@not heated.
+heated.
+Heated by hot air.
+
+Non-normal failure indications for the air data reference system (ADRS) show as: (E&A Repair)
+Failure flags (amber) on the primary flight display (PFD)
+Failure flags (green) on the head-up display (HUD)
+@@All above are correct.
+
+The CMCF ground test lets you do tests of the: (E&A Repair)
+Air data system only
+Total air temperature system only
+@@Air data system, Total air temperature system and Heaters.
+
+The earth reference system (ERS) calculates these primary inertial parameters for: (E&A Repair)
+@@Attitude, Heading, Velocity, Position
+Attitude only
+Velocity, Position only
+
+The element colors of TCAS/ATC Antenna are: (E&A Repair)
+Yellow, Black
+Blue, Red.
+@@A and B are corrected.
+
+The air data modules (ADMs): (E&A Repair)
+@@Change the pitot and static pressure data to digital signal data and send the digital data to the actuator control electronics (ACE) in the flight control electronics (FCE) cabinets.
+Change the pitot and static pressure data to digital data.
+Send the digital data to the actuator control electronics (ACE) in the flight control electronics (FCE) cabinets.
+
+The types of air pressure inputs from pitot probes and static ports on the airplane fuselage are: (E&A Repair)
+The static air pressure
+The pitot air pressure
+@@The total pressure from pitot probes and static pressure from static ports
+
+The pitot-static system sends pitot pressure and static pressure to the air data modules (ADM) for  changing air pressures to ARINC 429 data, then send to: (E&A Repair)
+The ADRS.
+@@The ADRF.
+The FCMs.
+
+The ADMs change the air pressures to: (E&A Repair)
+@@The ARINC 429 signals.
+The ARINC 629 signals.
+The ARINC 329 signals.
+
+The pitot probes damage is: (E&A Repair)
+Permitted
+@@No Permitted
+Within certain allowable limit
+
+The angle of attack (AOA) sensors sense the angle: (E&A Repair)
+Between the wing and the direction of the airflow.
+Between the wing chord line and the airflow.
+@@Between the wing chord line and the direction of the airflow
+
+The TAT probe is on: (E&A Repair)
+@@The left side of the forward fuselage.
+The right side of the forward fuselage.
+The left side of the aft fuselage.
+
+The TAT probe has an: (E&A Repair)
+The internal 110v ac heater to prevent ice.
+@@The internal 115v ac heater to prevent ice.
+The internal 125v ac heater to prevent ice.
+
+The TAT data shows on: (E&A Repair)
+@@The EICAS.
+The head-up diplay.
+The MCDU.
+
+The ERS components are in: (E&A Repair)
+The fwd EE bay
+@@The aft EE bay
+The mid EE bay
+
+Where is the ADRF (Air Data Reference Function) located? (E&A Repair)
+@@In the FCE (Flight Control Electronics)
+In the CCR (Common Computing Resource)
+The ERS (Earth Reference System)
+
+When aligning ERS Earth Reference System, If a GPS position is received, the POS INIT page on the CDU will? (E&A Repair)
+Display boxes in the SET INERTIAL POSITION line
+@@Display dashes in the SET INERTIAL POSITION line
+Display blank  in the SET INERTIAL POSITION line
+
+When replace the IRU (Inertial Reference Unit) or AHRU (Attitude and Heading Reference Unit) we must note: (E&A Repair)
+Replace the IRU (or AHRU) and the related APM (Airplane Personality Module) at the same time
+Replace the IRU (or AHRU) when  there is a related APM (Airplane Personality Module) maintenance message
+@@Do not replace the IRU (or AHRU) and the related APM (Airplane Personality Module) at the same time
+
+Where is the PFD (primary flight displays) take airspeed and altitudedata If there is a failure of all FCM (Flight Control Module)s? (E&A Repair)
+@@Integrated Standby Flight Display
+Standby Magnetic Compass
+Attitude and Heading Reference Unit
+
+A function of the ISS (Integrated Surveillance System) is : (E&A Repair)
+Approach and landing guidance
+The FMF (Flight Management Function
+@@WXR (Weather Radar) with PWS (Predictive Windshear System)
+
+The MB (Marker Beacon) function operates in : (E&A Repair)
+@@Left INR (Integrated Navigation Radio) receiver
+Right INR (Integrated Navigation Radio) receiver
+Left ISSPU (Integrated Surveillance System Processor Unit)
+
+To load software into the INR (Integrated Navigation Radio) receiver, you should: (E&A Repair)
+Load software when the INR receiver is on the airplane
+@@Load software when the INR receiver is in the shop
+Cannot  load software for the INR receiver (have no softwre to load)
+
+During inspection of the Low Range Radio Altimeter (LRRA) antenna, if connector nuts have no corrosion but there is corrosion on the surface of the antenna connector and the backplate: (E&A Repair)
+Replace the antenna immediately
+@@Do not replace the antenna
+Replace the antenna after 03 flight day
+
+What data will be sent to the ground station by The ATC (Air Traffic Control) function ( after decoding interrogation signals) : (E&A Repair)
+Aircraft Radio Altitude or Identifier Data
+Aircraft Bearing Data or Identifier Data
+@@Aircraft Barometric Altitude or Identifier Data
+
+Which condition make the PWS (Predictive Windshear System) goes off: (E&A Repair)
+The airplane descends below 2300 feet radio altitude
+airplane is on the ground and An engine goes to takeoff thrust
+@@The airplane climbs above 2300 feet radio altitude
+
+The DME (Distance Measuring Equipment) interrogators send and receive RF (Radio Frequency) signals through:(E&A Repair)
+@@The On-side DME Antenna
+The Off-side DME Antenna
+The Both DME Antenna
+
+How many copies of the Flight Management Function software in the CCR (Common Computing Resource) cabinets (E&A Repair)
+There are Two copies: One in Left CCR, One in Right CCR
+@@There are Three copies: Two in Left CCR, One in Right CCR
+There are Three copies: One in Left CCR, Two in Right CCR
+
+When Use the MKP (Multifunction Keypad) to enter the Drag Factor and Fuel Flow Factor values, you should note: (E&A Repair)
+Drag-only entries may be entered with or without a slash preceding
+@@Drag and fuel flow values must be separated by a slash
+Fuel Flow values must be followed by a slash
+
+Which probes/sensors send analog signal directly to ACE (Actuator Control Electronics)?(E&A Repair)
+TAT probe.
+@@Left and right AOA sensors.
+Center pitot probe.
+
+How does ADRF (Air Data Reference Function) calculate air temperature ?:(E&A Repair)
+On the ground the ADRF uses CAC (Cabin Air Compressor) inlet temperature in air temperature calculations.
+In the air the ADRF (Air Data Reference Function) uses the average temperature from the 2 TAT sensor elements and the engine inlet air temperature sensors in air temperature calculations.
+@@Both a and b are correct.
+
+How does ADRF (Air Data Reference Function) calculate the total pressure?(E&A Repair)
+Each ADRF gets data from the 3 pitot ADM (Air Data Module)s, then takes the first pitot ADM data input for calculation.
+@@Each ADRF gets data from the 3 pitot ADM (Air Data Module)s,then takes the middle value of the 3 pitot ADM  inputs for calculation.
+Each ADRF gets data from the 3 pitot ADM (Air Data Module)s,then takes the highest  value of the 3 pitot ADM  inputs for calculation.
+
+How is the ILS (Instrument Landing System)/GLS (GNSS Landing System) function tuned?(E&A Repair)
+It can be tuned automatically by the INR (Integrated Navigation Radio),manually tuned by using the navigation radio page on the CDU (Control Display Unit) or using the ALTN NAV page on the TCP (Tuning Control Panel).
+@@It can be tuned automatically by the FMF (Flight Management Function),manually tuned by using the navigation radio page on the CDU (Control Display Unit) or using the ALTN NAV page on the TCP (Tuning Control Panel).
+It can be tuned automatically by the FMF (Flight Management Function),manually tuned by using the navigation radio page on the CDU (Control Display Unit).
+
+What is the function of the compensation screws of standby magnetic compass ?(E&A Repair)
+@@To correct for magnetic deviations caused by electric currents in the flight deck.
+To adjust the position of the standby magnetic compass.
+To adjust the intergrated light in the standby magnetic compass.
+
+When at least 1 IRS (Inertial Reference System) switch is ON and the ERS (Earth Reference System) is in the ALIGN mode, where can you see the time remaining for the ERS alignment?(E&A Repair)
+TIME TO ALIGN (in minutes) on the MFD(Multifunction Display).
+TIME TO ALIGN(in minutes) on the HUD (Head Up Display).
+@@TIME TO ALIGN(in minutes) on the PFD (Primary Flight Display) mini-map.
+
+Which component send the localizer and glideslope data to the ISFD (Integrated Standby Flight Display)?(E&A Repair)
+The right INR (Integrated Navigation Radio).
+@@The left INR (Integrated Navigation Radio).
+Both of left and right INR (Integrated Navigation Radio).
+
+How does the ISFD (Integrated Standby Flight Display) get 28VDC power ? (E&A Repair)
+Directly from hot battery bus .
+Directly from captain instrument bus.
+@@From FCE (Flight Control Electronics) C1.
+
+What is the purpose of the VOR (VHF Omnidirectional Range) function in The INR (Integrated Navigation Radio) ?(E&A Repair)
+It calculates the magnetic heading of the airplane from the ground station and finds the station identifier signals.
+@@It calculates the magnetic bearing of the airplane from the ground station and finds the station identifier signals.
+It calculates the relative bearing of the airplane from the ground station and finds the station identifier signals.
+
+How can you manually control the WXR (Weather Radar) tilt angle? (E&A Repair)
+@@Select weather radar page on TCP (Tuning Control Panel), use TILT CTRL switch to select MAN to manually control the tilt angle.
+The control of WXR (Weather Radar) tilt angle from ISSPU (Integrated Surveillance System Processor Unit) is completely automatic.
+By using the WXR control panel on P8 panel.
+
+What is the function of TCAS/ATC antenna relays? (E&A Repair)
+To connect the antenna to RPDU (Remote Power Distribution Unit).
+To control the transmitting the interrogation signals and receiving the reply signals
+@@To connect either the left or right ISSPU (Integrated Surveillance System Processor Unit) to the TCAS (Traffic Alert and Collision Avoidance System)/ATC (Air Traffic Control) antennas.
+
+When there is a terrain conflict threat, what message shows on the ND (Navigation Display) and PFD (Primary Flight Display) mini-map?(E&A Repair)
+TERRAIN shows in red.
+@@TERRAIN shows in red if the alert is a warning and shows amber if the alert is a caution.
+TERR POS shows in red.
+Where is location of CCR (Common Computing Resource) cabinets? (E&A Repair)
+in the aft equipment center
+@@in the forward equipment center
+in the forward crown area
+
+How many channels does each RDC (Remote Data Concentrator) have (E&A Repair)
+One
+Two
+tree
+
+How many ARS(ARINC 664 network remote switch) are there in CCS  (E&A Repair)
+@@6
+4
+2
+
+How many ACS (ARINC 664 network cabinet switch) are there in CCS  (E&A Repair)
+6
+@@4
+2
+
+Usual cooling for each common computing resource (CCR) cabinet is from   (E&A Repair)
+@@The forward electronic equipment (E/E) cooling system
+The common computing resource (CCR) cabinet fan and valve assembly
+The aft electronic equipment (E/E) cooling system
+
+The common computing resource (CCR) cabinet fan and valve assembly get power from (E&A Repair)
+the General Processing Module (GPM)
+@@the power conditioning modules (PCM)
+The Remote Power Distribution Unit (RPDU)
+
+There are 2 startup modes for the CCS : (E&A Repair)
+@@uninhibited and inhibited modes
+unattended and attended modes
+primary and secondary modes
+
+The CCS will start in the inhibited mode under the following circumstances:(E&A Repair)
+@@Airplane is in the air; Fuel cutoff switches are in not cutoff  position; No fuel cutoff switch data is available
+Airplane on the ground; Fuel cutoff switches are in cutoff  position; one fuel cutoff switch data is available
+Airplane is not in the air; one Fuel cutoff switche is in not cutoff  position; fuel cutoff switches data are available
+
+Some components have a direct connection with the CDN ( do not connect to the RDCs). Where can you see the status of these connections: (E&A Repair)
+@@The CDN LRU maintenance pages
+The CCS/CDN status page
+The CCS RDC'S maintenance pages
+
+There are 3 CDN LRU maintenance pages, These pages show: (E&A Repair)
+The status of the line replaceable units
+@@The status of the interface connections
+The status of components in the CCR
+
+Can we dispath B787 with an inoperative Remote Data Concentrator (RDC)?(E&A Repair)
+@@Yes, if An inoperative RDC installed into the RDC 19 position
+Yes, If An inoperative RDC not installed into the RDC 19 position
+No, due to the CCS RDCs are different and not interchangeable
+
+Only power down one CCR cabinet at a time to : (E&A Repair)
+@@keep a copy of the circuit breaker data in the other CCR cabinet intact
+keep a copy of the ACMF fault history data in the other CCR cabinet
+keep the airplane config data contend in  GPMs L1, L4 and R1 off CCR
+
+Which modules in the CCR (Common Computing Resource) cabinet are not part of CCS (Common Core System) : (E&A Repair)
+02 PCMs (Power Conditioning Module)
+@@02 GGs (Graphics Generators)
+02 FOX (Fiber Optic translator Module)
+
+What is the function of FOX ?(E&A Repair)
+@@Changing electrical data to fiber optic data and vice versa.
+Contain application software and doing some aircraft data calculation.
+Both a and b are correct.
+
+What kind of connection does the ACS (ARINC 664 network cabinet switch) have: (E&A Repair)
+@@Electrical connection to GPMs and FOXs.
+Electrical connection to GPMs and fiber optic connection to FOXs .
+Electrical connection to GPMs and ARS.
+
+How do the RDC channels connect to network switch channels ? : (E&A Repair)
+@@RDC Channel A and B respectively connect to network switch channel A and B.
+Each of RDC channel A and B connect to both network switch channel A and B.
+Neither a and b is correct.
+How does the Cabin Service System Controller (CSSC) transmit Control data and digital audio signal ? (E&A Repair)
+The signal from the CSSC go to each of the CZU (Cabin Zone Unit)s simultaneously and then back to the CSSC
+@@The signal from the CSSC go to each of the CZU (Cabin Zone Unit)s in sequence and then back again to the CSSC
+The signal from the CCR cabinet go to CSSC and go to each of the CZUs in sequence then back to the CCR cabinnet
+
+How many CZUs (Cabin Zone Unit) are installed on VNA B787-9 Airplane?(E&A Repair)
+@@03 CZU: 01 for Forward cabin area , 01 for Mid cabin area and 01 for Aft cabin area
+04 CZU: 01 for Forward cabin area , 02 for Mid cabin area and 01 for Aft cabin area
+03 CZU: 01 CZU for Forward cabin area and Aft cabin area, 02 for Mid cabin area
+
+If the CSSC (Cabin Service System Controller) fails; Cabin Ready, Cabin Alert and Cabin Call discrete signals will  (E&A Repair)
+@@go directly to the CDN through a RDC
+go directly to the CDN  through a ACS
+Can not go to the CDN through a RDC
+
+The Orange LED (Light Emitting Diode) in front panel of CSSC (Cabin Service System Controller) is  (E&A Repair)
+CSSC fault status monitor indication
+CSSC power monitor indication
+@@LAN (Local Area Network) monitor indication
+
+The FDH (Flight Deck Handset) connects to Which CZU (Cabin Zone Unit) ? (E&A Repair)
+Connect to CZU in all three  zone
+@@Connect to CZU in the forward zone
+Not Connect to any  Cabin Zone Unit
+
+in Cabin Core Systems , how the PSM (Passenger Service Module)s in a zone connect? (E&A Repair)
+@@usually connect together in left, right, and center columns; Aterminationconnects to the last PSM in a column
+usually connect together in left, right, and center seat row ; A termination connects to the last PSM in a seat row
+usually connect to Cabin Zone Unit in sequence ; A termination connects to the last Passenger Service Module in a column
+
+How to get access to the CLB (Cabin Logbook) screen ? (E&A Repair)
+@@Get to Cabin Attendant Panel/ MAIN MENU/ CABIN APPLICATIONS
+Get to Cabin Attendant Panel/ MAIN MENU/ MAINTENANCE
+Get to Electronic Flight bag / MAIN MENU/ CABIN APPLICATIONS
+
+How to return to the CAP (Cabin Attendant Panel) screen when have A pop-up window show? (E&A Repair)
+You must push RETURN to remove a pop-up window
+@@You must touch CLEAR to remove a pop-up window
+You must clear the fault relate to a pop-up window
+
+How the announcement priorities data arrange from the highest to lowest( stored in the speaker drive module): (E&A Repair)
+Flight interphone announcement - Recorded digital audio - Handset announcement
+Recorded digital audio - Flight interphone announcement - Handset announcement
+@@Flight interphone announcement - Handset announcement – Recorded digital audio
+
+The ground crew call horn on the right side in the nose wheel well will comes on when: (E&A Repair)
+@@Equipment cooling failure  or ERS is on battery power
+ENG fire  or  ERS is on External power
+APU fire and Equipment cooling failure
+
+The CSS (Cabin Service System) system test makes sure that the passenger-to-attendant call function of the CSS operates correctly, it includes: (E&A Repair)
+@@CSS - All Test and Passenger-to-Attendant Call Test
+Quick Test and All Test
+CSS Quick Test and CSS Input/Output (I/O) Monitor test
+
+Where is The CSSC(Cabin Service System controler) located ? (E&A Repair)
+In the cabin Door 1L
+@@on the E2-2 electronics equipment rack
+on the E3-2 electronics equipment rack
+
+Additional questions : What is necessary to be changed when the cabin configuration changes occur ? (E&A Repair)
+The database of CZU (Cabin Zone Unit).
+@@The database of CSSC(Cabin Service System controller).
+The database of CAP (Cabin Attendant Panel).
+
+Which component changes digital audio to analog signals that operate the cabin speakers ? (E&A Repair)
+CSSC(Cabin Service System controller).
+@@SDM(Speaker Drive Module).
+CZU(Cabin Zone Unit).
+
+What is the highest priority for the PA(Passenger Address) audio  ? (E&A Repair)
+Recorded digital audio.
+Attendant announcement using handset.
+@@Flight crew announcements using ACP
+
+When you use the FDH (Flight Deck Handset) to make the ground crew call, how does the data go to the CSSC (Cabin Service System controller) ? (E&A Repair)
+The data goes through an RDC (Remote Data Concentrator) to the CDN (Common Data Network),then goes to CSSC(Cabin Service System controller).
+@@The data goes to CSSC(Cabin Service System controller) through forward CZU(Cabin Zone Unit).
+The data goes directly to the CDN (Common Data Network),then goes to CSSC(Cabin Service System controler).
+During Do the BITE test of the IFES, on the SYSTEM SUMMARY screen, the indicator lights in the BITE Failure column are green and show a zero value mean: (E&A Repair)
+@@LRU BITE passed
+LRU BITE failure
+LRU BITE in progress
+
+How do the Reading light and attendant call inputs from passengers go to the CSSC (Cabin Service System Controller).(E&A Repair)
+Go through the CDN (Common Data Network) to the CSSC
+@@Go through the IFE (In-Flight Entertainment) system to the CSSC
+Go through the CZU (Cabin Zone Unit)s  to the CSSC
+
+Where is The DSU‐D4 (Digital Server Unit-D4 ) on the In-Flight Entertainment system located (E&A Repair)
+@@On the E2 rack in the forward EE bay
+On the E4 rack in the Aft EE bay
+ON the IFE areas at Door 2L
+
+Which Digital Server Unit(DSU) is the Primary DSU providing IFE System control using a Heartbeat messaging system. (E&A Repair)
+@@DSU#1
+DSU#2
+DSU#4
+
+What is The purpose of the  Digital Tapping Unit (DTU) in IFE System ? (E&A Repair)
+The delivery of power and data to the in seat monitors
+@@The delivery of power and data to the broadcast cabin monitors
+The delivery of power and connetivity data to the seat
+
+Where is the location of the Seat Data Box (SDB) on the seat group.(E&A Repair) On the last column in seat group Changes with the seat manufacturer and the seat model Always on the first seat in seat group DMC-B787-A-44-26-10-00A-520A-A Where is the Video Control Station (VCS) located ?(E&A Repair)
+@@Near door 1 left
+Near door 3 left
+Near door 4 right
+
+When does the COOLING LOSS indicator on Video Control Station (VCS) illuminates? (E&A Repair)
+Cooling air for aircraft equipment clooling lost
+During normal operation off  IFE system computers when aircraft in the air
+@@Cooling air for IFE system computers in the electronics bay has stopped operating
+
+The entertainment services control passenger access to in-seat entertainment, the entertainment services will automatically start when: (E&A Repair)
+@@Aircraft reach 10000 feet  Mean Sea Level of altitude
+Aircraft “weight on wheels”
+First Engine start
+
+With the Connectivity Power Switch ON, Wi-Fi service, the Connectivity service  will be (E&A Repair)
+@@Disabled automatically when aircraft below 10,000 feet MSL( Mean Sea Level )
+Enabled automatically immediately when aircraft in the air
+Enabled since aircraft still on the ground
+How does The CMCF (Central Maintenance Computing Function) operate ?(E&A Repair)
+one CMCF on ML and one CMCF can operates at a time
+Maximum  three CMCF (Central Maintenance Computing Function) can operates at a time
+@@Only one CMCF (Central Maintenance Computing Function) operates at a time
+
+The CMCF (Central Maintenance Computing Function) menu and screens show on these components: (E&A Repair)
+@@ML (Maintenance Laptop), EFB (Electronic Flight Bag), Multi Function Display.
+ML (Maintenance Laptop), PFD (Primary Flight Display), Multi Function Display.
+ML (Maintenance Laptop), EFB (Electronic Flight Bag), Head-up Display.
+
+The CMCF (Central Maintenance Computing Function) has logic that uses P5 GND TEST selector switch position, the position are: (E&A Repair)
+OFF, ENABLE, DATA LOAD/ENABLE
+NORM, DATA LOAD, DATA LOAD/ENABLE
+@@NORM, ENABLE, DATA LOAD/ENABLE
+
+The CMCF (Central Maintenance Computing Function) is a software part off which component on CCR (Common Computing Resource) cabinets (E&A Repair)
+GG (Graphic Generator)
+PCM (Power Conditioning module)
+@@GPM (General processor module)
+
+How to load the CMCF (Central Maintenance Computing Function) application and/or LSAP (Loadable Software Airplane Part) to the correct GPM (General Processing Module)??(E&A Repair)
+Use the OSM (Onboard Storage Management)
+@@Use the ODLF (Onboard Data Load Function)
+Use the SMT (Software Maintenace Tool)
+
+Airplane is on the ground, flight leg transition is enabled, The CMCF (Central Maintenance Computing Function) transitions the present flight leg to previous flight leg when: (E&A Repair)
+@@Engine starts or both engines are running and the last door transitions from open to closed.
+Both engines are off and the last door transitions from open to closed.
+Engine starts or both engines are running and the last door transitions from manual to auto.
+
+What are the Non-correlated MM (Maintenance Message)s ? (E&A Repair)
+MMs are those messages that relate to a FDE (Flight Deck Effect),or  MO (Maintenance Memo), or SMT (Scheduled Maintenance Task )?
+@@MM s are those messages that do not relate to a FDE (Flight Deck Effect), or MO (Maintenance Memo), or SMT (Scheduled Maintenance Task)
+MM (Maintenance Message)s that do not occur during a storable flight phase store in SRAM (Static Random Access Memory)
+
+In the main CMCF (Central Maintenance Computing Function) menus, Where can you find the Non-correlated MM (Maintenance Message)s  (E&A Repair)
+@@Present leg faults, Existing faults, Fault history
+Inbound flight deck effects, Present leg faults, Fault history
+Existing Flight Deck Effects, Existing faults, Fault history
+
+Three activities of a MM (Maintenance Message) are : Active ,Latched, Not Active. The MM shows Not Active if  (E&A Repair)
+a system always monitors for faults and a fault is present
+System finds a fault and does not continue to use the related equipment
+@@system always monitors for a fault and a fault does not remain
+
+CMCF (Central Maintenance Computing Function) shows an FDE (Flight Deck Effect) as one of these : Active ,Latched, Not Active. A latched FDE (Flight Deck Effect) is: (E&A Repair)
+an FDE (Flight Deck Effect) that currently shows in the flight deck
+@@a status message or a SMT (Scheduled Maintenance Task)
+an FDE (Flight Deck Effect) that no longer shows on the flight deck
+
+The conditions that cause the CMCF (Central Maintenance Computing Function) to change to Maintenance flight phases(MT) are: (E&A Repair)
+Airplane is in the air and P5 GND TEST switch is in “ENABLE” or “DATA LOAD/ENABLE” position
+The “DISABLE” is selected on the maintenance enable/disable dialog box of the CMCF display
+@@The “ENGINE BALANCING” is selected on the CMCF display
+
+The software components necessary for the ACMF (Airplane Condition Monitoring Function) operation are: (E&A Repair)
+CMCF (Central Maintenance Computing Function) partition, AMI (Airline Modifiable Information), DGA (Data Gathering Application) partition, LDI (Loadable Diagnostic Information) database
+@@ACMF  partition, AMI (Airline Modifiable Information), DGA (Data Gathering Application) partition, PMT (Port Mapping Table)
+DFDAF (Digital Flight Data Acquisition Function) partition, AMI (Airline Modifiable Information), DGA (Data Gathering Application) partition, CPL (Continuous Parameter Logging)
+
+To use the Onboard Data Load Function (ODLF) and the Ground Test function on the maintenance laptop, the type of Wireless Connection must be : (E&A Repair)
+Wireless Initial Connection or Wired Connection
+Wireless Limited Connection or Wired Connection
+@@Wireless Full Connection or Wired Connection
+
+How many Ethernet ports on the airplane for maintenance laptop connection? (E&A Repair)
+@@Three: in  the flight deck, forward EE Bay, and aft EE Bay
+Two : in  the flight deck and aft EE Bay
+Three: in  the flight deck, Cabin, and APU compartment
+
+How  many maximum number of connection that maintenance laptop can connect at the same time ? (E&A Repair)
+Three for wireless connections, four for wired connections
+@@Three for wired connections, four for wireless connections
+Three for wired connections, One for wireless connections
+
+Which devices can you use to install LSAP (Loadable Software Airplane Part) ?(E&A Repair)
+Maintenance laptop with wireless Limited Connection
+@@An Electronic Flight Bag Display Unit (EFB DU)
+A Multi Function Display Display Unit (MFD DU)
+
+How many Onboard Data Load Function (ODLF) session can operate at a time? (E&A Repair)
+@@One ODLF session (one on ML or one on EFB)
+Two ODLF session (one on ML and one on EFB
+Three ODLF session (one on ML, one on Left EFB and one on Right EFB)
+
+To select text on Central Maintenance Computing Function (CMCF) screens on a Multifunction Display (MFD), you can use: (E&A Repair)
+CURSOR CONTROL on the Multifunction keypad (MFK)
+@@The Cursor Control Device (CCD)
+the ENTER switch on EFB Electronic Unit (EFB EU)
+
+The engine balancing function of CMCF lets you balance an engine without engine ground-run, select The PERFORM BALANCE on The engine balancing main menu to: (E&A Repair)
+@@Find where to Add and Remove weights from the engine
+Make the Engine Monitor Unit calculate and change its balance data
+Do Engine ground-run test after finishing Engine balance procedure
+
+Where does the ACMF(Airplane Condition Monitoring Function) main menu show : (E&A Repair)
+ML(Maintenance Laptop) and MFD(Multi Function Display)DU(Display Unit)
+EFB (Electronic Flight Bag)DU (Display Unit) and MFD(Multi Function Display)DU(Display Unit)
+@@ML(Maintenance Laptop) and EFB (Electronic Flight Bag)DU (Display Unit)
+Where are the EFB (Electronic Flight Bag)EU (Electronics Unit)s located? (E&A Repair)
+in the Aft equipment center
+@@in the forward equipment center
+in the flight compartment
+
+What are the EFB (Electronic Flight Bag) components in the flight compartment (E&A Repair)
+@@02 Electronic Flight Bag Display Unit and one Terminal Wireless LAN Unit
+02 Electronic Flight Bag Electronics Unit and one Terminal Wireless LAN Unit
+02 Electronic Flight Bag Display Unit and two Cursor Control Device
+
+How the EFB (Electronic Flight Bag) EU (Electronics Unit) controls the EFB (Electronic Flight Bag)DU (Display Unit) (E&A Repair)
+@@Control its on-side DU
+Control its off- side DU
+One EFB EU controls two EFB DU, another is standby
+
+Which condition below let the ACMF function on the EFB is available? (E&A Repair)
+Airplane in Climb (CL) Flight Phase and below 10,000 feet altitude
+Airplane in the air and below 10,000 feet altitude
+@@Airplane on ground or airplane above 10,000 feet altitude
+
+Which condition below let  the Onboard Data Load Function (ODLF) function on the EFB is available (E&A Repair)
+Airplane in the air and below 10,000 feet altitude
+@@Airplane on the ground
+Airplane in the air
+
+Which component controls the CSM (Controller Server Module) in Core Network System ?(E&A Repair)
+The software in CCR (Common Computing Resource) cabinet
+The CIS (Crew Information System)/MS (Maintenance System) file server module
+@@There are no controls for the CSM (Controller Server Module)
+
+Which component in Core Network System have LED on it to shows the power and status of the controller server module (E&A Repair)
+Air blocking module
+@@NIM (Network Interface Module)
+EGM (Ethernet Gateway Module)
+
+How many CWLU (Crew Wireless LAN Unit) antennas are installed on the airplane? (E&A Repair)
+@@5 CWLU (Crew Wireless LAN Unit) antennas
+4 CWLU (Crew Wireless LAN Unit) antennas
+1 CWLU (Crew Wireless LAN Unit) antennas
+
+The Wireless network antenna on the top of the fuselage over the flight compartment is the: (E&A Repair)
+Crew Wireless LAN Unit antenna
+@@Terminal Wireless LAN Unit antenna
+Satcom antenna
+
+To delete  EFB Electronic (EU) software by EFB Display Unit (DU), How to make sure The EFB (Electronic Flight Bag) received on-ground status? (E&A Repair)
+@@The LOAD MODE button is shown with gray background and white letters on the DU's screen
+The LOAD MODE button is shown black background with cyan letters and border on DU's screen
+The DELETE LSAP is shown with gray background and white letters on the DU's screen
+
+Where is the Core Network Cabinet located ?(E&A Repair)
+On the E3 equipment rack in the aft electronic equipment center
+@@On the E1 equipment rack in the forward electronic equipment center
+On the E2 equipment rack in the forward electronic equipment center
+
+Where are the wired connection points for connecting ML(maintenance laptop) to the airplane? (E&A Repair) Flight deck ethernet port between the observers seats
+Forward electronic equipment (EE) bay ethernet port
+Aft EE bay Ethernet port.
+@@Both of above
+
+SWPM AND ATA 20 If a fiber optic cable does not move freely during installation: (E&A Repair)
+hold the cable by the connector to gently pull it into place
+@@do not try to pull or push the cable.
+hold the cable to gently pull it into place
+
+How to align the keys of the plug with the keyways of the receptacle, during fiber optic connector installation? (E&A Repair)
+Turn fiber optic plug
+@@Do not turn plug more than a half turn in either direction
+Do not turn plug
+
+If a plastic tie strap is assembled on a harness that has a BACC69A() fiber optic cable?: (E&A Repair)
+do not use plastic tie strap
+@@cable must be protected by two to four layers of Scotch 70 tape at the location of the plastic tie strap
+discard and use lacing tape ties
+
+what do you do after a fiber optic cable assembly is replaced: (E&A Repair)
+nothing
+@@make an inspection of the continuity of the fiber optic segments.
+make an inspection of the light loss level of the fiber optic segments
+
+The minimum bend radius for a single wire or a single cable is: (E&A Repair)
+@@ten times the diameter of the wire or the cable
+the larger value of 1.5 inches the diameter of the wire or the cable
+six times the diameter of the wire or the cable
+
+What should be done to the fiber optic cables before you do a light loss test? (E&A Repair)
+Nothing
+@@Examine the fiber-optic connectors for damage and contamination.
+Set the reference level to 0.00 dB in accordance with the operating instructions for the light power meter
+
+Which CB (Circuit Breaker) is known as a “tripped” circuit breaker : (E&A Repair)
+The CB  that opens because of maintenace procedure
+@@The CB  that opens because of an electrical overload
+The CB  that opens because of the related system is deactivated
+
+What is the requirement of the vacuum cleaner used to to remove combustible material around wiring ?: (E&A Repair)
+There is no specific requirement.
+The vacuum cleaner head must be made of plastic.
+@@The vacuum cleaner head should be made of plastic or non-conductive material.
+
+What is the purpose of Cycling Thermal Circuit Breakers?: (E&A Repair)
+@@Cycling of less frequently used circuit breakers can help to improve operational system reliability.
+Cycling of frequently used circuit breakers can help to prevent them from not opening when an electrical fault occurs.
+Cycling of less frequently used or frequently used circuit breakers can help to improve operational system reliability but depends on the airline operation.
+
+What is the most common cause of wire bundle and wire component degradation: (E&A Repair)
+Paint.
+@@Hydraulic fluid.
+Cleaning agents.
+Radome (internal) general visual inspection is belong to general visual inspection task of :
+Zone 200.
+@@Zone 100.
+Zone 800.
+
+When does the Phase II for Overweight/Hard landing inspect?
+For more detail visual inspection.
+If the pilot wrote in the report.
+@@If the Phase I inspection shows that there is damage.
+
+What does give the protection to the internal system (tubes, wires and equipment) from being directly hit by lightning?
+Current return network.
+@@Primary and secondary structure.
+Static dischargers.
+
+Inspection after ground handling equipment hits the airplane with high energy:
+@@Visual, NDI (if necessary) the external surfaces including the nearest support structure.
+Detail visual inspection the external surfaces.
+If no visible external damage, no further maintenance action.
+
+Lightning is most likely to hit in one of the zone 1 (lightning “zones”) areas. Zone 1 means:
+Forward fuselage Section 41, 43…, wing to body fairings.
+Flight control surfaces, LDG doors, exterior lights.
+@@Nose, wingtips, nacelles, empennage tips.
+
+What are the items inspected during cabin depressurization condition?
+The decompression panels, the passenger oxygen masks, the outflow valves …
+@@The decompression panels, the cabin pressure control system, the outflow valves …
+The decompression panels, the negative pressure relief valves, the outflow valves …
+
+What are these items inspected during brake seizure condition?
+The EBA piston insulators in contact with the pressure plate, BSCU, brake release pedals.
+The EBA piston insulators in contact with the pressure plate, % EBA force in maintenance page.
+@@The EBA piston insulators in contact with the pressure plate, parking brake system, BSCU.
+
+What are these items inspected during one burst or flat spotted tire condition?
+@@A locked wheel slide condition and trailing edge panels.
+The wire bundles, the hydraulic tubes and CRN.
+Do ground test for brake control system.
+
+What are these defects during carry out the bird or hail strike inspection at the radome?
+Delamination, core damage, nicks and gouges.
+Craks, delamination, break through and missing parts.
+@@Cracks, delamination, soft spots and core damage.
+
+What should you do before spoiler-flap interference inspection?
+Spoiler deactivation in down position.
+@@Spoiler deactivation in up position.
+Use alternate flap extension.
+Push TEST switch to SYSTEM position to do the test of refuel system:
+The refuel valves that are open will close then open again, two valves of a time.
+@@The refuel valves that are open will close then open again, one valve of a time.
+The refuel valves that are open will close then open again, all valves of a time.
+
+If the discrepancy (between fuel quantity indicators and fuel vehicle flow meter) check is unsatisfactory:
+@@Do Fuel Quantity Indicating System Channel Comparison Functional Test.
+Do the fuel quantity measuring stick check.
+Make sure that the airplane attitude is between the limits of -0.780 ±2.00pitch and 0.00 ±2.00 roll.
+
+When only battery power is available, you can refuel:
+Cannot perform refuel.
+Right main tank.
+@@Left main tank.
+
+What is the most accurate procedure to do a check of hydraulic reservoir fluid level?
+The fluid level checks at the hydraulic reservoir.
+@@The fluid level checks on the hydraulic maintenance page.
+The fluid level checks at the ground service base.
+
+If you fill a hydraulic reservoir after the replacement of a component or when there is no fluid in the system:
+Do a hydraulic reservoir fluid level check.
+@@Do a hydraulic system bleeding and a hydraulic reservoir fluid level check.
+Do a hydraulic reservoir drain - liquid and a hydraulic reservoir servicing.
+
+To do the hydraulic reservoirs servicing, make sure:
+All landing gear doors are closed, thrust reversers are in stow position, spoilers are down.
+A hydraulic system is depressurized, all landing gear doors are closed, thrust reversers are in stow position, spoilers are down.
+@@A hydraulic system is depressurized, all landing gear doors are open, thrust reversers are in stow position, spoilers are down.
+
+When does examine the engine oil quantity?
+@@Between 5 and 60 minutes after engine shutdown.
+Oil system pressure goes to Zero.
+An internal float valve is down.
+
+Dry-Motor is necessary when servicing the VFSGs:
+VFSG in the R1 and R2 position of right engine.
+@@VFSG in the L1 and L2 positionof left engine.
+VFSG’s of left and right engine.
+
+APU oil servicing with oil brand:
+Mobil Jet Oil II.
+BMS 3-42.
+@@BP Turbo Oil 2389.
+
+How many drain valvesare there in the portable water system?
+@@3.
+2.
+1.
+
+To set the necessary fill volume of portable water for the airplane:
+@@Push the UP or DOWN arrows on the CAP.
+Push the UP or DOWN arrows on the portable water system service panel.
+Push the number required on the CAP.
+
+How long will the UV DELAY lamp show on the mode select/quantity indicator panel?
+60 seconds
+30 seconds
+@@80 seconds.
+
+What is the correct action for crew oxygen cylinders replacement?
+CLOSE the shutoff valves of cylinders No. 1 then No. 2 during perform the cylinders removal.
+OPEN the shutoff valve of cylinder No. 1 then No.2 for the cylinder No. 1 pressure charge to cylinder No. 2 during perform the cylinders installed.
+@@OPEN or CLOSE the two crew oxygen cylinder shutoff valves at the same time during perform the cylinders replacement.
+
+How many water are used for waste tank flushing?
+10 liters.
+50 liters.
+@@38 – 189 liters.
+
+What are these steps for correct lubrication?
+Use correct grease for Teflon bearings and bushings.
+@@Until the used grease is visual removed and only new grease comes outs.
+Set pressure at least > 200 psi for totally grease comes in the parts.
+What does control the operation of the CACs?
+Hosted software in CCRs.
+CCS.
+@@PCU.
+
+How many positions are there of the CAC deflector door?
+2 (open and closed).
+1 (always open to prevent FOD).
+@@3 (closed, partially deployed and fully deployed).
+
+When isthe CAC deflector door in closed position (faired position)?
+@@In cruise.
+On the ground.
+Two engines are on.
+
+What does control the CAC speed?
+PCU.
+@@CMSC.
+CCR.
+
+On the ground during usual APU operations,
+Only the inboard left CAC operates.
+All CACs operate.
+@@Only the inboard CACs operate.
+
+During usual airborne conditions,
+Only the outboard CACs operate.
+@@All CACs operate.
+Only the inboard CACs operate.
+
+Which component does the secondary surge margin control for CAC?
+CAC variable diffuser actuator (VCA).
+@@CAC add heat valve (AHV).
+CMSC control the speed of CAC to prevent surge.
+
+Which component does the primary surge margin control for CAC?
+@@CAC variable diffuser actuator (VCA).
+CAC add heat valve (AHV).
+CMSC control the speed of CAC to prevent surge.
+
+How does the ram fan operate?
+Only on the ground to pull external air in through the heat exchangers.
+In the air or airspeed more than 60 knots.
+@@High speed on the ground and low speed in the air.
+
+The PCU causes the ram fan motor controller to operate the ram air fan when
+@@There is no CMSC power source to operate the ram air fan.
+Ground operations with ambient temperature more than 300F.
+PECS cooling fluid temperature less than 1550F.
+
+The pack control unit (PCU) controls the fan operation through
+CMSC.
+RFMC.
+@@CMSC or RFMC.
+
+The ram air fan check valve is open
+By the PCU.
+@@By the air pressure caused by airplane movement in the air.
+On the ground to let ram air flow through the heat exchangers.
+
+Pack outlet temperature is controlled by
+The ACM bypass valve (ABV), low limit valve (LLV) and economy cooling valve (ECV).
+The ACM bypass valve (ABV), low limit valve (LLV) and heat exchangers.
+@@The ACM bypass valve (ABV), low limit valve (LLV) and ram air inlet, outlet doors.
+
+The low limit valve (LLV) opens to control
+@@The temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (340F).
+Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+Bypass the ACM if the ACM fails.
+
+The economy cooling valve (ECV) opens at high altitude to
+The temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (340F).
+@@Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+Bypass the ACM if the ACM fails.
+
+The air cycle machine bypass valve (ABV) opens to
+Control the temperature of the pack air to the secondary (cooling) channel of the condenser above 10C (340F).
+Bypass the condenser and T1 turbine section, let air go directly to the T2 turbine.
+@@Bypass the ACM if the ACM fails.
+
+The lower recirculation air high flow shutoff valve (HFSOV) closes when
+@@A sudden decrease in cabin pressure.
+A sudden increase in cabin pressure.
+A sudden broken lower recirculation fan.
+
+When the pack in the heat exchanger only cooling mode:
+@@The air cycle machine (ACM) has a malfunction.
+The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+The pack control unit (PCU) causes the ECV to open during normal operation.
+
+When the pack in the condenser bypass mode:
+The air cycle machine (ACM) has a malfunction.
+@@The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+The pack control unit (PCU) causes the ECV to open during normal operation.
+
+When the pack economy cooling mode:
+The air cycle machine (ACM) has a malfunction.
+The condenser inlet temperature sensor fails or the economy cooling valve (ECV) cannot close.
+@@The pack control unit (PCU) causes the ECV to open during normal operation.
+
+In standby operating mode, when air flow automatically bypasses parts of the pack because of a defective condition:
+Advisory message “STDBY MODE L(R)” shows.
+@@Advisory message “PACK MODE L(R)” shows.
+Advisory message “STDBY COOLING MODE L(R)” shows.
+
+How to dispatch the airplane with a CAC inoperative
+The relative CBs pulled.
+Use special function in CMCF to lock off the CAC.
+@@Use MISC SYSTEM CTRLS (MSC) to lock off the affected CAC.
+
+Supply conditioned air to the airplane with a Ground air source:
+Make sure the fwd and aft outflow valves are open and at least one passengers entry door is open.
+Make sure that the lower recirculation fans to OFF and the cooling packs are off.
+@@Make sure that there is an exit for conditioned air in the airplane fuselage, lower recirculation fans and packs are off.
+
+The flight attendants can set the target temperature more than or less than the master temperature:
+± 70C.
+± 50C.
+@@± 30C.
+
+The trim air pressure regulator valve control the pressure of the trim air
+@@5psi more than the cabin pressure.
+2 psi more than the cabin pressure.
+7 psi more than the cabin pressure.
+
+When does the alternate ventilation system (AVS) operate?
+The forward equipment cooling is in override mode.
+@@There is a complete malfunction in the 2 air condition packs and they cannot give normal air supply.
+The forward cargo compartment fire extinguishing system operates.
+
+When does the flight deck humidification system operate?
+Any engine N2>50%.
+The HUMID switch on P5 is ON.
+@@During cruise and stop at the start of descent.
+Where is the captain/first officer seat ECU?
+Behind the seat.
+In the sidewall.
+@@Below the seat.
+
+During perform the captain and first officer seat installation,you must
+Push and hold to testthe rocker switches
+@@Carry out a calibration procedure.
+Adjust the fwd and aft stop on the seat track.
+
+Seat - to - seat wiring for IFE data and electrical power connect through
+@@Seat tracks covers.
+Passenger service unit (PSU).
+Wireless.
+
+If the overhead stowage bin does not open normally,
+Remove the stowage bin cap then unlock the emergency release latch.
+Perform the stowage bin latch adjusting.
+@@Use a tool to unlock the emergency release latch.
+
+How to remove the galley electrical power in an emergency
+A CABIN/UTILITY switch in the cockpit (P5).
+@@An emergency OFF switch at each galley panel.
+An emergency OFF function in the CAP.
+
+After the emergency descent device is used
+@@The device must be replaced.
+Carry out visual inspection then stow again.
+Reset the device reel for the next using.
+
+When does the decompression warning horn operate?
+Loss of cabin pressure.
+PASS OXYGEN switch (P5) is in the ON position
+@@Loss of cabin pressure or PASS OXYGEN switch (P5) is ON.
+
+During perform emergency evacuation system passenger compartment operational test:
+The horn in the flight compartment operates.
+The horn at each door of passenger compartment operates.
+@@The horns in the flight compartment and at each PED operate.
+
+Door – mounted escape slide pack inflation cylinder visual check:
+@@Make sure that the pressure gage needle is in the GO band (green).
+Make sure that the inflation cylinder is stowed correctly position.
+Make sure that the actuation lever on valve assembly do not block the inflation cylinder hole.
+
+Where is the portable emergency locator transmitter?
+In the emergency slide pack of door 1L and 4R.
+@@In the mounting bracket of door 1L and 4R.
+In the area above passenger compartment ceiling at approximately station 1732.
+The extinguishing systems use manual fire extinguishing mode:
+Lavatories, APU and cargo compartments.
+Engines, lavatories and APU.
+@@Engines, APU, cargo compartments.
+
+The extinguishing systems use automatic fire extinguishing mode:
+Engines, APU and cargo compartments.
+@@Lavatories, APU and cargo compartments.
+Engines, APU and lavatories.
+
+During usual operation, the engine fire detector sensing elements operate in an
+@@AND logic.
+OR logic.
+XOR logic.
+
+Who does monitor the engine fire detection channels for fires and overheat conditions?
+CCS.
+MEDC.
+@@PFPS function.
+
+The engine fire detectors  have an overheat threshold  and a fire limit
+2040C and 2440C.
+@@Depend the zone of engine fire detector assembly is installed.
+Depend the set level in MEDC.
+
+The APU fire detection system detects
+An overheat condition.
+@@A fire condition.
+Either overheat or fire condition.
+
+APU automatic fire extinguishing occurs in
+Attended mode.
+Unattended mode.
+@@Either attended mode or unattended mode.
+
+The cargo fire detection system uses
+@@Photo-electric smoke detector.
+A nickel alloy sheath with two electrical conductors in a thermistor core material.
+Resistive temperature device.
+
+For 240 minutes ETOPS the standard configuration for cargo fire extinguishing system is
+5 bottles.
+@@6 bottles.
+7 bottles.
+
+The cargo fire extinguishing flow valves
+Regulate the extinguishing agent to the cargo compartments.
+Measure the extinguishing agent to the cargo compartments.
+@@Send the extinguishing agent to either the fwd cargo or aft/bulk cargo compartment.
+
+On ground, the cargo compartment fire extinguishing system only operates in the manual mode and
+The HRD bottles discharge immediately, the LRD bottles discharge after a 15-minute delay.
+The LRD bottles discharge immediately, the HRD bottles discharge after a 15-minute delay.
+@@The HRD and only one of the LRD bottles discharge immediately with no 15-minute delay.
+
+How many are there the fire extinguisher bottles for the wheel well overheat?
+1 bottles for each wheel well.
+1 bottles for each main wheel well.
+@@No fire extinguishing system for the wheel well.
+The flight control software is in:
+CCS.
+@@FCE.
+ACE.
+
+In the PFCF direct mode:
+@@Flight deck inputs supply control commands through the ACEs.
+The FCMs supply control commands to the flight surfaces.
+Flight deck inputs supply control commands through the back drive actuators.
+
+The primary flight control function (PFCF) has these components:
+FCE L, FCE C and FCE R.
+@@FCE L, FCE C1, FCE C2 and FCE R.
+FCE L, FCE CL, FCE CR and FCE R.
+
+The primary flight control function (PFCF) has these components:
+2 FCMs (one in the FCE L and one in the FCE R).
+4 FCMs (one in each FCEs).
+@@3 FCMs (one in the FCE L, one in the FCE C1 and one in the FCE R).
+
+How many are there direct mode rate sensors (DMRS)?
+@@4.
+3.
+2.
+
+What does the primary source power to the PCM in FCE L, R and C1?
+Captain flight instrument bus.
+28 V DC Bus.
+@@VFSG PMG.
+
+Which PCMs have an own FCE battery?
+PCM C1 and PCM C2
+@@PCM L and PCM R.
+PCM L, PCM C1 and PCM R.
+
+What does the incorrect thing with the ACEs?
+@@There is one type of ACE.
+The ACEs change the analog signals to digital and send them through FCM.
+The ACEs receive all flight deck control inputs.
+
+The Primary Flight Control Function (PFCF), Auto Flight Function (AFF) and High Lift Function (HLF) are in
+PCM.
+@@FCM.
+ACE.
+
+Where are the DMRSs?
+In the Fwd EE Bay.
+In the bulk cargo bay, aft bulkhead.
+@@In the fwd cargo bay, aft bulkhead.
+
+The surface lock function (2 flight control lock switches on P5) only operate
+In the air.
+@@For maintenance use only.
+Ground speed is more than 40 knots.
+
+Even the flight control surface switches are ON, LOCK shows:
+@@The switches do not remove hydraulic from flight control PCUs.
+The primary surfaces can not move.
+The high lift surfaces can not move.
+
+Even the flight control surface switches are ON, LOCK shows:
+The switches remove hydraulic from flight control PCUs.
+@@The primary surfaces can move if the PRIMARY FLIGHT COMPUTERS switch is in the DISC position.
+The high lift surfaces can not move.
+
+Even the flight control surface switches are ON, LOCK shows:
+The switches remove hydraulic from flight control PCUs.
+The primary surfaces can not move.
+@@The high lift surfaces can move if the flaps are in the ALTN mode.
+
+If any required sensor data are invalid, the PFCF automatically transits from Normal to Secondary mode
+If data are valid again, the PFCF automatically back to Normal mode
+@@The Mode does not automatically return to Normal mode.
+If data are still invalid, the PFCF automatically transits in Direct mode.
+
+In Secondary mode, these protection functions are not available:
+@@Yaw damping.
+Bank angle.
+Overspeed.
+
+What does control the hydraulic solenoid valve on the PCU?
+ACE.
+FCM.
+@@REU/SREU.
+
+These spoilers use EMCU to move the EMAs:
+6 and 9.
+@@4, 5, 10 and 11.
+3 and 12.
+
+There are 4 RVDTs in the control wheel position transducer:
+3 RVDTs for FCEs and 1 RVDT for back up.
+4 RVDTs for 4 FCEs.
+@@3 RVDTs for FCEs and 1 RVDTs for spoiler EMCU.
+
+The wheel force transducer send a signal to FCEs for
+@@Bank angle protection.
+Stall protection.
+Override the control wheel.
+
+The control wheel lateral force limiter permits
+Limit the control wheel angle movement.
+Move the control wheel when autopilot engages.
+@@Full movement of non-jammed wheel.
+
+The aileron actuator has 3 modes of operation:
+@@Active, damped, blocked/damped.
+Active, bypass, blocked/bypass.
+Normal, bypass, bypass/damped.
+
+The flaperon actuator has 3 modes of operation:
+@@Active, bypass, blocked/bypass.
+Normal, bypass, bypass/damped.
+Active, damped, blocked/damped.
+
+If you install only a left or right flaperon/aileron PCU
+Do the 27 flight control – flaperon/aileron actuator LRU test.
+Do the left or right flaperon/aileron actuator major rig task.
+@@Do the left or right flaperon/aileron actuator minor rig task.
+
+When you operate the flaps on ground (retract or extend),
+You must have all 03 external electric powers.
+@@You must raise the spoilers at least 5 degrees.
+You must operate all 03 hydraulic systems at a time.
+
+When you set the parking brake,
+@@The spoilers move to a no-gap position above the flap.
+The spoilers move to a gap position above the flap.
+The spoilers move to a partial position above the flap.
+
+These spoiler EMCUs get an analog signal directly from the RVDTs of the captain and F/O control wheel
+6 and 9.
+@@4 and 11.
+5 and 10.
+
+When does we use lock out tool to dispatch the spoiler EMA inoperative?
+If the hydraulic spoiler dispatch tool is not available.
+If the spoiler EMA doesn’t have a shearout.
+@@If the spoiler EMA has a shearout.
+To transfer fuel from one tank to a different tank, we use: (ME Repair, E&A Repair)
+The Refuel Control Panel (RCP) only.
+The Fuel Control Panel (FCP) only.
+@@Both the RCP and the FCP.
+
+To perform Fuel Quantity Indicating System Channel Comparison - Functional Test: (ME Repair, E&A Repair)
+Refuel valves are open, and the airplane AIR/GROUND status is GND.
+@@Refuel valves are closed, and the airplane AIR/GROUND status is GND.
+Refuel valves are closed, and the airplane AIR/GROUND status is AIR.
+
+Refuel operation with electrical power from the airplane battery: (ME Repair, E&A Repair)
+@@Only the left main tank can be refueled.
+Only the right main tank can be refueled.
+Only the center tank can be refueled.
+
+Pressure refueling, push and hold the TEST switch to the PANEL position, this does the test of: (ME Repair, E&A Repair)
+@@Fuel quantity indicators, load select displays, the overfill indication light, and the valve position lights.
+The refuel valve open and closed.
+A and B.
+
+During refueling operation, red OVERFILL indication light on the RCP comes on: (ME Repair, E&A Repair)
+The refuel operation will stop automatically.
+Manual set the ALL VALVES switch to the CLOSE position then removes fuel from the overfilled fuel tank.
+@@A and B.
+
+To transfer fuel from one tank to a different tank: (ME Repair, E&A Repair)
+The defuel/isolation valves must be open, GND TEST switch on the P5 panel is in the NORM,  supplied fuel pump on, received fuel tank refuel valve open.
+@@The defuel/isolation valves must be open, GND TEST switch on the P5 panel is in the ENABLE, supplied fuel pump on, received fuel tank refuel valve open.
+The defuel/isolation valves must be open, cross feed valve open, supplied fuel pump on, received fuel tank refuel valve open.
+
+When perform suction defueling of center fuel tank: (ME Repair, E&A Repair)
+DEFUEL VALVES switch is in the OPEN position, CENTER MANUAL FUELING VALVES switch to the OPEN position.
+@@DEFUEL VALVES switch is in the CLOSE position, CENTER MANUAL FUELING VALVES switch to the OPEN position.
+DEFUEL VALVES switch is in the OPEN position, CENTER MANUAL FUELING VALVES switch to the CLOSE position.
+
+Deactivate the actuator for a fuel system valve to the open or closed position as MEL required: (ME Repair, E&A Repair)
+@@Make sure the position of the driveshaft aligns with indication on the adapter.
+Make sure the position of the driveshaft in the actuator.
+Using CBIC functions to set the valve in open or closed position.
+
+The pressure refuel system is controlled by: (ME Repair, E&A Repair)
+@@Fuel quantity management system (FQMS) function software.
+Refuel control panel (RCP).
+FQMS functions software and the RCP.
+
+Power to open and close the refuel valves is supplied by: (ME Repair, E&A Repair)
+28 v dc CAPT INST BUS
+28 v dc LEFT MAIN BUS.
+@@A or B is correct.
+
+. The fuel shutoff module (FSM) makes sure that the fuel system always has power: (ME Repair, E&A Repair)
+To open Engine fuel shutoff valves and APU fuel shutoff valve.
+@@To close Engine fuel shutoff valves and APU fuel shutoff valve.
+To open and close Engine fuel shutoff valves and APU fuel shutoff valve.
+
+Fuel Pumps PRESS light switch come on and stay on: (ME Repair, E&A Repair)
+The pump is faulty.
+There is power is not supplied to the pump.
+@@There is low pressure at the pump outlet.
+
+The APU fuel feed system supplies fuel to the APU: (ME Repair, E&A Repair)
+From the main tanks only.
+@@From the main tanks or the center tank.
+From the center tank only.
+
+For APU fuel feed function, when the LEFT AFT boost pump comes on? (ME Repair, E&A Repair)
+AC power is available and APU gets set to ON or START.
+AC power is available and APU is in the cool down phase of the shutdown cycle.
+@@A or B is correct.
+
+The APU dc pump feeds the APU when: (ME Repair, E&A Repair)
+There is no ac pump pressure from the left aft boost pump.
+There is no ac pump pressure from left forward boost pump.
+@@A or B is correct.
+
+Electrical power for operation of the override/jettison (O/J) pumps is from? (ME Repair, E&A Repair)
+The electrical load control unit (ELCU).
+@@Override/jettison motor controllers (OJMC).
+ELCU and OJMC.
+
+The amber VALVE light of cross-feed valve switch come on indicates? (ME Repair, E&A Repair)
+Cross-feed valve open.
+Cross-feed valve closed.
+@@Position of the valve disagrees with the selected position.
+
+To correct a fuel imbalance in the main tank? (ME Repair, E&A Repair)
+Uses the fuel cross-feed system.
+Uses fuel balance system.
+@@A or B.
+
+Fuel jettison nozzle valves are controlled? (ME Repair, E&A Repair)
+@@Directly by the nozzle switches on the fuel control panel (FCP).
+By Fuel quantity management system (FQMS) function.
+Only on the ground.
+
+The FQMS function does these functions: (ME Repair, E&A Repair)
+Fuel quantity, fuel temperature, fuel displays.
+Fuel level, volumetric shutoff, overfills warning.
+@@A and B.
+
+The ground test for the left aft boost pump is required: (ME Repair, E&A Repair)
+Electric power from APU.
+@@Electric power from external power.
+Electric power from battery.
+The hydraulic system supplies pressurized hydraulic fluid to these airplane systems: (ME Repair, E&A Repair)
+Primary flight controls, Landing gear normal brake, Nose wheel steering, High lift system, Thrust reversers.
+@@Primary flight controls, Landing gear actuation, Nose wheel steering, High lift system, Thrust reversers.
+Primary flight controls, Landing gear alternate brake, Nose wheel steering, High lift system, Thrust reversers.
+
+The left and right hydraulic systems supply hydraulic power to these related components: (ME Repair, E&A Repair)
+Primary flight control (PFC) actuators, High lift control, Thrust reverser control valve and actuators.
+Primary flight control (PFC) actuators, Landing gear actuators, Thrust reverser control valve and actuators.
+@@Primary flight control (PFC) actuators, Thrust reverser control valve and actuators.
+
+The center hydraulic system has 2 Electric motor pumps (EMP), C1 and C2: (ME Repair, E&A Repair)
+Both EMPs are primary pump.
+Both EMPs are demand pump.
+@@One EMP is the primary pump and the other is the demand pump dependent on the day of the month.
+
+The purpose of reservoir suction shutoff valve is? (ME Repair, E&A Repair)
+Suction drains hydraulic fluid in reservoir.
+@@This makes sure the reservoir does not lose all fluid if there is a leak in the system.
+This makes sure the engine driven pump (EDP) has enough fluid to operate the flight controls.
+
+During maintenance check of the hydraulic accumulator pre-charge: (ME Repair, E&A Repair)
+The bootstrap reservoir circuit must be pressurized.
+@@The bootstrap reservoir circuit must be depressurized.
+Either A or B.
+
+When the engine fire switch is used, it: (ME Repair, E&A Repair)
+Closes the supply shutoff valve.
+Energizes the EDP depressurization solenoid.
+@@A and B.
+
+The engine-driven pumps (EDP) supply primary hydraulic pressure for the left and right hydraulic systems and located: (ME Repair, E&A Repair)
+In the related engine aft strut fairings.
+@@On the forward face of the onside engine accessory gearbox.
+In the left aft wing-to-body fairing.
+
+There are 2 priority valves, Main landing gear and High lift. If pressure decreases to a pre-set level: (ME Repair, E&A Repair)
+@@The valve closes to stop hydraulic fluid flow to the main landing gear or high lift devices.
+The valve opens to supply hydraulic fluid flow to the main landing gear or high lift device.
+The valve removes hydraulic power to the primary flight controls or nose wheel steering system.
+
+The reservoir fill remote quantity indicator gage to show the system fluid quantity when: (ME Repair, E&A Repair)
+The CCR cabinets have power.
+Selector valve handle is selected.
+@@A and B.
+
+Hydraulic fluid on the VNA B787 hydraulic system is: (ME Repair, E&A Repair)
+@@BMS 3-11, Type V.
+Skydrol, LD-4.
+Mobile Jet oil II.
+
+. Location of hydraulic servicing controls and connections: (ME Repair, E&A Repair)
+In the nose landing gear wheel well.
+@@In the right main landing gear wheel well on the aft bulkhead.
+In the left main landing gear wheel well on the aft bulkhead.
+
+The most accurate method of the hydraulic fluid level check is: (ME Repair, E&A Repair)
+At the ground service bay indicator.
+At the hydraulic reservoirs.
+@@On the hydraulic maintenance page.
+
+Electric motor pumps (EMP) get power (ME Repair, E&A Repair)
+From hot battery bus.
+From Electric Load Control Unit (ELCU).
+@@From common motor start controllers (CMCS).
+
+There is a copy of the HYDIF software in 3 general processor modules: (ME Repair, E&A Repair)
+@@2 in the left CCR cabinet, 1 in the right CCR cabinet.
+1 in the left CCR cabinet, 2 in the right CCR cabinet.
+3 in the left CCR cabinet.
+
+If the electrical power source is External Power (EP), to operate the Electric Motor Pump (EMP): (ME Repair, E&A Repair)
+Make sure that an IRU (Inertial Reference Unit) is off.
+@@Make sure that an IRU is on.
+Make sure that GND test switch in ENABLE position.
+
+When 2 External Power (FWD L&R) available: (ME Repair, E&A Repair)
+C1 & L or C2 & R EMP can operates.
+@@C1 & R or C2 & L EMP can operates.
+All EMP can be operates.
+
+If a system pressure signal is not valid (sensor out-of-range): (ME Repair, E&A Repair)
+The lowest valid pump pressure for the related system shows.
+@@The highest valid pump pressure for the related system shows.
+The average valid pump pressure for the related system shows.
+
+On ground maintenance, to prepare retraction of the RAT (Ram Air Turbine): (ME Repair, E&A Repair)
+Set the GND Test switch to the NORM position.
+@@Set the GND Test switch to the ENABLE position.
+Center hydraulic system must be depressurized.
+
+The amber RAT unlocked (UNLKD) light is on indicates: (ME Repair, E&A Repair)
+RAT is deployed.
+@@RAT is not in the fully up and locked position.
+RAT is stowed.
+
+Determines a clogged filter condition of case drain filter module: (ME Repair, E&A Repair)
+Show on hydraulic maintenance page.
+Pop-out indicators on the filters.
+@@EICAS shows a related status message.
+The primary ice detection system (PIDS) is fully automated and: (ME Repair, E&A Repair)
+Operates on the ground.
+@@Operates in flight.
+Operates on ground or in flight.
+
+Engine anti-ice (EAI) system prevents ice: (ME Repair, E&A Repair)
+@@Uses engine compressor bleed air to heat the inside of the inlet cowl lip.
+Uses engine turbine hot air to heat the inside of the inlet cowl lip.
+Uses electro-thermal heater to heat the inside of the inlet cowl lip.
+
+Which control the engine anti-ice (EAI) system: (ME Repair, E&A Repair)
+@@The common core system (CCS) through main engine data concentrator (MEDC).
+The EAI controller.
+The EEC.
+
+The wing ice protection system (WIPS) operates: (ME Repair, E&A Repair)
+On ground in icing condition.
+@@In flight only, except for maintenance ground tests.
+In flight only.
+
+Which slats are heated to prevent icing? (ME Repair, E&A Repair)
+@@2, 3, 4, 5 and 8, 9, 10, 11.
+Inboard leading edge slats.
+All leading edge slats.
+
+Modes of the wing ice protection system (WIPS) operation are(is): (ME Repair, E&A Repair)
+1 mode: anti-ice mode.
+2 modes: anti-ice and de-icing modes.
+@@3 modes: anti-ice, de-icing and limited anti-ice modes.
+
+If one heater zone of slat #2 fails: (ME Repair, E&A Repair)
+The EICAS caution message shows.
+@@The zone in the same position on the slat # 11 is shut off to keep symmetry.
+The zone in the opposite position on the slat # 2 is shut off to keep symmetry.
+
+The air data sensors ice protection system uses electrical heaters are: (ME Repair, E&A Repair)
+@@Pitot probes, Angle of attack (AOA) sensors, P20/T20 probe, Total air temperature (TAT) probe.
+Pitot probes, AOA sensors, static pressure sense ports, TAT probe.
+Pitot probes, AOA sensors, TAT probe.
+
+The cabin air compressor (CAC) inlet ice protection system (CIPS) operates: (ME Repair, E&A Repair)
+On the ground, EAI switch is set to AUTO and PIDS shows an icing condition.
+@@In the air, EAI switch is set to AUTO and PIDS shows an icing condition.
+In the air when the foreign object damage (FOD) door is deployed.
+
+The window heat control system (WHCS) operates in backup mode: (ME Repair, E&A Repair)
+@@Supply only forward window anti-fog.
+Supply only forward window anti-ice.
+Supply forward window anti-ice and anti-fog.
+How do you open nose landing gear door for ground maintenance (ME Repair, E&A Repair)
+Use gear door control switch on P40 panel.
+@@Use gear door control switch on P56 panel.
+Use gear door control switch on P57 panel.
+
+Red light in landing gear compartment indicated that (ME Repair, E&A Repair)
+Landing gear door is fully opened.
+Landing gear door is fully closed.
+@@It is unsafe condition.
+
+How do you close main landing gear doors with only one 90 KVA EP? (ME Repair, E&A Repair)
+Cannot close main landing gear doors.
+Close 2 main landing gear doors at the same time.
+@@Close each main landing gear doors at a time to prevent overload.
+
+How many proximity sensing data concentrators are there for the landing gear system? (E&A Repair)
+2.
+@@4.
+6.
+
+What components give Air/Ground data? (ME Repair, E&A Repair)
+@@Truck tilt sensors and strut compressed sensors.
+Truck tow sensors and strut compressed sensors.
+WOW load sensors.
+
+What kind of Volt to control all landing gear valves? (E&A Repair)
+12V DC.
+@@28V DC.
+40V DC.
+
+What are(is) control landing gear control system sequencing? (ME Repair, E&A Repair)
+@@The landing gear actuation and nose wheel steering (LGA/NWS) control function in the common core system (CCS).
+Control proximity sensors.
+Landing gear control lever module.
+
+Which brake system components control brake system operation? (ME Repair, E&A Repair)
+Electric brake actuator controllers (EBAC).
+@@Brake system control unit (BSCU).
+Electric brake power supply units (EBPSU).
+
+Which components calculate antiskid command? (ME Repair, E&A Repair)
+@@Main landing gear axle remote data concentrators.
+Nose landing gear axle remote data concentrators.
+Brake System Control Unit (BSCU).
+
+Which inputs does the nose landing gear actuation/nose wheel steering (LGA/NWS) software function use to calculate nose wheel steering position commands? (ME Repair, E&A Repair)
+@@Captain & F/O Tiller position and Rudder pedal position.
+NWS position from NWS position transducer module.
+Tow lever position.
+
+What happen to nose wheels when you turn Captain tiller 20 degrees left and F/O tiller 20 degrees right at the same time (ME Repair, E&A Repair)
+Move to left.
+Move to right.
+@@Never move.
+
+. Push the Rudder pedal disconnect switch on nose wheel steering (NWS) tiller module (ME Repair, E&A Repair)
+@@Permits a test of rudder movement without nose wheel movement.
+To disconnect mechanical links between rudder pedals and tillers.
+To disconnect tillers position input.
+
+What is the purpose of Tail strike system? (ME Repair, E&A Repair)
+Protect airplane tail section if tail strike occurs.
+Help trouble shooting tail strike problem.
+@@Supply tail strike indication to flight deck.
+
+How many sensors do tail strike system have (ME Repair, E&A Repair)
+1 sensor.
+2 sensors.
+@@No sensor because it is open/short circuit.
+
+On EICAS, at landing gear position display area there is only one box with DOWN inside. It means (ME Repair, E&A Repair)
+One main landing gear is extended and locked.
+Only nose landing gear is extended and locked.
+@@All landing gears are extended and locked.
+
+Which page is used to check if gear doors are closed? (ME Repair, E&A Repair)
+Door synoptic page.
+@@Gear synoptic page.
+Status page.
+
+Where can you check brakes for wear? (ME Repair, E&A Repair)
+Gear synoptic page.
+@@Landing Gear Brakes Maintenance Page and Brake wear indicator pins.
+Check Brake wear indicator pins only.
+
+What holds nose landing gear in the UP position after retraction? (ME Repair, E&A Repair)
+Nose gear doors.
+@@Over-center mechanism.
+Uplock hook.
+
+What holds nose landing gear forward doors in the closed position? (ME Repair, E&A Repair)
+@@Internal lock inside the NLG door actuator.
+Over-center mechanism.
+Uplock hook.
+
+When parking brake is set, Initially the EBACs set hot brakes at (ME Repair, E&A Repair)
+@@85% of maximum force.
+45% of maximum force.
+38% of maximum force.
+
+When open landing gear doors for ground maintenance, power for release uplock hooks from? (ME Repair, E&A Repair)
+@@3000 PSI from Alternate Extend Power Pack .
+5000 PSI from Alternate Extend Power Pack.
+5000 PSI from Center Hydraulic System.
+
+Which brakes operate when you push the captain's right pedal only? (ME Repair, E&A Repair)
+All brakes operate.
+Only brakes on left main landing gear operate.
+@@Only brakes on right main landing gear operate.
+
+. How do you know if the brake is hot while looking at the Gear Synoptic page? (ME Repair, E&A Repair)
+Number and brake symbol change to solid white.
+Brake Temp message appears next to brake symbol.
+@@Number and Brake symbol change to amber.
+
+To de-active brake, what must use? (ME Repair, E&A Repair)
+@@Special Functions in CMCF.
+Ground Tests in CMCF.
+Maintenance Enable/Disable in CMCF.
+
+If a tire has been rolled flat, what should you do? (ME Repair, E&A Repair)
+Re-inflate wheel to normal pressure range and monitor for 24 hours.
+@@Replace the flat applicable wheel and tire assembly installed on the opposite side of that axle.
+Replace applicable wheel only.
+
+Which brake system components supply control power to electric brake actuators (EBA)? (ME Repair, E&A Repair)
+@@Electric Brake Actuator Controller (EBAC).
+Electric Brake Power Supply Unit (EBPSU).
+Brake System Control Units (BSCU).
+
+What source of hydraulic fluid for Alternate extension power pack? (ME Repair, E&A Repair)
+Left hydraulic system.
+@@Over side tube on center hydraulic system.
+Right hydraulic system.
+
+To disconnect the upper and lower torsion links on the NLG (ME Repair, E&A Repair)
+Use special tool from Boeing or approved by Boeing.
+@@Pull the handles on the quick-disconnects at the joint of the upper torque link and the lower torque link.
+Remove the safety bolt first and then remove the pin to disconnect upper/lower link.
+
+During installation of the wheel and tire assembly, (ME Repair, E&A Repair)
+Do not turn the wheel while tighten the axle nut.
+If the holes for safety bolts do not align, loosen the nut a bit to align the holes.
+@@If the holes for the bolts do not align, continue to tighten the axle nut up to 6 degrees more, to align the holes.
+
+Which statement about the autobrake function after you deactivate a brake is NOT correct? (ME Repair, E&A Repair)
+The autobrake function will continue to operate normally if the deactivation was done with the related CMCF special function.
+@@The autobrake function will continue to operate normally if the deactivation was done with manual deactivation procedure for the brake.
+The autobrake function will not operate if the deactivation was done with manual deactivation procedure for the brake.
+The Crew oxygen pressure indication on EICAS is: (ME Repair, E&A Repair)
+Highest pressure of the transducers on the 2 cylinders.
+Lowest pressure of the transducers on the 2 cylinders.
+@@Average pressure of the transducers on the 2 cylinders.
+
+The Crew Oxygen Minimum Dispatch Pressure data is resided in: (ME Repair, E&A Repair)
+AMM ATA 12.
+AMM ATA 35.
+@@Flight Crew Operations Manual (FCOM).
+
+The crew oxygen cylinders are made of: (ME Repair, E&A Repair)
+Stainless steel.
+Titanium.
+@@Graphite composite.
+
+Crew oxygen cylinder is located: (ME Repair, E&A Repair)
+@@At right side of forward electronic equipment center.
+In aft electronic equipment center.
+In flight deck.
+
+How many crew oxygen masks are installed on VNA B787? (ME Repair, E&A Repair)
+@@4.
+5.
+6.
+
+When the green overboard discharge indicator disc is gone, it shows: (ME Repair, E&A Repair)
+Leaks in the tubing.
+@@Over pressure conditions.
+A normal oxygen cylinder condition.
+
+The passenger oxygen system uses gaseous oxygen: (ME Repair, E&A Repair)
+From chemical oxygen generator.
+From crew oxygen cylinder.
+@@From single-use pressurized oxygen cylinders.
+
+What is purpose of a small hole in the high pressure manifold? (ME Repair, E&A Repair)
+@@Visual indication of cylinder leakage.
+Visual indication of over pressure discharge.
+Visual indication of normal condition.
+
+Passenger oxygen system is activated: (ME Repair, E&A Repair)
+Automatic, when cabin altitude goes above a set value.
+Manual activation from switch on P5.
+@@Both A and B are correct.
+
+When the BIT is complete, LEDs under oxygen PSU door is ON, it shows: (ME Repair, E&A Repair)
+A board failure.
+A cable test failure.
+@@The BIT successfully passed the test.
+The ultraviolet (UV) water treatment module gets power from: (ME Repair, E&A Repair)
+@@L 115v ac main bus through remote power distribution unit.
+R 115v ac main bus through remote power distribution unit.
+Hot battery bus.
+
+The fill/drain valve is a motor-operated valve (MOV): (ME Repair, E&A Repair)
+It opens to fill the tanks during servicing; opens during drain; closed during flush operation.
+It opens to fill the tanks during servicing; closed during drain; open during flush operation.
+@@It opens to fill, drain, and flush operation.
+
+During fill operations, you select FILL on the service panel: (ME Repair, E&A Repair)
+The fill/drain valve opens immediately.
+The fill/drain valve closed immediately.
+@@The fill/drain valve opens after delayed time for the ultraviolet (UV) treatment module to warm up.
+
+Two potable water tanks are: (ME Repair, E&A Repair)
+Pressurized carbon fiber water tanks.
+@@Unpressurized carbon fiber water tanks.
+Not the same.
+
+The water quantity data is displayed at: (ME Repair, E&A Repair)
+The cabin attendant panel (CAP) and maintenance page.
+The potable water service panel and maintenance page.
+@@The cabin attendant panel (CAP) and the potable water service panel.
+
+There are 2 water pumps supply pressure to the water in the potable water recirculation system: (ME Repair, E&A Repair)
+@@The pumps alternate operation each time the system is serviced.
+Only one pump operates during system drain operations.
+Both pumps operate during system flush operations.
+
+In Maintenance Fill mode: (ME Repair, E&A Repair)
+@@The system does not automatically switch to FLIGHT mode.
+The amber UV DELAY indication comes on for 80 seconds.
+The vent-overflow valve overflow port closed.
+
+Waste material is moved from the lavatories and galleys to waste tanks: (ME Repair, E&A Repair)
+By differential pressure of on-side vacuum blower at low altitudes (up to 6,000 feet).
+By differential pressure between the cabin and ambient air in flight (above 6,000 feet).
+@@Both A and B are correct.
+
+During ground maintenance, to open flush valve: (ME Repair, E&A Repair)
+Push and hold flush switch.
+Push the maintenance switch 2 times quickly.
+@@Push and release the maintenance switch.
+
+Which sensor senses for waste tank full status? (ME Repair, E&A Repair)
+Waste tank point level sensor.
+Waste tank continuous level sensor.
+@@Point level sensor is primary, continuous level sensor is backup if the point level sensor fails.
+Which of the following statements is TRUE:? (ME Repair)
+The NGS operates automatically with PACK control switch in ON position.
+@@The NGS operates automatically with no flight deck control interface.
+The NGS operates manually on ground and automatically during flight.
+
+Which air source does NGS use to make Nitrogen Enriched Air (NEA)? (ME Repair)
+@@Cabin air from an inlet duct under the floor of the forward cargo compartment.
+Conditioned air outlet of Environmental Control System PACK.
+Compressed air directly from Cabin Air Compressor (CAC).
+
+NGS pack is located:? (ME Repair)
+In RH MLG wheel well.
+In Aft cargo compartment.
+@@Below the right forward wing-to-body fairing.
+
+Regarding power supply to NGS:? (ME Repair)
+The NGS has the highest priority if power is necessary for other systems.
+@@The NGS has the lowest priority if power is necessary for other systems.
+The Motor Driven Compressor can get 235v ac from only one common motor start controllers (CMSC).
+
+Cooling air used for the NGS heat exchanger is taken from:? (ME Repair)
+The environmental control system (ECS) ram air inlet only.
+@@The environmental control system (ECS) ram air inlet or the Ground Cooling Valve.
+The environmental control system (ECS) ram air inlet or the Cabin Air Compressor.
+
+Which of the following is the correct operation of the Ground Cooling Valve? (ME Repair)
+@@The valve is set open when the NGS is in operation and the airplane is on the ground.
+The valve is set open when the airplane is in the air.
+The valve is set open when the NGS is in operation and the airplane is in the air.
+
+The purpose of NGS drain valve is:? (ME Repair)
+@@To give an inspection access for fuel in the distribution system manifold.
+To give an inspection access for nitrogen in the distribution system manifold
+To give an inspection access for oxygen in the distribution system manifold
+
+Which of the following statements is TRUE:? (ME Repair)
+There are 02 isolation valve body and driveshaft in NGS, their access is through fuel tank access panels.
+@@There is an isolation valve body and driveshaft in each fuel tank, their access is through fuel tank access panels.
+There is an isolation valve body and driveshaft in each fuel tank, their access is on the front spar.
+
+Nitrogen Enriched Air (NEA) is circulated in the center tank by:? (ME Repair)
+@@The center tank jet pump ejector - the vent action draws the mixture of NEA and vent air across the center tank to the left center tank vent
+The center tank jet pump ejector - the vent action circulate NEA only to the left center tank vent
+@@The center tank jet pump ejector – the vent action blows NEA thru the piccolo tubes the center tank
+
+What are the components for the structural thermal protection system in and around the nitrogen generation system (NGS) pack? (ME Repair)
+Pack bay temperature sensor, Overheat detection temperature sensors.
+Pack bay temperature sensor, Overheat detection temperature sensors.
+@@Pack bay temperature sensor, overheat detection temperature sensors, insulation blankets.
+What does 787 APU supply? (ME Repair)
+Electrical and bleed air.
+@@Electrical power only.
+Bleed air only.
+
+How many Starter Generators (ASG) are there on the APU? (ME Repair)
+@@02.
+01.
+03.
+
+Which of the following statements is TRUE:? (ME Repair)
+The tail cone has a forward section made of Titanium and an aft section made of Carbon Fiber Reinforced Plastic.
+The tail cone has a forward section made of Aluminum and an aft section made of Titanium.
+@@The tail cone has a forward section made of Carbon Fiber Reinforced Plastic and an aft section made of Titanium.
+
+Which of the following statements is TRUE:? (ME Repair)
+APU oil supply pump is an LRU.
+APU Scavenge pump can be replaced without removal of the APU gearbox.
+@@APU supply and Scavenge pumps are internal to the gearbox and are not LRUs.
+
+The purpose of de-prime valve is to:? (ME Repair)
+@@Open during start and shutdown in order to decrease the load on the APU starter generator (ASG).
+Prime the APU oil system during hot day start.
+Increase the oil viscosity in order to help improvement of start cycle.
+
+The APU oil temp sensor? (ME Repair)
+Senses the temperature of the oil before it is cooled by the oil cooler.
+Senses the temperature of the oil in the gearbox.
+@@Senses the temperature of the oil after it is cooled by the oil cooler.
+
+Can APU start with no fuel pump operation? (ME Repair)
+No, the pump must operate for the APU to start.
+@@Yes, up to 14,000ft.
+Yes, the APU can start by suction feed at any altitude.
+
+APU fuel module gets power from? (ME Repair)
+@@Hot battery bus during APU start and PMG after APU start.
+Hot battery bus during APU start and aircraft power network after APU start.
+PMG during APU start and aircraft power network after APU start.
+
+APU fuel module is? (ME Repair)
+Driven directly by gearbox.
+@@Motor-driven.
+Driven by Oil cluster.
+
+APUC operation data is stored in? (ME Repair)
+@@The data memory module (DMM) which is a part of the inlet sensor module.
+The data memory module (DMM) which is located on APU compressor section.
+The data memory module (DMM) which is located next to APUC.
+The Passenger Entry Doors (PED) types? (ME Repair)
+@@Have the same dimensions, the hinge cover and escape slide bustle are different for type A and type C doors
+Have different dimensions for type A and C doors.
+Have the same dimensions with same hinge covers and escape slide bustles.
+
+Which of the following statements is TRUE:? (ME Repair)
+EPAS contains a battery which is used for squib discharge power.
+EPAS contains a capacitor - stores squib discharge power for 24 hours after loss of airplane power.
+@@EPAS contains a capacitor - stores squib discharge power for up to 1 hour after loss of airplane power.
+
+In the center of master attendant switch panel, the all doors ARM and DISARM indication is? (ME Repair)
+WHITE – to show all passenger door mode selectors are in the transit mode.
+@@BLUE – to show all passenger door mode selectors are in the armed mode.
+WHITE – to show all passenger door mode selectors are in the armed mode.
+
+Which of the following cargo doors are hydraulically operated? (ME Repair)
+@@Forward and Aft cargo doors.
+Bulk cargo door.
+All cargo doors.
+
+Cargo door hydraulic system uses hydraulic fluid from? (ME Repair)
+L&R Hydraulic systems.
+@@A self-contained hydraulic system.
+Center hydraulic system.
+
+Cargo door hydraulic power pack? (ME Repair)
+Can be manually operated from a provision on the door lock handle.
+Can be manually operated from a provision on the fuselage on the door cut-out when the door is open.
+@@Is electrically operated by a 3- position external control switch or manually by a manual drive provision on the bottom of the motor.
+
+Forward (Aft) cargo door lock handle is located? (ME Repair)
+Both inside and outside of the door.
+@@On door exterior surface only.
+On door interior surface only.
+
+The cargo door control panel on the exterior of the fuselage forward of the door? (ME Repair)
+@@Has two sections: aft section for access to the electrical portion, forward section for access to the alternate portion.
+Has one section for electrical operation only.
+Can be unlatched manually to get access to the alternate control portion.
+
+The flight deck overhead (crew escape) door is an aluminum plug-type door that? (ME Repair)
+Opens outward
+@@Opens into the flight deck.
+Has only 01 interior manual handle.
+
+The flight deck door? (ME Repair)
+@@Has hinges on the left side and opens in the aft direction.
+Has hinges on the right side and opens in the aft direction.
+Has hinges on the left side and opens in the forward direction.
+Which of the flight compartment window can be opened? (ME Repair)
+No1 window
+No2 window.
+@@None of them.
+
+How are the flight compartment windows installed on the aircraft? (ME Repair)
+From sliding tracks.
+@@From outside.
+From inside.
+
+Where are the Window Heat Protection Units located? (ME Repair)
+Aft of No1 windows.
+Aft of No3 windows.
+@@Aft of No2 windows.
+
+Each passenger compartment window has:? (ME Repair)
+@@3 panes: Plastic outer pane - for ultra violet (UV) protection (structural), Electrically dimmable window (EDW) pane andPlastic inner pane.
+2 panes:Plastic outer pane - for ultra violet (UV) protection (structural) And Electrically dimmable window (EDW) pane.
+3 panes:Plastic outer pane - for ultra violet (UV) protection (structural), Electrically heated window (EHW) pane and Plastic inner pane.
+
+When there is no power supplied to the passenger compartment window? (ME Repair)
+The organic material is affected and the EDW (Electrically Dimmable Window) is transparent.
+@@The organic material is unaffected and the EDW is transparent.
+The organic material is unaffected and the EDW is dark.
+
+Regarding Electrically Dimmable Window (EDW), which of the following is NOT correct:? (ME Repair)
+The CAP menu can set the limits for the passenger control.
+The CAP control overrides passenger control.
+@@The control can be done by the switch bezel only.
+
+The Passenger Entry Door (PED) windows is:? (ME Repair)
+@@Equipped with EDW shade.
+Not equipped with EDW shade.
+Equipped with a plastic window shade.
+
+Each PED window has:? (ME Repair)
+2 pane: Plastic outer pane (structural), and Electrically dimmable window (EDW) pane.
+3 panes:Plastic outer pane (structural),Electrically Heated window (EHW) pane and Plastic inner pane.
+@@3 panes: Plastic outer pane (structural), Electrically dimmable window (EDW) pane, and Plastic inner pane.
+GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to:? (ME Repair)
+The improvement of the specific fuel consumption.
+@@The fact that there is no external engine air bleeds taken for aircraft.
+Chevron shape on the exit edge of the thrust reverser translating sleeves.
+
+GEnx anti-ice system includes:? (ME Repair)
+@@A booster intake anti-ice (BAI) system and an engine intake anti-ice (EAI) system.
+An engine intake anti-ice (EAI) system and a turbine anti-ice (TAI) system
+A booster intake anti-ice (BAI) system and a turbine anti-ice (TAI) system.
+
+The purpose of chevrons on the exit edges of the thrust reverser translating sleeves is:? (ME Repair)
+To reduce weight.
+@@To gradually mix the bypass airflow with the atmospheric air to decrease noise levels.
+To minimize the chance of lightning strike.
+
+The fan cowls weigh 68kg each and are? (ME Repair)
+Interchangeable between engines.
+@@NOT interchangeable between engines.
+Interchangeable between LH and RH of the engine.
+
+The fan cowls are attached to? (ME Repair)
+Fan Cowl Support Beam (FCSB) with 03 hinges.
+@@Fan Cowl Support Beam (FCSB) with 04 hinges.
+Fan case with 04 hinges.
+
+GEnx is equipped with The fan cowls are attached to? (ME Repair)
+@@01 PDOS control switch for each cowl.
+02 PDOS control switch for each cowl.
+04 PDOS control switch for fan cowls.
+
+Engine cowl is held in the OPEN position by:? (ME Repair)
+Hold-open rod.
+PDOS actuator internal compression lock.
+@@Either a. or b.
+
+PDOS power pack is serviced with:? (ME Repair)
+@@Engine oil with all cowls CLOSE.
+Engine oil with all cowls OPENPDOS actuator internal compression lock.
+Exxon Mobil HyJet V - HYJET V.
+
+Fan cowl can be open or close with a manual (with external hydraulic hand pump) method. To do this you need to get access to quick-disconnect located? (ME Repair)
+At the fan cowl opening actuator.
+@@At the PDOS power pack.
+On the Inlet cowl aft wall.
+
+Which engine mount transmit the thrust loads to the strut? (ME Repair)
+Forward mount.
+Both mounts.
+@@Aft mount.
+GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to:? (ME Repair)
+The improvement of the specific fuel consumption.
+@@The fact that there is no external engine air bleeds taken for aircraft.
+Chevron shape on the exit edge of the thrust reverser translating sleeves.
+
+GEnx anti-ice system includes:? (ME Repair)
+@@A booster intake anti-ice (BAI) system and an engine intake anti-ice (EAI) system.
+An engine intake anti-ice (EAI) system and a turbine anti-ice (TAI) system
+A booster intake anti-ice (BAI) system and a turbine anti-ice (TAI) system.
+
+The purpose of chevrons on the exit edges of the thrust reverser translating sleeves is:? (ME Repair)
+To reduce weight.
+@@To gradually mix the bypass airflow with the atmospheric air to decrease noise levels.
+To minimize the chance of lightning strike.
+
+The fan cowls weigh 68kg each and are? (ME Repair)
+Interchangeable between engines.
+@@NOT interchangeable between engines.
+Interchangeable between LH and RH of the engine.
+
+The fan cowls are attached to? (ME Repair)
+Fan Cowl Support Beam (FCSB) with 03 hinges.
+@@Fan Cowl Support Beam (FCSB) with 04 hinges.
+Fan case with 04 hinges.
+
+GEnx is equipped with The fan cowls are attached to? (ME Repair)
+@@01 PDOS control switch for each cowl.
+02 PDOS control switch for each cowl.
+04 PDOS control switch for fan cowls.
+
+Engine cowl is held in the OPEN position by:? (ME Repair)
+Hold-open rod.
+PDOS actuator internal compression lock.
+@@Either a. or b.
+
+PDOS power pack is serviced with:? (ME Repair)
+@@Engine oil with all cowls CLOSE.
+Engine oil with all cowls OPENPDOS actuator internal compression lock.
+Exxon Mobil HyJet V - HYJET V.
+
+Fan cowl can be open or close with a manual (with external hydraulic hand pump) method. To do this you need to get access to quick-disconnect located? (ME Repair)
+At the fan cowl opening actuator.
+@@At the PDOS power pack.
+On the Inlet cowl aft wall.
+
+Which engine mount transmit the thrust loads to the strut? (ME Repair)
+Forward mount.
+Both mounts.
+@@Aft mount.
+The engine used on VNA B787 aircraft is? (ME Repair)
+GE90.
+@@GEnx-1B.
+Trent 7000.
+
+Which of the following statements is NOT true:? (ME Repair)
+@@The HP rotates clockwise as viewed from front.
+The GEnx engine has counter rotating low pressure (LP) and high pressure (HP) rotors.
+The LP rotates clockwise as viewed from the front.
+
+Which of the following is NOT part of LP rotor:? (ME Repair)
+Single-stage fan and 4-stage booster low pressure compressor.
+7-stage low pressure turbine.
+@@10-stage low pressure turbine.
+
+Which of the following is NOT part of HP rotor:? (ME Repair)
+10-stage high pressure compressor.
+2-stage high pressure turbine.
+@@7-stage high pressure compressor.
+
+Exhaust Gas Temperature is measured at station:? (ME Repair)
+@@48 - HPT exit.
+3 – HPC exit.
+5 – LPT exit.
+
+Which stages of HPC are BLISKs? (ME Repair)
+2, 3, 5.
+@@1, 2, 5.
+2, 4, 5.
+
+Which of the following is the advantage of GEnx lean combustor:? (ME Repair)
+@@The lean combustor uses a shorter length inner and outer single piece liner to minimize long term vibration distress and fatigue.
+The lean combustor increases the number of dilution holes to remove stress concentrations to decrease liner cracks.
+The lean combustor gives higher engine exhaust gas temperature (EGT).
+
+GEnx combustor has ? (ME Repair)
+24 fuel nozzles.
+30 fuel nozzles.
+@@22 fuel nozzles.
+
+GEnx combustor nozzles are? (ME Repair)
+@@Twin-annular premixing swirler (TAPS) type.
+Duplex type.
+Double-action type.
+
+GEnx has? (ME Repair)
+22 wide-chord fan blades.
+@@18 wide-chord fan blades.
+20 wide-chord fan blades.
+
+What data can you find on the bottom of the blade dovetail? (ME Repair)
+@@Part number, Moment weight (gram-inches), Serial number.
+Part number, Serial number.
+Part number, Moment weight (gram-inches).
+
+The fan blades are made of………. with titanium leading and trailing edges to protect from FOD? (ME Repair)
+Titanium.
+Steel.
+@@Carbon Fiber Reinforced Plastic (CFRP).
+The unit that control the fuel flow is called:? (ME Repair)
+@@FMU.
+HMU.
+HCU.
+
+Fuel is used to cool oil in:? (ME Repair)
+Main Fuel/Oil Heat Exchanger (FOHE).
+Dual VFSG Fuel/Oil Heat Exchanger (FOHE).
+@@Dual VFSG Fuel/Oil Heat Exchanger (FOHE) and Main FOHE.
+
+After Fuel Metering Unit (FMU) fuel is divided to the manifolds by? (ME Repair)
+Fuel Staging Valve.
+@@Fuel Split Valve (FSV).
+Fuel Flow Divider.
+
+Which of the following statement is TRUE:? (ME Repair)
+@@At start, the Fuel Metering Valve (FMV) lets fuel go from the Bypass Valve (BPV) through the FMV to the jet pump and heat exchangers.
+As the engine increases in speed for start, the FMV increases the quantity of the fuel to the BPV
+The BPV controls the position of the FMV.
+
+Which of the following manifolds always supplies fuel to all 22 fuel nozzles:? (ME Repair)
+Pilot primary and main un-staged (PPMU).
+Pilot primary and main staged (PPMS).
+@@Pilot secondary (PSEC).
+
+The fuel nozzles are set at equal spaces around the circumference of the combustor and numbered in a ? (ME Repair)
+@@Clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Counter-clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Clockwise sequence, forward looking aft with number 1 is at the 12:00 position.
+
+When does EEC get power from Permanent Magnetic Alternator (PMA)? (ME Repair)
+N2 >= 5%.
+@@N2 >= 8%.
+N2 >= 7%.
+
+What information does engine rating plug provide to EEC? (ME Repair)
+Engine rating and N2 trim levels.
+Engine rating and N2 levels.
+@@Engine rating and N1 trim levels.
+During subsequent starts, the EEC changes between ignition systems every 2nd start attempt, that means ? (ME Repair)
+@@It will use system 1 for 2 start attempts then system 2 for 2 start attempts.
+It will use system 1 for 1 start attempt then system 2 for 1 start attempt.
+It will use system 1 for 2 start attempts then system 2 for 1 start attempt.
+
+The exciters are cooled by: ? (ME Repair)
+CCC valve cooling air.
+Under cowl compartment cooling air.
+@@Fan air.
+
+The ignition system components are on the …… side of the engine: ? (ME Repair)
+RH.
+@@LH.
+Bottom.
+
+Which of the following is NOT true: ? (ME Repair)
+The engine start system is an auto-start system.
+There is no manual start mode.
+@@The AUTO start switch is normally in the ON position.
+
+During GEnx engine start: ? (ME Repair)
+The air starter turns the engine N2 rotor through the accessory drive gearbox.
+@@The VFSG turns the engine N2 rotor through the accessory drive gearbox.
+The pneumatic starter turns the engine N2 rotor through the accessory drive gearbox.
+
+During normal engine start:? (ME Repair)
+Only 01 VFSG is used.
+@@Both VFSG are used.
+The VFSG will take turn to start the engine.
+
+Which of the following power configuration is the minimum requirement for engine start ? (ME Repair)
+@@2 forward (90 KVA) External Power (EP) sources.
+Only 1 EP source.
+1 forward EP and the aft EP source.
+
+During engine start, the EEC releases the start switch to the NORM position? (ME Repair)
+At 50% N2 when the EEC turns off ignition.
+@@At 65% N2.
+At 75% N2.
+The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE: ? (ME Repair)
+BAI valve is controlled by EMU.
+@@There is no flight deck control for the system.
+EAI valve need to be closed for BAI valve operation.
+
+The core compartment cooling (CCC) valve sends cooling air from the fan/booster bypass ducts to components on the engine core case. It is ? (ME Repair)
+@@Spring loaded to OPEN position.
+Spring loaded to CLOSE position.
+Opened by the EEC using fuel through the FMU.
+
+LPTACC and HPTACC valves are located ? (ME Repair)
+On the forward RH side of the HPC case.
+On the LH side of the HPT case.
+@@On the forward LH side of the HPC case.
+
+Which valve in the engine cooling system is NOT operated by servo fuel ? (ME Repair)
+HPTACC valve.
+CCC Valve.
+@@None of them.
+
+The purpose of the Transient Bleed Valve (TBV) is to ? (ME Repair)
+Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle.
+Remove the load on the high pressure compressor (HPC) during rapid deceleration.
+@@Both a. and b.
+Which of the following statements is TRUE: ? (ME Repair)
+You can move the reverse thrust levers at any position of the forward thrust lever.
+@@The reverse thrust lever is blocked when the forward thrust lever is forward of idle a minimum of 3 degrees.
+The forward thrust lever is not blocked when a reverse thrust lever is moved more than 8.5 degrees.
+
+Each thrust lever mechanically connects to 2 thrust lever angle (TLA) resolvers, which of the following statements is NOT true: ? (ME Repair)
+The thrust control system can continue normal operation with a failure of one resolver.
+If both resolvers fail electrically, the EEC holds the last valid value for the rest of the flight.
+@@If both resolvers fail electrically, the EEC holds the last valid value for 2 seconds, then sets the engine thrust to idle.
+
+P0 is used by the EEC as a backup to the airplane ambient pressure input. This pressure is taken from: ? (ME Repair)
+@@P0 sensing port in each fan cowl at the 4 o'clock or 8 o'clock position.
+P0 sensing port in each reverser cowl at the 4 o'clock or 8 o'clock position
+P0 sensing port in each fan cowl at the 2 o'clock or 10 o'clock position.
+
+What is Thrust control malfunction accommodation (TCMA)? (ME Repair)
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane in the air.
+@@TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground.
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground and in the air.
+
+If a TCM event occurs, what does TCMA do? (ME Repair)
+@@TCMA function commands engine shutdown.
+TCMA function maintains the engine thrust.
+TCMA function gradually reduces engine thrust.
+N1 speed sensor is located ? (ME Repair)
+On the fan case.
+@@On the back of the fan hub frame at the 7:00 position on the engine core.
+On the gearbox.
+
+Which of the following statements is TRUE: ? (ME Repair)
+@@N2 will show on the EICAS without EEC power applied.
+N1 will show on the EICAS without EEC power applied.
+02 N1 signals go to the EEC and 01 signal goes to the EMU for engine vibration analysis and engine trend monitoring.
+
+N2 speed sensor is located ? (ME Repair)
+On the aft face of the AGB.
+@@On the forward face of the AGB.
+On the fan hub frame.
+
+08 T48 EGT probes are numbered 1 thru 8 ? (ME Repair)
+@@From the top in a clockwise direction.
+From the bottom in a clockwise direction.
+From the top in a counter-clockwise direction.
+
+The EMU gets power from airplane 115v ac when the engine start switch is set to start, the fuel switch is set to run, or the EMU soft maintenance switch is selected and ? (ME Repair)
+Power is not removed until 20 minutes after shutdown.
+Power is not removed until 30 minutes after shutdown.
+@@Power is not removed until it has analyzed the data (can be up to 10 minutes after shutdown).
+To open Thrust reverser cowl, which latch is to be opened first? (ME Repair)
+V-blade latch.
+Sleeve latches.
+@@Bifurcation latch system (BLS) handle.
+
+How many hold-open rods are there on thrust reverser cowl? (ME Repair)
+@@01.
+02.
+03.
+
+The purpose of the chevrons on the outer panel of the translating sleeve is ? (ME Repair)
+To increase thrust.
+@@To decrease engine noise.
+To reduce weight.
+
+Which of the following is NOT true: ? (ME Repair)
+@@There 16 composite structure cascade segments for each T/R half.
+Each segment has a number to identify its correct location on the engine.
+The inboard segments have a shape that directs the reverse thrust airflow away from the fuselage.
+
+There is one track lock mechanism for each T/R assembly, it is in the: ? (ME Repair)
+LH T/R upper hinge beam area of the engine strut.
+@@RH T/R upper hinge beam area of the engine strut.
+RH T/R torque box next to the V-blade latch.
+
+The thrust reverser (T/R) T-piece: ? (ME Repair)
+@@Connects the T/R sync shafts and tubing to make sure the actuators move together.
+Is there so that if an actuator fails, the sync shafts will deploy the T/R halves.
+Let the LH and RH T/R translating sleeves move separately.
+
+There are: ? (ME Repair)
+03 locking hydraulic actuators for each T/R half.
+01 locking hydraulic actuator and 01 unlocking hydraulic actuator for each T/R half.
+@@02 locking hydraulic actuators for each T/R half.
+
+What is NOT true about the T/R translating sleeve feed-back unit: ? (ME Repair)
+There are two feedback units - one on each reverser half.
+@@They are on the lower locking actuators.
+They are connected to the sync shaft.
+
+The thrust reverser (T/R) manual drive units let you use a drive tool (1/2-inch socket) for manual operation of the thrust T/R. They are located ? (ME Repair)
+On the upper locking actuators.
+@@On the lower locking actuators.
+On the T-piece connection.
+
+During T/R Stow operation: ? (ME Repair)
+A time delay in the IPA software keeps the track lock open for 10 seconds after the stow command.
+A time delay in the EEC keeps the IV open for 20 seconds after stow is commanded.
+@@Both a. and b.
+The oil tank is located on the ? (ME Repair)
+@@RH side of the fan case.
+LH side of the fan case.
+LH side of the compressor stator.
+
+The pressure lubrication and scavenge pumps are gerotor type, positive displacement pumps and are ? (ME Repair)
+Located on the RH side of the engine.
+In separate oil pump packs.
+@@In the same oil pump pack.
+
+Engine oil is cooled in ? (ME Repair)
+@@Main Fuel/Oil Heat Exchanger (MFOHE) and Air Cool Oil Cooler (ACOC).
+MFOHE and Fuel Servo Heat Exchanger.
+ACOC and Fuel Servo Heat Exchanger.
+
+The Air Cool Oil Cooler (ACOC) is a finned-tube design heat exchanger that transfers heat from the oil to the bypass (fan exit) airflow. It is located: ? (ME Repair)
+On the RH side of fan case.
+@@On the inside of the fan case, aft of the outlet guide vanes (OGV) from the 12:00 to the 3:00 position.
+On the outside of the fan case, aft of the outlet guide vanes (OGV).
+
+The purpose of Oil Eductor valve is: ? (ME Repair)
+To increase the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the carbon seal at low engine power settings.
+@@To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+
+The oil temperature shown on EICAS gets its temperature from ? (ME Repair)
+@@Oil Level/Temperature Sensor in the top of the oil tank
+Oil Supply Temperature Sensor on the outside of the fan case.
+Oil Temperature Sensor in the oil pressure oil feed pipe after the coolers.
+
+What of the following is TRUE for oil pressure sensor ? (ME Repair)
+@@It monitors the differential pressure between the oil supply manifold pressure and the bearing sump air pressure.
+The sensor is on an oil scavenge pipeline, aft of the accessory gearbox at the 7:00 position
+The sensor monitors the absolute supply manifold pressure after the ACOC.
+
+STRUCTURE Approximately, how many percentage of composite material does 787 have? (ME Repair)
+20%.
+40%.
+@@60%.
+
+Which of the following is NOT the advantage of composite material? (ME Repair)
+Composites do not corrode.
+@@Under normal operating conditions, cracks grows faster in composites than they do in metal.
+Composites are generally lighter than metal structure.
+
+There are two types of composite structure: ? (ME Repair)
+@@Sandwich and Solid Laminate.
+Sandwich and Honeycomb.
+Solid Laminate and Tape.
+
+For a composite part of solid laminate construction, the toolside is the: ? (ME Repair)
+Side adjacent to the bag when the part is being cure.
+@@Smooth side.
+Rough side.
+
+There are two types of plies (layers) for solid laminate construction: ? (ME Repair)
+@@1. Fabric - fiber bundles go in two directions, 2. Tape - fiber bundles go in one direction.
+1. Fabric - fiber bundles go in one directions, 2. Tape - fiber bundles go in two direction.
+1. Laminate - fiber bundles go in two directions, 2. Interwoven - fiber bundles go in one direction.
+
+Interwoven Wire Fabric (IWWF) is: ? (ME Repair)
+Is the inner layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+Is the middle layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+@@Is the outer layer of the fuselage that has phosphor bronze wires that are woven into the carbon fabric.
+
+Resin in composite structure is ? (ME Repair)
+The layers of tape structure.
+@@The glue that holds fibers together.
+Cured in one hour for all kinds of epoxy systems.
+
+Which of the following is NOT the advantages of Carbon Fiber Reinforced Plastic (CFRP) ? (ME Repair)
+Strong and stiff.
+Less weight than almost all other common aircraft materials.
+@@Easy to corrode.
+
+Which of the following is NOT the advantages of Fiberglass Fiber Reinforced Plastic (FFRP) ? (ME Repair)
+Are transparent to radar waves - can be used in radomes.
+Do not conduct electricity and can be used to isolate dissimilar materials.
+@@More expensive than CFRP.
+
+How can you locate fuselage stringers from the outside of the aircraft? (ME Repair)
+@@The stringers runs along the fuselage between the shear tie end fasteners.
+The stringers runs along the fuselage in the middle of the shear ties.
+The stringers are riveted to the fuselage skin.
+
+Which component of the wing is made of aluminum? (ME Repair)
+Stringers.
+@@Ribs.
+Spars.
+
+How many spars does horizontal stabilizer have? (ME Repair)
+04.
+@@05.
+02.
