@@ -1,0 +1,58 @@
+Q1. The main purpose of weighing aircraft is:
+@@Calculate the position of the center of gravity
+Calculate of aircraft weight
+Know the aircraft weight for passenger loading
+
+Q2. When weighing the aircraft to find the operating empty weight of the aircraft
+All the fire extinguishers, oxygen masks and safety belts must be removed
+@@Engine, APU, IDG oil must refill to necessary level.
+Engine, APU, IDG oil must be empty
+Hydraulic fluid must be empty
+
+Q3. Can you do the aircraft weighing and balancing to calculate the center of gravity with:
+All tools and protection devices on the aircraft
+@@The shock absorbers and the tires deflated
+The doors of aft and forward cargo compartments are opened
+Slats and flaps in fully extended position.
+
+Q4. Configuration for aircraft WEIGHING to find the operating empty weight:
+All the fire extinguishers, oxygen masks and safety belts must be removed
+@@All tools and protection devices on the aircraft must be removed
+Empty all of Engine, APU, IDG oil.
+All above.
+
+Q5. When Lifting the AIRCRAFT for leveling
+You must not lift the aircraft with the safety stay.
+The weight of fuel is applied equally on the two side of the aircraft centerline
+Make sure that the aircraft is stable before you lift it with jacks
+@@All above
+
+Q6. When Lifting the aircraft
+All the doors must be closed and locked.
+Passenger/crew door may be fully opened and locked but the cargo doors must be closed and locked.
+@@The passenger/crew doors, the emergency exits and the cargo doors are closed and locked or fully open and locked.
+No requirement.
+
+Q7. You can weigh the aircraft with:
+The aircraft on jacks only
+The aircraft on its wheels only
+The aircraft on landing gear jacks only
+@@The aircraft on jacks or the aircraft on its wheels or the aircraft on landing gear jacks
+
+Q8. When Weighing the aircraft on jacks
+The aircraft must have a pitch attitude of zero deg.
+You can do this procedure with load cells on each jack or with platform scales under each jack
+Make the aircraft leveling after jack up.
+@@All Above
+
+Q9. When leveling the aircraft you must:
+@@Operate the jacks of the aircraft to move the bubble to the D4 position
+Operate the jacks of the aircraft to move the bubble to the E4 position
+Operate the jacks of the aircraft to move the bubble to the D5 position
+Operate the jacks of the aircraft to move the bubble to the E5 position
+
+Q10. For aircraft Quick Leveling you can use
+The ADIRU or the Attitude Monitor
+A Spirit Level in the Passenger Compartment
+A Spirit Level in the FWD Cargo Compartment
+@@All above

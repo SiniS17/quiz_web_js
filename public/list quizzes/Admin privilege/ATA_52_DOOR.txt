@@ -1,0 +1,475 @@
+Q1. How can the slide fairing door of one overwing emergency exit be disarmed?
+By opening the exit from the outside
+@@By setting the disarm device to "disarmed"
+It always disarm on ground.
+By an automatic "disarm" signal from engine, as long as engines are not running
+
+Q2. What indicates the red flashing light on the cabin door?
+The escape slide will not deploy after automatic opening
+The first bar has failed to engage into the floor fittings
+The slide system is armed avoid the interior locking handle is partly lifted
+@@Both engine shut down, door disarmed, the cabin pressure is greater than 2,5 mb
+
+Q3. How is the passenger door closed and locked information be monitored?
+By a single microswitch (lock position) on the "ECAM DOOR" page
+@@By two proximity detection on the "ECAM DOOR" page
+No indication at all
+Landing gear control interface unit n° 1 (LGCIU 1) on the "ECAM DOOR" page
+
+Q4. What indicates the green light in the cargo door access?
+The cargo door is closed and locked
+The cargo door is not closed
+The cargo door is unlocked
+@@The cargo door is open and locked
+
+Q5. What is the purpose of the damper nitrogen bottle and emergency operation cylinder?
+To damp the door opening and closing
+To assist in opening and closing the door to do it
+@@To damp the door opening/closing and to pressurize the cylinder in case of emergency opening
+
+Q6. What happen when the passenger door is opened from the outside and the slide system is armed?
+The locking mechanism is blocked
+The escape slide will deploy
+@@The slide system is disarmed
+There is no possibility to open the door from the outside
+
+Q7. What happen when the emergency exit door of A320 aircraft is opened from the outside and the slide system is armed?
+The locking mechanism is blocked
+@@The escape slide will deploy
+The slide system is disarmed
+There is no possibility to open the door from the outside
+
+Q8. The PAX door is maintained parallel to the fuselage by:
+@@The guide arms.
+The support arms
+The upper and lower connection links.
+
+Q9. How the operator is warned, when there is a residual pressure in the cabin?
+By a white flushing light.
+@@By a red flushing light.
+By an ember flushing light.
+
+Q10. Which device blocks the outer control handle during inner control handle operation of the PAX door?
+@@The control handle gearbox
+The safety pin
+The lifting mechanism.
+
+Q11. How can the PAX door be opened from outside when the arming lever is set in the ARM position?
+The arming lever must be set to DISARMED.
+The door cannot be opened from outside in such configuration.
+@@An installation containing a cam disk and a roller disarms the system automatically.
+
+Q12. What happens when the arming lever of the PAX door is set to the ARMED position?
+@@The girt bar stay attached to the cabin floor.
+The girt bar slide towards the telescopic fork.
+The telescopic fork slide towards the girt bar fitting
+
+Q13. Which maintenance task must be performed after an emergency opening of PAX door?
+The operating striker lever has to be replaced.
+@@The diaphragm, in the mechanism housing and the shear pin must be replaced.
+The nitrogen bottle has to be replaced
+
+Q14. How is latch pin of the A320 aircraft emergency exit door released for maintenance operation?
+By operating the outer control handle
+@@By retracting the latch pin
+By setting the disarming control handle to DISARMED
+
+Q15. What does the green light fitted near the manual selector valve of the cargo door indicate?
+The yellow hydraulic pressure is available to operate the door.
+@@The door is fully opened and locked.
+The door is correctly unlatched and unlocked
+
+Q16. When can the cargo door be opened?
+When the cam and the hooks are in the locked position.
+When the cam is in the unlocked position and the hooks are in the locked position
+@@When the cam and the hooks are in the unlocked position
+
+Q17. To Which of the followings the cam of the cargo door fastened?
+Locking shaft
+@@Safety shaft
+Spring unit.
+
+Q18. The cargo doors hydraulic system is pressurized by the:
+Green electric pump
+Blue electric pump
+@@Yellow electric pump
+
+Q19. What is purpose of the spring loaded blocking piston in the manual selector valve of cargo door hydraulic system?
+To prevent door opening is pressure is < 3000 psi
+To lock the selector in the OPEN/CLOSE position until the actuator is fully opened/retracted.
+@@To ensure correct pressure in the extension chamber of the actuators before closing
+
+Q20. When does the residual cabin pressure red light come on?
+When all the engines are not running, the parking brake is applied and the residual cabin pressure exceeds 2.5 mbars
+@@When the engines are not running, the slide is disarmed and the residual cabin pressure exceeds 2.5 mbars
+When the engines are not running, the parking brake is applied, the slide is disarmed and the residual cabin pressure exceeds 2.5 mbars
+
+Q21. When is the electro selector valve of the cargo door system applied?
+When the locking shaft proximity switch target is NEAR and when the manual selector valve is operated.
+@@When the locking shaft proximity switch target is FAR and when the manual selector valve is operated.
+When the locking shaft proximity switch target is NEAR
+
+Q22. The seal of pax door:
+@@Is installed around the door on the inner side and when the door is closed, the it is pushed against the frame of the fuselage
+Is installed around the door on the outer side and when the door is closed, the it is pushed against the frame of the fuselage
+Is deflated when the door is closed and the passenger cabin is pressurized.
+
+Q23. The air stoppers are installed between the PAX door and the door frame
+@@Prevent the cold air from penetrating into the cabin
+Prevent the water comes into the cabin
+Protect the door structure during operation.
+
+Q24. The proximity switches installed on PAX door transmit the position of:
+The escape-slide control lever on the escape-slide control mechanism and the hook on the upper frame of the door
+
+Q25. Each emergency exit door has a slide release mechanism with two operation modes: NORMAL mode and the MAINTENANCE mode
+@@During the NORMAL mode, the latch pin of the slide release mechanism is in the ARMED position (the latch pin is extended)
+During the NORMAL mode, the latch pin of the slide release mechanism is in the ARMED position (the latch pin is retracted)
+During the MAINTENANCE mode, the latch pin is in the DISARMED position (the latch pin is extended)
+
+Q26. Emergency exit door of a320 aircraft:
+Can be opened from outside or/and inside and the door fall outside of aircraft.
+@@Can be opened from outside or/and inside and the door fall into the cabin.
+Can be opened from outside and the door fall outside of aircraft
+Can be opened from inside and the door fall into the cabin,
+
+Q27. The pressurization of the cargo door hydraulic system does not occur when:
+@@The locking mechanism is in the locked condition.
+The door not in fully close or/and open position.
+The door not in fully open position.
+The door is operated with hand pump
+
+Q28. BULK Cargo-Compartment Door is opened:
+Outward and upward.
+Outward and downward.
+@@Inward and upward.
+Inward and downward.
+
+Q29. The FWD and AFT cargo doors:
+@@Possible to open/close at the same time
+Possible to open at the same time when using the electric pump only
+Possible to open one by one only
+Possible to close at the same time only
+
+Q30. The external power receptacle
+@@Is installed in the lower and is a quick-opening type door and opens outwards towards the front of the aircraft
+Is installed in the lower and is a quick-opening type door and opens outwards downwards the front of the aircraft
+Is installed in the lower and is a quick-opening type door and opens outwards upwards the front of the aircraft
+
+Q31. Proximity switches send signal to the ECAM system for indication and warning
+@@Data concerning passenger/crew doors, emergency exits and the avionics compartment doors are processed by the SDAC 1 and SDAC 2
+Data concerning passenger/cargo compartment doors are processed by the LGCIU 1 and sent to the FWC 1 and FWC 2
+Data concerning passenger/crew doors, cargo compartment doors, emergency exits and the avionics compartment doors are processed by the SDAC 1 and SDAC 2
+Data concerning passenger/crew doors, cargo compartment doors, emergency exits and the avionics compartment doors are processed by the LGCIU 1 and sent to the FWC 1 and FWC 2
+
+Q32. The escape slide will be automatically deployed if.
+@@Girt bar attached with escape slide pack and the door is opened.
+Girt bar is still engaged into floor bracket and the door is opened.
+Girt bar is still engaged into floor bracket and the door is opened by outside handle
+
+Q33. The function of the safety pin on the pax door is:
+To hold the door when it is closed during whole flight.
+To hold the door in the closed position until it is locked.
+@@To hold the door in the closed position until it is unlocked.
+
+Q34. Landing gear doors can be opened.
+Hydraulically on ground only with landing gear selector set to down.
+@@Hydraulically or manually if aircraft is on jack.
+Manually on ground only with landing gear selector set to down
+
+Q35. Avionics compartment can be accessed through:
+@@Avionics lower side of the fuselage.
+Avionics door on the fwd cargo compartment.
+Access door in the cockpit.
+
+Q36. Emergency exit door of a320 aircraft is equipped.
+Slide, which is automatically disarmed when the door is opened from inside.
+Slide, which is automatically disarmed when the door is opened from outside.
+@@Slide, which can only be disarmed by release the latch pin from inside.
+
+Q37. What happen during the RAT retraction?
+The red light comes on during RAT retraction and goes off when the RAT is retracted and locked.
+@@The green light comes on when the RAT is retracted and locked.
+The red light goes off when the ARM switch set to OFF.
+
+Q38. What happen if the stow switch is release before the RAT is fully retracted?
+The RAT continuously retracts.
+@@The RAT will return to the fully extended position.
+The RAT locked in the existing position.
+
+Q39. The potable water is located at: (ME REPAIR, E&A REPAIR)
+@@L/H behind the rear cargo compartment.
+R/H behind the forward cargo compartment.
+R/H behind the rear cargo compartment.
+
+Q40. If the cabin emergency door is opened from outer side with the escape slide in ARMED mode. (ME REPAIR, E&A REPAIR)
+@@The ARMED mode of the escape slide changes to DISARMED mode as well as passenger door.
+The escape slide will deploy.
+The door can not be opened.
+
+Q41. For the emergency exits door, which device makes sure that the locking shaft mechanism is always in the over centered position? (ME REPAIR)
+@@The spring unit.
+The control mechanism.
+The locking hook.
+
+Q42. Where the escape slide pack of cabin emergency door located? (ME REPAIR, E&A REPAIR)
+Holds on the door.
+@@Holds in a container underneath the door.
+Holds on the overhead stowage compartment.
+
+Q43. Where the inflation reservoir of the emergency exits door located? (ME REPAIR, E&A REPAIR)
+At the bottom of the door.
+@@In the overhead stowage compartment.
+In the AFT cargo compartment.
+
+Q44. What is purpose of the ECON FLOW pushbutton? (ME REPAIR, E&A REPAIR)
+To allows the cockpit to select 80%, 100% or 120% of the nominal airflow.
+@@To permits economic or normal pack flow according to the number of the passenger and ambient condition.
+When ON is selected the normal flow provides 20% more than economic flow.
+
+Q45. The HOT AIR pushbutton switch of the cargo ventilation panel controls: (ME REPAIR, E&A REPAIR)
+Blower fan.
+Aft cargo door.
+@@Pressure Regulating Valve.
+
+Q46. Are main pumps running while the center tank is transferring? (ME REPAIR, E&A REPAIR)
+@@Yes, main pumps are always running.
+No, only when the center tank is empty.
+No, because of center tank pump priority
+
+Q47. Engine LP valve closes when: (ME REPAIR, E&A REPAIR)
+The fuel booster pump pressure decrease.
+@@The engine is shut down or the ENG FIRE pushbutton is released out.
+
+Q48. The APU can normally be supplied with fuel by: (ME REPAIR, E&A REPAIR)
+Only the APU pump.
+Only the LH main pumps.
+@@LH main pumps or APU fuel pump.
+
+Q49. What happen if a high level is detected? (ME REPAIR, E&A REPAIR)
+A warning is triggered: too much fuel.
+@@The corresponding REFUEL valve closes.
+All refueling operations are stopped.
+
+Q50. In which tanks are temperature sensors fitted? (ME REPAIR, E&A REPAIR)
+Center tank.
+Wing tanks and center tank.
+@@Wing tank
+
+Q51. What is purpose of the IDG SHUT-OFF sensor?
+@@To stop the cooling fuel recirculation.
+To stop the center tank transfer valves.
+To restart cooling fuel recirculation.
+
+Q52. What happen if one channel of the FQIC fails? (ME REPAIR, E&A REPAIR)
+Half of the quantity indicating data is no longer available.
+FQIS operates normally, only CFDS report will indicate failure.
+@@Fuel warning is triggered in addition of CFDS report.
+
+Q53. What happen if a quantity probe fails?
+Corresponding tank quantity display flashes.
+Quantity indication disappears.
+@@Quantity indication remains the same.
+
+Q54. What does the MODE SEL pushbutton control? (ME REPAIR, E&A REPAIR)
+Center tank transfer valves and wing tank pump only.
+@@Center tank transfer valves only.
+Wing tank pump only.
+
+Q55. When the center tank is empty, in AUTO MODE, the center tank transfer valves: (ME REPAIR, E&A REPAIR)
+Must be manually switched OFF after 5mn.
+Stop automatically and wing tank pumps start running.
+@@Closed automatically after a time delay of 5mn.
+
+Q56. Which tanks are the main supply tanks? (ME REPAIR, E&A REPAIR)
+@@Wing tanks.
+Center (transfer) tank.
+Outer cells.
+
+Q57. Where are the Wing Tip Brake located? (ME REPAIR, E&A REPAIR)
+At the wing tips.
+@@Between the tracks 3 and 4 in each wing.
+
+Q58. Where are the torque limiters located? (ME REPAIR)
+@@On the actuator offset gear box.
+On the actuator drive lever.
+On the steady bearing.
+
+Q59. How many valves are used during the draining operation of water system? (ME REPAIR, E&A REPAIR)
+One.
+@@Two.
+Three.
+
+Q60. The automatic drain valve of the hydraulic reservoir pressurization unit. (ME REPAIR, E&A REPAIR)
+Opened when at least one engine or APU running.
+@@Opened after each engine or APU shutdown.
+Closed after both engines and APU shutdown.
+
+Q61. How many fuel Manual Magnetic Indicators are there (MMI)? (ME REPAIR, E&A REPAIR)
+Five in each wing tank and one in the center tank.
+Six in each wing tank and two in the center tank.
+@@Seven in each wing tank and one in the center tank.
+
+Q62. How are the cargo smoke detectors connected to the SDCU? (E&A REPAIR)
+In parallel.
+In series.
+@@In a loop.
+
+Q63. How many smoke detectors are installed in the AFT cargo compartment? (ME REPAIR, E&A REPAIR)
+Two.
+Four.
+@@Six.
+
+Q64. When the cargo fire test pushbutton is pressed and held, which conditions are simulated? (ME REPAIR, E&A REPAIR)
+A smoke only.
+A bottle pressure drop only.
+@@Both.
+
+Q65. Where is the cargo fire extinguisher bottle located? (ME REPAIR, E&A REPAIR)
+@@In the FWD cargo compartment.
+In the AFT cargo compartment.
+In the AFT section of the aircraft.
+
+Q66. How many cargo fire extinguishers bottle are installed on the aircraft?
+@@One.
+Two.
+
+Q67. What happens if smoke is detected in a cargo compartment? (ME REPAIR, E&A REPAIR)
+@@SMOKE light comes on + Continuous Repetitive Chime + MASTER WARNING + ECAM message.
+The CIDS duplicates the cargo smoke warning to the cabin.
+Lights come on.
+
+Q68. What happens if the SDCU is faulty? (ME REPAIR, E&A REPAIR)
+The lavatory smoke detection is inoperative.
+The cargo smoke detection is inoperative.
+@@Both A and B with Single Chime + MASTER CAUTION + ECAM message.
+
+Q69. What happen on A321 aircraft If a fuel tank overflows during a refuel or a fuel transfer and fuel has entered the vent surge tanks (ME REPAIR, E&A REPAIR)
+A jet pump moves the fuel into the related wing tank outer cell.
+A jet pump moves the fuel into the related wing tank inner cell.
+@@The clack valves let the fuel return to the related wing tank.
+A booster pump will collect the fuel back to inner cell when underfull is detected in the inner cell.
+
+Q70. XFR valve pushbuttons are pressed in. (ME REPAIR, E&A REPAIR)
+XFR valve closed to stop the fuel transfer to wing tanks.
+@@XFR valve open and the fuel transfer to wing tanks.
+XFR valve open but the fuel does not transfer to wing tanks.
+Tank pump does not provide fuel flow to XFR valve.
+
+Q71. Which cabin emergency exits door can be used as passenger door? (ME REPAIR, E&A REPAIR)
+All emergency exits doors
+Two FWD emergency exits doors
+Two AFT emergency exits doors
+@@FWD L/H emergency exits doors
+
+Q72. What happen when the emergency exit door of A321 aircraft is opened from the outside and slide system is armed?
+The locking mechanism is blocked
+The escape slide will deploy
+@@The slide system is disarmed
+There is no possibility to open the door from the outside
+
+Q73. Is it possible to fill the A321 aircraft water tank without electrical supplied?
+Yes, fill/overflow drain valve can operate manually
+@@Yes, but when finished you must manually return the control handle to the NORMAL position to close the fill/overflow drain valve
+No, because level transmitter can not send signal to close the fill/overflow drain valve
+
+Q74. The cargo hot air pushbutton switch control the:
+Blower fan.
+Aft cargo door.
+@@Pressure Regulating Valve.
+
+Q75. How are the cargo smoke detectors connected to the SDCU?
+In parallel
+In series
+@@In a loop.
+
+Q76. How many smoke detectors are installed in the fwd cargo compartment? (E&A Repair)
+Two
+@@Four
+Six
+Eight
+
+Q77. How many smoke detectors are installed in the aft cargo compartment? (E&A Repair)
+Two
+Four
+@@Six
+Eight
+
+Q78. When the cargo fire test pushbutton is pressed and held, which conditions are simulated?
+Smoke only
+Bottle pressure drop only
+@@Both
+
+Q79. If smoke is detected in a cargo compartment what happen?
+@@SMOKE lights comes ON + continuous repetitive chime + MASTER WARNING + ECAM message.
+The CIDS duplicates the cargo smoke warning to the cabin.
+Lights come on.
+
+Q80. What happen if the SDCU is faulty?
+The lavatory smoke detection inoperative
+The cargo smoke detection inoperative
+@@Both A and B with single chime + MASTER caution + ECAM message.
+
+Q81. On A321 aircraft with tanks are the main supply tanks?
+@@Wing tanks
+Center (transfer) tank
+Outer cells
+Inner cells
+
+Q82. The APU of A321 aircraft can normally be supplied with the fuel by:
+Only the APU pump
+Only the LH main pumps
+@@LH main pumps or APU fuel pump
+
+Q83. When the center tank is empty, in AUTO MODE, the center tank transfer valves:
+Must be manually switched OFF after 5 mn.
+Stop automatically and wing tank pumps start running.
+@@Close automatically after a time delay of 5mn.
+
+Q84. The vent float valve in fuel tank of A321 aircraft
+@@Prevents fuel from entering the vent surge tank.
+Allows fuel to drain from the vent line.
+Maintains the fuel tanks pressurized.
+
+Q85. To which tank does the recirculated fuel return?
+@@Wing tank near rib 16.
+Center tank.
+Wing tank collector box.
+
+Q86. What happens if the fuel level in the wing tank drops to the low level sensor?
+@@The Fuel Diverter and Return Valve closes
+The Fuel Diverter and Return Valve opens
+The wing tank pumps stop
+
+Q87. The fuel suction VALVE OF A321 aircraft is in operation, therefore:
+The two wing tank pumps are in operation.
+Only one wing tank pump supplies the engine.
+@@Both pumps are stopped.
+
+Q88. With the X-FEED valve open, both engines running and the pumps in the left wing tank stopped, the fuel transfer from the center tank:
+Stop if the cross-feed valve is open
+@@Continues, but only to the right hand tank.
+Remains unchanged
+
+Q89. In which tanks are temperature sensor fitted?
+Center tank
+Wing tanks and center tank
+@@Wing tanks
+
+Q90. What kind of design is the compressor for APS APU?
+Two stage centrifugal compressor design.
+@@Single stage centrifugal compressor design.
+Two stage axial compressor design
+
+Q91. What kind of design is the turbine for APS APU?
+Two stage centrifugal turbine design.
+
+Q92. On A321 aircraft emergency exits door, When does the damper and emergency operation cylinder work as an actuator?
+When the slide control handle is in DISARMED position.
+When the door is fully closed.
+@@When the arming lever is in the ARMED position.
+
+Q93. On a321 aircraft emergency exits door, Which device transfers the operation of the outboard handle to the ARM/DISARM unit?
+The release shaft assembly
+@@The transmission shaft
+The intermediate shaft.

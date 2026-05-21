@@ -1,0 +1,14 @@
+Q1. The engine indicating oil pressure is:
+Main supply line pressure
+@@Differential pressure between main supply line and vent line
+Scavenge line pressure.
+
+Q2. What happens when the main oil filter is clogged?
+@@The oil flows through the bypass valve and the backup filter.
+The IDG oil temperature increases.
+The engine oil temperature increases.
+
+Q3. What does the master chip detector do in case of metal particules detection?
+It sends a signal to the ECU
+It provides a warning to the ECAM system.
+@@It operates a visual indicator for ground inspection

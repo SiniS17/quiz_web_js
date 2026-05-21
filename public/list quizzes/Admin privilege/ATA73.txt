@@ -1,0 +1,90 @@
+Q1. The purpose of the fuel return valve is
+@@To return fuel back to the tank.
+To return fuel back to the LP fuel pump inlet.
+To return fuel back to the servo fuel heater inlet.
+
+Q2. Which component prevents ice from entering the control servos inside the hydromechanical fuel unit (HMU)?
+FRV
+Oil cooler
+@@Servo fuel heater
+
+Q3. The servo fuel heater is
+A heat exchange between cool fuel from the tank and hot fuel from the return line occurs by conduction and convection inside the unit.
+@@A heat exchange between oil and fuel occurs by conduction and convection inside the unit.
+A heat exchange between air and fuel occurs by conduction and convection inside the unit.
+
+Q4. The servo fuel heater system has
+@@No fuel anti-clogging valve
+Fuel anti-clogging valve
+Oil anti-clogging valve
+
+Q5. Engine protection is in term of
+Fan speed (N1), core speed (N2) and engine vibration (N1/N2) to prevent exceedance of certified red lines.
+Fan speed (N1), core speed (N2) and engine oil pressure to prevent exceedance of certified red lines.
+@@Fan speed (N1), core speed (N2) and Engine turbine exhaust gas temperature monitoring (EGT) to prevent exceedanceof certified red lines.
+
+Q6. The engine idles control is comprised of
+Minimum idle and ground idle
+Minimum idle and maximum idle
+@@Minimum idle and approach idle.
+
+Q7. During the reverser is in transit
+@@The ECU sets the engine at idle.
+The ECU sets the engine at climb.
+N1 follows throttle demand.
+
+Q8. What controls the engine in all operating regimes?
+@@FADEC
+
+Q9. The function of the deactivation lever located on the HCU is to
+De-energized the isolation valve solenoid
+@@Isolate hydraulic supply
+Energized the isolation valve solenoid.
+
+Q10. How can ECU be supplied by power?
+By Aircraft electrical network
+By dedicated alternator generator
+@@Both A & B
+By HOT BAT BUS
+
+Q11. When does Alternator generator operate and supply power to ECU?
+When ENGINE at Idle speed
+@@When 10% N2 reach.
+When 10% N1 reach.
+Always operate provided Aircraft is powered on.
+
+Q12. Which connector of ECU used for Identification plug? (E&A Repair)
+@@J14
+B.J15
+C.J13
+D.J4
+
+Q13. The CFM56 FADEC system of each engine consists of
+An EEC, EIU, EVMU and its peripheral components and sensors.
+@@A dual channel electronic control unit (ECU), with its associated peripherals.
+A dual channel electronic control box (ECU) and an engine interface unit (EIU).
+
+Q14. Before performing the operational test of the FADEC on GND (with Engine motoring), you must:
+@@Make sure that the travel ranges of the flight control surfaces are clear before you motor the engine. Movement of the flight control surfaces can be dangerous and/or cause damage
+Make sure that the safety pin is installed in the N/W-steering deactivation electrical-box. Movement of nose wheels can cause damage.
+Make sure that the thrust reverser is locked. If not, the thrust reverser can operate accidentally and cause injury to personnel and/or damage to the reverser
+
+Q15. The FADEC automatically selects a continuous relight:
+In case of engine interface unit (EIU) failure only.
+@@If the ANTI ICE pb is selected ONor In case of EIU failure or engine flame-out.
+In case of electronic control unit (ECU) failure only.
+
+Q16. The ENG FADEC GND PWR is used to:
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to the engines when the engines are not running.
+Enable the pilots to start the engines manually.
+
+Q17. How is the thrust rating changed on the CFM56?
+By change the ECU.
+By a setting up in MCDU.
+@@By an engine data programming plug.
+
+Q18. How is the fuel LP VALVE controlled?
+@@By the Master lever or Fire P/B SW.
+By the EEC and the Master lever.
+By the EEC and Fire P/B SW.

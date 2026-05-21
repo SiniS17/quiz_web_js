@@ -1,0 +1,533 @@
+Q1. When the cabin pressurization system in manual mode and with the MAN V/S CTL selection in UP position:
+The cabin pressure increases
+@@The cabin altitude increases
+The outflow valve moves to the closed position
+The cabin altitude decreases
+
+Q2. In case of duct overheat the HOT AIR FAULT light will extinguishes when:
+The HOT AIR p/b is reset
+The duct overheat goes off
+@@A and B
+The pressure regulating valve re-opens
+
+Q3. When the emergency ram air inlet is open and the delta P is less than 1 PSI :
+The outflow valve closes
+@@The outflow valve partially opens
+Both pack valves close
+
+Q4. Which temperature sensor controls the pack temperature?
+Pack inlet temperature sensor
+Pack outlet temperature sensor
+Compressor outlet temperature sensor
+@@Water extractor temperature sensor
+
+Q5. With the zone controller failed completely, the pack outlet temperature is controlled by:
+The anti-ice valve
+@@The pack Controller
+The turbine by-pass valve
+The pressure regulating valve
+
+Q6. How is the basic temperature regulation generated?
+@@It corresponds to the lowest zone temperature demand,.
+It adjusts the temperature in the three zones.
+It corresponds to the highest zone temperature demand.
+
+Q7. What is the function of the trim air valve?
+To optimize the zone temperature by adding cold air.
+@@To optimize the zone temperature by adding hot air.
+To regulate the hot air pressure.
+
+Q8. What is the main purpose of the pack anti ice valve?
+To stop the ice formation across the primary heat exchanger.
+To stop the ice formation across the main heat exchanger.
+@@To stop the ice formation across pack condenser.
+
+Q9. What is the purpose of pack bypass valve?
+To reduce the air flow to the compressor stage.
+@@To modulate the pack discharge temperature.
+To increase the air flow to the turbine stage.
+
+Q10. What is the purpose of the pack RAM AIR flaps?
+To ensure cabin ventilation in case both packs fail.
+To provide air to the pack compressor.
+@@To modulate the main air flow through the heat exchangers.
+
+Q11. What protects the packs from overheat condition?
+Electrical sensor in the mixer unit
+@@An overheat pneumatic sensor, two electrical sensors at compressor outlet
+An electrical sensor at the water separator outlet
+A differential pressure operated valve
+
+Q12. What flow is delivered by pack with Pack Flow selector on LO and bleed air supplied by the APU?
+Low
+Normal
+
+Q13. The motor number 3 of the outflow valve is controlled from:
+CPC 1 or CPC 2
+“ MAN ” part of the CPC in position 1
+“ MAN ” part of the CPC in position 2
+@@The “Cabin Press “ control panel.
+
+Q14. On the cabin pressure panel, the FAULT light illuminates when:
+SYS 1 or SYS 2 fails
+@@SYS 1 and SYS 2 fail
+No landing elevation from FMGS
+Manual mode is selected
+
+Q15. The purpose of the safety valves is to avoid :
+Excessive positive pressure differential
+Excessive negative pressure differential
+Excessive cabin altitude.
+@@A and B
+
+Q16. When ditching is selected :
+The safety valves and outflow valve are confirmed closed, the pack valves stay open
+The ventilation inlet and extract valves are opened and the pack valves close
+@@The outflow valve, the emergency ram air, the ventilation extract valve and pack valves close
+The outflow valve, the emergency ram air, the ventilation extract valve and pack valves open
+
+Q17. Where do you check the correct manual landing elevation setting?
+@@On ECAM “ CAB PRESS “ page
+On the scale of LDG ELEV selector
+On ECAM “ COND “ page
+No need, because it is automatic ( From FMGC )
+
+Q18. Where is the ventilation air expelled when both fans P/B are set to OVRD?
+To the skin heat exchanger
+@@Overboard
+To the cargo under floor
+
+Q19. When does the avionics ventilation air come from when any OVRD selected?
+From the avionics bay
+From outside the aircraft
+@@From the air conditioning duct
+No ventilation. System is inoperative.
+
+Q20. What is the purpose of the avionic ventilation skin heat exchanger?
+@@To cool the air coming from the avionics equipment when Isolation valve is open.
+To reheat air coming from avionics ventilation system
+To cool air before it is ducted under the cargo compartment.
+ATA-22: AUTO FLIGHT SYSTEM
+
+Q21. The FCU allows: (E&A Repair)
+Selection of radio-nav frequencies
+Modification of the flight plan of FM parts
+Used control of the aircraft for long term
+@@Used control of the aircraft for short term
+
+Q22. With the aircraft on ground, it is impossible to: (E&A Repair)
+Have an AP active, engines on
+Disengage an AP, engines on
+@@Engage an AP, engines on
+Engage an AP, engines off
+
+Q23. The FAC computes rudder travel limit: (E&A Repair)
+Only when AP engaged
+Only in case of ELAC failure
+Only at a/c low speed
+@@At any times
+
+Q24. The Flight Director is engaged: (E&A Repair)
+By pressing the FD p/b on the FCU
+By selecting a mode on the FCU
+@@Automatically at system power rise
+By selecting the INT page on the MCDU
+
+Q25. With the AP engaged, the rudder is normally controlled during cruise by: (E&A Repair)
+@@The FAC
+The ELAC
+The FMGC
+The SEC
+
+Q26. The AFS computers are: (E&A Repair)
+@@FMGC and FAC
+FAC and ELAC
+FMGC and SEC
+ELAC and SEC
+
+Q27. The FMGC functions are: (E&A Repair)
+Flight guidance and flight envelope protection
+Flight envelope protection and yaw axis control
+Flight management and flight envelope protection
+@@Flight management and flight guidance
+
+Q28. The Flight Guidance are: (E&A Repair)
+@@Autopilot, flight director, autothrust
+Flight management, autopilot, autothrust
+Autopilot, flight plan, autothrust
+Autopilot, flight director, flight plan
+
+Q29. The mcdus allow: (E&A Repair)
+Used control of the aircraft for short term
+Modification of FG parts
+@@Used control of the aircraft for long term
+Make the flight plan and engage the autopilots
+
+Q30. The main function of the FAC are: (E&A Repair)
+Yaw damper, rudder trim, rudder travel limitation
+Yaw damper, rudder trim, flight envelope protection
+Rudder trim, rudder travel limitation, flight envelope protection
+@@Yaw damper, rudder trim, rudder travel limitation, flight envelope protection
+
+Q31. In flight AP can be engaged when: (E&A Repair)
+Aircraft in take off phase
+Aircraft in climb phase
+@@At least 5 seconds after lift-off
+Aircraft in cruise phase
+
+Q32. Rudder travel limitation is a function of: (E&A Repair)
+@@FAC only
+FAC in normal and ELAC in alternate
+ELAC only
+ELAC in normal and FAC in alternate
+
+Q33. The trim function of the FAC is: (E&A Repair)
+A pitch trim
+@@A rudder trim
+An elevator trim
+A rudder trim and a pitch trim
+
+Q34. The trust limit is computed by: (E&A Repair)
+The FMGC according to the AP/FD mode
+@@The ECU (EEC) according to the thrust lever position
+The ECU (EEC) according to the AP/FD mode
+The FMGC according to the ECU (EEC) order
+
+Q35. In Auto mode the trust target is computed by: (E&A Repair)
+@@The FMGC according to the AP/FD mode
+The ECU (EEC) according to the thrust lever position
+The ECU (EEC) according to the AP/FD mode
+The FMGC according to the ECU (EEC) order
+
+Q36. The mandatory parameter used by FAC for Alpha Floor protection is: (E&A Repair)
+A/C maximum speed
+A/C minimum speed
+
+Q37. Normally FAC 1 uses Vc input signal to computes RTL from: (E&A Repair)
+ADIRU 1 and ADIRU 2
+@@ADIRU 1 and ADIRU 3
+ADIRU 2 and ADIRU 3
+ADIRU 1,ADIRU 2 and ADIRU 3
+
+Q38. The baro correction or reference selected is sent to each ADIRU from the: (E&A Repair)
+@@FCU
+Master FMGC
+Rmps
+ADIRS CDU
+
+Q39. In normal operation the ADIRU’S are aligned using information from the: (E&A Repair)
+FCU
+ADIRS CDU
+AIDS
+@@Fmgcs
+
+Q40. In cruise, lateral AP orders are executed by: (E&A Repair)
+Ailerons and rudder
+@@Aileron and spoilers
+Spoilers and rudder
+Spoilers, ailerons and rudder
+
+Q41. With the aircraft in flight, AP engaged and A/THR activated, the A/THR mode: (E&A Repair)
+@@Depends on the AP vertical mode
+Depends on the AP lateral mode
+Can be set by the pilot via FCU
+Can be set by the pilot via mcdus
+
+Q42. The “GROUND SCAN” allows: (E&A Repair)
+AFS computers test on ground
+Land cat 3 capability test on ground
+@@AFS fault detection on ground
+Complementary tests during landing
+
+Q43. In case of FMGC 2 failure, FMGC 1 auto tunes: (E&A Repair)
+Side 2 radio nav receivers through RMP 2
+Side 2 radio nav receivers through RMP 1
+@@Side 2 radio nav receivers directly
+Side 2 radio nav receivers through RMP 3
+
+Q44. The fuel and time prediction functions are performed by: (E&A Repair)
+FG part of the fmgcs
+@@FM part of the fmgcs
+
+Q45. On the FMA, in the fifth column: (E&A Repair)
+A/THR can be in green only
+A/THR in cyan indicates A/THR is active
+A/THR can be in green or cyan only
+@@A/THR in white indicates A/THR is active
+
+Q46. In flight, you can engage the second AP during: (E&A Repair)
+Cruise phase
+Descend phase
+@@Approach phase and ILS armed
+A/C on ground
+
+Q47. With AP 1 engaged: (E&A Repair)
+@@FMGC 1 supply both fmas
+FMGC 1 supply FMA on CAPT PFD ,FMGC 2 supply FMA on F/O PFD
+FMGC 1 supply FMA on F/O PFD ,FMGC 2 supply FMA on CAPT PFD
+FMGC 2 supply both fmas
+
+Q48. The main task of the Decoder encoder unit is to: (E&A Repair)
+Interface between directors and aircraft systems
+@@Interface between directors and cabin systems
+Control the various cabin systems
+Enable cabin configuration to be changed and system test to be performed
+
+Q49. The SELCAL function: (E&A Repair)
+Performed by an independent unit connected to the AMU
+@@Integrated in the AMU
+Performed inside each transceiver
+Performed inside each ACP
+
+Q50. If the FWD attendant calls the cockpit: (E&A Repair)
+@@ATT light comes on on all the acps and a buzzer is generated by the FWC
+CALL light comes on on the attendant indication panel and a buzzer is generated by the CIDS
+ATT light comes on on the capt’s ACP and buzzer is generated by FWC
+ATT light comes on on the forward attendant panel and a high low chime is generated by the CIDS
+
+Q51. Aircraft on ground, in order to communicate from the cockpit to the APU position , you must:
+Select the INT on the audio control panel, and press the “SERV INT” pushbutton
+@@Press “CAB” transmission key
+Press the “SERV INT” pushbutton
+Press “CAB” receiving knob
+
+Q52. The acps reset key is used to: (E&A Repair)
+Extinguish all the lights
+@@Extinguish all the lighted calls
+Cancel all previous selections
+Extinguish all acps lights
+
+Q53. Which is the main unit if the CIDS? (E&A Repair)
+The CAM
+The deus
+@@The directors
+The FAP
+
+Q54. VOR 2 tuning frequencies can be controlled by the: (E&A Repair)
+RMP 1 or FMGC
+RMP 2 only
+Either RMP 1,RMP 2 or RMP 3
+@@RMP 2 or FMGC
+
+Q55. When selecting VHF 2 on RMP 1 the “SEL” light: (E&A Repair)
+Does not illuminate
+@@Illuminates on RMP 1 and RMP 2
+Illuminates on RMP 1 only
+Illuminates on RMP 2 only
+
+Q56. The cabin loudspeakers are connected to the (E&A Repair)
+@@Deu A
+Directors
+Deu B
+Area call panel
+
+Q57. If the Director 1 fails, what happens? (E&A Repair)
+Director 2 take over and provides the PA function only
+You must energize the emergency mode by pressing the EMER pushbutton on FAP
+The DEU A are disconnected, due to the TOP CUT OFF relay
+@@Director 2 provides automatically all the CIDS functions
+
+Q58. Which unit provides the amplification function for the cabin loudspeaker? (E&A Repair)
+@@The AMU
+
+Q59. Three green bars illuminated on the ACP’S VHF 2 key means: (E&A Repair)
+VHF 2 operation is correct
+A selcal is received on VHF 2
+@@VHF 2 is selected in transmission
+VHF 2 is selected in reception
+
+Q60. VHF used for: (E&A Repair)
+@@Short range communication
+Long range communication
+Communication between A/C and ground station
+Communication between A/C and other A/C
+
+Q61. HF used for: (E&A Repair)
+Short range communication
+@@Long range communication
+Communication between A/C and ground station
+Communication between A/C and other A/C
+
+Q62. When one engine is running, the audio level of cabin loudspeakers is increased, which unit controls this function? (E&A Repair)
+The deus
+@@The directors
+The CAM
+The programming and test panel
+
+Q63. The loudspeaker volume knobs allow:
+Controls the loudness of aural alerts and voice messages
+Controls the loudness of voice messages only
+@@Adjusts the volume of the loudspeaker for radio communication
+Adjusts the volume of the loudspeaker for radio communication , aural alerts and voice messages
+
+Q64. When aircraft is on jacks, in order to communicate from cockpit to APU compartment, the first you must:
+Press “CAB” transmission key on ACP
+Press “INT” transmission key on ACP
+Select the INT/RAD switch to INT position
+@@Press “SVCE INT OVRD” pushbutton switch on overhead panel
+
+Q65. The ACARS allows:
+Interface between system and other system of the aircraft
+Interface between aircraft and other aircraft
+Interface between aircraft and any ground stations
+@@Direct exchange of data between aircraft and airline computer through VHF 3
+
+Q66. What does the illumination of the “CALL” light on the VHF or HF transmission keys indicate? (E&A Repair)
+@@The SELCAL system detects a call
+The tower call the aircraft
+The call from cabin attendant
+The call from ground mechanic
+
+Q67. Whih RPM is powered in the emergency electrical configuration? (E&A Repair)
+RMP 1 and RMP 2
+@@RMP 1
+RMP 2
+RMP 1 ,RMP 2 and RMP 3
+
+Q68. When ACP 1 fails: (E&A Repair)
+ACP 3 take over by selecting the selector on audio switching panel to F/O 3 position
+ACP 3 take over automatically
+The audio control functions are lost
+@@ACP 3 take over by selecting the selector on audio switching panel to CAPT 3 position
+
+Q69. Escape slide and door pressure sensors are connected to: (E&A Repair)
+DEU A
+@@DEU B
+Directors
+Programming and test panel
+
+Q70. How are the communications radios controlled? (E&A Repair)
+From any one of the 3 RMP’s
+From any one of the 3 ACP’s
+From any one of the 2 MCDU’s
+@@From any one of the 3 RMP’s and one of the 3 ACP’s
+
+Q71. How is the RAT extension system controlled?
+By mean of two solenoids energized at the same time
+By mean of three solenoids
+@@By mean of two solenoids
+By mean of one solenoid only
+
+Q72. The supply priorities for FOR AC BUS 1 (2) are:
+The related IDG, then the other IDG, then External Power, then the APU Generator
+External Power, then the APU Generator, then the related IDG, then the other IDG
+External Power, then the related IDG, then the other IDG, then the APU Generator
+@@The related IDG, then External Power, then the APU Generator, then the other IDG
+
+Q73. The AC ESS BUS is normally supplied by:
+AC BUS 2.
+@@AC BUS 1
+Static Inverter
+Emergency Generator
+
+Q74. What is the DC ESS BUS supplied by if TR2 has failed:
+TR 1
+@@ESS TR
+BAT 2
+AC 1
+
+Q75. On ground, aircraft is not electrically supplied, the activation of <MAN ON> switch P/B causes:
+Reset of CSM/G control unit
+@@RAT extension
+Nothing to happen
+Test of RAT and EMERGEN fault light
+
+Q76. The emergency generator is located
+In APU compartment
+@@In the Main Wheel Well
+In the Avionics Compartment above batteries
+Alongside the Ram Air Turbine (RAT)
+
+Q77. checked?
+There is NO INDICATION
+On the SCAM ELEC page
+@@On the ELEC-OVERHEAD panel
+On the EMR.ELEC.POWER panel
+
+Q78. With the emergency generator running
+Emergency generator takes over essential buses, only if both AC BUS 1 and 2 are off
+Nothing happens if generator 1 and 2 supply their own networks
+@@Emergency generator takes over essential buses
+And a generator fails, the emergency generator takes over the corresponding networks .
+
+Q79. When the SMOKE push button released out:
+Fuel pump 1 on the left and right supply direct from AC BUS1
+Fuel pump 1 on the left and right supply direct from GEN 2
+@@Fuel pump 1 on the left and right supply, direct from GEN. 1
+Fuel pump 2 on the left and right supply direct from GEN 1
+
+Q80. What is the DC ESS BUS SHED supply if TR 1 has failed
+TR 1
+BAT 2
+@@ESS TR
+BAT 1
+
+Q81. Can you reset IDG 1 in the flight?
+Yes
+@@No
+
+Q82. What is the configuration if BTC 1 is open and BTC 2 closed
+EXT PWR "supplies AC BUS 1 and GEN 2 supplies AC BUS 2
+APU GEN supplies AC BUS 1 and AC BUS 2
+APU GEN supplies AC BUS 1 and EXT PWR supplies AC BUS2
+@@GEN 1 supplies AC BUS 1 and EXT PWR supplies AC BUS 2
+
+Q83. Following an IDG 1 over temperature, IDG 1 is:
+Automatically de-energized and re-energized as soon as the Temperature returns to Normal
+Manually de-energized by pressing GEN 1 Pushbutton
+Automatically disconnected and reconnected as soon as the Temperature returns to Normal
+@@Disconnected by pressing the guarded IDG 1 Pushbutton
+
+Q84. Maintenance buses only are supplied when:
+External power is connected and blue ON light on EXT PWR pushbutton illuminated; MAIN BUS switch in ON position
+@@External power is connected and the green AVAIL light on EXT PWR pushbutton illuminated; MAIN BUS switch is ON position
+Any generator is coupled to the network; MAIN BUS switch is in ON position,
+The APU generator or external power is connected.; EXT PWR pushbutton illuminated; MAIN BUS switch in ON position
+
+Q85. illuminated when:
+An External Power Source is supplying the Aircraft Network
+An External Power Source is supplying the Maintenance Bus Bars
+At least one External Power Parameter is not correct, the External Power Contactor (EPC) stays Open
+@@All External Power Parameters are correct but the EPC is Open
+
+Q86. If a high APU generator oil temperature detection occurs:
+@@An immediate APU shut down is commanded and the APU Generator is denergized
+The APU Generator is disconnected only
+The APU Generator Fault Light illuminates only
+A Warning Message is displayed on ECAM only
+
+Q87. What does the AC ESS FEED PB white “ALT” light indicates?
+AC ESS BUS is supplied by AC BUS 1
+@@AC ESS BUS is supplied by AC BUS 2
+AC ESS BUS is supplied by EMER GEN
+AC ESS BUS is supplied by STATIC INVERTER
+
+Q88. How is the DC BAT BUS normally powered by?
+BATTERIES
+@@DC BUS 1 through a DC tie contactor
+DC BUS 2
+DC ESS BUS
+
+Q89. If both main AC BUSES lose electrical power with airspeed above kts, what will happen?
+Nothing
+The RAT deploys
+The EMER GEN supply power to the A/C network
+@@The RAT automatically deploys and pressurizes the Blue hydraulic system,which drives the hydraulic driven EMER GEN
+
+Q90. What is the output of the emergency generator?
+90 KVA
+10 KVA
+@@5 KVA
+1 KVA
+
+Q91. What is the purpose of the static inverter?
+@@To provide AC power to the AC ESS bus from the BAT when operating in the EMER ELEC configuration
+To provide DC power to the DC ESS bus
+To provide AC power to the AC BUS 1 from the BAT when operating in the EMER ELEC configuration
+To provide AC power to the AC STATIC INV bus from the BAT when operating in the EMER ELEC configuration
+
+Q92. What is the output of APU generator?
+@@90 KVA
+50 KVA
+5 KVA
+1 KVA

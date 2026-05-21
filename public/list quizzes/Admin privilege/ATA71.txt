@@ -1,0 +1,65 @@
+Q1. For CFM56, the thrust reverser cowl doors are opened:
+Electrically by a motor or manually and secured by a hold open rod.
+Hydraulically or manually and secured by a hold open rod.
+@@Hydraulically and secured by a hold open rod
+The cowling assembly consists of :
+
+Q2. The air intake cowl, the fan cowl, the thrust reverser cowl and the primary exhaust (primary nozzle and center body).
+The air intake cowl, the fan cowl, the thrust reverser cowl and the common nozzle assembly.
+The air intake cowl, the fan cowl, the thrust reverser cowl and the center body.
+
+Q3. Inlet cowl and fan cowl
+Inlet cowl, fan cowl and thrust reverser cowl.
+
+Q4. Telescopic type with 2 positions: 40 degree for routine maintenance and 55 degree for increased access.
+Telescopic type with 3 positions: 30 degree for routine maintenance, 40 degree for ECU removal access and 55 degree for increased access.
+
+Q5. What is one of the major structural and aerodynamic components of the engine?
+Fan/Booster Rotor
+Fan/Booster Stator
+@@Fan frame.
+
+Q6. The engine is attached to the pylon by
+@@FWD and AFT mounts.
+FWD, middle and AFT mounts.
+Three mounts.
+
+Q7. The FAN cowl door is held in position by:
+One hold open rod
+One hydraulic actuator
+@@Two hold open rods.
+
+Q8. Each thrust reverser “C” duct is opened by:
+One electric actuator
+One pneumatic actuator
+@@One hydraulic actuator
+
+Q9. The power plant drain system is located:
+At the bottom of engine
+At the rear part of pylon
+@@Both A and B.
+
+Q10. For CFM56, the fan cowl is equipped with:
+@@Three (3) latches
+Four (4) latches
+Five (5) latches
+
+Q11. For CFM56, the thrust reverser cowl is equipped with:
+Three (3) latches
+@@Four (4) latches
+Five (5) latches.
+
+Q12. The forward mount:
+Carries the engine torque, thrust and side loads.
+Carries the engine torque, vertical and side loads.
+@@Carries the engine thrust, vertical and side loads.
+
+Q13. The aft mount:
+Carries the engine torque, thrust and side loads.
+@@Carries the engine torque, vertical and side loads.
+Carries the engine thrust, vertical and side loads.
+
+Q14. Can be replacement engine with the air intake cowl installed?
+@@Yes, Engine can be replacement with or without the air intake cowl installed.
+No, Engine cannot replacement with the air intake cowl installed.
+No, Engine only can be replacement without the air intake cowl installed.

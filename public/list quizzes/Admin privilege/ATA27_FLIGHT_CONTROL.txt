@@ -1,0 +1,126 @@
+Q1. In normal condition, what are the active protections in flare mode?
+@@Bank angle and stall protections
+Bank angle and high speed protections
+Stall protection only
+
+Q2. Which modes exist for an elevator servo control actuator?
+Only the re-centering mode
+@@Active, damping and centering mode
+Active and damping mode
+Active, damping and locking mode
+
+Q3. With complete EFCS (ELECTRIC FLIGHT CONTROL SYSTEM) failure the rudder and THS are:
+Lost
+@@Controlled by mechanical channels
+Only usable during land/recovery
+Operated electrically
+
+Q4. If ELAC 1 and 2 have failed:
+Pitch control is provided by the FAC's
+Pitch control can only be achieved from the trim wheels
+@@Pitch control is controlled by SEC 2 or 1
+Pitch control is controlled by the FCDC's
+
+Q5. Which modes exist for an aileron elevator servo control actuator?
+Only the re-centering mode
+Active, damping and centering mode
+@@Active and damping mode
+Active, damping and locking mode
+
+Q6. What effect on the slat and flap system will failure of SFCC 2 cause?
+Slat system operates at half speed
+Flap system operates at half speed
+@@Slat and flap systems operate at half speed
+Slat and flap systems are locked
+
+Q7. Slat retraction from 18° to fully retracted is inhibited if :
+@@ > 8.5° or CAS < 148 Kts
+ < 7.1° or CAS > 171 Kts
+ > 8.5° or CAS > 148 Kts
+ > 8.5° or CAS < 171 Kts
+
+Q8. Which surfaces are used for the load alleviation function?
+Ailerons and spoilers 1 and 2
+@@Ailerons and spoilers 4 and 5
+Only spoilers
+Ailerons and spoilers 1 to 4
+
+Q9. How many servo control actuators power the rudder surface?
+One
+Two
+@@Three
+Four
+
+Q10. When both side sticks are moved in the same or opposition direction:
+@@The surface movement is proportional to the algebraic sum of the deflection of both side sticks
+The surface movement is proportional to the last stick deflection
+The surface movement follows the captain's side stick deflection
+The surface movement follows the co-pilot's side stick deflection
+
+Q11. If one hydraulic system fails:
+Only the roll and pitch axes are available
+@@All the three axes are available with some roll spoiler retraction
+Manual pitch trim and rudder are available
+All servo control actuators are supplied through the PTU 89.
+
+Q12. What signals cause the rudder pedal movement?
+Yaw damping signals.
+@@Rudder trim signals
+Turn coordination signal
+Nothing
+
+Q13. With one flap PCU motor inoperative, the flap system:
+@@Operates at half speed
+Operates normally
+Is locked by the pressure off brakes on both wings
+Is locked by the wing tip brakes
+
+Q14. FAC 1 controls and monitors one yaw damper, one electrical rudder trim motor and:
+@@One electrical motor for the rudder travel limitation unit
+One servo actuator on each elevator
+Both THS trim motors
+The mechanical linkage from rudder pedals
+
+Q15. In normal conditions, what are the active protections in flare mode?
+@@Bank angle and stall protections
+Bank angle and high speed protections
+Stall protection only
+
+Q16. What are the active protections in direct law
+Stall protection
+@@No protection
+
+Q17. What happens if an electric trim motor fails
+THS electric trim is lost
+THS trims at half speed
+@@THS electric trim is fully available
+
+Q18. Which signals cause rudder pedal movements
+Yaw damping signals
+@@Rudder trim signals
+Turn coordination signals
+
+Q19. What happens when slat/flap config is 1+F and CAS (Calibrated air speed) reaches 210 knots?
+@@Flaps retract automatically to 0 and the new Slat/Flap config is 1
+Flaps extend automatically because the speed too high
+The alpha lock function is engaged because the speed too high
+
+Q20. When is the half speed monitor active?
+As soon as the directional valve energized
+@@When the control valve is in full speed position
+Always
+
+Q21. SFCC 1 flap channel has failed. What are the consequences for the flap system?
+The flap system is locked by WTB.
+The flap system is not affected
+@@The flap system operates at half speed
+
+Q22. Where are the Wing Tib Brakes located?
+At the wing tib, outboard of the APPU
+@@Between tract 11 and 12, in each wing.
+Between tract 7 and 8, in each wing.
+
+Q23. Where are the torque limiters located?
+On the torque sharps
+@@On the actuators
+On the PCU output sharps

@@ -1,0 +1,107 @@
+Q1. In case of electrical power failure, with engine running, the engine anti-ice valve is:
+Fully closed
+@@Fully open
+Modulating
+Mechanically latched in its last position
+
+Q2. Slats protected by hot air supplied from the pneumatic system are:
+Three inboard leading edge slats
+@@Three outboard leading edge slats
+Slat 2, 3, 4
+All the slats
+
+Q3. When is the TAT probe heated?
+@@Heated in flight - not heated on ground
+Heated on ground - not heated in flight
+Heated when the outside temperature is less than 0°C
+Heated when the outside temperature is greater than 0°C
+
+Q4. A ground test of the wing anti-ice system, with pneumatic pressure available, tests:
+The warning system
+Only the indications as the valves cannot be opened on ground
+@@The operation of the valves
+Only the valves solenoid supply as the valves cannot be opened on ground
+
+Q5. The wing anti-ice valve is:
+@@A modulating and isolation valve
+Only an isolation valve
+Partially open in flight, fully open on ground
+
+Q6. How is the wing anti-ice valve controlled and operated?
+Pneumatically controlled and electrically operated
+Pneumatically controlled and operated
+Electrically controlled and operated
+@@Electrically controlled and pneumatically operated
+
+Q7. How many computers does the Window Heat system use?
+A single computer for the LH side and RH side
+Two computers, one for the LH side and RH side and the other one as a back-up
+@@Two computers, one for the LH side, one for the RH side
+No computer is used for this system
+
+Q8. Can you operate the wing anti-ice system on ground?
+No, you can operate the system in flight only
+@@Yes, but for a limited time of 30 secs
+Yes, for an unlimited time
+Yes, but only if the outside temperature is less than 10°C
+
+Q9. In the event of a wing anti-ice valve failure?
+Each valve can be deactivated in open position.
+@@Each valve can be deactivated in close position.
+Each valve can be deactivated either in close or open position.
+
+Q10. Hot air used for wing anti-iced is taken from?
+@@Aircraft pneumatic system.
+Bleed from either engine 1 or 2.
+Directly from the main engine compressors.
+
+Q11. What happens in case of insufficient air pressure to the engine anti-ice valve?
+@@The valve closed as it is spring loaded closed.
+The valve opened as it is spring loaded open.
+Stayed as it is.
+
+Q12. With both engine anti-ice push buttons set to ON
+The N1 limit will increase.
+@@The N1 limit will decrease.
+The N1 limit will not change.
+
+Q13. In the event of an engine anti-ice valve failure?
+Each valve can be deactivated in open position.
+@@Each valve can be deactivated in close position.
+Each valve can be deactivated either in close or open position.
+
+Q14. What happens when the EIU power supply C/B are pulled?
+Nothing happens.
+The windshield heating is cut off.
+@@The windshield and windows are heated.
+
+Q15. What happens in case of WHC failure?
+The failed WHC connects to the other.
+Both systems are lost.
+@@The heating of the related side is lost.
+
+Q16. How do you complete a test of the drain mast heating system?
+From PTP.
+From test push button of the control unit.
+@@Both a & b.
+
+Q17. How the Pitot probe be HEATED ?
+Heated in flight - not heated on ground
+Heated on ground - not heated in flight
+@@Reduced heating on GND, normal heating in FLT.
+Heated when the outside temperature is greater than 0°C
+
+Q18. When PROBE/WINDOW HEAT push button is in auto position and you run one engine, what happens?
+@@All Probe and Windows heat systems activated.
+Probe and Windows on the related side of the engine will be heated.
+Nothing happens.
+
+Q19. How is the engine anti-ice work?
+Electrically controlled and operated by 5th stage bleed air, spring loaded open.
+@@Electrically controlled and operated by 9th stage bleed air, spring loaded closed.
+Electrically controlled and operated by 9th stage bleed air, spring loaded open.
+
+Q20. The Engine anti-ice valve FAULT light comes on
+During valve transit.
+When position disagreed
+@@During valve transit or when position disagreed.

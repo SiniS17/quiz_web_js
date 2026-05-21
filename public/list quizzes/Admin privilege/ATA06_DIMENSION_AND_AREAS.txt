@@ -1,0 +1,38 @@
+Q1. The A320/A321 aircraft is divided into zones as follows:
+@@The major zones, the major sub-zones, the zones.
+The zones and sub-zones.
+The zones and the station.
+The major zones, the major sub-zones
+
+Q2. The station is for all structural measurement in the X axis is located in:
+The rib 1 of the aircraft.
+@@254cm forward of aircraft nose.
+Aircraft nose.
+
+Q3. Each major zone is identified by:
+Three digit number and two letters
+Three digit number
+@@The first digit of three digit number
+
+Q4. Access doors and panels are identified by:
+@@The number of the zone in which the panel is located followed by a two-letter suffix.
+The number of the zone in which the panel is located followed by one letter suffix.
+A two-letter followed by the number of the zone in which the panel is located suffix.
+
+Q5. There are how many major zones in the aircraft?
+4
+6
+@@8
+10
+
+Q6. The general fuselage section base number is:
+@@10
+20
+30
+40
+
+Q7. The general wing section base number is:
+10
+@@20
+30
+40

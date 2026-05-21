@@ -1,0 +1,46 @@
+Q1. What you do not have to do before you lift the aircraft with jacks?
+Make sure that the GND safety locks are in position on the landing gears
+Make sure that the aircraft is stable
+
+Q2. The Tail Safety stay is used to:
+Share load with the main jacks during jacking process
+Keep the aircraft more stable during landing gear retraction/ extension tests
+@@Keep the aircraft stable on jacks
+
+Q3. How many points on the structure are designated for the purpose of lifting the aircraft?
+@@3
+4
+2
+
+Q4. What is correct answer?
+You can not lift the aircraft with jacks when the tires and the shock absorbers are deflated.
+You can not lift the aircraft at the forward jacking point only, with the wheels of the main landing gear on the ground
+@@You must not apply more than the safe load at each jacking point.
+
+Q5. What is the configuration of the aircraft ready for jacking?
+Wheel chocks ON, Parking brake ON.
+@@Wheel chocks OFF, Parking brake OFF.
+Wheel chocks ON, Parking brake OFF.
+
+Q6. Distribution of load must be clearly indicated at?
+Forward and wing jacking points.
+@@Forward, wing and tail jacking points.
+Tail jacking point.
+
+Q7. What is permissible during jacking for main LDG wheel change?
+Cargo, PAX loading.
+Gate docking.
+@@Installation of the wheel chocks on the wheels of the other main LDG.
+
+Q8. Application of flight configuration precaution is required when
+@@Lifting the aircraft on jacks.
+Jacking a MLG for wheels change.
+Lifting the aircraft at Forward Jacking Point, MLG Wheels on the Ground.
+
+Q9. The purpose of shoring of the aircraft is to:
+@@Give a support to the wing in order to release the loads on the structure.
+Keep the aircraft more stable on jacks.
+Both of the above.
+
+Q10. In which document you will find the detail instruction for shoring the aircraft?
+@@SRM chapter 51.
