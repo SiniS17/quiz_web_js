@@ -1,0 +1,52 @@
+142.	Oil pressure indicator becomes red when pressure is lower than: (ME REPAIR, E&A REPAIR)
+10 psi
+@@13 psi
+200 psi
+There is no specific limit itself.
+
+143.	What happen in case the main filter on the lubrication line is clogged (ME REPAIR)
+The by-pass valve opens, half of the oil flow passes through the main filter, and the other part through the back up filter
+A low oil pressure warning is triggered
+A red warning is triggered, oil temperature increases
+@@The engine page appears on ECAM oil passes through the by pass valve, back up filter and to the bearings
+
+144.	What is (are ) the indications in case of metallic parts in the common scavenge oil pipe? (ME REPAIR)
+@@Only a popped clogging indication on the electrical chip detector indicator
+An ECAM warning and a popped clogging indication on the electrical chip detector indicator
+A low oil pressure indication and warning
+A high oil temperature indication and warning
+
+145.	Normal engine oil consumption is? (ME Repair)
+0,85 QT per hour.
+0.25 QT per hour.
+@@0.57 QT per hour.
+
+146.	Engine oil system is ventilated at? (ME Repair)
+RH fan cowl exhaust nozzle.
+LH fan cowl exhaust nozzle.
+@@Engine center body exhaust.
+
+147.	The oil tank content can be checked by? (ME Repair, E&A Repair)
+@@Opening a dedicated servicing access panel in the LH fan cowl.
+Opening an access panel on the LH “C’ duct.
+Opening the RH fan cowl
+
+148.	How is the main cooling of the oil system achieved? (ME Repair, E&A Repair)
+By an air-cooled oil cooler.
+By a fuel cooled oil cooler in the HP fuel system.
+@@By a fuel cooled oil cooler in the LP fuel system.
+
+149.	Engine oil heat exchanger is on? (ME Repair)
+The oil supply circuit.
+@@The oil scavenge circuit.
+The oil ventilation circuit.
+
+150.	Engine oil MCD is on? (ME Repair, E&A Repair)
+The oil supply circuit.
+@@The oil scavenge circuit.
+The oil ventilation circuit.
+
+151.	Engine oil temperature indication is measured on? (ME Repair, E&A Repair)
+@@The oil supply circuit.
+The oil scavenge circuit.
+The oil ventilation circuit.
