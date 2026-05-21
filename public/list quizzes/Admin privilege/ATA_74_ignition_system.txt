@@ -6,6 +6,7 @@ High voltage, low energy.
 Q2. What provide the selection of ignition A/B?
 @@The ECU.
 The engine control panel.
+The ECAM control panel. 
 
 Q3. The ignition is cut off (ME REPAIR, E&A REPAIR)
 @@Automatically during start when N2 reaches 50%.
@@ -51,6 +52,8 @@ Both ignition systems are selected during engine start.
 
 Q11. The operating servo pressure in the VSV system is? (ME REPAIR)
 Stage 10th air pressure.
+@@Fuel servo pressure. 
+Aircraft hydraulic system pressure. 
 
 Q12. The compressor airflow system control is from?
 The Bleed Monitoring Computer (BMC).
@@ -95,3 +98,5 @@ Fan air taken from nacelle cooling system.
 
 Q20. What is used to cool the fan and core compartments?
 Ram air for both compartments
+Fan air for both compartments. 
+@@Ram air for fan compartment and Fan air for core compartment. 
