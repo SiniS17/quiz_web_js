@@ -1,0 +1,2264 @@
+PIU interface between
+PEC and PVM
+@@Power management switch and PEC
+PEC and HMU
+
+The failures of the propeller control system will be stored in the:
+MFC maintenance memory
+EEC memory
+@@PEC memory
+
+The primary and back-up channel of PEC is :
+Operating simultaneous.
+@@Primary fail, back-up chanel will take over
+Primary channel operate, back-up channel monitor
+
+The propeller can be feathered by:
+Power lever.
+@@Condition lever.
+PWR MGT selector.
+
+"READY" light come on when
+Gust lock ON, HYD 3000psi, CL in feather or S/O
+@@Fire hand 2 is push in, HYD 3000psi, CL in feather or S/O, gust lock On
+Fire hand 2 is push in, HYD 3000psi, CL in feather or S/O.
+
+When propeller brake is engaged:
+The low pressure turbine is immobilised.
+The high pressure turbine is immobilised.
+@@The free turbine is immobilised.
+
+The green READY light must be on before engage or release the propeller brake. Conditions for
+@@Aircraft on ground, Gust lock ON, propeller in feather position, Blue pressure is 3000psi.
+Aircraft on ground, Gust lock ON, CL at FTR position, Blue pressure is 3000psi.
+Aircraft on ground, Gust lock OFF, propeller in feather position, Blue pressure is 3000psi.
+
+Propeller brake is engaged by Blue hydralic pressure. If after propeller has been engaged this
+@@Brake remains engaged.
+Crossfeed valve must be open to take pressure from Green system.
+Brake is realeased.
+
+Propeller brake is considered engaged if:
+Only "PROP PRK" light on Memo panel is on.
+Only "PROP PRK" light on Propeller brake panel is on.
+@@Both a and b are correct.
+
+The propeller is driven by:
+Free turbine through AGB.
+HP turbine through RGB.
+@@Free turbine through RGB.
+
+What is direction of propeller rotation if seen rearwards:
+@@Clockwise.
+Counterclockwise.
+Clockwise and counterclockwise.
+
+Propeller’s RPM is:
+@@1200 RPM.
+1400 RPM.
+1600 RPM.
+
+On pedestal, a red light incorporated in
+Power lever
+Emergency extension handle
+@@Condition Lever
+
+The positions of the power lever, starting forward are
+100% OVRD, TO (Take Off), FI, GI
+TO (Take Off), FI, GI, REV, FUEL S.O
+@@MAX PWR, TO (Take Off), FI, GI, REV
+
+The AFU is installed
+On the engine forward RH side, looking forward.
+On shelf VU90 in flight compartment
+@@On the engine forward LH side, looking forward
+
+The condition lever has positions
+AUTO, FTR, FUEL S.O.
+AUTO, FI , FTR, FUEL S.O.
+@@100% OVRD, AUTO, FTR, FUEL S.O.
+
+The propeller control system is commanded by
+@@The condition lever, the power lever and the power management (PWR MGT) selector switch
+The condition lever, the power lever
+The condition lever, FLAP control lever
+
+What is speed governing mode?
+@@Constant propeller RPM
+Variable propeller RPM
+Both A and B
+
+Beta mode is used:
+@@Variable speed control for ground operation and reverse pitch by Power Lever
+Variable speed control during take off
+Constant speed control
+
+In “HOTEL MODE”, RH engine is
+Immobilization of the propeller and HP turbine
+@@Immobilization of the propeller and power turbine
+Immobilization of the HP turbine
+
+In “HOTEL MODE”, RH engine supplies
+ACW and air conditioning
+@@Direct current and air conditioning
+DC, ACW and air conditioning
+
+Hydraulic supply for propeller brake is provided by
+@@Blue hydraulic system
+Green hydraulic system
+Hand pump
+
+The right engine nacelle can be equipped
+A nacelle overheat single loop
+@@A nacelle overheat detector
+A nacelle overheat dual loop
+
+The propeller brake control (braking and releasing) will be efficient only if
+PARKING BRAKE is on.
+@@The “READY” light is on
+The “READY” light is flashing
+
+Oil leak through ACW carbon seal is drained towards:
+Drain mast.
+@@Drain manifold.
+Ecological tank.
+
+What type of engine is installed on the ATR72?
+@@Turbo prop
+Turbo fan
+Turbo jet
+
+On AGB are:
+Starter-DC generator, ACW generator, oil pump.
+Starter-DC generator , PVM, oil pump.
+@@Starter-DC generator , HP fuel pump, oil pump.
+
+On RGB are:
+@@ACW generator, PVM, Overspeed governor, feather pump.
+Starter-DC generator , PVM, oil pump.
+Starter-DC generator , HP fuel pump, oil pump.
+
+The HMU meters
+The quantity of fuel necessary for the fuel tank
+@@The quantity of fuel necessary to the fuel nozzles
+The quantity of fuel necessary for the econogycal tank
+
+At engine shut down the fuel from nozzle manifolds is drained towards:
+Drain mast.
+Drain manifold.
+@@Ecological tank.
+
+HMU is controlled
+In normal operation by the EEC
+In manual operation (degraded mode), by the power input lever.
+@@Both A and B
+
+The engine fuel system is
+@@Delivery of a fuel flow corresponding to the power lever position, compatible with the engine
+Supply of a fuel for fuel tank
+Delivery of a fuel flow corresponding to the condition lever position
+
+The fuel in Fuel heater is heated by:
+Ram air.
+Hot air from exhaust.
+@@Oil.
+
+Which filter makes the "FUEL CLOG” light come on?
+@@HP fuel pump filter is clogged.
+Fuel heater filter is clogged.
+Both HP fuel pump filter and Fuel heater filter are clogged.
+
+The ignition system initiates or maintains
+@@The burning of the fuel/air mixture in the combustion chamber
+The combustion of the fuel/air mixture in the HP turbine
+The fuel/air mixture in the combustion chamber.
+
+Ignition exciters are located:
+@@On the right hand side of engine.
+On the left hand side of engine.
+In the electronic rack in cockpit.
+
+The engine environment ventilation is necessary to
+Keep the operating temperatures within the required limits
+Enable an adequate operation of the engine
+@@Both A and B
+
+White mark (notch) on the center pedestal indicates power lever position:
+GI.
+FI.
+@@TO.
+
+When Gust lock is on:
+PL is locked at GI position.
+PL is locked at FI position.
+@@PL can not reach FI position.
+
+Where is the "IDLE GATE" handle located
+@@On the center pedestal
+On the LH glareshield
+On the RH glareshield
+
+The “IDLE GATE” function
+@@Prohibits in flight the displacement of the power lever below FI (Flight Idle) position.
+Prohibits in flight the displacement of the condition lever below FI (Flight Idle) position.
+Prohibits in flight the displacement of the parking lever.
+
+The power lever controls
+@@The fuel flow from MAX PWR (maximum power) to REV (reverse) position.
+the fuel flow from MAX PWR (maximum power) to SO (shut off) position.
+The fuel flow from MAX PWR (maximum power) to AUTO position.
+
+ITT indication is needed for
+Start monitoring
+During the flight to check the engines for correct operation
+@@Both A and B
+
+The engine exhaust system is comprised of
+The jet pipe
+The exhaust pipe
+@@The jet pipe, the exhaust pipe
+
+When is proper time for engine oil level check?
+After engine shut down, propeller stpped.
+@@After engine shut down, wait for 15 to 20 min.
+1 hour before depart.
+
+The sight glass for oil level check should be checked when?
+After engine shut down, propeller stpped.
+@@After engine shut down, wait for 15 to 20 min.
+1 hour before depart.
+
+The engine main oil pressure filter is located
+@@On left side of the engine
+On right side of the engine
+On bottom of the engine
+
+The engine scavenge oil system filter is located
+On left side of the engine
+@@On right side of the engine
+On bottom of the engine
+
+How do you know that oil filter is clogged?
+By indication in the cockpit.
+By oil low pressure warning.
+@@By pop-out indication on filter body.
+
+The oil system supplies oil to:
+Turbomachinery.
+Propeller reduction gear box and control system.
+@@Both answer are correct.
+
+Aircraft must be parked:
+@@Head into wind
+Tail into wind.
+Crosswind.
+
+Mooring is needed when:
+@@Aircraft on its wheels and parked outside, wind speed exceeding limit
+Aircraft on its wheels and parked in hangar wind speed exceeding limit.
+Aircraft on its wheels and parked outside, wind speed less than the limit.
+
+Air cycle machine consists of:
+Turbine wheel.
+Compressor wheel.
+@@Turbine wheel and Compressor wheel mounted on common shaft which is supported by air bearings
+
+A DUMP function is used:
+@@In case of emergency depressurization (full open signal
+In case of ditching.
+In both cases (a) and (b).
+
+A DITCH function is used:
+In case of emergency depressurization.
+@@In case of ditching.
+In both cases (a) and (b).
+
+To avoid a bump at landing the automatic mode controls the cabin altitude to have a value:
+Equal to selected landing altitude minus 530 ft.
+Equal to selected landing altitude plus 300 ft.
+@@Equal to selected landing altitude minus 300 ft.
+
+Overpressure relief allows the valve to open when:
+@@∆P reaches 6.35 PSI.
+∆P reaches 6.50 PSI.
+∆P reaches 0.50 PSI
+
+Turbine Inlet Control valve is
+A pneumatically operated temperature control valve.
+@@A thermally operated temperature control valve.
+A electrically operated temperature control valve.
+
+How many ram air inlets in A/C ATR72?
+1
+@@2
+3
+
+How many ram air inlet duct check valves are there?
+1
+@@2
+No
+
+How many turbofan check valves are located on the MLG aerodynamic fairing?
+1
+@@2
+3
+
+How is the temperature of the air conditioning system indicated in the cockpit?
+@@Gauge
+On screen display
+Both A and B are correct.
+
+Temperature gauge of air conditioning system has indication of area
+Cabin
+Cockpit
+@@Both A and B are correct.
+
+In the ATR 72 aircraft, pressurization is controlled by
+Auto
+Manual
+@@Either A or B is correct
+
+How many access door to inspect air conditionning system on FWD MLG lower faring?
+2
+@@4
+6
+
+Where are the access doors to inspect the air conditioning system located?
+Upper fuselage
+Lower fuselage AFT MLG zone
+@@Lower fuselage FWD MLG zone
+
+Where does battery ventilation air discharge?
+@@To the air
+To FWD cargo
+To under floor
+
+The conditioned air is distributed to
+@@The pressurized compartments
+The unpressurized compartments
+Both A and B are correct.
+
+In normal flight, pressure and pressure variations are kept within limits compatible with passenger comfort
+@@Automatically
+Manually
+Both A and B are correct.
+
+Aircraft pressurization is achieved by
+Unlimiting conditioning air discharge overboard
+@@Limit conditioning air discharge overboard
+Both A and B are correct.
+
+In the event of emergency depressurization, air conditioning system is provided
+@@An automatic and a manual emergency cabin depressurization
+An automatic emergency cabin depressurization
+A manual emergency cabin depressurization
+
+Flight Compartment and Cabin Temperature Control are divided in
+Three independent temperature controlled zones
+@@Two independent temperature controlled zones
+Not divided
+
+The pressurized air to operate the air conditioning system is bled from
+@@Either low and/or high bleed port of each engine
+Low bleed port of each engine
+High bleed port of each engine
+
+The ducts connecting the engines to the respective air cooling units
+Are not interconnected by a cross-feed valve
+@@Are interconnected by a cross-feed valve
+Both A and B are correct.
+
+The ground air connection check valve
+Is installed on RH side of aircraft in the ducting between the pressurized zones.
+Is installed downstream of ground connection
+@@Is installed on RH side of aircraft in the ducting between the pressurized zones, downstream of
+
+The ground air connection check valve
+@@Is a flapper type valve and prevents air from escaping overboard
+Is a crossfeed type valve
+Is a flapper type valve and prevents air from entering onboard
+
+The air conditioning system is provided
+For comfort of passenger and crew on the ground
+@@For comfort of passenger and crew on the ground as well as in flight
+For comfort of passenger and crew in flight
+
+The air conditioning system ventilates
+Components located in the avionics compartment
+The lavatory
+@@Components located in the avionics compartment, the lavatory
+
+The AFCS fulfills the following functions:
+Autopilot; Flight director; Auto Throttle
+@@Autopilot; Flight director; Yaw damper/turn coordination (YD)
+Autopilot; Auto Throttle; Yaw damper/turn coordination (YD)
+
+How many Autopilot Servo Actuator are there?
+2 (1 for Roll, 1 for Pitch)
+@@3 (1 for Roll, 1 for Pitch, 1 for Yaw)
+4 (1 for Roll, 2 for Pitch, 1 for Yaw)
+
+Where is the AFCS Comuter
+@@On shelf 82VU in L electronics rack 80VU
+On shelf 93VU in L electronics rack 90VU
+Under Fwd Cargo floor Frame 15-17
+
+The AFCS control panel enables:
+AP and YD engagement
+AP engagement and AP/FD mode selection
+@@AP and YD engagement and AP/FD mode selection
+
+The AP Actuators are:
+Hydraulic actuators
+@@Permanent magnet type DC actuator
+AC actuators
+
+AFCS control panel 3CA is located:
+On Maintenance Panel 701VU
+On Central pedestal Panel 8VU
+@@On glareshield 13VU
+
+The AP Actuators drive:
+@@Ailerons, Elevators and Rudder
+Ailerons, Spoilers, Elevators and Rudder
+Ailerons, Flaps, Elevators and Rudder
+
+The AP is disengaged automatically when:
+Engine fire warning
+Icing condition
+@@Stall warning
+
+GA mode selection disengages:
+@@AP
+YD
+AP/YD
+
+GA mode is: (Level 1)
+An AP mode only
+One of AP/FD mode
+@@An FD mode only
+
+Yaw Damper (YD) controlls:
+@@The yaw actuator.
+The pitch actuator.
+The roll actuator.
+
+Yaw damper function is engaged by:
+YD pushbutton switch on the AFCS control panel
+Automatic engaged with AP engagement
+@@Both a & b are correct
+
+The AFCS advisory display unit presents information on a display in:
+3 lines of 26 characters
+@@4 lines of 26 characters
+5 lines of 26 characters
+
+GO AROUND mode (GA mode) can be engaged by:
+Pressing on both GA push button in the same time
+Pressing on any GA push button
+@@Both a & b are correct
+
+Which trim actuator can be controlled by AFCS computer
+@@Elevator trim actuator
+Aileron trim actuator
+Rudder trim actuator
+
+What’s Basic mode?
+AP is engaged and the FD is active
+@@AP is engaged and the FD is not active
+AP is engaged and the YD is not active
+
+The AP pushbutton switch is located:
+On Capt control wheel
+On both Capt and F/O control wheel
+@@On AFCS control panel
+
+When crews disengages YD
+@@AP disengages an FD function remains
+AP and FD function remain
+AP and FD function disengage
+
+AP engagement is indicated by:
+Illumination of the arrows on both sides of the AP and YD pushbutton switches on the
+Display of the green AP ENG message on the EADIs
+@@Both a & b are correct
+
+VHF Frequency:
+@@a) 118.00 to 136.975 MHz
+b) 2 to 29.9999 MHz
+c) 118.00 to 250.975 MHz
+
+The aircraft is equipped with:
+03 VHF systems independent of each other. Two operate at the same time, one for standby
+@@02 VHF systems independent of each other.
+01 VHF system.
+
+VHF Control Unit is located:
+Glareshield
+@@Central Pedestal
+Overhead Panel
+
+The passenger address (PA) system enables:
+@@The crew members and the Cabin Attendant to transmit announcements to the passengers
+The Cabin Attendant to transmit announcements to the passengers
+The crew members to transmit announcements to the passengers
+
+Loudspeakers of passenger address system are located:
+in passenger compartment and Fwd Cargo compartment
+in passenger compartment and Aft Cargo compartment
+@@in passenger compartment and lavatory area
+
+The passenger address (PA) system comprises:
+@@A passenger address amplifier; Loudspeakers; A transformer; Handsets
+A receiver; A transformer; Handsets; Loudspeakers
+A passenger address amplifier; Loudspeakers; A receiver; Handsets
+
+The Mechanic call horn is located:
+@@Nose gear well
+Inside the randome
+RH Main gear well
+
+How can ground staff call to flight crews:
+By push the PILOT/CALL AC-external-power-control-panel pushbutton
+@@By push the PILOT/CALL DC-external-power-control-panel pushbutton
+By push the PILOT/CALL pushbutton on Cargo door control panel
+
+When cabin attendant lift the handset and press the CALL pushbutton; In cockpit:
+@@A door bell sounds at regular intervals in the flight compartment and CALL legend of CALLS/ATTND pushbutton switch 1RM comes on
+A SINGLE CHIME in the flight compartment and ATTND light comes on (on CAP)
+A door bell sound at regular intervals in the flight compartment only
+
+Service Interphone system includes:
+02 Jacks to connect headset (DC-external panel; Hydraulics bay)
+02 Jacks to connect headset (DC-external panel; Aft Avionic bay)
+@@03 Jacks to connect headset (DC-external panel; Hydraulics bay ; Aft Avionic bay)
+
+Which answer is Incorrect:
+Cabin attendant can use the hand set to call Flight crew via Cabin and Flight Crew call system.
+Cabin attendant can use the hand set to make announcement to PA system.
+@@Cabin attendant can use the hand set to call directly Ground staff via Service interphone.
+
+You can use Audio Control panel (ACP) to select Transmit mode of:
+2 transmitters VHF1 - VHF2; Passenger address; Interphone
+2 transmitters VHF1 - VHF2; 2 transceivers HF1 - HF2; Interphone
+@@2 transmitters VHF1 - VHF2; 2 transceivers HF1 - HF2; Passenger address; Interphone
+
+The audio integrating system includes:
+02 hand microphones, 02 headset, 02 boomset
+@@02 hand microphones, 02 headset, 03 boomset
+02 hand microphones, 03 headset, 03 boomset
+
+Where is CRV located:
+In Eclectronics rack 80
+In Electrics rack 90
+@@In Unpressurized Compartment
+
+Which document show the number of satic dischanger can be lost for Aircaft dispatch?
+@@AFM
+MEL
+AMM ATA 23
+
+Electrical power necessary aboard the aircraft is given by
+Two engine-driven DC starter/generators
+Two AC wild frequency (ACW) three-phase generators
+@@two engine-driven DC starter/generators and two AC wild frequency (ACW) three-phase generators
+
+Two AC wild frequency (ACW) three-phase generators driven by
+@@The reduction gear-box of the engine-propeller.
+The free turbine of the engine-propeller.
+The low compressor of the engine-propeller
+
+Two static inverters supplied by
+The AC main buses
+@@The DC main buses
+Both a and b are correct
+
+Two static inverters
+@@Give AC constant frequency (AC) power
+Give DC constant frequency (AC) power
+Both a and b are correct
+
+In flight, two batteries give power to the critical load, when
+All main AC sources are lost
+@@All main DC sources are lost
+Both a and b are correct
+
+Main battery is also used for
+@@Engine starting
+Engine preservation
+Both A and B are correct
+
+Two batteries, when all main DC sources are lost:
+Give power to the all load on ground
+@@Give power to the critical load in flight.
+Both A and B are correct
+
+The aircraft has two external receptacles to allow
+@@Electrical supply, using DC and AC ground power units.
+Hydraulic supply, using ground cart.
+Air conditioning supply for cockpit and cabin.
+
+The aircraft electrical network comprises
+28VDC from starter/generator, 115/200VAC WF (341 - 488 Hz) three-phase from ACW generators
+115VAC CF (400 Hz) single-phase from static inverters, 26VAC CF (400 Hz) single-phase from
+@@24DC from batteries, 28VDC from starter/generator, 115/200VAC WF (341 - 488 Hz) three-phase from ACW generators, 115VAC CF (400 Hz) single-phase from static inverters, 26VAC CF (400 Hz) single-phase from static inverters
+
+ACW BUS 1 and 2
+@@Are normally supplied by their respective generators
+Are normally supplied by their offside generators
+Both A and B are correct
+
+DC buses 1 and 2
+Are normally supplied by offside Starter/Generators
+@@Are normally supplied by respective Starter/Generators
+Both A and B are correct
+
+When the aircraft is on ground DC SVCE BUS may be supplied by
+@@A GPU
+A main battery
+Both A and B are correct
+
+If one of the starter/generators does not operate
+@@Its buses are supplied by the other one (BUS-TIE)
+Its buses are not supplied by the other one (BUS-TIE)
+Both A and B are correct
+
+The main battery and emer battery have
+@@Different weight
+The same weight
+Both A and B are correct
+
+ACW generators driven by
+@@The reduction gear-box of the engine-propeller
+The gear-box of high compressor
+Both A and B are correct
+
+Each DC starter/generator and ACW generator
+@@Is associated with a Generator Control Unit (GCU)
+Is associated with MFC
+Both A and B are correct
+
+The AC generation consists of
+AC Constant Frequency generation
+AC Wild Frequency generation
+@@Both A and B are correct
+
+The DC distribution network includes the starting which can be powered as follows
+In flight by main battery (cross-start inhibit)
+On ground by external power and, if this one is not available, by main battery alone and with the running Starter/Generator (cross-start)
+@@Both A and B are correct
+
+The ACW service bus can be supplied by the ground power unit when
+@@The AC external power is available and of satisfactory quality
+The AC external power is available
+The DC external power is available
+
+When a fault is detected on one channel of the ACW generators
+@@The ACW service bus is shedded
+The DC service bus is shedded
+Both A and B are correct
+
+The aircraft is equipped with
+One external power receptacle
+@@Two external power receptacles
+Three external power receptacles
+
+The aircraft is equipped with two external power receptacles
+@@One to supply DC, one to supply ACW network
+Two to supply DC network
+Both A and B are correct
+
+How many access door to connect external power
+@@1 AC access door, 1 DC access door
+2 AC access door
+1 AC access door
+
+The AC constant frequency distribution is provided by
+One static inverter
+@@Two static inverters
+Three static inverters
+
+The AC wild frequency distribution is provided by
+@@ACW generation system
+DC generation system
+Both A and B are correct
+
+The AC constant frequency is provided by two static inverters, powered by
+@@The DC generation system
+The AC generation system
+Both A and B are correct
+
+The DC distribution is provided by
+@@DC generation system
+ACW generation system
+Both A and B are correct
+
+How to Continuity Check of the Bonding
+@@Use a MEGAOHMMETER to measure the resistivity values
+Use a MEGAOHMMETER to measure the voltage values
+Both A and B are correct
+
+How to perform a continuity check of the bonding
+@@Use a MEGA_OHM_METER to measure the resistivity values
+Use a MEGA_OHM_METER to measure the voltage values
+Both A and B are correct
+
+The ATR flight compartment is equipped with:
+@@A Captain seat and a First Officer seat adjustable on the three axes and bolted onto the floor structure. Observer folding seat hinged onto the electronics rack
+An Observer seat and a First Officer seat adjustable on the three axes and bolted onto the floor structure. Captain folding seat hinged onto the electronics rack.
+A Captain seat and an Observer seat adjustable on the three axes and bolted onto the floor structure. First Officer folding seat hinged onto the electronics rack.
+
+Emergency evacuation of the crew is made via:
+Emergency exit doors located in the forward passenger compartment.
+@@An emergency hatch located in the flight compartment ceiling.
+Cargo door located on forward cargo compartment.
+
+An evacuation rope is located:
+@@In the upper part of electrics rack.
+Under Captain seat.
+Under Observer seat.
+
+The Pax double seat unit consists of:
+A forward folding backrest assy; an ashtray on center or exterior armrest; a baggage retainer; a seat pouch for reviews and passenger instructions; a seat belt; a folding table attached to seat back.
+A forward folding backrest assy; an ashtray on center or exterior armrest; a baggage retainer; a seat pouch for reviews and passenger instructions; a life vest stowage; a seat belt.
+@@A forward folding backrest assy; an ashtray on center or exterior armrest; a baggage retainer; a seat pouch for reviews and passenger instructions; a life vest stowage; a seat belt; a folding table attached to seat back; a bumper strip on aisle side.
+
+AFT section cabin attendant seat is:
+@@Located next to the cabin attendant partition in line with the aisle and attached to floor rail.
+Located in the housing, behind AFT partition. The seat slides towards the aisle for utilization.
+Located in the housing, behind AFT partition and attached to floor rail.
+
+FWD section cabin attendant seat is:
+Located in the housing, behind AFT partition and attached to floor rail.
+Located in the housing, behind FWD partition. The seat slides towards the aisle for utilization.
+@@Located next to the cabin attendant partition in line with the aisle and attached to floor rail.
+
+The Passenger Service Units are located:
+On LH armrest of the double seat.
+@@Under the overhead stowage compartments above the passengers.
+On RH armrest of the double seat.
+
+How many kind of ceiling panel in the cabin?
+@@There‘re two kinds of ceiling panel: passenger compartment ceiling panels and entrance area
+Only one kind of ceiling panel: passenger compartment ceiling panels.
+Only one kind of ceiling panel: passenger compartment ceiling panels and entrance area ceiling panels are the same.
+
+The purpose of the attendant call pushbutton is:
+To call Captain when the passenger need his help.
+@@To call attendant when the passenger need their help.
+To call attendant in emergency case only.
+
+The passenger can use PSU (Passenger Service Units) to:
+Call attendant; adjust air outlets and volume of loudspeaker; turn on or turn off the reading light.
+Call attendant; adjust volume of loudspeaker; turn on or turn off the reading light.
+@@Call attendant; adjust air outlets; turn on or turn off the reading light.
+
+Several galleys exist:
+@@One main galley located in the passenger compartment aft section, on the right side, forward of the service door. One secondary galley located in the passenger compartment aft section, on the left side,
+One main galley located in the passenger compartment aft section, on the right side, forward of the service door. One secondary galley located in the passenger compartment aft section, on the left side, aft
+One main galley located in the passenger compartment aft section, on the right side, forward of the entry door. One secondary galley located in the passenger compartment aft section, on the left side,
+
+The ATR aircraft consists of:
+Two cargo compartments, there’re 03 nets in FWD cargo compartment and 02 nets in AFT cargo
+Two cargo compartments, there’re 02 nets in FWD cargo compartment and 02 nets in AFT cargo
+@@Two cargo compartments, there’re 03 nets in FWD cargo compartment and 01 net in AFT cargo
+
+The emergency items of equipment in the flight compartment are
+A rope; a fuse and lamp box; fireproof gloves; torches and life vests.
+A rope; a fuse and lamp box; an axe; fireproof gloves; torches and life vests.
+@@A rope; a fuse and lamp box; an axe; fireproof gloves and torches.
+
+The emergency items of equipment in the passenger compartment are:
+A megaphone; first aid kits; torches and a rope.
+@@A megaphone; first aid kits; torches.
+A megaphone; first aid kits; life vests; torches and a rope.
+
+Smoke detection in
+@@Forward, AFT Cargo Compartment, Electronics Rack and Toilets
+Forward, Aft Cargo Compartment
+Electronics Rack and Toilets
+
+The cargo compartment smoke detection is achieved by
+@@Smoke detectors located on FWD and AFT cargo compartment ceiling panels and by smoke detectors located on electronics rack and toilets air extraction ducts
+Smoke detectors located on FWD and AFT cargo compartment ceiling panels
+Smoke detectors located on FWD and AFT cargo compartment ceiling panels
+
+The engine fire detection is achieved by
+Thermocouples installed in engine nacelles
+Thermocouples installed in engine
+@@Thermo sensing loops installed in engine nacelles
+
+Portable Fire Extinguishers
+@@One portable fire extinguisher located in the flight compartment and others located in passenger
+Two portable fire extinguishers located in the flight compartment
+One portable fire extinguishers located in the FWD cargo compartment
+
+The lavatory fire extinguisher
+@@Is activated automatically
+Is activated manually
+Both A and B are correct.
+
+The waste-bin fire-extinguisher bottle is located
+@@Above the bin
+Under the bin
+In the bin
+
+The fire protection system is designed to
+@@Reduce the consequences of an eventual fire on board the aircraft
+Induce the consequences of an eventual fire on board the aircraft
+Both A and B are correct.
+
+The fire protection system reduce the consequences of an eventual fire on board the aircraft
+@@Through early detection of fires or smoke
+Through early detection of fires
+Through early detection of smoke
+
+The fire protection system is designed to detect by locating and neutralizing fires and smoke
+@@As soon as possible
+As soon as impossible
+Both A and B are correct.
+
+The purpose of the various protection systems is to:
+@@Detect and extinguish the fire in each engine nacelle, the fire in lavatory dust bin; Detect smoke from a fire in cargo compartments
+Detect and extinguish the fire in each engine nacelle, detect fire in cargo compartments
+Detect and extinguish the smoke in each engine nacelle, detect smoke from a fire in cargo
+
+The main means of protection against the fire are
+The detection systems
+The extinguishing systems
+@@Both A and B are correct.
+
+Extinguishing methods according to the area in which the fire breaks out
+@@Are different
+Are the same
+Both A and B are correct.
+
+Portable fire extinguishers in the flight compartment and cabin extinguishers are
+@@Manually controlled
+Auto controlled
+Both A and B are correct.
+
+Portable fire extinguishers in the flight compartment and cabin extinguishers are manually controlled and
+@@Enable crew intervention in the area in which there has been a fire break out
+Not allow the crew to intervene in the area where a fire has occurred
+Both A and B are correct.
+
+The control of aileron is done:
+@@By control wheel.
+By control column.
+By pedal.
+
+Yaw control is performed by
+@@A rudder which includes a spring trim tab
+The elevators
+A balance tab
+
+A Travel Limitation Unit (TLU) installed on rear quadrant area reduces the rudder deflection
+@@High speed
+Low speed
+Both A and B are correct.
+
+The value of rudder trim tab deflection is indicated in
+@@The flight compartment
+The FWD cargo compartment
+The AFT cargo compartment
+
+The tension of the rudder cable in cable loop is
+@@Not regulated
+Regulated
+Both A and B are correct.
+
+Pitch control is performed by
+Two rudders each equipped with a tab
+@@Two elevators each equipped with a tab
+Two ailerons each equipped with a tab
+
+The elevators and tabs in their balance functions are
+@@Mechanically controlled
+Electrically controlled
+Both A and B are correct.
+
+The flaps can be commanded in
+@@Three stable positions
+Two stable positions
+One stable positions
+
+The flaps can be commanded in
+@@Flaps at 0 deg (cruise), Flaps at 15 deg (take off), Flaps at 30 deg (landing)
+Flaps at 10 deg (cruise), Flaps at 25 deg (take off), Flaps at 40 deg (landing)
+Flaps at 10 deg (cruise), Flaps at 35 deg (take off), Flaps at 50 deg (landing)
+
+The position of the flaps is observed
+@@In the flight compartment
+Cabin
+Both A and B are correct.
+
+The flaps position commands are transmitted by
+@@Electrical signals
+Mechanical signals
+Both A and B are correct.
+
+The flap system has
+@@Four hydraulic actuators
+Two hydraulic actuators
+Three hydraulic actuators
+
+Four hydraulic actuators control flaps supplied from
+@@An electro-hydraulic flap valve
+An electro-mechanical flap valve
+An mechanic-hydraulic flap valve
+
+The position of the flaps is indicated
+@@In the flight compartment
+In FWD cargo compartment
+In AFT cargo compartment
+
+Roll control is performed by
+@@Two ailerons which include a spring tab and two spoilers
+Two spoilers
+Two flaps
+
+For support the roll control function
+@@The two spoilers installed
+The one spoiler installed
+The three spoilers installed
+
+The aileron trim function is performed by
+@@The left aileron tab
+The right aileron tab
+The left and right aileron tab
+
+The spoiler extension identified
+@@In the flight compartment
+In FWD cargo compartment
+In AFT cargo compartment
+
+Both control columns operate the two ailerons
+@@Mechanically
+Electrically
+Hydraulically
+
+The Gust Lock system includes
+An elevator mechanical locking device and a rudder damper
+An aileron electro-mechanical locking device, an elevator mechanical locking device
+@@Both A and B are correct.
+
+The deflection value of the aileron tab in the trim function is indicated in
+@@The flight compartment
+The AFT cargo compartment
+The FWD cargo compartment
+
+Position of the control lever in locking notch is indicated
+Yellow stripes engraved in control lever handle are visible to the crew
+A mechanical stop linked to the gust lock lever limits power lever travel, thus enabling taxi but not
+@@Both A and B are correct.
+
+In aileron cable loops, cable tension
+@@Is not regulated
+Is regulated
+Both A and B are correct.
+
+Aileron Locking Device is
+@@Electro-Mechanical
+Electro-Hydraulical
+Both A and B are correct.
+
+The function of the aileron cable tension regulators is
+@@To maintain cable tension at prevalues for all temperatures encountered in the ground or in flight
+To increase cable tension at prevalues in the absence of a command for all temperatures encountered in the ground or in flight
+To decrease cable tension at prevalues in the absence of a command for all temperatures encountered in the ground or in flight
+
+Aileron Locking Device is comprised of:
+@@Two mechanical locking devices
+Three mechanical locking devices
+Four mechanical locking devices
+
+The function of the cable tension regulators is to maintain cable tension between 20 and 25 daN in the absence of a command for
+@@All temperatures encountered in the ground or in flight
+All pressure encountered in the ground or in flight
+Both A and B are correct.
+
+Each Aileron Locking Device locking device is controlled by
+@@A gust lock electrical actuator
+A gust lock mechanical actuator
+Both A and B are correct.
+
+The rudder damper is
+@@A hydraulic damper
+An pneumatic damper
+Both A and B are correct.
+
+The rudder damper
+@@Slow down rudder speed when it reaches structural stops
+Increase rudder speed when it reaches structural stops
+Both A and B are correct.
+
+Elevator Mechanical Locking Device is comprised of
+@@A mechanical locking device immobilizing control surface and tab assemblies
+A electrical locking device immobilizing control surface and tab assemblies
+Both A and B are correct.
+
+The flight controls consist of
+@@The movable surface control systems and associated indication and alerting systems
+The movable surface control systems, and the warning systems
+Both A and B are correct.
+
+Control of the aircraft is achieved using the following movable surfaces:
+Ailerons and Tabs , Rudder and Tabs
+Elevators and Tabs, Flaps , Spoilers
+@@Ailerons and Tabs , Rudder and Tabs ,Elevators and Tabs, Flaps , Spoilers
+
+The ailerons, rudder and elevators are
+@@Mechanically and aerodynamically balanced
+Electrically and aerodynamically balanced
+Both A and B are correct.
+
+The ailerons, rudder and elevators are
+@@Connected to the controls in the flight compartment by means of mechanical linkages
+Connected to the controls in the flight compartment by means of electrical control
+Both A and B are correct.
+
+Elevator aerodynamic moment is
+@@Compensated for by tabs with balance and trim functions
+Compensated for by balance tab and trim tab
+Both A and B are correct.
+
+Aileron and rudder aerodynamic moment is
+@@Compensated for by a spring tab
+Compensated for by a balance tab
+Both A and B are correct.
+
+The trim tabs are controlled
+@@Electrically
+Hydrautically
+Both A and B are correct.
+
+Locking mechanisms protect the ailerons, elevators
+@@Against gusts of wind on the ground
+Against gusts of wind in flight
+Both A and B are correct.
+
+In normal operation the flap and spoiler controls are supplied by
+@@The Blue hydraulic system.
+The Green hydraulic system
+Both A and B are correct.
+
+In the case of failure of the Blue electric pump a crossfeed valve permits
+@@Green hydraulic system pressure to be used for the hydraulic flight controls
+Green hydraulic system pressure not to be used for the hydraulic flight controls
+Both A and B are correct.
+
+The rudder is protected from gusts of wind on the ground by
+@@A damper
+An electrical actuator
+Both A and B are correct.
+
+The hydraulic system supply for flaps is came from:
+Green system.
+@@Blue system.
+Both hydraulic system
+
+Where are the fuel tanks located on the wing of the aircraft?
+Between RIB#3 and RIB#24.
+@@Between RIB#4 and RIB#23.
+Between RIB#4 and RIB#24.
+
+How many kilograms is the fuel maximum capacity?
+5500
+4800
+@@5000
+
+Where is the vent surge tank located on the wing of the aircraft?
+Between RIB#24 and RIB#25.
+Between RIB#22 and RIB#23.
+@@Between RIB#23 and RIB#24.
+
+What is the purpose of the tank venting system?
+To ensure tank venting in all operating phases in flight and on the ground.
+To recover fuel entering the vent line and evacuated outwards in case of skidding.
+@@Both answers are correct
+
+Where is the NACA intake located?
+@@On the lower surface of the vent surge tank.
+On the upper surface of the vent surge tank.
+On the lower surface of the feeder tank.
+
+How many fuel electric pumps installed in both wing on ATR aircraft
+@@2 electric pumps
+4 electric pumps
+6 electric pumps
+
+The feeder tank which has a capacity of
+@@200L
+300L
+500L
+
+What is the function of crossfeed system?
+To allow both engine to be fed by one tank.
+To allow one engine to be fed by both tanks
+@@Both answers are correct
+
+The fuel LP valve is opened/closed by
+1 electric motor
+@@2 electric motor
+3 electric motor
+
+When the two REFUEL VALVES switches are in NORM position, the refuel/defuel valves are opened by:
+@@Placing the REFUEL/OFF/DEFUEL switch in REFUEL position.
+Placing the REFUEL/OFF/DEFUEL switch in DEFUEL position.
+Both answers are correct
+
+How do you know the refuel/defuel valves were opened?
+@@By two indicator lights identified VALVE/LH/OPEN and VALVE/RH/OPEN located on the REFUELING panel come on.
+By placing the REFUEL/OFF/DEFUEL switch in REFUEL position.
+By placing the REFUEL/OFF/DEFUEL switch in DEFUEL position.
+
+Refuel/Defuel control panel on ATR72 aircraft is located
+LH LDG fairing
+@@RH LDG fairing
+RH lower wing
+
+Refuel valves may be controlled
+Electrically
+Manually
+@@Electrically or manually
+
+Gravity Refueling cap is installed
+@@Wing upper surface between RIB 22 and RIB 23
+Wing upper surface between RIB 23 and RIB 25
+Wing upper surface between RIB 23 and RIB 26
+
+The fuel quantity indicator indicates the fuel mass in?
+Refuel/Defuel control panel
+On the upper center instrument panel 4VU
+@@Both Refuel/Defuel control panel and On the upper center instrument panel 4VU
+
+Each feeder tank is equipped with:
+@@One electric pump and two jet pumps.
+Two electric pumps and one jet pump.
+One electric pump and one jet pump.
+
+The aircraft is provided with:
+@@Two independent hydraulic systems.
+Three independent hydraulic systems.
+Four independent hydraulic systems.
+
+During all normal conditions, both hydraulic systems operate:
+Alternatively providing 3000psi supply pressure.
+@@Simultaneously providing 3000psi supply pressure.
+Simultaneously providing 1500psi supply pressure.
+
+The hydraulic systems operates with pressure is
+@@3000 psi
+3500 psi
+5000 psi
+
+How many reservoir for 2 hydraulic systems in ATR aicraft?
+@@1 reservoir
+2 reservoir
+3 reservoir
+
+Auxiliary electric pump is connected with?
+Green system
+@@Blue system
+Yellow system
+
+Hydraulic system uses
+@@The phosphate ester based fluid
+Mineral oil-based hydraulic fluid (red color)
+The engine oil
+
+What type of main pump pressurizes hydraulic systems?
+@@Variable-displacement electric pump
+Gear electric pump
+Centrifugal pump
+
+Which type of filter has a clogging indicator comes out?
+@@Pressure filter, return filter
+Return filter
+Acoustic filter
+
+The green hydraulic power system supplies hydraulic power to operate?
+The landing gear retraction and extension
+The normal wheel brake
+@@The landing gear retraction and extension and normal wheel brake
+
+If there is a failure of the green electric pump the green system?
+The green system INOP
+@@The green system available by PTU
+The green system available by the blue electric pump, through the cross-feed valve
+
+The green system have caution light?
+LO LEVEL and LO PR
+@@LO LEVEL, OVHT and LO PR
+LO LEVEL and OVHT
+
+The green electric pump is installed?
+On the LH ENG
+On the RH ENG
+@@In the AFT LH main gear fairing
+
+If there is a failure of the blue electric pump the green system?
+The blue system availble by Auxiliary electric pump
+The blue system available by the green electric pump through the cross-feed valve
+@@The blue system available by the green electric pump through the cross-feed valve or by Auxiliary
+
+The blue hydraulic power system supplies hydraulic power to operate?
+The RH propeller brake, spoilers, normal wheel brake
+The RH propeller brake, spoilers, normal wheel brake, flaps, nose wheel steering
+@@The RH propeller brake, spoilers, flaps, nose wheel steering, parking/emergency braking system
+
+The auxiliary electric pump is located?
+On the LH ENG
+On the RH ENG
+@@In the AFT LH main gear fairing
+
+The blue system have caution light?
+LO LEVEL and LO PR
+@@LO LEVEL, OVHT and LO PR
+LO LEVEL and OVHT
+
+The blue electric pump is installed?
+On the LH ENG
+On the RH ENG
+@@In the AFT LH main gear fairing
+
+The hydraulic reservoir filling by?
+By the suction quick-disconnect fittings of the blue or the green system or by gravity filler cap on the top of the reservoir
+By the filler port provision on the blue return module or by gravity filler cap on the top of the
+@@By the gravity filler cap on the top of the reservoir or by the suction quick-disconnect fittings of the blue or the green system or by the filler port provision on the blue return module
+
+All the components of the blue and the green power systems are installed in
+Blue in left main gear-well and green in right main gear-well
+@@Left main gear-well
+Right main gear-well
+
+Main pumps of blue and green hydraulic system use?
+115V DC
+28V DC
+@@115V ACW
+
+The blue and green pumps are supplied from
+The DC
+@@The 115V/200V ACW BUS (3 phases)
+Driven by engine
+
+In the hotel mode configuration, the hydraulic power?
+Blue system available
+Green system available
+@@Hydraulic power is available only with a ACW ground electric or a hydraulic cart
+
+The Cross-Feed Valve is not open if?
+@@LO LEVEL
+OVH
+LO LEVEL and OVH
+
+When the battery OFF, the auxiliary pump
+Can not operate
+Can operate with ground handling bus
+@@Can operate with hot main bat bus
+
+How to check quantity of hydraulic in reservoir?
+Check on MCDU
+@@Check direct on reservoir
+Check on MCDU and direct on reservoir
+
+The LO LEVEL caution light come on when?
+@@The fluid level decreases less than 2.5 L in one section
+The fluid level decreases less than 5.0 L in one section
+The fluid level decreases less than 2.5 L in reservoir
+
+How many low level switches are installed in the hydraulic reservoir?
+1
+@@2
+3
+
+The hydraulic pressure is shown on?
+Hydraulic page on MCDU
+@@A triple pressure indicator
+Hydraulic page on MCDU and triple pressure indicator
+
+The LO PR signal inhibits when aircraft?
+In flight
+On ground
+@@During the landing gear extension
+
+Pneumatic used in de-icing system is supplied by:
+@@Engine HP compressor.
+Engine LP compressor.
+Engine LP or HP compressor depend on power lever position.
+
+ATR aircraft de-icing system is supplied by
+Electric 115V ACW
+@@Engine HP compressor
+Engine LP compressor
+
+How many dual distributor valve is the airfoil pneumatic de-icing system equipped with?
+3
+@@5
+7
+
+The pneumatic de-icing system is controlled and monitored by MFC and:
+@@The standby control unit monitor operation of MFC
+The standby control unit system the same MFC
+MFC monitor standby control unit
+
+How many overheat thermal switch is the pneumatic de-icing system equipped with?
+@@2
+4
+6
+
+The isolation valve is:
+Maintained close by spring and opened by exciting control solenoid.
+@@Maintained open by spring and closed by exciting control solenoid.
+Both answers
+
+How many Anti Icing Horns are installed on ATR aircraft
+3 Anti Icing Horns
+@@5 Anti Icing Horns
+7 Anti Icing Horns
+
+The Anti Icing Horns are supplied by
+28V DC
+@@115V ACW
+28V ACW
+
+The pressure regulator and shutoff valves are used to:
+Regulate the temperature of the air bled from engines.
+Isolate the system when the fire handle or the AFR AIR BLEED pushbutton switch is operated.
+@@Regulate the pressure of the air bled from engines and isolate the system when the fire handles or the AFR AIR BLEED pushbutton switch are operated.
+
+The engine ice protection system is composed of:
+Air intake leading edge de-icers; cooler upper duct de-icers; upper throat de-icers.
+@@Air intake leading edge de-icers; cooler upper duct de-icers; air intake throat de-icers; upper throat
+Air intake leading edge de-icers; air intake throat de-icers; upper throat de-icers.
+
+The cokpit windows are provided heating?
+All cokpit window
+LH and RH windshield
+@@LH and RH windshield and LH and RH FWD side window
+
+How many propeller blades per one engine are heated on at a time
+2 blades
+@@3 blades
+6 blades
+
+Ice detector install on?
+@@LH wing
+RH wing
+LH wing and lower LH size of size window
+
+The icing indicator light is power up by
+Icing indicator light switch
+@@NAV light switch
+Icing indicator light switch and NAV light switch
+
+Multi purpose Computer (MPC) having the following functions:
+Acquisition of additional parameters, Enhanced Surveillance (post mod. 5570 L0308); Quick Access Recorder (QAR); Aircraft Performance Monitoring (APM)
+@@Acquisition of additional parameters, Enhanced Surveillance (post mod. 5570 L0308);Quick Access Recorder (QAR); Aircraft Performance Monitoring (APM); Maintenance BITE Monitoring; G-
+Acquisition of additional parameters, Enhanced Surveillance (post mod. 5570 L0308); Maintenance BITE Monitoring; G-Meter
+
+All of above The Multi Purpose Computer (MPC) is located:
+On shelf 91VU of electrics rack 90VU.
+@@b. On shelf 82VU of electronics rack 80VU.
+Under Fwd Cargo Compartment Floor Panel
+
+The instruments and control panels are grouped into:
+4 Groups: Instrument panel; Center pedestal - electrical center pedestal; Overhead panel;
+@@5 Groups: Instrument panel; Center pedestal - electrical center pedestal; Consoles; Overhead panel; Miscellaneous panels.
+6 Groups: Instrument panel; Center pedestal - electrical center pedestal; Consoles; Overhead panel; C/B Panel; Miscellaneous panels.
+
+Solid State Flight Data Recorder (SSFDR) (9TU) stores:
+Last 15 hours of flight data
+Last 20 hours of flight data
+@@Last 25 hours of flight data
+
+A APM “weight” rotary switch (212TU) is installed on 5VU panel, and is use by the crew to select the aircraft weight
+Before landing
+@@Before take-off
+Before take-off and Before landing
+
+SSFDR is located
+On shelf 82VU of electronics rack 80VU.
+@@In zone 311 (unpressurized tail cone).
+Under Fwd Cargo Compartment Floor Panel at Frame 17
+
+Which answer is correct:
+@@Time is given on two crystal controlled electronic chronometer clocks; one on Captain main instrument panels and one on F/O main instrument panels
+Time is given on three crystal controlled electronic chronometer clocks; one on Captain main instrument panels and one on F/O main instrument panels and one on Centrel Pedestal
+Time is given on three crystal controlled electronic chronometer clocks; one on Captain main instrument panels and one on F/O main instrument panels and one on Glareshield
+
+The function of the accelerometer is
+@@To measure vertical, lateral and longitudinal accelerations and to give these values to the FDAU.
+To measure vertical and longitudinal accelerations and to give these values to the FDAU.
+To measure lateral and longitudinal accelerations and to give these values to the FDAU.
+
+The ULB (under water locating beacon) is located:
+@@On the front face of SSFDR
+On the front face of FDAU
+On the front face of CRV
+
+What’s color of the solid state flight data recorder (SSFDR)
+Red
+Yellow
+@@Orange
+
+The (S)SFDR stores the informations sent to it by
+@@the MPC
+The MFCs
+The AHRUs
+
+G.Meter report canbe read on:
+G.Meter Indicator on LH Maintenance Panel 101VU
+G.Meter Indicator on RH Maintenance Panel 701VU
+@@G.Meter page on MCDU
+
+Which answer is correct:
+@@There are 02 interchangeable identical MFCs ,each computer is made up of 2 independent modules
+There are 02 un- interchangeable identical MFCs ,each computer is made up of 2 independent
+There are 02 interchangeable identical MFCs ,each computer is made up of 2 independent modules
+
+On ground, with BAT selector switch (7PA) in OFF position, if cargo door control panel (5001VU) cover is open
+MFC/1B and MFC/2B modules are supplied by GND HDLG BUS
+MFC/1A and MFC/1B modules are supplied by GND HDLG BUS
+@@MFC/1A and MFC/2A modules are supplied by GND HDLG BUS
+
+The MFCs are power supplied with:
+@@28 VDC
+115 AC - 400Hz
+115 ACW
+
+The MFC FLIGHT FAULT memory menu gives access to the fault codes which occurred
+7 previous flights
+8 previous flights
+@@9 previous flights
+
+The TO/INHI function is cancelled automatically when:
+Aircraft is airbone
+Power management selector moved out of T/O position
+@@The LDG start to retract
+
+On Crew Alerting Panel (CAP), there are:
+@@Red warning lights; Amber caution lights (one per system)
+Amber warning lights; Red Amber caution lights (one per system); Green Advisory lights.
+Red warning lights; Amber caution lights (one per system); Green Advisory lights
+
+How many levels of Alert:
+3 (From level 1 to level 3)
+4 (From level 1 to level 4)
+@@4 (From level 0 to level 3)
+
+Level 3 Alert is:
+@@Warning
+Caution
+Advisory
+
+Level 2 Alert (Caution) correspond to:
+A dangerous configuration (example: CONFIG)
+A system failure altering the flight conditions (example: engine fire)
+@@An abnormal aircraft configuration
+
+The master warning light flashing red is associated with
+Continuous repetitive chime (CRC) and an amber caution light on CAP
+@@Continuous repetitive chime (CRC) and a red warning light on CAP
+Single chime (SC) and an amber caution light on CAP
+
+What is the Aural Warning for “Engine Fire”
+Whooler
+@@Continuous repetitive chime
+Clacker
+
+When reading MFC fault code, using MCDU; you have to:
+Move weight rotactor (212TU) on Panel 5VU to 12 o'clock position
+@@Move weight rotactor (212TU) on Panel 5VU to 11 o'clock position
+Move weight rotactor (212TU) on Panel 5VU to 6 o'clock position
+
+During reading MFC fault codes through MDCU, which “FAULT” light flashes?
+MFC 1A + MFC 2A
+@@MFC 1A
+MFC 2A
+
+Forward nose landing gear doors open:
+@@During nose landing gear move
+When nose landing gear is extended and down locked.
+When nose landing gear is retracted and up locked.
+
+How many NLG doors are installed on ATR72 aircraft?
+2 doors
+@@4 doors
+6 doors
+
+Landing gear selector valve is located: ( nên là Lever 2)
+At the rear area of the right main landing gear.
+At wheel well area of the nose landing gear.
+@@At the rear area of the left main landing gear.
+
+In normal, landing gear control system uses:
+Hydraulic pressure from Blue system.
+@@Hydraulic pressure from Green system.
+Hydraulic pressure from accumulators.
+
+How can the LDG be extended?
+@@Hydraulic in normal mode and mechanical in emergency mode
+Only hydraulic
+Only mechanical
+
+Main landing gear free fall assister is:
+A spring.
+@@A pneumatic spring.
+A hydraulic spring.
+
+Nose landing gear free fall assister is
+Not installed on aircraft
+@@Mechanical -spring type
+Spring –pneumatic type
+
+Which component be activated when pull emergency LDG extension handle?
+Nose of LDG door, metering valve
+@@Up lock box, selector valve
+Selector valve, metering valve
+
+How to check tire pressure at ATR72 aircraft?
+On MCDU wheel page
+@@Direct by pressure gage
+Both A and B are correct
+
+If you check tire pressure is 100 to 105% nomal operating pressure
+@@Do not adjust the tire pressure
+Correct the tire pressure to the specified operating pressure
+Correct the tire pressure to the specified operating pressure and record it on the aircraft logbook
+
+How many wheels are installed on per MLG?
+1
+@@2
+3
+
+How many wheels are installed on NLG?
+1
+@@2
+3
+
+Normal brake uses hydraulic system
+Blue
+Yellow
+@@Green
+
+How many hydraulic fuses on antiskid module
+2
+@@4
+6
+
+Emergency brake uses hydraulic system
+@@Blue
+Yellow
+Green
+
+In case of using emergency brake, the antiskid will
+Operate when speed above 125knot
+@@Not operate
+Operate only speed lower 180knt
+
+When the blue system is switched off, the nose wheels can be towed of:
+@@± 91 ºper side.
+± 60 ºper side.
+± 90 ºper side.
+
+What is the maximum steering angle when the hydraulic power switch is ON?
+@@60
+90
+91
+
+What is the maximum steering angle when the hydraulic power switch is OFF?
+60
+90
+@@91
+
+Steering system uses hydraulic system
+@@Blue
+Yellow
+Green
+
+While taxiing or parking the aircraft, the steering system steers
+@@The NLG wheels
+The MLG wheels
+The NLG wheels and the MLG wheels
+
+An anti-shimmy on the steering system is used for
+@@A damping action to keep the NLG wheels aligned at a high speed
+A damping action to keep the NLG wheels aligned at a low speed
+A damping action to keep the MLG wheels aligned at a high speed
+
+The parking/emergency braking accumulator is located
+@@AFT LH MLG wheel well
+RH MLG wheel well
+Center MLG wheel well
+
+Function of tail skid
+To help aircraft landing with shorter runway.
+@@To prevent aircraft structure damage
+To prevent aircraft from tipping up
+
+MLG is connected to the fuselage at
+@@FR25 and FR27
+FR25 and FR28
+FR25 and FR29
+
+Maximum angle altitude when take off or landing can occur the fuselage contact with runway
+@@8 degrees
+10 degrees
+12 degrees
+
+MLG door is connected to its leg by
+@@Adjustable rod
+Fix rod
+Not connected to MLG leg
+
+The multidisk brakes on MLG wheels are provided with
+@@Hydraulically operated
+Electrically operated
+Mechanically operated
+
+How does the NLG retract?
+@@Forward
+Rearward
+To the side
+
+Which statement is corrected for the color of navigation lights?
+Left: Green, right: red, tail: white.
+@@Left: red, right: green, tail: white.
+The same color in above three positions.
+
+Navigation lights are supplied by?
+@@28V DC
+28V ACW
+115V ACW
+
+How many trobe lights install on ATR aircraft?
+2 strobe lights
+@@3 strobe lights
+4 strobe lights
+
+Strobe lights are supplied by?
+28V DC
+28V ACW
+@@115V ACW
+
+Logo lights are installed on?
+@@The horizontal stabilizer lower surface
+The horizontal stabilizer upper surface
+The vertical stabilizer LH and RH side
+
+Anticollision lights are supplied by?
+@@28V DC
+28V ACW
+115V ACW
+
+When the emergency light switch is in arm position and no power supply for aircraft:
+The out-side emergency lights come on.
+The internal emergency light come on.
+@@Both of above are correct.
+
+The light in the Refuel/ Defuel panel is come on:
+When the light switch in the refuel/ defuel panel turns to on position.
+When the light switch in the power receptacle turns in on position.
+@@When refuel/defuel panel door opens.
+
+Passenger reading light system is supplied by
+@@115VACW
+28VDC
+Both 115VACW and 28VDC
+
+The passenger signs (Fasten seat belts - No smoking) are controlled from
+@@From overhead panel 24VU located in flight compartment.
+From FWD cabin attendant seat
+From AFT cabin attendant seat
+
+Cabin light is controlled by?
+Switch in AFT cargo
+Switch in cockpit
+@@CABIN legend located on Flight attendant panel
+
+AFT cargo light is controlled by?
+Switch in AFT cargo
+Switch in cockpit
+@@CARGO legend located on Flight attendant panel
+
+FWD cargo light is controlled by?
+Switch located on electronics rack 80VU
+Switch located outside the aircraft on the fuselage panel 5001VU
+@@Both A and B are correct
+
+Lavatory light is controlled by?
+Switch in TOILET panel
+Switch in cockpit
+@@LAV legend located on Flight attendant panel
+
+Flight environment data for the aircraft are provided by:
+02 system (left and right)
+@@03 systems: Two normal systems (left and right) and One standby system
+04 systems: 01 normal + 01 standby system for each side
+
+Flight environment data for the aircraft are provided by:
+@@03 pitot probes; 06 static probes and 02 TAT probes
+03 pitot probes; 06 static probes and 02 AOA probes
+03 pitot probes; 06 static probes.
+
+How many standby compass installed in ATR-72
+@@01 Stanby compass
+02 Stanby compasses; one for Captain and one for F/O
+ATR-72 isn’t equiped with standby compass
+
+AHRUs are located:
+On shelf 82 of Electronic rack 80VU
+In FWD Electronic Compartment
+@@Under the floor panels aft of the flight compartment.
+
+The Instrument Landing System (ILS) enables measurement of:
+Angular deviation between aircraft flight path and Glide Slope (GS) (site)
+Angular deviation between aircraft flight path and runway alignment plane (localizer) (azimuth)
+@@Both a & b are correct
+
+The ILS is comprised of:
+@@2 control units; 1 GLIDE antenna; 1 VOR/LOC antenna.
+2 control units; 2 GLIDE antenna; 2 VOR/LOC antenna.
+1 control unit; 2 GLIDE antenna; 2 VOR/LOC antenna.
+
+The aircraft is provided with two ILS:
+@@ILS1 corresponding to Captain's side; ILS2 corresponding to First Officer's side.
+ILS1is Normal system; ILS2 for Alternate
+
+
+The Captain's and First Officer's vertical speed indicators give an indication on vertical speed via the information elaborated by
+AHRUs
+ADC computers
+@@TCAS computer
+
+Weather radar transceiver and antenna are located:
+On the FWD top fuselage of Aircraft
+@@In the radome in the nose section of the aircraft
+In the rear Unpressurized Compartment
+
+The weather radar system range is:
+150 NM in front of the aircraft
+200 NM in front of the aircraft
+@@300 NM in front of the aircraft
+
+The weather radar system detects atmospheric disturbances and provides the crew with display of precipitation levels for:
+@@±45 deg of aircraft centerline
+±50 deg of aircraft centerline
+±60 deg of aircraft centerline
+
+In the WX mode, which displayed colour show the most heavy Rainfall rate?
+Red
+Orange
+@@Magenta
+
+The radio altimeter operating range exceeds:
+@@2500 ft
+2500 m
+3500 ft
+
+The radio altimeter determines:
+@@The height of the aircraft above the terrain
+The height of the aircraft above the sea level
+The height of the aircraft above the landing airport
+
+The radio altimeter information and the decision height (DH) are displayed on
+Electronic Horizontal Situation Indicator (EHSIs)
+@@Electronic Attitude Director Indicators
+Radio Altimeter Indicators
+
+TCAS II is intended as a supplementary aid to the pilot in detecting the presence of:
+Nearby Terrain
+@@Nearby Aircraft
+Nearby Rain/Storm
+
+The DME indicates:
+The aircraft position with respect to a DME ground station
+@@The distance of the aircraft from a selected DME station
+The distance of the aircraft from a nearest DME station
+
+ADF stands for:
+Airbone Direction Finder
+Advanced Direction Finder
+@@Automatic Direction Finder
+
+Choose the correct answer:
+There’re 02 VOR antennas, Each antenna is located on either side of the vertical stabilizer
+There’re 02 VOR antennas, mounted on the fuselage; one on the top and one on the bottom
+@@There’s 01 VOR antenna, made up of two blades. Both blades are located on either side of the
+
+Which component is the interface between the crew and the GNSS:
+AFCS panel
+@@MCDU
+MFCs
+
+The pressure of oxygen cylinder in cockpit is determined by:
+@@Gauge attached on oxygen cylinder and indicator on overhead panel
+Indicator on overhead panel.
+Indicator on overhead panel and overboard discharge indicator.
+
+What is connected to a discharge indicator visible from the outside of the aircraft?
+HP overpressure safety system.
+LP overpressure safety system.
+@@Both answers are correct
+
+When a discharge indicator visible from the outside of the aircraft has yellow color, means:
+Normal.
+@@Pressure exceeding occurred.
+Low pressure occurred.
+
+How do you check the oxygen cylinder pressure when BAT switch is in OFF position?
+Look at a discharge indicator visible from the outside of the aircraft.
+@@Look at a direct reading pressure gauge installed on cylinder.
+Look at an indicator located on overhead panel.
+
+If there is no power on the aircraft or if the Fixed Oxygen System is selected off, the oxygen cylinder pressure can be obtained from
+@@Direct reading pressure gage on the cylinder only
+An HP indicator on the OXY Control and Monitoring Panel in the flight compartment
+Outside the aircraft via overpressure safety port (discharge indicator)
+
+When the discharge indicator’s green plastic change to yellow when
+The cylinder overpressure safety port (high pressure stage)
+The HP regulator/transmitter overpressure safety port (low pressure stage)
+@@Either the cylinder overpressure of HP and LP systerm
+
+When you push the main supply push button, then
+High pressure will supply and available for use
+@@High pressure transmits to low pressure and available for crew
+High pressure transmits to low pressure and available for crew and passenger
+
+In which condition the Oxygen LO PR light comes on amber
+The cylinder oxygen pressure is less than 1500 psi
+The HP indicator pointer is in red range (below 85 psi)
+@@The oxygen distribution pressure drop below 50 psi
+
+Where is fixed Oxygen cylinder located?
+@@Behide the CAPT seat
+Behide the FO seat
+Under the PURSER seat
+
+Crew oxygen mask assembly is available for
+@@Captain, First Officer, 3rd occupant
+Captain, First Officer
+Captain
+
+If the LO PR legend on the Fixed Oxygen System’s control and monitoring panel shows amber
+@@A low pressure of low pressure sys
+A low pressure high pressure sys
+A leakage in the distribution system
+
+The crew fixed oxygen system is used by the flight crew member in the following conditions:
+Brutal depressurization; smoke.
+Brutal depressurization.
+@@Brutal depressurization; smoke or noxious gas emission.
+
+What is the purpose of the smoke hood (PBE: Protective Breathing Equipment)?
+Protects respiratory system in an unbreathable atmosphere
+Protect the user's eyes
+@@Protect the user's eyes and respiratory system in an unbreathable atmosphere
+
+Oxygen System comprises
+Fixed oxygen system
+Portable oxygen system
+@@Both A and B are correct
+
+Compressed air is bled from:
+@@Engine compressors at LP (low pressure) or HP (high pressure) stages depend on Power lever
+LP engine compressor.
+HP engine compressor
+
+Pneumatic system supplies compressed air to:
+Air conditioning and starting systems.
+@@Air conditioning and ice protection systems.
+Ice protection and starting systems.
+
+Where is the bleed air shutoff valve located?
+@@In the bleed air duct immediately after the fire wall in the fairing between the engine nacelle and the
+In the engine nacelle.
+In the air conditioning bay.
+
+In case of fire, upon pulling the engine fire handle
+@@Bleed valve and HP valve are closed
+HP valve close, bleed valve open
+Both valves remain their original positions
+
+Crossfeed valve will be open when
+Only pushbutton of crossfeed is selected ON
+The aircraft is on the ground and any engine is running
+@@The aircraft is on the ground and the RH engine is running in HOTEL mode
+
+The air leak detection system detects
+@@Eventual overheating due to duct leakages
+Eventual overpressure due to duct leakages
+Both A and B are correct
+
+The air leak detection system is installed in the areas
+Wing leading edge, wing to fuselage fairing
+Fuselage sidewall and underfloor, air conditioning pack
+@@Both A and B are correct
+
+The air leak detection system consists of
+@@Two single loops (one for each engine), a control unit and an indicating system
+Two dual loops (one for each engine), a control unit and an indicating
+One dual loops, a control unit and an indicating
+
+The wing leading edge ventilation system keeps
+The wing leading edges cool
+Prevents fuel vapor buildup, and againsts fires from hot air duct leaks
+@@The wing leading edges cool, prevents fuel vapor buildup, and againsts fires from hot air duct leaks
+
+The bleed air OVHT legend and FAULT light are illuminated
+@@The temperature in the bleed air duct exceeds limit
+The pressure in the bleed air duct exceeds limit
+The flow in the bleed air duct exceeds limit
+
+After the bleed air OVHT legend and FAULT light are illuminated
+Bleed shut-off valve closed
+HP bleed shut-off valve closed
+@@Both A and B are correct
+
+In hotel mode LH bleed air shut off valve is
+@@Closed electrically by means of MFC
+Opened electrically by means of MFC
+Stay in an intermediate position
+
+In case of fire, upon pulling the eng fire handle, the bleed shut-off valve is
+@@Close
+Open
+Stay in an intermediate position
+
+In the over-pressure condition in the bleed air duct upstream, the bleed air shut-off valve is
+@@Close
+Open
+Stay in an intermediate position
+
+The potable water service panel consists of:
+A filling coupling with a cap; a filling & draining valve control handle; Over flow port; pressure indicator of waste tank.
+A filling coupling with a cap; a filling & draining valve control handle; Over flow port; pressure indicator of water tank.
+@@A filling coupling with a cap; a filling & draining valve control handle; Over flow port.
+
+How many litre can the toilet tank contains?
+@@70
+77
+87
+
+How many litre can the water tank contains?
+17
+13
+@@15
+
+Water is distributed by
+@@Gravity
+Electric pump
+Water tank pressurization
+
+Where is the water quantity displayed
+Potable Water Service Panel
+Flight attendant panel
+@@No indication
+
+Waste water from galley wash basin drains:
+@@Outside through a drain
+To the toilet tank.
+To the waste tank.
+
+The toilet service panel consists of:
+@@A standard coupling enabling the toilet tank to be drained; a standard coupling closed by a plug, used for flushing and filling the toilet tank; a waste drain valve control handle and an anti-corrosion tank
+A standard coupling enabling the toilet tank to be drained; a standard coupling closed by a plug, used for flushing and filling the toilet tank; a waste drain valve control handle; an anti-corrosion tank leakage drain outlet and pressure indicator of waste tank
+A standard coupling enabling the toilet tank to be drained; a waste drain valve control handle and an anti-corrosion tank leakage drain outlet.
+
+Portable water system is
+Electrical and mechanical
+@@Mechanical only
+Electrical to open and close filling valve
+
+Water after being used from wash basin will
+Drain into toilet tank
+@@Drain directly outside
+Re-used
+
+How to fill toilet clean water? On toilet service panel
+@@Connect the coupling service vehicle then do the filling
+Connect the coupling service vehicle, pull the filling handle then do the filling
+Turn filling valve to open position then do the filling
+
+The flushing pump will operate
+As long as toilet flushing push button is pressed and stop when this button is released
+@@When toilet flushing push button is pressed and stop automatically after a time delay
+A and B depending on A/C version
+
+How to empty toilet tank
+Open the toilet coupling plug handle, connect to service vehicle then drain the toilet tank
+@@Open the toilet coupling plug handle, connect to service vehicle, pull the waste drain valve handle then drain the toilet tank
+Open the toilet waste valve connect service vehicle then drain the toilet tank
+
+When set filling control valve in open position, the system can
+Filling water to tank
+Drain water from tank
+@@Filling and drain water of tank
+
+Where is the water overflow
+Toilet Service Panel
+@@Potable Water Service Panel
+Flight attendant panel
+
+The FWD cargo door is:
+Hinged on upper side and opens outwards and upward with a nominal travel of 77 º.
+Hinged on lower side and opens outwards and downward with a nominal travel of 87 º.
+@@Hinged on upper side and opens outwards and up ward with a nominal travel of 87 º.
+
+During opening FWD cargo door:
+First, pull down Latchlock handle and then pull down Latch handle .Vent door is opened by Latch
+@@First, pull down Latchlock handle and then pull down Latch handle .Vent door is open by
+First, pull down Latchlock handle and then pull down Latch handle .Vent door is automatically opened by electrical power.
+
+What is the purpose of the view ports located on lower side of FWD cargo door outer skin?
+To inspect from inside all three latchlock pins.
+To inspect from outside all three hooks.
+@@To inspect from outside all three latchlock pins.
+
+During operating FWD cargo door, the locking action is performed by:
+Two locking pins machined to engage with the latching hooks in closed position, thus prevent the hooks unlatching rotation.
+@@Three locking pins machined to engage with the latching hooks in closed position, thus prevent the hooks unlatching rotation.
+Four locking pins machined to engage with the latching hooks in closed position , thus prevent the hooks unlatching rotation
+
+The service door can be:
+@@Closed or opened by manual from inside or outside.
+Opened from inside or out side and only closed from inside by manual.
+Closed from inside or out side and only opened from inside by manual.
+
+The Pax door is:
+Hinged on upper side and opens outwards and upwards.
+@@Hinged on lower side and opens outwards and downwards.
+Hinged on lower side and opens inwards and downwards.
+
+The Pax door can be:
+Closed or opened by electrical power or manual from outside only.
+@@Closed or opened by manual from aircraft inside or outside.
+Only closed by manual from aircraft inside and only opened by manual from aircraft outside
+
+How do you know the Pax door is completely closed when you close this door from outside?
+Look through the view port located on lower forward area of door skin to make sure that the word ”LOCKED” disappears.
+@@Look through the view port located on lower forward area of door skin to make sure that the word ”LOCKED” appears.
+Look through the view port located on stair step of the door to make sure that the word ”LOCKED”
+
+On which of the following doors the vent door is installed ?
+Cargo door; Landing gear door; Emergency Hatch door.
+Service door; Forward Avionic Compartment door; Cargo door; Pax door.
+@@Pax door; Cargo door; Service door.
+
+The sequence of zone numbering run:
+After to forward.
+@@From inboard to outboard in the wing
+Rear to front in the wing.
+
+500 is major zone for:
+Power plant and nacelles.
+@@Left wing
+Right wing
+
+The zoning system is based on:
+One group.
+Two group.
+@@Three group
+
+When jacking of aircraft is performed:
+@@Fuel in both tanks must be the same
+Fuel in the left tank is more than in the right tank.
+Fuel in the right tank is more than in the left tank.
+
+Aircraft must be in the following configuration for jacking:
+Main gear wheel brakes engaged, wheel chocks removed.
+Main gear wheel brakes released, wheel chocks installed.
+@@Main gear wheel brakes released, wheel chocks removed
+
+During quick levelling precision rule and clinometer are positioned:
+At level of forward cargo compartment.
+@@At level of cargo compartment door
+At level of after cargo compartment.
+
+Towing of the aircraft by nose gear can not be performed when:
+Aircraft in hangar.
+Aircraft in run way.
+@@Aircraft in soft sand or mud
+
+Towing of the aircraft by nose gear can not be performed when:
+@@Nose gear has two flat tyres
+Nose gear has one flat tyre.
+Main gear has one flat tyre.
+
+Aircraft can be towed with speed:
+Same as slow walk.
+@@Less than slow walk
+Faster than slow walk.
+
+Before towing the aircraft the N/W steering swich is in which position?
+@@OFF
+ON.
+Neutral.
+
+Towing operation must have permision from:
+Director.
+Maintenance manager.
+@@Control tower
+
+You can check fuel level by using manual indicators when fuel quantity of each tank is:
+Greater than 300 litres.
+Greater than 150 litres.
+@@Greater than 200 litres
+
+During check of fuel level by using manual indicators, the accuracy of the manual indicators
+@@.+ or - 200 litres.
+b) + or - 50 litres.
+c) + or - 100 litres.
+
+During check of fuel level by using manual indicators, you calculate fuel quantity by using inclinometer indicating when:
+One magnetic indicator shows an extreme value: inner indicator is 0 or 30cm; outer indicator is 0 or
+@@One magnetic indicator shows an extreme value: inner indicator is 0 or 30cm; outer indicator is 0 or 20cm.ü(JIC 12-11-28)
+One magnetic indicator shows an extreme value: inner indicator is 0 or 20cm; outer indicator is 0 or
+
+During hydraulic reservoir replenishing, you can:
+@@Pour fluid from original container directly into the airplane system or into the system used for transferring fluid (potable test stand)
+Pour fluid original container into any other container and then pour into the airplane system.
+Re-use the fluid drained to fill the hydraulic system.
+
+How do you know the water tank is full during potable water filling?
+Observe water quantity indicator on potable water service panel.
+@@Check that water flows through overflow port
+Observe water quantity indicator on service vehicle.
+
+During MLG wheel/Tire assy. removal and installation, what do you do to prevent inadvertent retraction of landing gear on ground?
+Check that the landing gear ground locking pins are in place.
+Display a warning notice prohibiting landing gear operation on panel 404VU.
+@@Both (a) & (b)
+
+During NLG wheel/Tire assy removal and installation, the old cotter pin is:
+@@Discarded
+Re-used.
+Inspected before re-using.
+
+On the aircraft, a black point strip shows:
+@@The NO STEP areas
+The NO SMOKING areas.
+The DANGEROUS areas.
+
+What material do you apply to wheel axe during wheel/tire assy. removal and installation?
+Rubber compound.
+Corrosion inhibiting compound -JC5A.
+@@Grease 04-004B (MIL-G-81322)
+
+Only use explosion proof inspection lights when:
+@@Carry out refueling or defueling
+Refill hydraulic fluids.
+Refill engine oils.
+
+When do you check engine oil level:
+5 – 10 minutes after engine shutdown.
+@@10 – 20 minutes after engine shutdown
+40 minutes after engine shutdown.
+
+Safetying principle for using lockwire:
+Applied tension must come with loosening.
+@@Applied tension must oppose loosening
+Applied tension can either come with loosening or oppose loosening.
+
+What is interfraying?
+Applying a sealant with high viscosity on the edge of a structural assembly.
+Applying a very thin layer of sealant on the edge of a structural assembly.
+@@Applying a very thin layer of sealant between the surfaces of the two materials to be assembled
+
+Fuel leaks are defined in categories: Level 2)
+Seapage only.
+Running leaks only.
+@@Seapage and running leak
+
+What is slight seapage (oozing)? Level 2)
+@@A measurement not exceeding 50 mm in any direction
+A measurement not exceeding 60 mm in any direction
+A measurement not exceeding 70 mm in any direction
+
+What is heavy seapage (dripping)?
+@@A measurement greater than 50 mm but not exceeding 100 mm in any direction
+A measurement greater than 60 mm but not exceeding 100 mm in any direction.
+A measurement greater than 70 mm but not exceeding 100 mm in any direction.
+
+What is running leak?
+A leak less than seapage.
+@@A leak greater than seapage
+A leak as same as seapage.
+
+If there is a fuel leak with 0 to 10 drops per minute:
+No action.
+@@Weekly inspection for ensure that the leak is not worsening
+Repair to be carried out at next A check.
+
+If there is fuel leak with 10 to 20 drops per minute:
+No action.
+Weekly inspection for ensure that the leak is not worsening.
+@@Repair to be carried out at next A check
+
+If there is fuel leak with 20 to 30 drops per minute:
+@@Repair to be carried out within 100 flights. Daily inspection
+Repair to be carried out at next A check.
+Repair to be carried out at next Ccheck.
+
+If there is a fuel leak over 30 drops per minute:
+@@Immediate repair action before next flight
+Repair at next A check.
+Repair at next C check.
+
+How many fuel leak location can be defined on aircraft?
+3
+4
+@@5
+
+The passenger door is located
+@@Between FR36 and FR39 on LH side of the fuselage
+Between FR36 and FR39 on RH side of the fuselage
+Between FR14 and FR17 on LH side of the fuselage
+
+The FWD cargo door is located
+@@Between FR14 and FR17 on LH side of the fuselage
+Between FR14 and FR17 on RH side of the fuselage
+Between FR36 and FR39 on LH side of the fuselage
+
+The service door is located
+Between FR37 and FR39 on LH side of the fuselage
+@@Between FR37 and FR39 on RH side of the fuselage
+Between FR14 and FR17 on LH side of the fuselage
+
+Which door is not installed with a microswitch
+FWD cargo door
+Passenger door
+@@Aft avionic compartment door
+
+The engine is attached to the engine mount by
+3 shockmount and rods
+4 shockmount and rods
+@@5 shockmount and rods
+
+The engine nacelles are fixed to the center box lower surface and to the wing front spar
+@@Between ribs 10 and 12
+Between ribs 10 and 13
+Between ribs 10 and 14
+
+How many windows are there in flight compartment?
+4 window
+@@6 window
+8 window
+
+The aileron fitting is located
+Rib 25, rib 28, rib 30
+@@Rib 25, rib 28, rib 31, outer spoiler
+Rib 25, rib 29, rib 31
+
+The spoiler is located
+Between rib 10 and rib 13
+Between rib 15 and rib 18
+@@Between rib 21 and rib 24, inner aileron
+
+How many steps on passenger door
+@@Five integral steps and 01 folding step
+Five integral steps and 02 folding step
+Five integral steps and 03 folding step
