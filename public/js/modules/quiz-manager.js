@@ -16,7 +16,7 @@ import {
   getSelectedLevels
 } from './parser.js';
 
-import { shuffle, addFadeInAnimation } from './utils.js';
+import { shuffle, shuffleWithPassageGroups, addFadeInAnimation } from './utils.js';
 import { showNotification } from './ui/notifications.js';
 import {
   showLoading,
@@ -28,7 +28,7 @@ import {
 } from './ui/loading.js';
 
 import { setupResultsContainer } from './ui/progress.js';
-import { createQuestionElement } from './ui/quiz-display.js';
+import { createQuestionElement, createPassageElement } from './ui/quiz-display.js';
 import {
   setupLiveTestInTopControls,
   applyLiveTestUIState,
@@ -36,9 +36,30 @@ import {
   updateLiveScore,
   highlightLiveAnswers
 } from './live-test.js';
-
 import { setupImageModal } from './ui/modal.js';
 import { enableQuizControls } from './quiz-controls.js';
+
+/**
+ * Render questions into a container, inserting each passage block once
+ * before the first question that belongs to it.
+ */
+function renderQuestionsToContainer(questions, container) {
+  let lastPassage = null;
+  questions.forEach((q, index) => {
+    const question = typeof q === 'string' ? { text: q } : q;
+    const passage = question.passageRef || null;
+    if (passage && passage !== lastPassage) {
+      const passageEl = createPassageElement(passage);
+      container.appendChild(passageEl);
+      lastPassage = passage;
+    } else if (!passage) {
+      lastPassage = null;
+    }
+    const element = createQuestionElement(question, index);
+    container.appendChild(element);
+    addFadeInAnimation(element);
+  });
+}
 
 /**
  * Normalize questions into objects
@@ -47,6 +68,29 @@ function normalizeQuestions(allQuestions) {
   return allQuestions.map(q =>
     typeof q === 'string' ? { text: q } : q
   );
+}
+
+/**
+ * Apply range-select pre-filter.
+ * When the "Range select" checkbox is checked, slices the filtered array
+ * to [from, to] (1-based, inclusive) before count/shuffle logic runs.
+ */
+function applyRangeSelect(filtered) {
+  const rangeCheckbox  = document.getElementById('range-select-checkbox');
+  const shuffleCheckbox = document.getElementById('shuffle-checkbox');
+
+  const shuffleOff  = shuffleCheckbox ? !shuffleCheckbox.checked : false;
+  const rangeActive = (rangeCheckbox && rangeCheckbox.checked) || shuffleOff;
+
+  if (!rangeActive) return filtered;
+
+  const fromInput = document.getElementById('range-from');
+  const toInput   = document.getElementById('range-to');
+
+  const from = Math.max(1, parseInt(fromInput?.value) || 1);
+  const to   = parseInt(toInput?.value) || filtered.length;
+
+  return filtered.slice(from - 1, Math.min(to, filtered.length));
 }
 
 /**
@@ -125,9 +169,11 @@ export function displayQuestions(allQuestions) {
   const isShuffleMode = quizState.isShuffleMode !== false;
   const count = getGlobalSelectedCount();
 
+  const rangeFiltered = applyRangeSelect(filtered);
+
   // Shuffle once and use the same ordering everywhere so that
   // originalQuestionOrder and the displayed questions are always in sync.
-  const ordered = isShuffleMode ? shuffle(filtered) : filtered;
+  const ordered = isShuffleMode ? shuffleWithPassageGroups(rangeFiltered) : rangeFiltered;
 
   let selectedQuestions;
   if (isShuffleMode) {
@@ -135,9 +181,9 @@ export function displayQuestions(allQuestions) {
   } else {
     const rangeInput = document.getElementById('question-count');
     const rawValue   = rangeInput ? rangeInput.value : String(count);
-    const range      = parseQuestionRange(rawValue, filtered.length);
+    const range      = parseQuestionRange(rawValue, rangeFiltered.length);
     selectedQuestions = range
-      ? filtered.slice(range.start - 1, range.end)
+      ? rangeFiltered.slice(range.start - 1, range.end)
       : ordered.slice(0, count);
   }
 
@@ -149,11 +195,7 @@ export function displayQuestions(allQuestions) {
   showLoading();
   disableAllControlsDuringLoad();
 
-  selectedQuestions.forEach((q, index) => {
-    const element = createQuestionElement(q.text, index, q.bank);
-    quizContainer.appendChild(element);
-    addFadeInAnimation(element);
-  });
+  renderQuestionsToContainer(selectedQuestions, quizContainer);
 
   setupResultsContainer(selectedQuestions.length);
   setupLiveTestInTopControls();
@@ -178,12 +220,7 @@ export function displayQuestionsDirectly(selectedQuestions, isLiveMode = false) 
   showLoading();
   disableAllControlsDuringLoad();
 
-  selectedQuestions.forEach((q, index) => {
-    const question = typeof q === 'string' ? { text: q } : q;
-    const element = createQuestionElement(question.text, index, question.bank);
-    quizContainer.appendChild(element);
-    addFadeInAnimation(element);
-  });
+  renderQuestionsToContainer(selectedQuestions, quizContainer);
 
   setupResultsContainer(selectedQuestions.length);
   setupLiveTestInTopControls();
@@ -258,12 +295,13 @@ function startQuizWithState(state) {
     filterQuestionsByLevel([q.text], state.selectedLevels).length > 0
   );
 
+  const rangeFiltered = applyRangeSelect(filtered);
   const isShuffleMode = state.isShuffleMode !== false;
   let ordered;
   if (isShuffleMode) {
-    ordered = shuffle(filtered);
+    ordered = shuffleWithPassageGroups(rangeFiltered);
   } else {
-    ordered = filtered;
+    ordered = rangeFiltered;
   }
 
   updateQuizState({ originalQuestionOrder: ordered });
@@ -274,9 +312,9 @@ function startQuizWithState(state) {
   } else {
     const rangeInput = document.getElementById('question-count');
     const rawValue = rangeInput ? rangeInput.value : String(state.questionCount);
-    const range = parseQuestionRange(rawValue, filtered.length);
+    const range = parseQuestionRange(rawValue, rangeFiltered.length);
     if (range) {
-      selected = filtered.slice(range.start - 1, range.end);
+      selected = rangeFiltered.slice(range.start - 1, range.end);
     } else {
       selected = ordered.slice(0, state.questionCount);
     }
@@ -304,12 +342,13 @@ export function updateQuizWithNewLevels() {
     filterQuestionsByLevel([q.text], selectedLevels).length > 0
   );
 
+  const rangeFiltered = applyRangeSelect(filtered);
   const isShuffleMode = quizState.isShuffleMode !== false;
   let ordered;
   if (isShuffleMode) {
-    ordered = shuffle(filtered);
+    ordered = shuffleWithPassageGroups(rangeFiltered);
   } else {
-    ordered = filtered;
+    ordered = rangeFiltered;
   }
 
   const selectedCount = getGlobalSelectedCount();
@@ -319,8 +358,8 @@ export function updateQuizWithNewLevels() {
   } else {
     const rangeInput = document.getElementById('question-count');
     const rawValue = rangeInput ? rangeInput.value : String(selectedCount);
-    const range = parseQuestionRange(rawValue, filtered.length);
-    selected = range ? filtered.slice(range.start - 1, range.end) : ordered.slice(0, selectedCount);
+    const range = parseQuestionRange(rawValue, rangeFiltered.length);
+    selected = range ? rangeFiltered.slice(range.start - 1, range.end) : ordered.slice(0, selectedCount);
   }
 
   updateQuizState({
@@ -334,11 +373,7 @@ export function updateQuizWithNewLevels() {
   showLoading();
   disableAllControlsDuringLoad();
 
-  selected.forEach((q, index) => {
-    const element = createQuestionElement(q.text, index, q.bank);
-    quizContainer.appendChild(element);
-    addFadeInAnimation(element);
-  });
+  renderQuestionsToContainer(selected, quizContainer);
 
   setupResultsContainer(selected.length);
 
@@ -370,8 +405,9 @@ export function changeQuestionCount(newCount) {
     const allFiltered = quizState.allQuestions.filter(q =>
       filterQuestionsByLevel([q.text], quizState.selectedLevels).length > 0
     );
-    const range = parseQuestionRange(rawValue, allFiltered.length);
-    selected = range ? allFiltered.slice(range.start - 1, range.end) : quizState.originalQuestionOrder.slice(0, newCount);
+    const rangeFiltered = applyRangeSelect(allFiltered);
+    const range = parseQuestionRange(rawValue, rangeFiltered.length);
+    selected = range ? rangeFiltered.slice(range.start - 1, range.end) : quizState.originalQuestionOrder.slice(0, newCount);
   }
 
   updateQuizState({
@@ -381,11 +417,7 @@ export function changeQuestionCount(newCount) {
   const quizContainer = document.getElementById('quiz-container');
   quizContainer.innerHTML = '';
 
-  selected.forEach((q, index) => {
-    const element = createQuestionElement(q.text, index, q.bank);
-    quizContainer.appendChild(element);
-    addFadeInAnimation(element);
-  });
+  renderQuestionsToContainer(selected, quizContainer);
 
   setupResultsContainer(selected.length);
 }

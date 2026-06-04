@@ -125,20 +125,17 @@ function handleShuffleToggle() {
  */
 function updateQuestionCountPlaceholder(isShuffleMode) {
   const questionCountInput = document.getElementById('question-count');
-  const questionCountLabel = document.getElementById('question-count-label');
-
   if (questionCountInput) {
-    if (isShuffleMode) {
-      questionCountInput.placeholder = '20';
-      questionCountInput.title = 'Number of questions to show';
-    } else {
-      questionCountInput.placeholder = 'e.g. 20, 6-, 6-200';
-      questionCountInput.title = 'Range: "20" = 1-20, "6-" = 6 to end, "6-200" = 6 to 200';
-    }
+    questionCountInput.placeholder = '20';
+    questionCountInput.title = 'Number of questions to show';
   }
 
-  if (questionCountLabel) {
-    questionCountLabel.textContent = isShuffleMode ? 'Questions:' : 'Range:';
+  // Show range inputs when shuffle is OFF, or when range-select checkbox is checked
+  const rangeRow      = document.getElementById('range-inputs');
+  const rangeCheckbox = document.getElementById('range-select-checkbox');
+  if (rangeRow) {
+    const rangeChecked = rangeCheckbox ? rangeCheckbox.checked : false;
+    rangeRow.style.display = (!isShuffleMode || rangeChecked) ? 'flex' : 'none';
   }
 }
 

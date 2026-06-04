@@ -15,6 +15,27 @@ export function shuffle(array) {
 }
 
 /**
+ * Shuffle questions while keeping passage groups intact.
+ * Questions sharing a passageRef stay together as one atomic unit.
+ * Standalone questions (no passageRef) are individual units.
+ * @param {Array} questions - Array of question objects
+ * @returns {Array} Shuffled array with passage groups preserved
+ */
+export function shuffleWithPassageGroups(questions) {
+  const groups = [];
+  for (const q of questions) {
+    const ref = (typeof q === 'object' && q.passageRef) ? q.passageRef : null;
+    const last = groups[groups.length - 1];
+    if (ref !== null && last && last.passageRef === ref) {
+      last.questions.push(q);
+    } else {
+      groups.push({ passageRef: ref, questions: [q] });
+    }
+  }
+  return shuffle(groups).flatMap(g => g.questions);
+}
+
+/**
  * Add fade-in animation to element
  * @param {HTMLElement} element - Element to animate
  */

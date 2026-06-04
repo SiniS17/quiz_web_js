@@ -225,6 +225,12 @@ export function setupTopQuestionCountInput(questions) {
   questionCountInput.value = selectedCount;
   questionCountInput.max = maxQuestions;
 
+  // Set range inputs defaults: From=1, To=total question count
+  const toInput = document.getElementById('range-to');
+  if (toInput) { toInput.value = maxQuestions; toInput.max = maxQuestions; }
+  const fromInput = document.getElementById('range-from');
+  if (fromInput) { fromInput.max = maxQuestions; }
+
   // Remove old event listeners
   questionCountInput.removeEventListener('input', questionCountInput._inputHandler);
   questionCountInput.removeEventListener('keypress', questionCountInput._keypressHandler);
@@ -237,43 +243,40 @@ export function setupTopQuestionCountInput(questions) {
 }
 
 /**
- * Handle question count / range input changes
+ * Return the number of questions available in the active range.
+ * If range is not active, returns actualMax unchanged.
+ */
+function getRangeSizeLimit(actualMax) {
+  const shuffleCheckbox = document.getElementById('shuffle-checkbox');
+  const rangeCheckbox   = document.getElementById('range-select-checkbox');
+  const shuffleOff  = shuffleCheckbox ? !shuffleCheckbox.checked : false;
+  const rangeActive = (rangeCheckbox && rangeCheckbox.checked) || shuffleOff;
+  if (!rangeActive) return actualMax;
+
+  const fromInput = document.getElementById('range-from');
+  const toInput   = document.getElementById('range-to');
+  const from = Math.max(1, parseInt(fromInput?.value) || 1);
+  const to   = Math.min(parseInt(toInput?.value) || actualMax, actualMax);
+  return Math.max(1, to - from + 1);
+}
+
+/**
+ * Handle question count input changes (always numeric)
  */
 function handleQuestionCountInput(e, maxQuestions) {
   const quizState = getQuizState();
-  const isShuffleMode = quizState.isShuffleMode !== false;
+  const selectedLevels = getSelectedLevels();
+  const actualMax = quizState.allQuestions
+    ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+    : maxQuestions;
+  const effectiveMax = getRangeSizeLimit(actualMax);
 
-  if (isShuffleMode) {
-    // Original behavior: numeric only
-    const selectedLevels = getSelectedLevels();
-    const actualMax = quizState.allQuestions
-      ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
-      : maxQuestions;
-
-    let value = parseInt(e.target.value);
-    if (value > 0) {
-      if (value > actualMax) { value = actualMax; e.target.value = value; }
-      setPendingQuestionCount(value);
-      e.target.style.borderColor = '#f59e0b';
-      e.target.title = 'Press Enter to apply the new question count';
-    }
-  } else {
-    // Range mode: accept "20", "6-", "6-200" - just mark as pending, validate on Enter
-    const rawValue = e.target.value.trim();
-    if (rawValue) {
-      const selectedLevels = getSelectedLevels();
-      const actualMax = quizState.allQuestions
-        ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
-        : maxQuestions;
-      const range = parseQuestionRange(rawValue, actualMax);
-      if (range) {
-        e.target.style.borderColor = '#f59e0b';
-        e.target.title = `Press Enter: questions ${range.start} to ${range.end === Infinity ? 'end' : range.end}`;
-      } else {
-        e.target.style.borderColor = '#ef4444';
-        e.target.title = 'Invalid range. Use: "20", "6-", or "6-200"';
-      }
-    }
+  let value = parseInt(e.target.value);
+  if (value > 0) {
+    if (value > effectiveMax) { value = effectiveMax; e.target.value = value; }
+    setPendingQuestionCount(value);
+    e.target.style.borderColor = '#f59e0b';
+    e.target.title = 'Press Enter to apply the new question count';
   }
 }
 
@@ -285,33 +288,18 @@ function handleQuestionCountKeypress(e, maxQuestions) {
     e.preventDefault();
 
     const quizState = getQuizState();
-    const isShuffleMode = quizState.isShuffleMode !== false;
     const selectedLevels = getSelectedLevels();
     const actualMax = quizState.allQuestions
       ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
       : maxQuestions;
+    const effectiveMax = getRangeSizeLimit(actualMax);
 
-    if (isShuffleMode) {
-      let value = parseInt(e.target.value);
-      if (value > 0) {
-        if (value > actualMax) { value = actualMax; e.target.value = value; }
-        applyQuestionCountChange(value, actualMax);
-        e.target.style.borderColor = '';
-        e.target.title = '';
-      }
-    } else {
-      // Range mode
-      const rawValue = e.target.value.trim();
-      const range = parseQuestionRange(rawValue, actualMax);
-      if (range) {
-        applyRangeChange(rawValue, actualMax);
-        e.target.style.borderColor = '';
-        e.target.title = '';
-        showNotification(`Showing questions ${range.start}–${range.end === Infinity ? actualMax : range.end}`, 'info');
-      } else {
-        showNotification('Invalid range. Use: "20", "6-", or "6-200"', 'error');
-        e.target.style.borderColor = '#ef4444';
-      }
+    let value = parseInt(e.target.value);
+    if (value > 0) {
+      if (value > effectiveMax) { value = effectiveMax; e.target.value = value; }
+      applyQuestionCountChange(value, effectiveMax);
+      e.target.style.borderColor = '';
+      e.target.title = '';
     }
   }
 }

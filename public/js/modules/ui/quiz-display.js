@@ -1,4 +1,4 @@
-// modules/ui/quiz-display.js - Quiz Question Display with Validation
+// modules/ui/quiz-display.js - Quiz Question Display with Validation and Passage Support
 import CONFIG from '../../config.js';
 import { parseQuestionWithImages } from '../parser.js';
 import { shuffle, addFadeInAnimation } from '../utils.js';
@@ -15,8 +15,16 @@ import { getQuizState } from '../state.js';
  *   'line_count'   → red    (wrong number of lines)
  *   'answer_count' → violet (wrong number of @@ correct answers)
  *   null           → valid
+ *
+ * Passage blocks ([PASSAGE] first line) are always valid and skip all checks.
  */
 function validateQuestionBlock(questionText) {
+  // Passage blocks are never invalid
+  const firstLine = questionText.split('\n').find(l => l.trim() !== '');
+  if (firstLine && firstLine.trim() === '[PASSAGE]') {
+    return { valid: true, violationType: null, isPassage: true, lineCount: 0 };
+  }
+
   const lines     = questionText.split('\n').filter(line => line.trim() !== '');
   const lineCount = lines.length;
 
@@ -58,7 +66,38 @@ function shouldShowViolation(violationType) {
 }
 
 /**
+ * Build the passage context element shown above a question.
+ * @param {string} passageText - Plain text of the passage body
+ * @returns {HTMLElement}
+ */
+export function createPassageElement(passageText) {
+  const wrapper = document.createElement('div');
+  wrapper.className = 'passage-context';
+
+  const label = document.createElement('div');
+  label.className = 'passage-label';
+  label.innerHTML = '<i class="fas fa-book-open" aria-hidden="true"></i> Reading passage';
+
+  const body = document.createElement('div');
+  body.className = 'passage-text';
+  // Preserve line breaks within the passage
+  body.innerHTML = passageText
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.length > 0)
+    .join('<br>');
+
+  wrapper.appendChild(label);
+  wrapper.appendChild(body);
+  return wrapper;
+}
+
+/**
  * Create question element.
+ *
+ * Accepts a question object { text, passageRef } or a plain string.
+ *
+ * If passageRef is set, a styled reading-passage block is prepended.
  *
  * If a violation is detected AND the relevant display flag is on:
  *   line_count   → .question-invalid        (red stripes, interaction blocked)
@@ -66,7 +105,11 @@ function shouldShowViolation(violationType) {
  *
  * If the display flag is off the question renders normally (no stripe/block).
  */
-export function createQuestionElement(questionText, index) {
+export function createQuestionElement(questionInput, index) {
+  // Normalise: accept both plain strings and question objects
+  const questionText = typeof questionInput === 'string' ? questionInput : questionInput.text;
+  const passageRef   = (typeof questionInput === 'object' && questionInput.passageRef) || null;
+
   const validation = validateQuestionBlock(questionText);
 
   // Opt-out files (ending in ' (-).txt') suppress all validation display
@@ -88,7 +131,7 @@ export function createQuestionElement(questionText, index) {
   const shuffledAnswers = isShuffleMode ? shuffle([...answers]) : [...answers];
 
   const questionDiv = document.createElement('div');
-  questionDiv.className = 'question';
+  questionDiv.className = 'question' + (passageRef ? ' question-in-passage' : '');
   questionDiv.id = `question-${index}`;
 
   if (markInvalid) {

@@ -22,6 +22,22 @@ export function initFloatingControls() {
   setupEscapeKeyHandler(controlPanel, leftSidebar);
   setupClickOutsideHandler();
   setupResizeHandler();
+  setupRangeSelectToggle();
+}
+
+/**
+ * Show/hide the From/To inputs when Range select checkbox changes
+ */
+function setupRangeSelectToggle() {
+  const checkbox = document.getElementById('range-select-checkbox');
+  const rangeRow = document.getElementById('range-inputs');
+  if (!checkbox || !rangeRow) return;
+
+  checkbox.addEventListener('change', () => {
+    const shuffleCheckbox = document.getElementById('shuffle-checkbox');
+    const shuffleOff = shuffleCheckbox ? !shuffleCheckbox.checked : false;
+    rangeRow.style.display = (checkbox.checked || shuffleOff) ? 'flex' : 'none';
+  });
 }
 
 /**
