@@ -79,6 +79,18 @@ export default function Home() {
         </div>
         <div className="panel-content">
           <div className="control-group">
+            <label><i className="fas fa-compress-arrows-alt"></i> Range select</label>
+            <input type="checkbox" id="range-select-checkbox" />
+          </div>
+          <div id="range-inputs" className="control-group range-inputs-row" style={{display: 'none'}}>
+            <div className="range-pair">
+              <span>From</span>
+              <input type="number" id="range-from" min="1" defaultValue="1" placeholder="1" />
+              <span>To</span>
+              <input type="number" id="range-to" min="1" defaultValue="20" placeholder="end" />
+            </div>
+          </div>
+          <div className="control-group">
             <label id="question-count-label"><i className="fas fa-hashtag"></i> Questions:</label>
             <input type="text" id="question-count" min="1" defaultValue="20" placeholder="20" />
           </div>
