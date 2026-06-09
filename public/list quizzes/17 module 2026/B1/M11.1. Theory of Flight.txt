@@ -1,4 +1,4 @@
-Which control surface is used to control an aircraft’s roll?
+Which control surface is used to control an aircraft's roll?
 @@Ailerons
 Rudder
 Elevators
@@ -14,31 +14,31 @@ To control yaw
 To control roll
 
 In aerodynamics, what is the purpose of a stabilators?
-@@To control lift
-To control pitch
+@@To control pitch
+To control lift
 To stabilize yaw
 
 What is the function of a spoiler on an aircraft wing?
-@@To increase lift
+@@To decrease lift and increase drag
+To increase lift
 To reduce drag
-To decrease lift and increase drag
 
-Which control surface is used to control an aircraft’s pitch?
+Which control surface is used to control an aircraft's pitch?
 @@Elevators
 Rudder
 Ailerons
 
-What is the primary function of an aircraft’s horizontal stabilizer?
+What is the primary function of an aircraft's horizontal stabilizer?
 @@To maintain pitch stability
 To control lateral stability
 To increase thrust
 
-How does the addition of leading-edge flaps impact an aircraft’s takeoff performance?
+How does the addition of leading-edge flaps impact an aircraft's takeoff performance?
 @@Increases lift
 Reduces drag
 Decreases lift
 
-In the context of aerodynamic surfaces, what is a “canard”?
+In the context of aerodynamic surfaces, what is a "canard"?
 @@A small wing located ahead of the main wings
 A type of tail wing
 A stabilizing fin
@@ -94,19 +94,19 @@ Elevator.
 Aileron.
 
 What is the primary purpose of a flight control system in an aircraft?
-@@To control the aircraft’s altitude and direction
+@@To control the aircraft's altitude and direction
 To measure airspeed
 To manage fuel consumption
 
-What is the primary function of an aircraft’s spoiler?
+What is the primary function of an aircraft's spoiler?
 @@To reduce lift and increase drag
 To increase fuel efficiency
 To control yaw
 
-What is a key characteristic of  hight lift devices?
-@@It increases lift at lower speeds
-It is only used during cruising
-It increases drag significantly
+Which control surface is used to control an aircraft's yaw?
+@@Rudder
+Ailerons
+Elevators
 
 What is the function of flaperons?
 @@Combine aileron and flap functions
@@ -124,7 +124,7 @@ The weight of the aircraft
 Air turbulence from engines
 
 What is Mach number?
-@@The ratio of an aircraft’s speed to the speed of sound
+@@The ratio of an aircraft's speed to the speed of sound
 The measure of lift generated
 The drag coefficient
 
