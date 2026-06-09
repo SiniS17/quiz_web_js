@@ -11,9 +11,10 @@ import { showTopControls } from './controls.js';
 import { createTopLevelCheckboxes, setupTopQuestionCountInput } from '../quiz-settings.js';
 import { displayQuestions } from '../quiz-manager.js';
 
-let currentFolderPath = '';
-let selectedQuizzes   = new Set();
-let currentRequestId  = 0;
+let currentFolderPath  = '';
+let selectedQuizzes    = new Set();
+let currentRequestId   = 0;
+let totalFilesInFolder = 0;
 
 // ===================================
 // VALIDATION CACHE
@@ -181,8 +182,7 @@ async function renderQuizList(data, quizGrid, folder) {
     return;
   }
 
-  data.folders.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
-  data.files.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+  // API already returns naturally-sorted folders/files — do NOT re-sort here
 
   const hasFiles = data.files.length > 0;
 
@@ -320,10 +320,71 @@ function createQuizBox(file, folder, validation, showCheckbox = false) {
 }
 
 function createMultiQuizButton(quizGrid, folder) {
+  totalFilesInFolder = quizGrid.querySelectorAll('.quiz-checkbox').length;
+
   const container = document.createElement('div');
   container.id = 'multi-quiz-button-container';
-  container.style.cssText = 'grid-column:1/-1;display:flex;justify-content:center;margin-top:1rem;';
+  container.style.cssText = `
+    grid-column: 1/-1;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+  `;
 
+  // --- Select All checkbox ---
+  const selectAllLabel = document.createElement('label');
+  selectAllLabel.style.cssText = `
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    user-select: none;
+    padding: 0.75rem 1.25rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    background: var(--bg-primary);
+    transition: var(--transition);
+  `;
+  selectAllLabel.onmouseenter = () => { selectAllLabel.style.borderColor = 'var(--primary-color)'; selectAllLabel.style.color = 'var(--primary-color)'; };
+  selectAllLabel.onmouseleave = () => { selectAllLabel.style.borderColor = 'var(--border-color)'; selectAllLabel.style.color = 'var(--text-primary)'; };
+
+  const selectAllCb = document.createElement('input');
+  selectAllCb.type = 'checkbox';
+  selectAllCb.id = 'select-all-quiz-checkbox';
+  selectAllCb.style.cssText = 'width:18px;height:18px;cursor:pointer;accent-color:#10b981;flex-shrink:0;';
+
+  selectAllCb.addEventListener('change', () => {
+    const allCbs = quizGrid.querySelectorAll('.quiz-checkbox');
+    const shouldSelect = selectAllCb.checked;
+    selectAllCb.indeterminate = false;
+    allCbs.forEach(cb => {
+      const fp = cb.dataset.filePath;
+      if (shouldSelect && !cb.checked) {
+        cb.checked = true;
+        selectedQuizzes.add(fp);
+        cb.closest('.quiz-box')?.classList.add('quiz-selected');
+      } else if (!shouldSelect && cb.checked) {
+        cb.checked = false;
+        selectedQuizzes.delete(fp);
+        cb.closest('.quiz-box')?.classList.remove('quiz-selected');
+      }
+    });
+    updateMultiQuizButton();
+  });
+
+  const selectAllText = document.createElement('span');
+  selectAllText.textContent = 'Select All';
+
+  selectAllLabel.appendChild(selectAllCb);
+  selectAllLabel.appendChild(selectAllText);
+
+  // --- Start Combined Quiz button ---
   const btn = document.createElement('button');
   btn.id = 'start-multi-quiz-btn';
   btn.className = 'primary-btn';
@@ -332,18 +393,35 @@ function createMultiQuizButton(quizGrid, folder) {
   btn.style.cssText = 'padding:1rem 2rem;font-size:1rem;opacity:0.5;cursor:not-allowed;transition:all 0.3s ease;';
   btn.onclick = () => { if (selectedQuizzes.size > 0) startMultiQuiz(Array.from(selectedQuizzes), folder); };
 
+  container.appendChild(selectAllLabel);
   container.appendChild(btn);
   quizGrid.appendChild(container);
 }
 
 function updateMultiQuizButton() {
-  const btn = document.getElementById('start-multi-quiz-btn');
-  if (!btn) return;
+  const btn  = document.getElementById('start-multi-quiz-btn');
+  const selCb = document.getElementById('select-all-quiz-checkbox');
   const count = selectedQuizzes.size;
-  btn.innerHTML     = `<i class="fas fa-play"></i> Start Combined Quiz (${count} selected)`;
-  btn.disabled      = count === 0;
-  btn.style.opacity = count > 0 ? '1' : '0.5';
-  btn.style.cursor  = count > 0 ? 'pointer' : 'not-allowed';
+
+  if (btn) {
+    btn.innerHTML     = `<i class="fas fa-play"></i> Start Combined Quiz (${count} selected)`;
+    btn.disabled      = count === 0;
+    btn.style.opacity = count > 0 ? '1' : '0.5';
+    btn.style.cursor  = count > 0 ? 'pointer' : 'not-allowed';
+  }
+
+  if (selCb) {
+    if (count === 0) {
+      selCb.checked       = false;
+      selCb.indeterminate = false;
+    } else if (count === totalFilesInFolder) {
+      selCb.checked       = true;
+      selCb.indeterminate = false;
+    } else {
+      selCb.checked       = false;
+      selCb.indeterminate = true; // shows "-"
+    }
+  }
 }
 
 async function startMultiQuiz(filePaths, folder) {
@@ -356,7 +434,7 @@ async function startMultiQuiz(filePaths, folder) {
       const text      = await fetchQuizContent(filePath);
       const questions = parseQuestions(text.split('\n'));
       const bankName  = filePath.split('/').pop().replace('.txt', '').replace(' (-)', '').substring(0, 15);
-      questions.forEach(q => questionsWithBanks.push({ text: q, bank: bankName }));
+      questions.forEach(q => questionsWithBanks.push({ ...q, bank: bankName }));
     }
 
     if (questionsWithBanks.length === 0) {
