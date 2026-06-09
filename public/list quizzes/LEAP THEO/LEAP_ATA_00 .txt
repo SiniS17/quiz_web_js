@@ -79,7 +79,6 @@ Overhead panel
 Main instrument panel
 Center pedestal
 
-ATA 00
 Which A/C the lowest fuel consumption?
 @@A319
 A320
