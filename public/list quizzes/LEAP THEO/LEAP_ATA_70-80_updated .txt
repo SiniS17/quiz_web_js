@@ -558,6 +558,38 @@ Has a message on EWD
 Has a message on ENGINE ECAM SD
 @@No indication
 
+What is the function of the right-hand lower actuator on the thrust reverser cowls? (xlsx)
+Contains the sync lock.	
+Contains the LVDT.	
+Deactivation of the thrust reverser system for flight.	
+@@Manually locking the thrust reverser system for maintenance.
 
+For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- HOT START » when	(xlsx)
+ENG 1 has fire dedected	
+ENG1 EGT overlimit	
+ENG 1 Manual start attempt fail, the start is aborted	
+@@ENG 1 Auto start attempt fail, the start is aborted
 
+For CFM LEAP-1A Engine, Engine drain system has:	(xlsx)
+@@The fan zone drain mast, the core zone drain mast and the rear drain tubes.	
+The fan zone drain mast, the gear box drain mast and the rear drain tubes.	
+The fan zone drain mast, the core zone drain mast and the gear box drain tubes.	
+The fan zone drain mast, the core zone drain mast and the pylon drain tubes.
 
+What are the inputs to the ETL during the deploy sequence of the TR system? L2	(xlsx)
+@@Spoiler elevator computers (SECs) will energize a relay supplying the ETL with power.	
+Throttle control unit (TCU) signals -3,8 º to the EIU together with aircraft on ground.	
+EEC will receive TLA -4.3 º from the resolvers in the TCU to close an internal relay which will power the ETL.	
+EEC will receive TLA -4.3 º from the potentiometers in the TCU to close an internal relay which will power the ETL.
+
+What senses movement of the T/R translating sleeve? L2	(xlsx)
+The hydraulic pressure switch inside the ICU.	
+@@The LVDT’s on the upper actuators.	
+The proximity switches on the lower actuators.	
+The LVDT’s on the lower actuators.
+
+When opening the engine cowls:	(xlsx)
+Respect the wind limitations and the opening/closing sequence,	
+Always secure cowls with the hold-open rods,	
+Make sure that the slats are retracted and install a warning notice to prevent slat operation	
+@@All answers are correct
