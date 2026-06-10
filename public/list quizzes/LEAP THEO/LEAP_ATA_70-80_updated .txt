@@ -288,20 +288,23 @@ A single EEC(ECU) with its peripherals for both engines
 @@A single EEC(ECU) with its peripherals per engine
 One main frame computer for all engines
 
-During Engine manual start, starter air valve (SAV) open when:
+During Engine manual start, starter air valve (SAV) open when: 
 Mode selector is set to IGN/START
 Master switch set to ON
 @@Engine MAN START push to ON
+EEC control depend on engine core temperature and cooling logic
 
 For CFM LEAP-1A Engine FADEC system, each EEC A & B can control the Engine System, but:
 @@One EEC is control or active at a time
 Both EECs are in control or active permanently
 The Standby EEC is never switch automatically
+EEC A and B with crosstalk, each EEC will control and active for some engine subsystem 
 
 For CFM LEAP-1A Engine,The ENG Drain mast gives a leak path exit for hydraulic, oil and:
 @@Fuel component
 Reverser system actuators
 Permanent Magnet Altenator (PMA)
+Water.
 
 For CFM LEAP-1A Engine, Aerodynamic strakes are installed on the follow side (s) of the Engine fancowls:
 Inboard side
@@ -593,3 +596,21 @@ Respect the wind limitations and the opening/closing sequence,
 Always secure cowls with the hold-open rods,	
 Make sure that the slats are retracted and install a warning notice to prevent slat operation	
 @@All answers are correct
+
+The Electrical Tertiary Lock (ETL) is controlled by: L1	(xlsx)
+EEC.	
+EIU.	
+SECs.	
+RAs.
+
+The engine sumps are sealed by: L2	(xlsx)
+Carbon seals with LPC Stage 25 bleed air at high engine power settings.	
+Labyrinth seats with HPC Stage 7 bleed air at any engine power settings.	
+Labyrinth seats with HPC Stage 7 bleed air at high engine power settings.	
+Carbon seals with LPC Stage 25 bleed air at any engine power settings.
+
+The oil monitoring and indicating system comprises: L1	(xlsx)
+Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating.	
+Oil Level (OL) indicating, Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).	
+Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).	
+Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).
