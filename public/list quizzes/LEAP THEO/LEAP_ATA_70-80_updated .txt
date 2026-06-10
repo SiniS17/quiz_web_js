@@ -45,6 +45,13 @@ By 2 air cooled heat exchangers.
 By 2 fuel cooled heat exchanger, 2 air cooled heat exchangers.
 By 1 fuel cooled heat exchangers and 2 air cooled heat exchanger.
 
+The engine gear boxes are driven by which shaft? (Bonus)
+N2 rotor via the transfer gear box.
+N2 rotor.
+@@N2 rotor through the IGB and TGB.
+N1 rotor.
+
+
 For CFM LEAP-1A Engine FADEC system, each EEC A & B can control the Engine System, but: (Level 2)
 @@One EEC is control or active at a time
 Both EECs are in control or active permanently
