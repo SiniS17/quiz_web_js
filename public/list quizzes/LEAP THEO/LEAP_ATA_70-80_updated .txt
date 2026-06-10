@@ -13,8 +13,8 @@ Thirty two (32).
 For CFM LEAP-1A Engine, Aerodynamic strake(s) is installed on the Engine Fan cowl(s): (Bonus)
 L/H Fan cowl door.
 R/H Fan cowl door
-@@Do not have Aerodynamic strake(s)
-L/H Fan cowl door & R/H Fan cowl door.
+Do not have Aerodynamic strake(s)
+@@L/H Fan cowl door & R/H Fan cowl door.
 
 What is the function of the right-hand lower actuator on the thrust reverser cowls? (Bonus)
 L3 Contains the sync lock.
