@@ -600,17 +600,17 @@ Make sure that the slats are retracted and install a warning notice to prevent s
 The Electrical Tertiary Lock (ETL) is controlled by: L1	(xlsx)
 EEC.	
 EIU.	
-SECs.	
+@@SECs.	
 RAs.
 
 The engine sumps are sealed by: L2	(xlsx)
 Carbon seals with LPC Stage 25 bleed air at high engine power settings.	
 Labyrinth seats with HPC Stage 7 bleed air at any engine power settings.	
 Labyrinth seats with HPC Stage 7 bleed air at high engine power settings.	
-Carbon seals with LPC Stage 25 bleed air at any engine power settings.
+@@Carbon seals with LPC Stage 25 bleed air at any engine power settings.
 
 The oil monitoring and indicating system comprises: L1	(xlsx)
 Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating.	
 Oil Level (OL) indicating, Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).	
 Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).	
-Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).
+@@Oil Level (OL) indicating, Oil Debris Monitoring (ODM), Oil Pressure and Temperature (OPT) indicating, Low Oil Pressure (LOP) indicating, Oil Filter Differential Pressure (OFDP).
