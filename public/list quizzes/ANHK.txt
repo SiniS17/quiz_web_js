@@ -144,9 +144,9 @@ Ngăn chặn hành vi, tạm giữ đối tượng
 @@Ngăn chặn hành vi, tạm giữ đối tượng và đưa người, tang vật về nơi quy định để giải quyết
 
 30. Chế độ lao động, kỷ luật lao động đặc thù đối với nhân viên hàng không được quy định tại văn bản nào
-Thông tư 23/2023/TT-BGTVT
+@@Thông tư 23/2023/TT-BGTVT
 Thông tư số 13/2019/TT-BGTVT
-@@Thông tư số 34/2022/TT-BGTVT
+Thông tư số 34/2022/TT-BGTVT
 
 31. Vũ khí, súng và các loại vật dụng được thiết kế để gây sát thương hoặc các vật giống như vũ khí
 Súng ngắn, súng trường, tiểu liên, súng bắn đạn ghém, súng săn, súng cao su và các loại súng khác có tính năng, tác dụng tương tự;
