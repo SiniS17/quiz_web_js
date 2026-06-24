@@ -82,10 +82,12 @@ Hành vi xâm nhập trái pháp luật vào tàu bay, cảng hàng không, sân
 @@1
 2
 3
+
 Hành vi can thiệt bất hợp pháp vào hoạt động hàng không dân dụng được chia làm mấy cấp độ
 1
 @@2
 3
+
 Hành vi bắt giữ con tin tại cảng hàng không sân bay thuộc nhóm hành vi can thiệp bất hợp pháp cấp độ nào
 1
 @@2
