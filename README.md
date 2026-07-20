@@ -1,6 +1,6 @@
 # Aviation Quiz Application
 
-A modern, feature-rich quiz application built with Flask and vanilla JavaScript, designed for aviation maintenance training and certification preparation. Supports both single and multi-quiz modes with live feedback, progress tracking, and intelligent question validation.
+A modern quiz application for aviation maintenance training and certification preparation. Built with Next.js and vanilla JavaScript, it supports single and multi-quiz modes with live feedback, progress tracking, and intelligent question validation.
 
 ---
 
@@ -14,24 +14,18 @@ A modern, feature-rich quiz application built with Flask and vanilla JavaScript,
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
 - [Configuration](#configuration)
-  - [Environment Variables](#environment-variables)
-  - [Application Settings](#application-settings)
 - [Project Structure](#project-structure)
 - [Usage Guide](#usage-guide)
-  - [Creating Quizzes](#creating-quizzes)
   - [Quiz Format](#quiz-format)
   - [Multi-Quiz Mode](#multi-quiz-mode)
-- [Development](#development)
-  - [Contributing](#contributing)
-  - [Code Style](#code-style)
-- [Roadmap](#roadmap)
+- [Deployment](#deployment)
 - [License](#license)
 
 ---
 
 ## Introduction
 
-The Aviation Quiz Application is a comprehensive learning platform designed to help aviation maintenance professionals prepare for certification exams. Built with a focus on user experience and accessibility, it provides instant feedback, progress tracking, and flexible quiz management across desktop and mobile devices.
+The Aviation Quiz Application is a learning platform for aviation maintenance professionals preparing for certification exams. It provides instant feedback, progress tracking, and flexible quiz management across desktop and mobile devices.
 
 **Perfect for:**
 - Aviation maintenance students
@@ -72,23 +66,21 @@ The Aviation Quiz Application is a comprehensive learning platform designed to h
 
 ## Architecture Overview
 
-The application follows a modular frontend architecture with a lightweight Flask backend for file serving.
-
 ```mermaid
 graph TD
-    A[Client Browser] --> B[Flask Server]
+    A[Client Browser] --> B[Next.js Server]
     B --> C[Static File Serving]
-    B --> D[Quiz API Endpoints]
-    
+    B --> D[/api/list-quizzes]
+
     A --> E[Frontend Modules]
     E --> F[State Management]
     E --> G[UI Components]
     E --> H[Quiz Logic]
     E --> I[Parser Engine]
-    
+
     D --> J[Quiz Files .txt]
     D --> K[Image Assets]
-    
+
     F --> L[Local Storage API]
     H --> I
     I --> J
@@ -97,8 +89,7 @@ graph TD
 ### Technology Stack
 
 **Backend:**
-- Flask 3.x (Python web framework)
-- Werkzeug (WSGI utilities)
+- Next.js 14 (API routes, Node.js)
 
 **Frontend:**
 - Vanilla JavaScript (ES6 modules)
@@ -106,19 +97,14 @@ graph TD
 - Font Awesome 6.4 (icons)
 - Inter Font Family (typography)
 
-**Architecture Pattern:**
-- Modular ES6 with centralized state management
-- Event-driven UI updates
-- Separation of concerns (UI, logic, data)
-
 ---
 
 ## Getting Started
 
 ### Prerequisites
 
-- **Python 3.8+** installed on your system
-- **pip** (Python package manager)
+- **Node.js 18+**
+- **npm**
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 
 ### Installation
@@ -130,103 +116,49 @@ git clone https://github.com/yourusername/aviation-quiz.git
 cd aviation-quiz
 ```
 
-2. **Create a virtual environment:**
+2. **Install dependencies:**
 
 ```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-3. **Install dependencies:**
-
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` doesn't exist, install Flask manually:
-
-```bash
-pip install Flask
-```
-
-4. **Verify quiz directory structure:**
-
-Ensure the `list quizzes` directory exists in your project root:
-
-```
-aviation-quiz/
-├── list quizzes/          # Quiz files directory
-│   ├── Category 1/
-│   │   └── quiz1.txt
-│   └── quiz2.txt
-├── public/
-├── app.py
-└── ...
+npm install
 ```
 
 ### Running the Project
 
-**Development Mode:**
+**Development mode:**
 
 ```bash
-python app.py
+npm run dev
 ```
 
-The application will start on `http://localhost:5000` by default.
-
-**Production Mode:**
+**Production mode:**
 
 ```bash
-export FLASK_ENV=production  # macOS/Linux
-set FLASK_ENV=production     # Windows
-
-python app.py
+npm run build
+npm start
 ```
 
-**Custom Port:**
-
-```bash
-export PORT=8080  # macOS/Linux
-set PORT=8080     # Windows
-
-python app.py
-```
+The app runs on `http://localhost:5000` by default.
 
 ---
 
 ## Configuration
 
-### Environment Variables
-
-| Variable | Description | Default | Example |
-|----------|-------------|---------|---------|
-| `PORT` | Server port number | `5000` | `8080` |
-| `FLASK_ENV` | Flask environment | `development` | `production` |
-
-### Application Settings
-
 Edit `public/js/config.js` to customize application behavior:
 
 ```javascript
 export const CONFIG = {
-  // Quiz directory configuration
   QUIZ_DIRECTORY_NAME: 'list quizzes',
-  QUIZ_DIRECTORY_IN_ROOT: true,  // true = root, false = public/
-  
-  // Quiz validation rules
+  QUIZ_DIRECTORY_IN_ROOT: true,  // true = public/, false = project root
+
+  // Validation rules
   MAX_CONSECUTIVE_LINES: 5,
   MIN_CONSECUTIVE_LINES: 3,
-  
-  // Default settings
+
+  // Defaults
   DEFAULT_QUESTION_COUNT: 20,
   DEFAULT_LIVE_TEST_MODE: true,
-  
-  // Grade thresholds
+
+  // Grade thresholds (%)
   GRADE_THRESHOLDS: {
     A_PLUS: 90,
     A: 80,
@@ -236,97 +168,63 @@ export const CONFIG = {
 };
 ```
 
-**Key Configuration Options:**
-
-- `QUIZ_DIRECTORY_IN_ROOT`: Set to `false` to place quizzes in `public/list quizzes/`
-- `MAX_CONSECUTIVE_LINES`: Maximum lines per question (detects malformed files)
-- `DEFAULT_LIVE_TEST_MODE`: Enable/disable live feedback by default
-- `GRADE_THRESHOLDS`: Customize grade percentage ranges
-
 ---
 
 ## Project Structure
 
 ```
 aviation-quiz/
-├── app.py                          # Flask application entry point
-├── requirements.txt                # Python dependencies
-├── list quizzes/                   # Quiz files directory (configurable)
-│   ├── Category 1/
-│   │   ├── quiz1.txt
-│   │   └── quiz2.txt
-│   └── quiz3.txt
+├── pages/
+│   ├── index.js              # Main Next.js page
+│   ├── _document.js          # Custom document (CDN links)
+│   └── api/
+│       └── list-quizzes.js   # API route for directory listing
 │
-├── public/                         # Static frontend files
-│   ├── index.html                  # Main HTML file
-│   ├── styles.css                  # Application styles
-│   ├── images/                     # Question images
-│   │   └── placeholder.png
+├── public/
+│   ├── styles.css            # Application styles
+│   ├── images/               # Question images
+│   ├── validation-cache.json # Pre-built quiz validation results
 │   │
-│   └── js/                         # JavaScript modules
-│       ├── main.js                 # Application entry point
-│       ├── config.js               # Configuration settings
-│       │
+│   ├── list quizzes/         # Quiz data files (.txt), organized in folders
+│   │   ├── Category 1/
+│   │   │   └── quiz1.txt
+│   │   └── quiz2.txt
+│   │
+│   └── js/                   # Vanilla JS application
+│       ├── main.js           # Entry point
+│       ├── config.js         # Configuration
 │       └── modules/
-│           ├── app.js              # Core initialization
-│           ├── state.js            # Centralized state management
-│           ├── api.js              # Backend API calls
-│           ├── parser.js           # Question parsing logic
-│           ├── utils.js            # Utility functions
-│           ├── error-handler.js    # Global error handling
-│           ├── jquery-enhancements.js
-│           ├── quiz-loader.js      # Quiz content loading
-│           ├── quiz-settings.js    # Settings management
-│           ├── quiz-controls.js    # Control state
-│           ├── quiz-manager.js     # Main quiz logic
-│           ├── scoring.js          # Score calculation
-│           ├── live-test.js        # Live test functionality
-│           │
+│           ├── app.js
+│           ├── state.js
+│           ├── api.js
+│           ├── parser.js
+│           ├── quiz-manager.js
+│           ├── scoring.js
+│           ├── live-test.js
 │           └── ui/
-│               ├── navigation.js   # Quiz list & folders
-│               ├── controls.js     # Floating panels
+│               ├── navigation.js
+│               ├── quiz-display.js
+│               ├── progress.js
+│               ├── controls.js
+│               ├── modal.js
 │               ├── notifications.js
-│               ├── loading.js
-│               ├── modal.js        # Image modal
-│               ├── quiz-display.js # Question rendering
-│               └── progress.js     # Progress tracking
+│               └── loading.js
 │
-└── README.md                       # This file
-```
-
-### Module Responsibilities
-
-```mermaid
-graph LR
-    A[main.js] --> B[app.js]
-    A --> C[error-handler.js]
-    
-    B --> D[state.js]
-    B --> E[ui/navigation.js]
-    
-    E --> F[quiz-loader.js]
-    F --> G[parser.js]
-    F --> H[api.js]
-    
-    F --> I[quiz-manager.js]
-    I --> J[ui/quiz-display.js]
-    I --> K[live-test.js]
-    I --> L[scoring.js]
-    
-    style D fill:#e1f5ff
-    style G fill:#fff4e1
-    style I fill:#e8f5e9
+├── scripts/
+│   └── generate-validation-cache.js  # Pre-builds validation-cache.json
+│
+├── next.config.js
+├── package.json
+└── README.md
 ```
 
 ---
 
 ## Usage Guide
 
-### Creating Quizzes
+### Quiz Format
 
-Quiz files are simple text files (`.txt`) with a specific format:
-
-#### Basic Quiz Format
+Quiz files are plain `.txt` files. Each question block is separated by a blank line. The correct answer is prefixed with `@@`.
 
 ```
 What is the primary purpose of a wing? (Level 1)
@@ -340,190 +238,55 @@ Micrometer
 @@Torque wrench
 Dial indicator
 Calipers
-
-What does ATA stand for? (Level 1, Level 2)
-@@Air Transport Association
-Aviation Technical Alliance
-Aircraft Testing Authority
-Aeronautical Training Academy
 ```
 
-**Format Rules:**
+**Format rules:**
+1. First line of each block = question text
+2. Following lines = answer options
+3. Prefix correct answer with `@@`
+4. Add levels in parentheses at the end of the question: `(Level 1)` or `(Level 1, Level 2)`
+5. Embed images with `[IMG:filename.png]` in the question line
+6. Separate question blocks with a blank line
 
-1. **Questions and Answers**: Separated by blank lines
-2. **Question Line**: First line of each block
-3. **Correct Answer**: Prefix with `@@`
-4. **Levels**: Add in parentheses at end of question line
-5. **Images**: Use `[IMG:filename.png]` syntax
-
-#### Advanced Features
-
-**Multiple Levels:**
+**With image:**
 ```
-What is the stall speed of a Cessna 172? (Level 2, Level 3)
-40 knots
-@@48 knots
-55 knots
-60 knots
-```
-
-**With Images:**
-```
-Identify the component shown in the diagram. [IMG:engine-diagram.png]
+Identify the component shown. [IMG:engine-diagram.png]
 Carburetor
 @@Fuel injector
 Oil pump
 Alternator
 ```
 
-**Multiple Images:**
-```
-Match the schematic to the correct system. [IMG:schematic1.png] [IMG:schematic2.png]
-Electrical system
-@@Hydraulic system
-Fuel system
-Pneumatic system
-```
-
 ### Multi-Quiz Mode
 
-Combine multiple quizzes into a single unified question bank:
-
 1. Navigate to a folder containing multiple quiz files
-2. Check the boxes next to desired quizzes
+2. Check the boxes next to the quizzes you want
 3. Click **"Start Combined Quiz"**
-4. Questions from all selected quizzes will be shuffled together
-
-**Benefits:**
-- Comprehensive review across multiple topics
-- Randomized question order from different sources
-- Single session for broad exam preparation
+4. Questions from all selected quizzes are shuffled together into one session
 
 ---
 
-## Development
+## Deployment
 
-### Contributing
+### Vercel
 
-We welcome contributions! Please follow these steps:
+Push to GitHub and connect the repo to [Vercel](https://vercel.com). Vercel auto-detects Next.js — no extra configuration needed.
 
-1. **Fork the repository**
-2. **Create a feature branch:**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes:**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. **Push to the branch:**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
+### Replit
 
-### Code Style
+The app is configured to build and run on Replit automatically:
 
-**JavaScript:**
-- ES6+ syntax with modules
-- JSDoc comments for functions
-- Meaningful variable names
-- Single responsibility principle
+```
+npm run build && npm start
+```
 
-**Python:**
-- PEP 8 style guide
-- Type hints where applicable
-- Docstrings for functions
-
-**CSS:**
-- CSS custom properties for theming
-- BEM-like naming conventions
-- Mobile-first responsive design
-
-### Testing Guidelines
-
-**Before submitting a PR:**
-
-1. Test across browsers (Chrome, Firefox, Safari)
-2. Verify responsive design on mobile devices
-3. Check console for errors
-4. Validate quiz file parsing with edge cases
-5. Test both single and multi-quiz modes
-
----
-
-## Roadmap
-
-### v2.0 - Enhanced Learning Features
-- [ ] Quiz creation interface (web-based editor)
-- [ ] Performance analytics dashboard
-- [ ] Spaced repetition algorithm
-- [ ] Export results to PDF/CSV
-
-### v2.1 - Collaboration Features
-- [ ] User accounts and authentication
-- [ ] Shared quiz banks
-- [ ] Leaderboards
-- [ ] Study groups
-
-### v2.2 - Advanced Quiz Types
-- [ ] True/False questions
-- [ ] Multiple selection (checkboxes)
-- [ ] Fill-in-the-blank
-- [ ] Drag-and-drop matching
-
-### v3.0 - Mobile App
-- [ ] React Native mobile application
-- [ ] Offline quiz support
-- [ ] Push notifications for study reminders
-- [ ] Cloud sync
+It serves on port 5000.
 
 ---
 
 ## License
 
-This project is licensed under the **MIT License**.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/aviation-quiz/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/aviation-quiz/discussions)
-- **Email**: support@aviationquiz.com
-
----
-
-## Acknowledgments
-
-- Font Awesome for icons
-- Inter font family by Rasmus Andersson
-- jQuery team for DOM manipulation utilities
-- Aviation maintenance community for feedback and testing
+MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
