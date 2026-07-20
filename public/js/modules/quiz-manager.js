@@ -389,7 +389,14 @@ export function updateQuizWithNewLevels() {
  */
 export function changeQuestionCount(newCount) {
   const quizState = getQuizState();
-  if (!quizState.allQuestions || quizState.hasSubmitted) return;
+  if (!quizState.allQuestions) return;
+
+  // If quiz was submitted, reset it before re-rendering
+  if (quizState.hasSubmitted) {
+    setAnsweredQuestions([]);
+    resetQuizSubmission();
+    closeScoreDisplay();
+  }
 
   updateQuizState({ questionCount: newCount });
   setGlobalSelectedCount(newCount);

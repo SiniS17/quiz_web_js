@@ -70,14 +70,22 @@
     </div>
     <div class="panel-content">
       <div class="control-group">
-        <label id="question-count-label"><i class="fas fa-hashtag"></i> Questions:</label>
-        <input type="text" id="question-count" min="1" value="20" placeholder="20">
+        <div class="count-label-row">
+          <label id="question-count-label"><i class="fas fa-hashtag"></i> Amount:</label>
+          <button id="all-count-btn" class="all-btn" title="Use all available questions">All</button>
+        </div>
+        <div class="count-input-row">
+          <input type="text" id="question-count" min="1" value="20" placeholder="20">
+          <button id="apply-count-btn" class="apply-btn" title="Apply question count / range">
+            <i class="fas fa-check"></i> Apply
+          </button>
+        </div>
       </div>
-      <div class="control-group">
+      <div class="control-group control-group-inline">
         <label><i class="fas fa-random"></i> Shuffle</label>
         <input type="checkbox" id="shuffle-checkbox" checked>
       </div>
-      <div class="control-group">
+      <div class="control-group control-group-inline">
         <label><i class="fas fa-bolt"></i> Live Test</label>
         <input type="checkbox" id="live-test-checkbox">
       </div>

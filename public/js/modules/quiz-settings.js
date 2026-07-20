@@ -240,6 +240,43 @@ export function setupTopQuestionCountInput(questions) {
 
   questionCountInput.addEventListener('input', questionCountInput._inputHandler);
   questionCountInput.addEventListener('keypress', questionCountInput._keypressHandler);
+
+  // "All" button — set input to max and apply immediately
+  const allBtn = document.getElementById('all-count-btn');
+  if (allBtn) {
+    allBtn.onclick = () => {
+      const quizState = getQuizState();
+      const selectedLevels = getSelectedLevels();
+      const actualMax = quizState.allQuestions
+        ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+        : maxQuestions;
+      const effectiveMax = getRangeSizeLimit(actualMax);
+      questionCountInput.value = effectiveMax;
+      questionCountInput.style.borderColor = '';
+      questionCountInput.title = '';
+      applyQuestionCountChange(effectiveMax, effectiveMax);
+    };
+  }
+
+  // Apply button
+  const applyBtn = document.getElementById('apply-count-btn');
+  if (applyBtn) {
+    applyBtn.onclick = () => {
+      const quizState = getQuizState();
+      const selectedLevels = getSelectedLevels();
+      const actualMax = quizState.allQuestions
+        ? calculateActualMaxQuestions(quizState.allQuestions, selectedLevels)
+        : maxQuestions;
+      const effectiveMax = getRangeSizeLimit(actualMax);
+      let value = parseInt(questionCountInput.value);
+      if (value > 0) {
+        if (value > effectiveMax) { value = effectiveMax; questionCountInput.value = value; }
+        applyQuestionCountChange(value, effectiveMax);
+        questionCountInput.style.borderColor = '';
+        questionCountInput.title = '';
+      }
+    };
+  }
 }
 
 /**
@@ -305,15 +342,11 @@ function handleQuestionCountKeypress(e, maxQuestions) {
 }
 
 /**
- * Apply question count change (shuffle mode)
+ * Apply question count change (shuffle mode) — resets quiz if already submitted
  */
 function applyQuestionCountChange(newCount, maxQuestions) {
   const quizState = getQuizState();
   if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
-  if (quizState.hasSubmitted) {
-    showNotification('Cannot change question count after submission', 'error');
-    return;
-  }
 
   showLoadingScreen('Updating Question Count', `Loading ${newCount} questions...`);
   setTimeout(() => {
@@ -325,15 +358,11 @@ function applyQuestionCountChange(newCount, maxQuestions) {
 }
 
 /**
- * Apply range change (non-shuffle mode)
+ * Apply range change (non-shuffle mode) — resets quiz if already submitted
  */
 function applyRangeChange(rawValue, maxQuestions) {
   const quizState = getQuizState();
   if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
-  if (quizState.hasSubmitted) {
-    showNotification('Cannot change range after submission', 'error');
-    return;
-  }
 
   const range = parseQuestionRange(rawValue, maxQuestions);
   if (!range) return;
