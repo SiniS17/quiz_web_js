@@ -78,7 +78,7 @@ export default function Home() {
           </button>
         </div>
         <div className="panel-content">
-          <div className="control-group">
+          <div className="control-group control-group-inline">
             <label><i className="fas fa-compress-arrows-alt"></i> Range select</label>
             <input type="checkbox" id="range-select-checkbox" />
           </div>
@@ -91,14 +91,22 @@ export default function Home() {
             </div>
           </div>
           <div className="control-group">
-            <label id="question-count-label"><i className="fas fa-hashtag"></i> Questions:</label>
-            <input type="text" id="question-count" min="1" defaultValue="20" placeholder="20" />
+            <div className="count-label-row">
+              <label id="question-count-label"><i className="fas fa-hashtag"></i> Amount:</label>
+              <button id="all-count-btn" className="all-btn" title="Use all available questions">All</button>
+            </div>
+            <div className="count-input-row">
+              <input type="text" id="question-count" min="1" defaultValue="20" placeholder="20" />
+              <button id="apply-count-btn" className="apply-btn" title="Apply question count / range">
+                <i className="fas fa-check"></i> Apply
+              </button>
+            </div>
           </div>
-          <div className="control-group">
+          <div className="control-group control-group-inline">
             <label><i className="fas fa-random"></i> Shuffle</label>
             <input type="checkbox" id="shuffle-checkbox" defaultChecked />
           </div>
-          <div className="control-group">
+          <div className="control-group control-group-inline">
             <label><i className="fas fa-bolt"></i> Live Test</label>
             <input type="checkbox" id="live-test-checkbox" />
           </div>
