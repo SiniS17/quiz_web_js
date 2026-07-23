@@ -405,8 +405,14 @@ export function changeQuestionCount(newCount) {
   let selected;
 
   if (isShuffleMode) {
-    selected = quizState.originalQuestionOrder.slice(0, newCount);
-  } else {
+  const allFiltered = quizState.allQuestions.filter(q =>
+    filterQuestionsByLevel([q.text], quizState.selectedLevels).length > 0
+  );
+  const rangeFiltered = applyRangeSelect(allFiltered);
+  const ordered = shuffleWithPassageGroups(rangeFiltered);
+  updateQuizState({ originalQuestionOrder: ordered });
+  selected = ordered.slice(0, newCount);
+} else {
     const rangeInput = document.getElementById('question-count');
     const rawValue = rangeInput ? rangeInput.value : String(newCount);
     const allFiltered = quizState.allQuestions.filter(q =>
