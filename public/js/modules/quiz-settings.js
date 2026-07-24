@@ -5,12 +5,12 @@ import {
   setGlobalSelectedCount,
   setPendingQuestionCount,
   getPendingQuestionCount,
-  getQuizState
+  getQuizState,
+  updateQuizState
 } from './state.js';
 import { sortLevelsForDisplay, getSelectedLevels, getQuestionLevels } from './parser.js';
 import { showNotification } from './ui/notifications.js';
-import { showLoadingScreen, hideLoadingScreen } from './ui/loading.js';
-import { updateQuizWithNewLevels, changeQuestionCount, parseQuestionRange } from './quiz-manager.js';
+import { updateQuizWithNewLevels, restartQuiz } from './quiz-manager.js';
 
 /**
  * Create level selection checkboxes with Select All/Deselect All buttons
@@ -348,32 +348,11 @@ function applyQuestionCountChange(newCount, maxQuestions) {
   const quizState = getQuizState();
   if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
 
-  showLoadingScreen('Updating Question Count', `Loading ${newCount} questions...`);
-  setTimeout(() => {
-    setGlobalSelectedCount(newCount);
-    setPendingQuestionCount(newCount);
-    changeQuestionCount(newCount);
-    hideLoadingScreen();
-  }, 300);
-}
-
-/**
- * Apply range change (non-shuffle mode) — resets quiz if already submitted
- */
-function applyRangeChange(rawValue, maxQuestions) {
-  const quizState = getQuizState();
-  if (!quizState.allQuestions || quizState.allQuestions.length === 0) return;
-
-  const range = parseQuestionRange(rawValue, maxQuestions);
-  if (!range) return;
-
-  const count = range.end - range.start + 1;
-  showLoadingScreen('Updating Range', `Loading questions ${range.start}–${range.end}...`);
-  setTimeout(() => {
-    setGlobalSelectedCount(count);
-    setPendingQuestionCount(count);
-    // changeQuestionCount will use the range input value directly
-    changeQuestionCount(count);
-    hideLoadingScreen();
-  }, 300);
+  setGlobalSelectedCount(newCount);
+  setPendingQuestionCount(newCount);
+  updateQuizState({ questionCount: newCount });
+  // Redirect through restartQuiz() — it's the path that correctly
+  // recomputes the range/filter/shuffle every time. changeQuestionCount()
+  // was reusing stale originalQuestionOrder and ignoring the current range.
+  restartQuiz();
 }
