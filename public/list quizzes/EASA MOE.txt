@@ -1,194 +1,239 @@
 What does EASA MOE mean?
-Maintenance Organization Evaluation
 @@Exposition of a Maintenance Organisation approved by European Aviation Safety Agency
+Maintenance Organization Evaluation
 European Maintenance Operation
 
 What is EASA MOE Part 2 about?
-Personnel requirements
-@@Maintenance procedures
-Quality system
+@@Maintenance procedures.
+Personnel requirements.
+Quality system.
 
-How many Parts are there in VAECO EASA MOE Manual?
-5 Parts
-6 Parts
-@@7 Parts
+How many Parts are there in VAECO EASA MOE manual?
+@@7 Parts.
+5 Parts.
+6 Parts.
 
-What maintenance ratings are approved by EASA for VAECO?
-Aircraft only
-Aircraft and Engine only
-@@Aircraft and Component Rating, NDT and other specialized activities
+What is the maintenance rating that EASA approved for VAECO?
+@@Aircraft and Component Rating, NDT and other specialized activities (Painting, Shot Peening, Flap Peening)
+Aircraft rating only
+Aircraft and Engine rating only
 
-Where can the detailed EASA-approved scope of work be found?
-MOE Chapter 1.2
-@@MOE Chapter 1.9 and NDT Manual 1.2
-MOE Part 5
+Where can we find the detailed scope of work that EASA approved for VAECO?
+@@EASA MOE Chapter 1.9 and NDT Manual 1.2
+EASA MOE Chapter 1.2
+EASA MOE Part 5
 
-Which of the following is NOT a component requiring conformity by an AMO?
-Landing Gear
-Avionics Unit
-@@Corporate Culture
+Which component below is not the component required the conformity by an AMO?
+@@Corporate culture.
+Landing Gear.
+Avionics Unit.
 
-Where are VAECO Base Maintenance hangars located?
-DAD and CXR
-@@HAN and HCM
-HAN and VDO
+Where are VAECO hangars for Base maintenance located?
+@@In HAN and in HCM
+In DAD and in CXR
+In HAN and in VDO
 
-Who issues the Certificate of Release to Service after Base Maintenance?
-Category A Certifying Staff
-Category B1 Certifying Staff
-@@Category C Certifying Staff
+Which qualified staff is responsible for issuing certificate of release to service following base maintenance on aircraft?
+@@Category C Certifying staff.
+Category A Certifying staff.
+Category B1 Certifying staff.
 
-Which group is included in the Nominated Persons?
-Finance Manager and HR Manager
-@@Compliance Monitoring & Safety Manager, Component Maintenance Manager, Line Maintenance Manager, Base Maintenance Manager
-Sales Manager and Training Manager
+What does Nominated Persons group include?
+@@Compliance Monitoring & Safety Manager, Component Maintenance Manager, Line Maintenance Manager, Base Maintenance Manager.
+Finance Manager and HR Manager.
+Sales Manager and Training Manager.
 
-Which document is acceptable for releasing new aircraft parts?
-Certificate of Origin only
-Delivery Note only
-@@EASA Form 1, FAA 8130-3, TCCA Form 1, ANAC Form F-100-01, UK Form 1
+What are the acceptable release documents for new aircraft parts?
+@@EASA Form 1; FAA8130-3; TCCA Form 1; ANAC Form F-100-01, UK Form 1.
+Certificate of Origin only.
+Delivery Note only.
 
-Which department is responsible for purchasing T&E?
-SQD
+Which Department/ Center is responsible for purchasing T&E?
 @@LGC
+SQD
 EGD
 
-Which department scans maintenance records?
+Which Department/ Center is responsible for scanning maintenance record?
+@@Base, Line Maintenance Centers
 SQD
-@@Base and Line Maintenance Centers
 LGC
 
-Which department controls the current status of maintenance data?
-QC
+Which Department/ Center is responsible for controlling current status of maintenance data?
 @@EGD
+QC
 LGC
 
-Which form is used to release an aircraft after Base Maintenance?
-VAECO Form 2033
+What Form is used for release A/C to service after Base maintenance?
 @@Maintenance Release (VAECO Form 2012)
+VAECO Form 2033
 VAECO Form 2055
 
-In which MOE Part can the cross-reference between EASA MOE and SOP be found?
-Part 2
-Part 0
-@@Part 5
+In which MOE Part, the table of cross reference between EASA MOE and SOP can be found?
+@@MOE Part 5
+MOE Part 2
+MOE Part 0
 
-In which MOE Part can the table of contents be found?
-@@Part 0
-Part 2
-Part 5
+In which MOE Part, table of MOE content can be found?
+@@MOE Part 0
+MOE Part 2
+MOE Part 5
 
-In which MOE Part can the summary of MOE changes be found?
-@@Part 0
-Part 1
-Part 6
+In which MOE Part, summary of MOE change content can be found?
+@@MOE Part 0
+MOE Part 1
+MOE Part 6
 
-What is EASA MOE Chapter 2.25 about?
+How to define which VAECO aircraft/ component maintenance contractors and subcontractors are approved to involve to maintenance works under EASA Part 145 approval?
+@@Check “List of approved aircraft/ component maintenance contractor and subcontractor (VAECO Form 2008) under EASA” on VAECO website\ Module “Báo cáo Kỹ thuật” of SQD.
+Contact the Flight Operations Department directly.
+Refer to the local CAAV registry website only.
+
+What is the EASA MOE Chapter 2.25 about?
+@@Procedures To Detect and Rectify Maintenance Errors
 Training procedures
-@@Procedures to Detect and Rectify Maintenance Errors
-Tool calibration
+Tool calibration procedures
 
-If AMM refers to CMM data on-wing, what should Maintenance Centers do?
-Perform maintenance immediately
-Ask the customer for approval
-@@Conduct self-evaluation capability and submit to SQD for approval
+What do the maintenance centers do in the case of maintenance works on A/C with AMM data referring to CMM data on-wing?
+@@Do the self – evaluation capability and summit to SQD for approval before performing the concerned maintenance.
+Perform maintenance immediately using standard CMM tools.
+Ask the customer for verbal approval prior to performing work.
 
-What does Risk Index “5A” mean?
-Minor occurrence happened rarely
-Major occurrence happened occasionally
-@@Catastrophic occurrence happened frequently
+What does the Risk index “5A” mean?
+@@Catastrophic occurrences occurred frequently.
+Minor occurrence happened rarely.
+Major occurrence happened occasionally.
 
-Which of the following is classified as High Risk?
-1E
-@@5D
-1A
+Which risk indexes are classified “High Risk” group in the Risk Index Matrix used for HIRA inside VAECO?
+@@5D, 5E, 4C, 3B, 3C, 2A, 2B
+1A, 1B, 1C, 2E, 3E
+1D, 2D, 3D, 4E, 5A
 
-What action is required for High Risk cases?
-No action required
-Record only
-@@Implement controls to reduce risk, consider Human Factors, and monitor trends
+What actions should be performed for the cases belonged to the “High Risk” index group?
+@@Control measures must be implemented to reduce the risk back to moderate or lower; Human factor need to be considered; entered into database for trend analysis and monitoring.
+No immediate action is required except logging in the weekly logbook.
+Perform a routine visual inspection at the next scheduled C-check.
 
-Which is NOT an input to the Safety Reporting Scheme?
-Voluntary Report
-Mandatory Report
-@@Audit Report
+What are the input data for Safety Reporting Scheme in VAECO?
+@@Voluntary Report; Confidential Report; Hazards/unsafe conditions Report; Mandatory Report.
+Audit Report; Financial Audit Report; Training Attendance Sheet.
+Customer Feedback Form; Supplier Delivery Note; Bill of Lading.
 
-Which is an output of the Safety Reporting Scheme?
-Employee Evaluation
-@@Hazard & Risk Assessment
-Payroll Report
+What are the output data for Safety Reporting Scheme in VAECO?
+@@Hazard & Risk Assessment; MOR; Safety Dissemination Report; Investigator Report; and Safety Performance Indicator Report.
+Employee Performance Evaluation; Payroll Report; Leave Request.
+Maintenance Invoice; Purchase Order; Customs Clearance Declaration.
 
-Which reporting method is used in VAECO?
-Only telephone
-Only written letter
-@@Website, email, phone/direct conversation, or VAECO messaging
+What safety report methods are used in VAECO?
+@@“Voluntary Report” menu on VAECO website, send email to sqd via email address sqd.vaeco@vietnamairlines.com; Direct conversation or Phone/ Message; VAECO messaging.
+Only phone calls to the General Director.
+Written paper letters sent via postal service only.
 
-Where should staff report safety occurrences?
-CAAV only
-Customer only
-@@SQD and Manager/SAG member
+Where do VAECO staff need to report to when safety events/ occurrences occurred?
+@@SQD and Manager/ SAG member.
+CAAV only.
+Customer representative only.
 
-Which form is used for the safety investigation process?
-Form 2016
-Form 2033
-@@VAECO Form 2055
+What VAECO Form is used to report the safety investigation process?
+@@Investigation Report (VAECO Form 2055)
+VAECO Form 2016
+VAECO Form 2033
 
-Which form is used for MEDA Results?
-Form 2055
-@@VAECO Form 2016
-Form 2033
+What VAECO Form is used by SQD/SAG group to define Contributing Factors of maintenance error and the ideas for improving/ fixing the contributing factors?
+@@Maintenance Error Decision Aid (MEDA) Results (VAECO Form 2016)
+VAECO Form 2055
+VAECO Form 2012
 
-Which is one of the six Safety Performance Indicators?
-Number of employees trained
-@@Number of aircraft accidents related to maintenance per 1000 flights
-Number of aircraft painted
+Which indicator below is one of 6 safety performance indicators built by CAAV requirement?
+@@The number of aircraft accidents related to the maintenance action per 1000 flights.
+The number of employees trained in human factors per year.
+The total number of aircraft painted per quarter.
 
-When must VAECO conduct an in-depth safety analysis?
-Every month
-Every year
-@@When the safety indicator exceeds the warning thresholds
+When shall VAECO perform analysis, depth evaluate the reasons lead to safety index exceeded threshold and deploy suitable solutions to achieve safety targets?
+@@When performance value of each safety indicator reaches over 3 times low warning level or 2 times average warning level or 1 times high warning level.
+Every month regardless of safety indicator values.
+Only when requested by an external customer audit.
 
-Which is an example of an internal change?
-Customer requirements
-@@Expansion of rating, scope, T&E, human resources, procedures
-Manufacturer requirements
+What do the internal changes needed to be managed include?
+@@The expansion of the rating, the scope of work, change of T&E, the human resources, the working environment and procedure…
+Changes in customer requirements and manufacturer service bulletins.
+Changes in civil aviation regulations and state laws.
 
-Which is an external change?
-Human resources
-Working environment
-@@State policies, aviation authorities, customer and manufacturer requirements
+What do the external changes needed to be managed include?
+@@Changes the requirements from state policies, aviation authorities, customers, aircraft and aircraft component manufacturers.
+Internal human resources reassignment and internal workshop re-layout.
+Internal shift turnover procedures and internal tool room software upgrades.
 
-The definition “…aircraft is missing or completely inaccessible…” refers to:
-Serious Incident
-Maintenance Error
-@@Aircraft Accident
+“An occurrence associated with the operation of an aircraft which takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked in which the aircraft is missing or is completely inaccessible” – This is the definition of?
+@@Aircraft accident.
+Serious Incident.
+Maintenance Error.
 
-Who are VAECO Compliance Monitoring Personnel?
-Line Engineers only
-@@HAN QC, HCM QC, External Auditors (not SQD), Audit & Standard Division auditors
-Flight Crew
+Who does the VAECO Compliance monitoring personnel include?
+@@HAN QC Division and HCM QC Division; the external auditor who does not belong to Safety - Quality Department; Auditor and quality staffs who working in Audit & Standard Division.
+Line Maintenance Engineers and Technicians only.
+Flight Crew and Cabin Crew members.
 
-Who performs External Audits?
-SQD
-QC Division
-@@Authorities and Customers
+Who performs the “external audit” in VAECO?
+@@Authorities/ Customers.
+SQD Department.
+QC Division.
 
-Who performs Internal Audits?
-Authorities
-@@Quality Auditors working in SQD
-Customers
+Who performs the “internal audit” in VAECO?
+@@Quality Auditors, who working in SQD.
+Authorities.
+Customers.
 
-Who audits the SQD Department?
-SQD Auditors
-Customers only
-@@External Auditors who do not belong to SQD
+Who performs the “audit SQD Department” in VAECO?
+@@External Auditors, who do not belong to SQD.
+SQD Internal Auditors.
+Line Maintenance Managers.
 
-What is issued when an internal audit finds a non-conformity?
-Maintenance Release
-MEDA Report
+What shall be issued in the internal audit if there are any finding/ non-conformities found?
 @@Corrective Action Request (VAECO Form 2033)
+Maintenance Release (VAECO Form 2012)
+MEDA Results (VAECO Form 2016)
 
-What record formats are accepted for the management system?
-Paper only
-Electronic only
-@@Paper copy and/or Electronic format
+What kinds of record format are applied for management system record?
+@@Paper copy or/ and Electronic format.
+Paper copy only.
+Electronic format only.
+
+Which department/ center performs incoming inspection P&M?
+@@LGC
+MCC
+Base center
+
+Which department/ center performs the training courses in VAECO?
+@@TC
+MCC
+HF
+
+What is changing of EASA MOE revision I01R23?
+@@Adding B787 Base maintenance in HCM.
+Adding B787 Base maintenance in DAD.
+Change of Part 145-30 Procedure from EASA regulation.
+
+What is changing of EASA MOE revision I01R24?
+@@Adding procedure for additional check by main Cat C in case for long base check.
+SMS update.
+Change CEO responsibility.
+
+What is changing of EASA MOE revision I01R25?
+@@Update composite shop in hangar#4 in HCM.
+Updating training staff programs.
+Updating an existing preventive control.
+
+What is changing of EASA MOE revision I01R25?
+@@Adding a requirement of using customer work pack checklist.
+Change the scope of SMS.
+Change the methodology use for risk management.
+
+What is changing of EASA MOE revision I01R25?
+@@Both update location of technical library and technical record section.
+Update location of technical library.
+Update location of technical record section.
+
+What is changing of EASA MOE revision I01R26?
+@@Change of compliance monitoring & safety manager.
+Update responsibility of CEO.
+Update procedure maintenance work in hangar.
