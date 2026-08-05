@@ -1,0 +1,499 @@
+The PDOS system has a malfunction. How do you open T/REV cowls?: (B1)
+Use airplane electrical power to bypass the power pack
+@@Use an external hydraulic pump tool connect to the PDOS power pack
+Manual lift cowls to open
+
+What hydraulic system uses for PDOS system: (B1)
+Onside hydraulic system
+Center hydraulic system
+@@Independent hydraulic system
+
+GEnx for 787 can maintain a high internal engine pressure ratios (9.5:1) due to: (A, B1, B2)
+The improvement of the specific fuel consumption.
+@@The fact that there is no external engine air bleeds taken for aircraft.
+Chevron shape on the exit edge of the thrust reverser translating sleeves.
+
+GEnx anti-ice system includes: (A, B1, B2)
+@@A booster intake anti-ice (BAI) system and an engine intake anti-ice (EAI) system.
+An engine intake anti-ice (EAI) system and a turbine anti-ice (TAI) system
+A booster intake anti-ice (BAI) system and a turbine anti-ice (TAI) system.
+
+The purpose of chevrons on the exit edges of the thrust reverser translating sleeves is: (A, B1, B2)
+To reduce weight.
+@@To gradually mix the bypass airflow with the atmospheric air to decrease noise levels.
+To minimize the chance of lightning strike.
+
+The fan cowls weigh 68kg each and are:(A, B1, B2)
+Interchangeable between engines.
+@@NOT interchangeable between engines.
+Interchangeable between LH and RH of the engine.
+
+The fan cowls are attached to(A, B1, B2)
+Fan Cowl Support Beam (FCSB) with 03 hinges.
+@@Fan Cowl Support Beam (FCSB) with 04 hinges.
+Fan case with 04 hinges.
+
+GEnx is equipped with The fan cowls are attached to(A, B1, B2)
+@@01 PDOS control switch for each cowl.
+02 PDOS control switch for each cowl.
+04 PDOS control switch for fan cowls.
+
+Engine cowl is held in the OPEN position by: (A, B1, B2)
+Hold-open rod.
+PDOS actuator internal compression lock.
+@@PDOS actuator internal compression lock and hold-open rod as well as a safety device during maintenance actions.
+
+PDOS power pack is serviced with: (A, B1, B2)
+@@Engine oil with all cowls CLOSE.
+Engine oil with all cowls OPENPDOS actuator internal compression lock.
+Exxon Mobil HyJet V - HYJET V.
+
+Fan cowl can be open or close with a manual (with external hydraulic hand pump) method. To do this you need to get access to quick-disconnect located(A, B1, B2)
+At the fan cowl opening actuator.
+@@At the PDOS power pack.
+On the Inlet cowl aft wall.
+
+Which engine mount transmit the thrust loads to the strut? (A, B1, B2)
+Forward mount.
+Both mounts.
+@@Aft mount.
+
+Which of the following statements is NOT true: (A, B1, B2)
+@@The HP rotates clockwise as viewed from front.
+The GEnx engine has counter rotating low pressure (LP) and high pressure (HP) rotors.
+The LP rotates clockwise as viewed from the front.
+
+Which of the following is NOT part of LP rotor: (A, B1, B2)
+Single-stage fan and 4-stage booster low pressure compressor.
+7-stage low pressure turbine.
+@@10-stage low pressure turbine.
+
+Which of the following is NOT part of HP rotor: (A, B1, B2)
+10-stage high pressure compressor.
+2-stage high pressure turbine.
+@@7-stage high pressure compressor.
+
+Exhaust Gas Temperature is measured at station: (A, B1, B2)
+@@48 - HPT exit.
+3 – HPC exit.
+5 – LPT exit.
+
+Which stages of HPC are BLISKs? (A, B1, B2)
+2, 3, 5.
+@@1, 2, 5.
+2, 4, 5.
+
+Which of the following is the advantage of GEnx lean combustor: (A, B1, B2)
+@@The lean combustor uses a shorter length inner and outer single piece liner to minimize long term vibration distress and fatigue.
+The lean combustor increases the number of dilution holes to remove stress concentrations to decrease liner cracks.
+The lean combustor gives higher engine exhaust gas temperature (EGT).
+
+GEnx combustor has(A, B1, B2)
+24 fuel nozzles.
+30 fuel nozzles.
+@@22 fuel nozzles.
+
+GEnx combustor nozzles are(A, B1, B2)
+@@Twin-annular premixing swirler (TAPS) type.
+Duplex type.
+Double-action type.
+
+What statement is True? (B1)
+The main function of the engine fuel and control system sends fuel to fuel operated valves and actuators.
+Fuel from the aircraft goes to  the high-pressure gear element of the MFP before centrifugal boost pump in the main fuel pump (MFP).
+@@The main function of the engine fuel and control system is to control the fuel to the combustion chambers in response to commanded power.
+
+Purpose of the fuel metering unit (FMU): (B1)
+@@The fuel metering unit (FMU) supplies the correct quantity of fuel necessary for combustion. The FMU also supplies servo fuel for valves and actuators and it supplies the fuel shutoff function.
+The fuel metering unit (FMU) supplies the correct quantity of fuel necessary for combustion. The FMU also supplies servo fuel for valves and actuators.
+The fuel metering unit (FMU) supplies the correct quantity of fuel necessary for combustion.
+
+How is the HPSOV commanded closed by the run cutoff switches when the engine is shutdown? (B1)
+When the engine is shutdown, the HPSOV is closed with spring pressure.
+@@When the run cutoff switches are  moved to cutoff, the SOSV gets a command to close the HPSOV using servo fuel pressure.
+The bypass valve closes so fuel from the fuel metering valve can go to the low pressure side of the fuel pump that will close the HPSOV.
+
+What statement is True? (B1)
+@@The flow split valve (FSV) is an EEC controlled servo operated valve. The FSV is located on the fuel adaptor on the accessory gearbox.
+The flow split valve (FSV) is an MECD controlled servo operated valve. The FSV is located on the fuel adaptor on the accessory gearbox.
+The flow split valve (FSV) is an EEC controlled servo operated valve. The FSV is located on the fan case.
+
+What are fuel nozzle position numbers on the engine? (B1)
+Fuel nozzles have position numbers in a counter clockwise sequence, looking forward. Fuel nozzle number 1 is at the 12:00 position.
+Fuel nozzles have position numbers in a clockwise sequence, looking forward. Fuel nozzle number 1 is at the 6:00 position.
+@@Fuel nozzles have position numbers in a clockwise sequence, looking forward. Fuel nozzle number 1 is at the 12:00 position.
+
+In the fuel control system, Electronic engine control (EEC) is: (B1)
+@@The EEC is the primary component in the fuel control system. This is a 2 channel computer system, channel A and channel B.
+The EEC uses the control alternator stator and rotor component as the secondary power source. Airplane power is a primary power source.
+The EEC is the secondary component in the fuel control system. This is a 2 channel computer system, channel A and channel B.
+
+Which statement is  True during engine fuel element installation? (B1)
+Only tighten the fuel filter bowl with your hand.
+Have to use torque wrench when you tighten the fuel filter bowl.
+@@Firstly use your hand to tighten the fuel filter bowl if you are not able to correctly install it then use a torque wrench less than 50 ft-lb.
+
+The unit that control the fuel flow is called: (A, B1, B2)
+@@FMU.
+HMU.
+HCU.
+
+Fuel is used to cool oil in: (A, B1, B2)
+Main Fuel/Oil Heat Exchanger (FOHE).
+Dual VFSG Fuel/Oil Heat Exchanger (FOHE).
+@@Dual VFSG Fuel/Oil Heat Exchanger (FOHE) and Main FOHE.
+
+After Fuel Metering Unit (FMU) fuel is divided to the manifolds by(A, B1, B2)
+Fuel Staging Valve.
+@@Fuel Split Valve (FSV).
+Fuel Flow Divider.
+
+Which of the following statement is TRUE: (A, B1, B2)
+@@At start, the Fuel Metering Valve (FMV) lets fuel go from the Bypass Valve (BPV) through the FMV to the jet pump and heat exchangers.
+As the engine increases in speed for start, the FMV increases the quantity of the fuel to the BPV
+The BPV controls the position of the FMV.
+
+Which of the following manifolds always supplies fuel to all 22 fuel nozzles: (A, B1, B2)
+Pilot primary and main un-staged (PPMU).
+Pilot primary and main staged (PPMS).
+@@Pilot secondary (PSEC).
+
+The fuel nozzles are set at equal spaces around the circumference of the combustor and numbered in a(A, B1, B2)
+@@Clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Counter-clockwise sequence, looking forward with number 1 is at the 12:00 position.
+Clockwise sequence, forward looking aft with number 1 is at the 12:00 position.
+
+When does EEC get power from Permanent Magnetic Alternator (PMA) (A, B1, B2)
+N2 >= 5%.
+@@N2 >= 8%.
+N2 >= 7%.
+
+What information does engine rating plug provide to EEC? (A, B1, B2)
+Engine rating and N2 trim levels.
+Engine rating and N2 levels.
+@@Engine rating and N1 trim levels.
+
+What statement is True? (B1)
+@@The ignition system supplies electrical sparks in the combustion chamber to start combustion and to make sure that combustion continues.
+Each engine has 2 ignition systems that operate dependently.
+The ignition system is automatic or manual and will energize on the ground and in flight.
+
+How do ignition systems work? (B1)
+The ignition exciter changes the 115v ac source and sends high energy pulses through the ignition leads to the igniters.
+During an autostart when engine speed gets to 33% N2, the EEC starts an 18 times. After 18 times, the EEC turns on ignition.
+@@During subsequent starts, the EEC changes between ignition systems every 2nd start attempt. For example, it will use system 1 for 2 start attempts then system 2 for 2 start attempts.
+
+What statement is True? (B1)
+Main engine start is usually from the APU auxiliary starter generators (ASG). The ASGs supply 135v ac. If the ASGs are not available, 115v ac external power sources supply the power.
+@@With 2 forward EP sources, engine start is supported, however, all non essential loads will be shed.
+With 2 forward EP sources will not support engine start because there is not sufficient power.
+
+These are the indications when you start engine: (B1)
+The start switch set to START and fuel control switch set to RUN – red text AUTOSTART shows over N2 display of the starting engine.
+@@At stable idle tick mark, white AUTOSTART changes to green RUNNING. When the engine is at stable idle of approximately 66% N2 (approximately 30 seconds), the RUNNING text Is removed and no text shows over N2 in that position.
+At stable idle tick mark, white AUTOSTART changes to green RUNNING. When the engine is at stable idle of approximately 33% N2 (approximately 30 seconds), the RUNNING text Is removed and no text shows over N2 in that position.
+
+During subsequent starts, the EEC changes between ignition systems every 2nd start attempt, that means(A, B1, B2)
+@@It will use system 1 for 2 start attempts then system 2 for 2 start attempts.
+It will use system 1 for 1 start attempt then system 2 for 1 start attempt.
+It will use system 1 for 2 start attempts then system 2 for 1 start attempt.
+
+The exciters are cooled by: (A, B1, B2)
+CCC valve cooling air.
+Under cowl compartment cooling air.
+@@Fan air.
+
+The ignition system components are on the …… side of the engine: (A, B1, B2)
+RH.
+@@LH.
+Bottom.
+
+Which of the following is NOT true: (A, B1, B2)
+The engine start system is an auto-start system.
+There is no manual start mode.
+@@The AUTO start switch is normally in the ON position.
+
+During GEnx engine start: (A, B1, B2)
+The air starter turns the engine N2 rotor through the accessory drive gearbox.
+@@The VFSG turns the engine N2 rotor through the accessory drive gearbox.
+The pneumatic starter turns the engine N2 rotor through the accessory drive gearbox.
+
+During normal engine start: (A, B1, B2)
+Only 01 VFSG is used.
+@@Both VFSG are used.
+The VFSG will take turn to start the engine.
+
+Which of the following power configuration is the minimum requirement for engine start(A, B1, B2)
+@@2 forward (90 KVA) External Power (EP) sources.
+Only 1 EP source.
+1 forward EP and the aft EP source.
+
+During engine start, the EEC releases the start switch to the NORM position(A, B1, B2)
+At 50% N2 when the EEC turns off ignition.
+@@At 65% N2.
+At 75% N2.
+
+What is the sub-system of engine air system: (A,B1)
+@@Booster anti-ice (BAI), Compressor control, Engine cooling
+Turbine case cooling system, Transient bleed system
+VBV system, VSV system
+
+What are the difference between CCC valve and LPTACC valve/HPTACC valve: (B1)
+They are the same, all are butterfly type valve.
+@@CCC valve is butterfly type with spring-loaded to the open position; LPTACC/HPTACC valve is butterfly type with spring- loaded to the closed position.
+Servo fuel moves CCC valve to the open position, but moves LPTACC/HPTACC valve to the closed position.
+
+What is the purpose of the compressor control system: (B1)
+@@The compressor control system matches low pressure compressor (LPC) and high pressure compressor (HPC) airflows to increase compressor performance and to prevent engine stall.In flight.
+The compressor control system matches low pressure compressor (LPC) and high pressure compressor (HPC) airflows to decrease the temperature of the engine core compartment and the high and low pressure turbine cases.
+The compressor control system matches low pressure compressor (LPC) and high pressure compressor (HPC) airflows to increase the airflow of the engine core compartment .
+
+How does EEC control the BAI valve: (B1,B2)
+The EEC gets signals from PS3 sensor and uses an icing schedule to calculate conditions for control of the valve.
+The EEC gets signals from P0 sensor and uses an icing schedule to calculate conditions for control of the valve.
+@@The EEC gets signals from the airplane systems and uses an icing schedule to calculate conditions for control of the valve.
+
+What air souce is used by HPT and LPT ACC valves to cool the turbine case : ( B1)
+@@Fan air
+LPC 4th stage air
+HPC 7th stage air
+
+The booster anti-icing (BAI) system uses 7th stage air from the airplane engine anti-ice (EAI) system to send heat to the booster splitter. Which of the following is TRUE: (A, B1, B2)
+BAI valve is controlled by EMU.
+@@There is no flight deck control for the system.
+EAI valve need to be closed for BAI valve operation.
+
+The core compartment cooling (CCC) valve sends cooling air from the fan/booster bypass ducts to components on the engine core case. It is(A, B1, B2)
+@@Spring loaded to OPEN position.
+Spring loaded to CLOSE position.
+Opened by the EEC using fuel through the FMU.
+
+LPTACC and HPTACC valves are located(A, B1, B2)
+On the forward RH side of the HPC case.
+On the LH side of the HPT case.
+@@On the forward LH side of the HPC case.
+
+Which valve in the engine cooling system is NOT operated by servo fuel(A, B1, B2)
+HPTACC valve.
+CCC valve.
+@@BAI valve.
+
+The purpose of the Transient Bleed Valve (TBV) is to(A, B1, B2)
+Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle.
+Remove the load on the high pressure compressor (HPC) during rapid deceleration.
+@@Remove the load on the high pressure compressor (HPC) when the engine accelerates to idle and during rapid deceleration.
+
+Which Test require after install new Engine Fuel Control Switches? (B1)
+@@Wet-motor procedure
+Dry-motor procedure
+LRU system test
+
+Deployment of T/R (thrust reverser) lever is permitted when: (B1)
+@@Fwd thrust lever is at idle position
+Fwd thrust lever is not at idle position and at 60 fwd
+Aircraft on ground only
+
+Engine over speed (EOS) protection is automatically supplied by? (B1)
+@@EEC
+TCM
+TLA Resolver
+
+Which of the following statements is TRUE: (A, B1, B2)
+You can move the reverse thrust levers at any position of the forward thrust lever.
+@@The reverse thrust lever is blocked when the forward thrust lever is forward of idle a minimum of 3 degrees.
+The forward thrust lever is not blocked when a reverse thrust lever is moved more than 8.5 degrees.
+
+Each thrust lever mechanically connects to 2 thrust lever angle (TLA) resolvers, which of the following statements is NOT true: (A, B1, B2)
+The thrust control system can continue normal operation with a failure of one resolver.
+If both resolvers fail electrically, the EEC holds the last valid value for the rest of the flight.
+@@If both resolvers fail electrically, the EEC holds the last valid value for 2 seconds, then sets the engine thrust to idle.
+
+P0 is used by the EEC as a backup to the airplane ambient pressure input. This pressure is taken from: (A, B1, B2)
+@@P0 sensing port in each fan cowl at the 4 o'clock or 8 o'clock position.
+P0 sensing port in each reverser cowl at the 4 o'clock or 8 o'clock position
+P0 sensing port in each fan cowl at the 2 o'clock or 10 o'clock position.
+
+What is Thrust control malfunction accommodation (TCMA)? (A, B1, B2)
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane in the air.
+@@TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground.
+TCMA is the engine control function that prevents a TCM event from becoming hazardous to the airplane while on the ground and in the air.
+
+If a TCM event occurs, what does TCMA do? (A, B1, B2)
+@@TCMA function commands engine shutdown.
+TCMA function maintains the engine thrust.
+TCMA function gradually reduces engine thrust.
+
+What statement is True? (B1)
+@@The N1 and N2 speed sensors interface directly with the EEC for protection and control but also with the main engine data concentrator (MEDC) for a backup N2 signal.
+The EMU uses the speed signals for  display and crew alerting function (DCAF) to use.
+These N1 and N2 speeds also go on the common data network (CDN) for engine health monitoring and vibration analysis.
+
+where do the N1 and N2 rotor speeds show on? (B1)
+Engine performance maintenance page, Electronic propulsion control system (EPCS) page, EMU maintenance pages.
+EICAS displays, Engine performance maintenance page, Electronic propulsion control system (EPCS) page.
+@@EICAS displays, Engine performance maintenance page, Electronic propulsion control system (EPCS) page, EMU maintenance pages.
+
+What statement is incorrect? (B1)
+The N2 speed sensor is a reluctance type sensor that measures the rotational speed of a gear in the accessory gearbox.
+@@The N2 sensor has 2 sensing coils.
+The N1 sensor has 3 sensing coils around a magnetic core.
+
+N1 speed sensor is located(A, B1, B2)
+On the fan case.
+@@On the back of the fan hub frame at the 7:00 position on the engine core.
+On the gearbox.
+
+Which of the following statements is TRUE: (A, B1, B2)
+@@N2 will show on the EICAS without EEC power applied.
+N1 will show on the EICAS without EEC power applied.
+02 N1 signals go to the EEC and 01 signal goes to the EMU for engine vibration analysis and engine trend monitoring.
+
+N2 speed sensor is located(A, B1, B2)
+On the aft face of the AGB.
+@@On the forward face of the AGB.
+On the fan hub frame.
+
+08 T48 EGT probes are numbered 1 thru 8(A, B1, B2)
+@@From the top in a clockwise direction.
+From the bottom in a clockwise direction.
+From the top in a counter-clockwise direction.
+
+The EMU gets power from airplane 115v ac when the engine start switch is set to start, the fuel switch is set to run, or the EMU soft maintenance switch is selected and(A, B1, B2)
+Power is not removed until 20 minutes after shutdown.
+Power is not removed until 30 minutes after shutdown.
+@@Power is not removed until it has analyzed the data (can be up to 10 minutes after shutdown).
+
+Purpose exhaust System is: (B1)
+The engine exhaust system controls the direction of the engine exhaust gases to provide forward.
+@@The engine exhaust system controls the direction of the engine exhaust gases to provide forward and reverse thrust.
+The engine exhaust system controls the direction of the engine exhaust gases to provide reverse thrust.
+
+What statement is True? (B1)
+@@The center vent tube extension sends the oil sump vent air overboard.
+The center vent tube extension sends the oil, fuel sump vent air overboard.
+The center vent tube extension sends the oil, hydraulic sump vent air overboard.
+
+What statement is True? (B1)
+2 T/R hydraulic actuators (2 per T/R half) operate the translating sleeves.     Their movement is synchronized by a flex-shaft that runs over the top between the 2 T/R halves. 12 drag links connect to the translating sleeves. They pull the 12 blocker doors into the correct position inside the T/R.
+4 T/R hydraulic actuators (2 per T/R half) operate the translating sleeves.     Their movement is synchronized by a flex-shaft that runs over the top between the 2 T/R halves. 12 drag links connect to the translating sleeves. They pull the 8 blocker doors into the correct position inside the T/R.
+@@4 T/R hydraulic actuators (2 per T/R half) operate the translating sleeves.     Their movement is synchronized by a flex-shaft that runs over the top between the 2 T/R halves. 12 drag links connect to the translating sleeves. They pull the 12 blocker doors into the correct position inside the T/R.
+
+What is EICAS indication when the reverse thrust lever is pulled to the up position the? (B1)
+Amber REV shows on EICAS above the N2, towards the end of deployment the amber REV above the N2 indication changes to a green REV.
+@@Amber REV shows on EICAS above the N1, towards the end of deployment the amber REV above the N1 indication changes to a green REV.
+No thrust reverse Indication on EICAS.
+
+Purpose of the reverse thrust levers interlock solenoid:   (B1)
+@@The reverse thrust levers are held in the reverse idle position. You cannot move the thrust reverse levers to the full thrust position until the translating sleeves are 60% deployed. When the EEC senses both reversers have moved to 60% deployed, the interlock solenoid releases. When this happens, you can move the reverse thrust levers full up to increase the reverser thrust.
+The reverse thrust levers are held in the reverse idle position. You cannot move the thrust reverse levers to the full thrust position until the translating sleeves are 60% deployed. When the MEDC senses both reversers have moved to 60% deployed, the interlock solenoid releases. When this happens, you can move the reverse thrust levers full up to increase the reverser thrust.
+The reverse thrust levers are held in the reverse idle position. You cannot move the thrust reverse levers to the full thrust position until the translating sleeves are 30% deployed. When the EEC senses both reversers have moved to 30% deployed, the interlock solenoid releases. When this happens, you can move the reverse thrust levers full up to increase the reverser thrust.
+
+To open Thrust reverser cowl, which latch is to be opened first? (A, B1, B2)
+V-blade latch.
+Sleeve latches.
+@@Bifurcation latch system (BLS) handle.
+
+How many hold-open rods are there on thrust reverser cowl? (A, B1, B2)
+@@01.
+02.
+03.
+
+The purpose of the chevrons on the outer panel of the translating sleeve is(A, B1, B2)
+To increase thrust.
+@@To decrease engine noise.
+To reduce weight.
+
+Which of the following is NOT true: (A, B1, B2)
+@@There 16 composite structure cascade segments for each T/R half.
+Each segment has a number to identify its correct location on the engine.
+The inboard segments have a shape that directs the reverse thrust airflow away from the fuselage.
+
+There is one track lock mechanism for each T/R assembly, it is in the: (A, B1, B2)
+LH T/R upper hinge beam area of the engine strut.
+@@RH T/R upper hinge beam area of the engine strut.
+RH T/R torque box next to the V-blade latch.
+
+The thrust reverser (T/R) T-piece: (A, B1, B2)
+@@Connects the T/R sync shafts and tubing to make sure the actuators move together.
+Is there so that if an actuator fails, the sync shafts will deploy the T/R halves.
+Let the LH and RH T/R translating sleeves move separately.
+
+There are: (A, B1, B2)
+03 locking hydraulic actuators for each T/R half.
+01 locking hydraulic actuator and 01 unlocking hydraulic actuator for each T/R half.
+@@02 locking hydraulic actuators for each T/R half.
+
+What is NOT true about the T/R translating sleeve feed-back unit: (A, B1, B2)
+There are two feedback units - one on each reverser half.
+@@They are on the lower locking actuators.
+They are connected to the sync shaft.
+
+The thrust reverser (T/R) manual drive units let you use a drive tool (1/2-inch socket) for manual operation of the thrust T/R. They are located(A, B1, B2)
+On the upper locking actuators.
+@@On the lower locking actuators.
+On the T-piece connection.
+
+During T/R Stow operation: (A, B1, B2)
+A time delay in the IPA software keeps the track lock open for 10 seconds after the stow command.
+A time delay in the EEC keeps the IV open for 20 seconds after stow is commanded.
+@@After the stow command, a time delay in the IPA software keeps the track lock open for 10 seconds and a time delay in the EEC keeps the IV open for 20 seconds.
+
+The oil tanks are make of ?(LevelB1)
+Stainless steel
+Titanium
+@@Aluminum
+
+The engine oil supply temperature sensor gives the temperature of the engine oil from..?(LevelB1)
+Upstream of the Air cooled oil cooler (ACOC)
+downstream of the Main Fuel/Oil Heat Exchanger (MFOHE)
+@@downstream of the Air cooled oil cooler (ACOC)
+
+When is red low oil pressure warning show on EICAS ?(LevelB1)
+@@oil pressures less than 10 psi at idle N2 and 20 psi at take-off.
+oil pressures less than 12 psi at idle N2 and 20 psi at take-off.
+oil pressures less than 10 psi at idle N2 and 40 psi at take-off.
+
+How many reed switches are there on The oil level/temperature sensor?(LevelB1)
+@@42
+40
+38
+
+The Lube and Scavenge Pump are driven from the accessory gearbox, flow rates and pressures are….?(LevelB1)
+Variable
+Constant
+@@variable but regulated by the engine operating speed
+
+What is purpose of The static anti-leak valve…?(LevelB1)
+@@prevents oil from leaking down from the oil tank into the AGB sump and the lube and scavenge pump when the engine is not running
+.prevents oil from leaking down from the oil tank into the lube and scavenge pump when the engine is running.
+prevents oil from leaking down from the oil tank into the AGB sump and the lube and scavenge pump when the engine is running.
+
+The oil tank is located on the(A, B1, B2)
+@@RH side of the fan case.
+LH side of the fan case.
+LH side of the compressor stator.
+
+The pressure lubrication and scavenge pumps are gerotor type, positive displacement pumps and are(A, B1, B2)
+Located on the RH side of the engine.
+In separate oil pump packs.
+@@In the same oil pump pack.
+
+Engine oil is cooled in(A, B1, B2)
+@@Main Fuel/Oil Heat Exchanger (MFOHE) and Air Cool Oil Cooler (ACOC).
+MFOHE and Fuel Servo Heat Exchanger.
+ACOC and Fuel Servo Heat Exchanger.
+
+The Air Cool Oil Cooler (ACOC) is a finned-tube design heat exchanger that transfers heat from the oil to the bypass (fan exit) airflow. It is located: (A, B1, B2)
+On the RH side of fan case.
+@@On the inside of the fan case, aft of the outlet guide vanes (OGV) from the 12:00 to the 3:00 position.
+On the outside of the fan case, aft of the outlet guide vanes (OGV).
+
+The purpose of Oil Eductor valve is: (A, B1, B2)
+To increase the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the carbon seal at low engine power settings.
+@@To act like a venturi to decrease the bearing chamber pressure to prevent possible oil leakage across the labyrinth seal at low engine power settings.
+
+The oil temperature shown on EICAS gets its temperature from(A, B1, B2)
+@@Oil Level/Temperature Sensor in the top of the oil tank
+Oil Supply Temperature Sensor on the outside of the fan case.
+Oil Temperature Sensor in the oil pressure oil feed pipe after the coolers.
