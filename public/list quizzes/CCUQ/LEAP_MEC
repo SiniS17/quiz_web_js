@@ -1,0 +1,261 @@
+CFM LEAP-1A Engine Nacelle Anti - Ice, the hot air leak detection is done by: (ME repair, E&A Repair)
+Two pressure transduce
+@@A dual temperature sensor
+One pressure sensor and one temperature sensor
+
+For CFM LEAP-1A Engine, Hot air for the Nacelle anti - ice system is supply by: (ME repair, E&A Repair)
+A dedicated HPC 4th Stage bleed
+@@A dedicated HPC 7th Stage bleed
+A dedicated HPC 10th Stage bleed
+
+How many Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) installed on each CFM-LEAP-1A Engine? (ME repair, E&A Repair)
+1
+@@2
+3
+
+For CFM LEAP-1A Engine, When the Engine Anti – Ice Pressure Regulating Shut-Off Valve (PRSOV) has failed (ME repair, E&A Repair)
+@@PRSOV can be manual set locked in open position
+PRSOV not can be manual set in locked position
+PRSOV automatic set in locked position
+
+For CFM LEAP-1A Engine, when one BMC has failed (ME repair, E&A Repair)
+@@Remain BMC can control & monitor both side
+Related PRV close
+Related PRV open
+
+For CFM LEAP-1A Engine, the position of the Engine Bleed Air System valve is monitored by: (ME repair, E&A Repair)
+Valve position switch
+@@Pressure sensor
+Temperature sensor
+
+For CFM LEAP-1A Engine, HPV is: (ME repair, E&A Repair)
+@@Electric control and Bleed Pressure open
+Bleed Pressure control and open
+Electric control and open
+
+For CFM LEAP-1A Engine FADEC system, each EEC A & B can control the Engine System, but: (ME repair, E&A Repair)
+@@One EEC is control or active at a time
+Both EECs are in control or active permanently
+The Standby EEC is never switch automatically
+
+For CFM LEAP-1A Engine,The ENG Drain mast gives a leak path exit for hydraulic, oil and: (ME repair, E&A Repair)
+@@Fuel component
+Reverser system actuators
+Permanent Magnet Altenator (PMA)
+
+For CFM LEAP-1A Engine, Aerodynamic strakes are installed on the follow side (s) of the Engine fancowls: (ME repair, E&A Repair)
+Inboard side
+@@Outboard side
+Inboard and outboard side
+
+For CFM LEAP-1A Engine, the accessory drive section includes the following modules: (ME repair, E&A Repair)
+Inside gear box (IGB), Transfer gear Box (TGB), and component gear box (CGB)
+TGB, Angle gear Box (AGB) and main gear box (MGB)
+@@IGB, TGB and accessory gear box
+
+For CFM LEAP-1A Engine, with the Ignition system of the engine is supply with power as follows: (ME repair, E&A Repair)
+@@115 V from the A/C electrical system
+115 V from PMA
+115 V from PMA or 115 V from the A/C electrical system depend on N2 speed
+
+For CFM LEAP-1A Engine, the Ignition system is controlled by: (ME repair, E&A Repair)
+@@EEC
+EIU
+PMA
+
+The CFM-LEAP1A Engine is: (ME repair, E&A Repair)
+@@An axial fow, dual-rotor, variable staor and high bypass ratio power plant
+Two spool,  two axial flow, high bypass ratio turbo fan power plant
+Tri- spool,  two axial flow, high bypass ratio turbo fan power plant
+
+How many Fan Cowl Door latches are there on CFM-LEAP 1A? (ME repair, E&A Repair)
+2
+@@3
+4
+
+How many Thrust Reverser cowl  Door latches are there on CFM-LEAP 1A? (ME repair, E&A Repair)
+6
+7
+@@8
+
+Oil cooling system on CFM-LEAP1A has follwing component : (ME repair, E&A Repair)
+Main Heat Exchanger only
+Surface air cooling oil cooler only
+@@Surface air cooling oil cooler and Main Heat Exchanger
+
+How many EIU are installed in A/C A320 Family NEO CFM-LEAP 1A ? (ME repair, E&A Repair)
+@@2
+3
+4
+
+For CFM – LEAP 1A Engine, When slats are fully opned, can you full open reverser cowls? (ME repair, E&A Repair)
+Yes
+@@Never
+Yes, if open by hand
+
+For CFM – LEAP 1A Engine, The Air Turbine Starter Air Oil System is: (ME repair, E&A Repair)
+Independent
+@@Using with Engine Oil System
+Using IDG Oil System
+
+For CFM – LEAP 1A Engine, Engine drain system has : (ME repair, E&A Repair)
+@@The fan zone drain mast, the core zone drain mast and the pylon drain tubes,
+The fan zone drain mast, the gear box drain mast and the rear drain tubes,
+The fan zone drain mast, the core zone drain mast and the gear box drain tubes,
+(AMM 71-70-00-00)
+
+For CFM – LEAP 1A Engine, The fan zone drain mast drains of: (ME repair, E&A Repair)
+@@Fuel, oil, hydraulic
+Fuel, oil, hyraulic, water,
+Fuel, oil, water.
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches opening sequence is: (ME repair, E&A Repair)
+L1 - L2 – L3
+@@L1 – L3 – L2
+L2 – L3 – L1
+
+For CFM – LEAP 1A Engine, the Engine fan cowl door latches closing sequence is: (ME repair, E&A Repair)
+L1 – L2 – L3
+@@L2 – L3 – L1
+L1 – L3 – L2
+
+For CFM – LEAP 1A Engine, Fuel Low pressure Shut-Off Valve can be controlled close by: (ME repair, E&A Repair)
+@@Engine Master Lever or Engine Fire Push Button
+Engine Master Lever or Throtlle Lever
+Engine Fire Push Button or Throttle Lever
+
+How many fuel nozzles are there on CFM-LEAP1A? (ME repair, E&A Repair)
+17
+18
+@@19
+
+For CFM – LEAP 1A Engine, The fuel in the PPMe (pilot Primary/enriched manifold)  leg is monitored by : (ME repair, E&A Repair)
+@@The Fuel pressure sensor
+The Fuel temprature sensor
+The Fuel flow meter
+
+For CFM – LEAP 1A Engine, The function of the Pressure Sub-System (PSS) is : (ME repair, E&A Repair)
+@@Receives engine air pressure measurements and convers them into electrical signals to both EECs for engine control and mornitoring
+Receives engine air pressure measurements and convers them into electrical signals to the active EEC for engine control and mornitoring
+Receives engine air pressure measurements and convers them into electrical signals to the standby EEC for engine control and mornitoring
+
+For CFM – LEAP 1A Engine, the function of Cross Channel Data Link (CCDL) is : (ME repair, E&A Repair)
+@@To exchange data between the active EEC and the stanby EEC
+To exchange data between EIU and the active EEC
+To exchange data between EIU and the standby EEC
+
+For CFM – LEAP 1A Engine, the EECs are ventilated by : (ME repair, E&A Repair)
+One blower
+@@Two blowers
+Fan air
+
+For CFM – LEAP 1A Engine, The PMA directly supplies each EEC uinit with : (ME repair, E&A Repair)
+One- phase AC power
+@@Three- phases AC power
+28 VDC power
+
+For CFM – LEAP 1A Engine, 115 VAC supply to the Ignition Exciter is : (ME repair, E&A Repair)
+@@A/C power to EIU and then to EEC to the Ignition Exciter
+A/C power to EIU and to the Ignition Exciter
+PMA to EIU and then to EEC to Ignition Exciter
+
+For CFM – LEAP 1A Engine, When an automatic start is manual aborted: (ME repair, E&A Repair)
+@@EEC does not dry motor the Engine
+EEC controls to dry motor the Engine
+Have message « Abort start Engine XX » on ECAM
+
+For CFM – LEAP 1A Engine, The EEC shall enter the automatics start mode when: (ME repair, E&A Repair)
+@@Engine is not running and ENG MASTER lever is set to ON,
+The ENG MODE rotary selector is set to IGN/START and the to NORMAL
+ENG MAN START is set to ON
+
+For CFM – LEAP 1A Engine, N1 indication is shows on: (ME repair, E&A Repair)
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, N2 indication is shows on: (ME repair, E&A Repair)
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, VIB N1 indication shows on: (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, VIB N2 indication shows on: (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Pressure indication shows on: (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Quantity indication shows on: (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ENG OIL Temprature indication shows on : (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, Fuel Flow indication shows on: (ME repair, E&A Repair)
+@@EWD
+ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, Fuel USED indication shows on: (ME repair, E&A Repair)
+EWD
+@@ENGINE ECAM SD
+EWD and ENGINE ECAM SD
+
+For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- HOT START » when: (ME repair, E&A Repair)
+@@ENG 1 Auto start attempt fail, the start is aborted
+ENG 1 Manual start attempt fail, the start is aborted
+ENG 1 has fire dedected
+
+For CFM – LEAP 1A Engine, ECAM alert « ENG1 START FAULT- ENG1 IGNITION FAULT » when: (ME repair, E&A Repair)
+@@ENG 1 Auto start attempt fail, the start is aborted
+ENG 1 Manual start attempt fail, the start is aborted
+ENG 1 has fire dedected
+
+For CFM – LEAP 1A Engine, N1 target is computed by: (ME repair, E&A Repair)
+@@FMGC
+EEC
+EIU
+
+For CFM – LEAP 1A Engine, The predicted Max N1 is indicated by: (ME repair, E&A Repair)
+@@A blue cycle on the N1 indicator
+A Red mark on the N1 indicator
+Max N1 number on the N1 indiator
+
+For CFM – LEAP 1A Engine, N1 rating limit is computed by: (ME repair, E&A Repair)
+FMGC
+@@EEC
+EIU
+
+For CFM – LEAP 1A Engine, the N1 and N2 sensors are: (ME repair, E&A Repair)
+@@LRU
+Not LRU
+The N1 sensor is LRU only
+
+For CFM – LEAP 1A Engine, the signal from the Oil Debris Monitoring Sensor (ODMS)  sends to: (ME repair, E&A Repair)
+EEC
+@@ODMU
+EIU
+
+For CFM – LEAP 1A Engine, The MAX mark on the oil tanks is: (ME repair, E&A Repair)
+20 Qts
+@@17 or 17.5 Qts
+22 Qts
+(AMM 12-13-79-610-806-A)
+
+For CFM – LEAP 1A Engine, if Filler CAP of Engine Oil Tank not locked: (ME repair, E&A Repair)
+Has a message on EWD
+Has a message on ENGINE ECAM SD
+@@No indication
