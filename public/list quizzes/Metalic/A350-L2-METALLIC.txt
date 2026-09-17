@@ -1,0 +1,779 @@
+What is negligible damage?
+@@Negligible damage is defined as very small levels of damage that are always allowable, whenever allowable damage limits are specified or not (area shown then as excluded area) in the ASR Chapter 52 thru Chapter 57
+Negligible damage is defined as very small levels of damage but it needs to do an inspection after a period of time that damage occurs.
+Negligible damage is defined as very small levels of damage that are always allowable but it must be said in allowable damage limits chapter 52 thru Chapter 57
+
+For Dents Monolithic aluminum alloy and GLARE panels, excluding Laser Welded Panels, max depth D must NOT be more than?
+@@0.1 mm
+0.15mm
+0.05mm
+
+What classification is given to negligible damage?
+@@Repair category A.
+Repair category B.
+Repair category C
+
+Which condition must be met for a dent on a bulk cargo composite floor panel to be negligible?
+@@The diameter must be less than 25 mm
+The depth must be more than 0.5 mm
+There must be visible fiber damage
+
+What is the maximum permitted dent depth for cockpit, cabin, and container cargo composite floor panels?
+@@0.2 mm
+0.5 mm
+1.0 mm
+
+What is the maximum allowable dent depth for monolithic aluminum alloy panels?
+@@0.1 mm
+0.5 mm
+1.0 mm
+
+What is the maximum blend-out depth for aluminum sheet parts (not applicable for the slats) with a thickness of 1.6 mm to 2.2 mm?
+@@0.08 mm
+0.02 mm
+0.5 mm
+
+What is a rivet pull-in?
+@@a deformation caused by rivet installation
+a dent from an external impact
+a type of corrosion
+
+What is the maximum allowable depth for a rivet pull-in?
+@@0.3 mm
+1.0 mm
+5.0 mm
+
+What is the maximum number of rivet pull-ins allowed per frame bay in a longitudinal fuselage joint?
+@@2
+5
+No limit
+
+What is the minimum blend-out distance from a milling step area?
+@@20 mm
+5 mm
+No minimum distance
+
+In which area is blend-out always permitted for uncladded parts?
+@@When the remaining thickness is within drawing tolerances
+When the damage covers more than 50% of the surface
+When the component is scheduled for replacement
+
+What is the purpose of a clad penetration test?
+@@To check if the cladding has been breached
+To measure the depth of dents
+To verify paint adhesion
+
+What is the primary purpose of protective treatments on the Airbus A350 aircraft structure?
+To enhance the aesthetic appearance of the aircraft
+@@To prevent corrosion and erosion of metallic structures
+To improve aerodynamic performance by reducing drag
+
+Which of the following areas does NOT require surface protection on the Airbus A350?
+@@External surfaces of the pylon made of stainless steel or titanium
+Leading edges of engine intake cowls
+Aircraft wing skins made of aluminum
+
+In the internal fuselage section, which environmental category represents areas in contact with water and where fluids will collect, making access difficult?
+Category A
+Category B
+@@Category C 2-2
+
+What is the correct order of protective treatment application on general aircraft structures?
+Special coatings → Paint coatings → Pretreatment
+@@Pretreatment → Paint coatings → Special coatings
+Paint coatings → Pretreatment → Special coatings
+
+Which method is used to passivate and prevent corrosion on metal surfaces before applying paint coatings?
+Mechanical polishing
+@@Chemically or electrochemically applied films
+Heat treatment
+
+What is the primary purpose of corrosion prevention in the Airbus A350 structure?
+To improve the aircraft's aerodynamics and reduce drag
+@@To ensure structural integrity and maintain serviceability
+To enhance the electrical conductivity of composite materials
+
+Which of the following environmental factors is the least likely to contribute to corrosion on an aircraft?
+High humidity and salt-laden air in marine environments.
+Industrial pollutants containing oxidized sulfur and nitrogen compounds.
+@@Exposure to strong UV radiation at high altitudes.
+
+Which type of corrosion occurs when two dissimilar metals are in contact with each other in the presence of an electrolyte?
+Pitting corrosion.
+@@Galvanic corrosion.
+Filiform corrosion.
+
+Which of the following is NOT a standard non-destructive inspection method for detecting corrosion in an aircraft structure?
+@@Thermographic (infrared) inspection.
+Eddy current inspection.
+Radiographic (X-ray) inspection
+
+Which of the following is the most effective pre-treatment method for corrosion prevention on aluminum alloys?
+@@Chemical conversion coating.
+Zinc plating.
+Hard chromium plating.
+
+Which of the following is a critical factor in identifying metallic materials for aircraft structural repairs?
+The weight of the material compared to composite alternatives.
+@@The purchasing specification and supplier qualification.
+The color and surface texture of the material
+
+What is the main difference between primary and secondary structures in the A350 aircraft?
+@@Primary structures must use materials qualified under the original specification, while secondary structures allow more flexible material substitutions.
+Secondary structures provide more load-bearing strength than primary structures.
+Primary structures are non-load-bearing, while secondary structures carry all the mechanical stress.
+
+When considering a substitute material for structural repairs, which of the following factors must be taken into account?
+Only the material's mechanical strength.
+The supplier’s reputation and cost of the material.
+@@Fatigue performance, damage tolerance, static mechanical performance, and corrosion behavior.
+
+What does the T6 temper designation in aluminum alloys indicate?
+The material is naturally aged after solution heat treatment.
+@@The material is solution heat-treated and artificially aged.
+The material is stress-relieved by stretching after heat treatment.
+
+Which of the following statements is true regarding the use of US Standard Gage materials in Airbus A350 repairs?
+US Standard Gage materials cannot be used under any circumstances.
+@@They are permitted as alternatives when specified in the repair manual.
+They can only be used for composite structures, not metallic repairs
+
+Which of the following is a primary reason for using composite materials in the Airbus A350 structure?
+To improve electrical conductivity.
+@@To reduce weight and increase fuel efficiency.
+To increase manufacturing complexity.
+
+Which type of composite material is used for the radome on the Airbus A350?
+Carbon Fiber Reinforced Plastic (CFRP).
+Glass Fiber Reinforced Plastic (GFRP).
+@@Quartz Fiber Reinforced Plastic (QFRP)
+
+Which of the following components on the A350 is primarily constructed using CFRP (Carbon Fiber Reinforced Plastic) in a monolithic structure?
+Dorsal fin.
+Passenger and cargo doors.
+@@Wing upper cover.
+
+What is the main difference between monolithic and sandwich composite structures?
+@@Monolithic structures consist of a single material layer, while sandwich structures include a core material between two skins.
+Monolithic structures are always stronger than sandwich structures.
+Sandwich structures use only metallic materials, while monolithic structures use non- metallic materials
+
+Which repair material is commonly used for composite structures in the Airbus A350?
+Titanium sheets.
+@@Epoxy prepreg carbon fabric.
+Aluminum honeycomb core
+
+Which of the following materials is NOT commonly used for fasteners in the Airbus A350?
+Monel.
+Titanium.
+@@Magnesium
+
+Which type of aluminum alloy rivet is supplied in T4 condition and used where high strength is necessary?
+1100.
+2117.
+@@2024.
+
+What is the primary difference between a Hi-Lok fastener and a Lockbolt fastener?
+@@Hi-Lok fasteners use a threaded pin and collar, while Lockbolt fasteners use a swaged collar.
+Hi-Lok fasteners require a special tool for installation, while Lockbolt fasteners can be installed manually.
+Hi-Lok fasteners are designed for shear applications only, while Lockbolt fasteners can only be used in tension applications
+
+Which of the following blind rivets is a four-part fastener that includes a hollow body, stem, shear ring, and locking collar?
+Huck.
+Avdel.
+@@Cherrymax.
+
+Why should blind fasteners NOT be used in areas subject to vibration or fluid-tight joints?
+They are difficult to install in confined spaces.
+@@They do not provide a secure enough joint to withstand vibration and fluid pressure.
+They require special tools that are not widely available.
+
+Which standard is primarily used for fastener symbols in Airbus production design drawings?
+ISO 9001.
+ASME Y14.5.
+@@EN2544.
+
+What does a cross symbol represent in an Airbus production drawing?
+A bolt with a countersunk head.
+@@A set rivet.
+A blind fastener.
+
+How is a 100° countersink indicated in Airbus fastener symbols?
+@@A triangle symbol with no additional markings.
+A square symbol with a diagonal line.
+A circle with a dot in the center
+
+In Airbus fastener symbols, what does the letter "N" in the upper right-hand quadrant represent?
+@@Near side pre-formed rivet head.
+Nut and bolt fastener.
+No pre-formed head required.
+
+How are multiple rivets in a row represented in an Airbus production drawing?
+By placing an "X" next to each rivet location.
+@@By aligning crosses in the direction of the rivet line.
+By using a wavy line to indicate rivet placement.
+
+What is the most important factor when selecting a replacement fastener for repair?
+It must be made from a different material than the original to prevent corrosion.
+@@It must match the original type, material, surface finish, and lubricant if applicable.
+It must be shorter than the original to reduce structural stress.
+
+Why must lubricated fasteners not be cleaned before installation?
+@@The lubrication reduces friction and ensures correct torque application.
+Cleaning may introduce contaminants that weaken the fastener.
+Cleaning can change the fastener's weight and affect balance.
+
+Which of the following is an indication of a loose fastener?
+A bright silver ring around the fastener.
+The fastener head is flush with the surrounding material.
+@@A black or dark grey stain forming behind the fastener head.
+
+Which method is preferred for installing solid rivets in an aircraft structure?
+@@Continuous squeeze riveting.
+Hand hammering.
+Welding the rivet in place.
+
+What is the first step when removing a solid rivet?
+Use a chisel to cut off the upset head.
+Drill through the rivet shank using a large-diameter drill bit.
+@@Remove the manufactured (set) head by drilling it with a slightly smaller diameter drill bit.
+
+Why must cadmium-plated tools never be used on titanium parts?
+@@Cadmium particles can cause embrittlement and cracks in titanium.
+Cadmium creates a stronger bond with titanium, making removal difficult.
+The heat from titanium machining can vaporize cadmium and cause fire hazards.
+
+When should an oversize fastener be used?
+When the original fastener is missing.
+@@When the hole is damaged and outside the original tolerance limits.
+When a larger fastener provides extra strength.
+
+What is the maximum oversize diameter increase allowed for a fastener, unless otherwise specified?
+1/16 inch (1.6 mm).
+@@1/32 inch (0.8 mm).
+1/64 inch (0.4 mm).
+
+What should be done when replacing an aluminum or monel blind rivet with an oversize fastener?
+@@Use a rivet of the same standard and diameter if the hole is within tolerance.
+Always replace it with a titanium fastener.
+Drill a new hole in a different location.
+
+Why should high-interference fit fasteners be used instead of clearance or transition fit in fuel-exposed areas?
+To improve fuel efficiency.
+To prevent fuel leakage around the fastener.
+@@Because resin-based coatings decrease electrical conductivity.
+
+What must be considered when selecting a fastener combination (nut, bolt, etc.)?
+The aesthetic appearance of the fastener.
+@@The galvanic compatibility with the structure and mating parts.
+The availability of fasteners in the local market.
+
+What material must be used for replacement fasteners in the standby compass area to maintain non-magnetic properties?
+Stainless steel.
+@@Titanium, aluminum alloy, or Inconel 718 bolts.
+Carbon steel.
+
+If a specified fastener is not available, how should a replacement be selected?
+Choose any fastener that fits in the hole.
+@@Use an approved alternative fastener as per the repair procedure.
+Replace with a larger fastener for extra strength
+
+When replacing a titanium rivet, what alternative fastener can be used?
+Stainless steel rivet.
+@@Oversize monel rivet, except in restricted areas.
+Brass rivet.
+
+Which type of fit should be used when selecting a fastener in relation to the load?
+@@Clearance fit, transition fit, or interference fit based on structural requirements.
+Only clearance fit, regardless of load type.
+Any fit type, as long as the fastener can be installed.
+
+Why is it important to deburr a drilled hole before fastener installation?
+To make the hole larger for easier fastener insertion.
+@@To remove sharp edges and prevent crack initiation.
+To change the hole shape for better alignment.
+
+Before starting a drilling operation, what is the recommended initial step to ensure precision?
+Start drilling immediately at full speed.
+Use a punch to create a deep starting mark.
+@@Position the twist-drill in the correct location and rotate it by hand for a few turns.
+
+Which material requires the lowest drill speed range to prevent excessive heat buildup and work hardening?
+Aluminum alloy.
+Stainless steel.
+@@Titanium alloy
+
+Which of the following is not a common cause of drill bit breakage?
+Drill point incorrectly ground.
+@@Feed rate too slow.
+Flutes clogged with swarf
+
+What is the definition of fastener pitch (P) in aircraft structures?
+The distance from the center of a fastener hole to the nearest structural edge.
+The depth of countersinking for a fastener head.
+@@The distance from the center of one fastener hole to the center of the next fastener hole.
+
+For aluminum rivets installed in aluminum alloy assemblies, what is the recommended minimum edge distance when the thickness is 1.2 mm (0.047 in.) or greater?
+1.5 × D.
+@@2.0 × D.
+2.5 × D.
+
+What is the recommended hole pitch range for rivets in pressure-tight joints in an aluminum alloy assembly?
+2 to 3 × D.
+3 to 4 × D.
+@@4 to 5 × D.
+
+What is the minimum edge distance for fasteners installed in composite assemblies, unless otherwise specified?
+1.5 × D.
+2.0 × D.
+@@3.0 × D.
+
+When installing fasteners in metal/composite assemblies, which hole pitch values should be used?
+Use the hole pitch values for the metallic material.
+@@Use the hole pitch values for the composite material.
+Use an average of both materials' pitch values.
+
+What is the primary benefit of the cold expansion process on fastener holes?
+Increases the diameter of the hole for larger fasteners.
+@@Improves the fatigue life of the structure by creating residual compressive stress.
+Reduces the weight of the structure by minimizing fastener usage
+
+What is the standard cold expansion percentage used (except wing areas) unless specified otherwise?
+2%.
+3%.
+@@4%.
+
+Why is cold expansion not permitted on titanium structures?
+It causes excessive wear on titanium surfaces.
+Titanium is too hard to undergo plastic deformation.
+@@It increases the risk of cracking in the material
+
+How much does the hole diameter typically increase as a result of the cold expansion process?
+1% to 3%.
+@@3% to 5%.
+5% to 7%.
+
+What is the maximum oversize limit for a hole after cold expansion before contacting Airbus for further evaluation?
+1/64 inch (0.0156 in.).
+@@1/32 inch (0.0313 in.).
+1/16 inch (0.0625 in.)
+
+Which of the following is NOT a required tool for performing cold expansion?
+Mandrel.
+Split sleeve.
+@@Step drill bit.
+
+Which of the following represents the correct sequence of steps for cold expansion of a new hole?
+@@Drill hole → Cold expand hole → Ream to final size.
+Cold expand hole → Drill hole → Ream to final size.
+Ream hole → Cold expand hole → Drill final hole.
+
+Why must eye protection always be worn during the cold expansion process?
+@@Metal shavings and debris can become airborne.
+The cold expansion process generates high-intensity light.
+The tooling emits harmful radiation.
+
+How often should the mandrel major diameter be checked during the cold expansion process?
+Before each new aircraft is serviced.
+@@After every 50 holes are cold expanded.
+Only if visible wear is detected.
+
+Which two companies provide approved cold expansion tooling for Airbus maintenance?
+Boeing and Airbus.
+@@FTI and WCI.
+Rolls-Royce and GE Aviation
+
+Why is it essential to apply the correct torque value when installing a fastener?
+To ensure the fastener is easy to remove during future maintenance.
+@@To prevent fastener failure due to over-tightening or under-tightening.
+To increase the weight of the aircraft for better stability.
+
+If a bolt or screw is tightened into a nut (instead of turning the nut onto the bolt/screw), how should the torque value be adjusted?
+Increase by 10%.
+Decrease by 10%.
+@@Increase by 20%.
+
+What is a mandatory requirement before using a torque wrench or torque screwdriver?
+It must be cleaned with a solvent.
+@@It must be calibrated and approved by the Inspection Department.
+It must be adjusted to the highest possible setting
+
+Why is it important to follow the lubrication condition specified for a nut/bolt?
+Lubrication increases friction, preventing loosening.
+@@Incorrect lubrication can lead to over-tightening or under-tightening.
+Lubrication eliminates the need for torque wrenches.
+
+Which type of fastener must not be reused according to Airbus A350 torque specifications?
+Steel bolts with zinc coating.
+@@Aluminum alloy nuts and silver-plated Inconel nuts.
+Stainless steel locknuts.
+
+Why is it necessary to support the aircraft during repairs or modifications?
+To allow easier access to internal compartments.
+@@To reduce stresses in the repaired or modified area to a minimum.
+To improve the aerodynamic shape of the aircraft
+
+Why is jacking an aircraft outside for major structural repairs not allowed?
+@@The aircraft may experience uncontrolled movement due to high winds.
+The ground outside is always unstable.
+The aircraft jacking points are only designed for indoor use.
+
+What additional precaution should be taken when the hangar floor is not a "purpose- built" stable surface?
+Increase the number of jacking points used.
+@@Use metal plates under the jacks to distribute the load.
+Reduce the number of jacks used for stability
+
+Which information must be provided to Airbus when requesting a specific jacking instruction?
+Only the aircraft registration number.
+@@The complete list of planned repair actions and aircraft status.
+The jacking tools available at the repair facility.
+
+During aircraft jacking, why must load cell indicators be marked with red adhesive tape?
+To prevent excessive jacking height.
+@@To provide better visibility from the ground for load monitoring.
+To indicate which jacking points are active
+
+Why must carbon dust from composite materials be removed immediately during repairs?
+It can cause skin irritation but is otherwise harmless.
+@@It is electrically conductive and can create a fire or explosion hazard.
+It reacts with aluminum, causing corrosion
+
+Why is it critical to check for hidden damage before replacing a structural component?
+@@Hidden damage can lead to failure of the repair or surrounding structure.
+It ensures the component is properly aligned before painting.
+Hidden damage only affects the aesthetics of the aircraft
+
+Before removing a riveted or bolted structural component, what precaution must be taken?
+The component must be painted before removal.
+@@The structure must be supported to maintain original alignment and contour.
+The area must be cleaned with a high-pressure water jet.
+
+When reinstalling fasteners into existing holes, what type of fastener is recommended?
+Standard-size fasteners.
+@@Oversize fasteners.
+Titanium fasteners only.
+
+What is the final step after installing a replacement structural component?
+@@Apply corrosion inhibitor and sealant to protect the repair area.
+Perform ultrasonic testing to verify installation.
+Heat the component to remove moisture
+
+Why does Airbus recommend not filling a dent if it is within acceptable damage limits?
+Filling dents increases aircraft weight unnecessarily.
+@@Filling dents can make future inspections more difficult.
+Dents improve the aerodynamic efficiency of the aircraft
+
+What is the first step before applying filler to a dented area?
+Apply the filler directly to the dent.
+Clean the surface with water and soap.
+@@Abrade the surface paint in the dented area with emery cloth
+
+Why is it necessary to remove scratches as soon as possible?
+@@Scratches can cause corrosion initiation points.
+Scratches reduce the fuel efficiency of the aircraft.
+Scratches make paint adhesion stronger
+
+What indicates that a scratch has penetrated the cladding during a penetration test?
+@@The base material turns black/brown.
+The scratch disappears after cleaning.
+The base material remains unchanged in color.
+
+Why must extreme caution be taken when using chromic acid anodizing (CAA) and chemical conversion coating?
+These chemicals are highly flammable.
+@@These chemicals are poisonous and can cause injury.
+These chemicals weaken the aircraft structure
+
+Why must scratches in titanium alloys be removed as soon as possible?
+@@They can trap moisture and lead to corrosion.
+They improve the adhesion of paint coatings.
+Titanium does not corrode, so removal is optional
+
+What is the correct motion when polishing a repaired titanium surface?
+Circular motion to blend the surface evenly.
+@@Longitudinal motion along the scratch length.
+Random motion for uniform blending
+
+What is the primary purpose of stop-drilling a crack in aircraft structure?
+To create a smooth surface for repainting.
+To remove all material surrounding the crack.
+@@To stop crack propagation by redistributing stress
+
+How is the correct drilling position for a stop hole determined?
+Directly at the visible end of the crack.
+@@At a distance equal to the material thickness beyond the crack tip.
+Randomly in the damaged area to relieve stress
+
+After stop-drilling a crack, what must be done to ensure effectiveness?
+@@Use non-destructive testing (NDT) to verify that the crack has not extended.
+Apply additional holes to further reduce stress concentration.
+Leave the drilled hole unprocessed for easier monitoring
+
+Which materials are applicable for the dent dressing procedure on the Airbus A350?
+Only aluminum alloys.
+@@Aluminum, stainless steel, and titanium alloys.
+Composite materials only.
+
+Why is full access to the dent required before performing a dress-out procedure?
+To allow proper application of paint after repair.
+@@To ensure that both sides of the dented part can be worked on.
+To make it easier to replace the component.
+
+What is the purpose of using a sandbag or lead ball-filled bag during dent dressing?
+@@To prevent damage to the surrounding area.
+To increase the weight of the aircraft.
+To create additional dents for stress relief.
+
+What is the maximum permitted blend-out depth for aluminum sheet parts with a thickness between 1.6 mm and 2.2 mm?
+0.04 mm.
+@@0.08 mm.
+0.12 mm.
+
+What must be done within 7 hours after rework if a metallic surface is exposed in an uncontrolled environment?
+Leave it as is for natural oxidation.
+@@Apply corrosion preventive compound (CPC) or chemical conversion coating.
+Sand the surface for a smoother finish.
+
+What is the definition of negligible damage according to Airbus maintenance guidelines?
+Any damage that does not require immediate repair.
+@@Small damage that is always allowable, regardless of damage limits.
+Damage that must be recorded but does not need repair
+
+Which of the following must be protected when performing paint removal by abrasion?
+@@SSA, MFP, AOA sensors, and static ports.
+Aircraft interior panels.
+Passenger seats and overhead bins
+
+What is the main purpose of applying anti-erosion tape on the A350’s vertical and horizontal stabilizer leading edges?
+Reduce aerodynamic drag.
+@@Prevent paint erosion and fiber damage.
+Improve visibility for maintenance inspections.
+
+What is a critical caution when applying polyurethane anti-erosion tape?
+Ensure the tape is stretched tightly for maximum adhesion.
+Apply excessive pressure to secure it firmly.
+@@Avoid stretching the tape during application.
+
+How many dent types are defined on metallic fuselage skin of A350 A/C?
+@@2 types (Dent Type 1 & Dent Type 2).
+3 types.
+5 types.
+
+Which dent type can be repaired using the "Dent Dress Out" method on metallic fuselage skin of A350 A/C?
+@@Dent Type 1.
+Dent Type 2.
+All dents on the fuselage.
+
+What should a technician do if a dent is found in an excluded area on metallic fuselage skin of A350 A/C ?
+Continue normal aircraft operations.
+Perform a repair.
+@@Do a repair or report to Airbus before the next flight.
+
+What factors determine the maximum allowable of dent?
+@@The dent’s depth and size.
+The aircraft’s paint color.
+The number of flight hours.
+
+What should be done if a dent has visible cracks?
+@@Immediately stop using the aircraft.
+Continue operating if the dent is small.
+Ignore the dent if it remains unchanged.
+
+How is a dent measured?
+@@By its depth (D), length (X), and width (Y).
+By its weight.
+By its color.
+
+What is the primary purpose of performing an HFEC (High-Frequency Eddy Current) inspection on a dent?
+@@To check for cracks.
+To determine paint thickness.
+To measure the aircraft's weight.
+
+If dent affects multiple skin thicknesses, each skin thickness must be considered and
+@@The most restrictive limitation must be applied
+The less restrictive limitation must be applied
+Contact airbus for the restrictive limitation
+
+What is the first step should be done to identify the type of dent on metal fuselage skin?
+@@Do external detailed visual inspection
+Do an internal and external visual inspection
+Do internal detailed visual inspection
+
+What is the width-to-depth (W/t) ratio?
+@@The ratio of the rework width (W) to the maximum rework depth (t).
+The ratio of the rework width (W) to the minimum rework depth (t).
+The ratio of the maximum rework width (W) to the minimum rework depth (t).
+
+Why must hidden damage be carefully checked before approving an allowable rework?
+Hidden damage can improve the aircraft’s aerodynamics.
+@@Hidden damage can lead to failure of the repair or surrounding structure.
+Hidden damage does not affect structural integrity
+
+For how many flight cycles (FC) can temporary allowable lightning strike damage remain before requiring repair?
+50 FC.
+100 FC.
+@@200 FC
+
+Which of the following is NOT an area where temporary lightning strike damage is allowed?
+General fuselage skin.
+@@Cutout surrounding areas.
+Riveted joints
+
+What is the minimum required distance between two allowable rework areas on the fuselage skin?
+Less than the smallest rework area.
+@@Equal to or greater than the longest rework area.
+Exactly 50 mm.
+
+What is the maximum allowable dent depth on the A350’s metal fuselage skin without requiring immediate repair?
+0.1 mm.
+0.5 mm.
+@@2.5 mm.
+
+What repair category applies to allowable damage limits for rework on the fuselage skin?
+Category A only.
+@@Category B or C.
+Category D only
+
+Which dent location requires additional inspection due to the possibility of internal structural deformation?
+Skin panels in non-load-bearing areas.
+@@Riveted and stiffened fuselage areas.
+Composite fairings.
+
+What is a key difference in allowable rework limits between riveted and unriveted fuselage areas?
+Riveted areas allow deeper rework than unriveted areas.
+@@Unriveted areas require a higher width-to-depth ratio (W/t).
+Riveted areas do not require Airbus approval for deep repairs
+
+What must be done if a burned fastener is found after a lightning strike?
+Replace the fastener immediately.
+Remove all fasteners in the surrounding area.
+@@Conduct a detailed inspection before determining repair action
+
+How often must an allowable dent on the fuselage metal skin be inspected?
+Every 10 flight hours.
+@@At defined maintenance intervals.
+Before every flight
+
+Before repairing damage on the A350’s nose lip skin of engine air intake cowl, what must be done first?
+Apply a corrosion inhibitor to the affected area.
+@@Conduct a damage evaluation to determine if it is within allowable limits.
+Remove the nose lip for further inspection
+
+Which inspection method need to be checked to make sure no crack on dent of lower fairing-lateral panels of engine pylon?
+@@HFEC inspection IAW NTM 51-96-00
+DVI inspection
+GVI inspection
+
+Which dimension need to be measured to assess the dent on lower fairing – lateral panel of engine pylon?
+@@Distance between dent edge and support member, dent of minimum width, panel thickness and dent depth.
+Distance between dent edge and support member, dent of minimum width, dent depth and dent length.
+Dent of minimum width, dent depth and dent length.
+
+Is it needed to check the distance between two damage areas on the dents of lateral panel of lower fairing of engine pylon??
+@@Yes, the distance between two damaged areas must be more than 250mm
+No, the small damages can be collected in a group
+Yes, but it depends on the size of dents.
+
+What things need to be checked when do the inspection on dent of lateral panel of lower fairing of engine pylon?
+@@Make sure that there are no loose, sheared or missing rivets and that there are no cracks in the damaged area
+Contact Airbus immediately if found dent on lower fairing.
+Leave the dent “as is” if dimension is too small.
+
+What is the time to be performed the repair after finding the rivets loosen on lower fairing of engine pylon if it is in allowable limit?
+@@10 FC
+5 FC
+Damage must be repaired before next flight.
+
+What size of crack stop hole need to be perform to repair the crack on lower fairing skin panel of engine pylon?
+4.0 MM DIA
+@@4.8 MM DIA
+6.3MM DIA.
+
+Which parameter decide the defer time after finding crack on lower fairing of engine pylon?
+@@crack length
+crack depth
+number of crack
+
+What is the minimum distance between the crack and fasteners row must remain for allowable crack on lower fairing of engine pylon?
+@@2xD with D is diameter hole
+3xD with D is diameter hole
+4xD with D is diameter hole
+
+Is it necessary to do inspection after drill crack stop hole for crack on lower fairing ?
+Yes all defer time is 20FC
+No, it will be permanent allowable limit.
+@@Yes, defer time depends on crack length.
+
+What should be done if the crack size increases after doing a detailed visual inspection of crack on lower fairing of engine pylon?
+@@Do a permanent repair immediately or within 50FC/400FH whichever comes first.
+Continue to drill a crack stop hole at the end of extended crack line.
+Do a welding repair to stop crack.
+
+What is inspection method to perform inspection for allowable damage limit of crack on lower fairing?
+@@Detailed visual inspection
+HFEC inspection
+General visual inspection
+
+What is the maximum allowable dent depth on the nose lip skin of air intake cowl without requiring immediate repair?
+0.5 mm.
+@@2.5 mm.
+6 mm.
+
+Which zones of the nose lip skin air intake cowl are applicable for allowable damage assessment?
+Zones A, B, and D.
+@@Zones B, C, and E (for holes only).
+Zones F, G, and H
+
+What should you do if the protective cover of the THS leading edge is damaged with a diameter of less than 50 mm? (Refer to the flowchart and table below.)
+The damage can be deferred for 600 FC / 3000 FH / 6 months without further action.
+@@A temporary or permanent repair must be performed immediately
+Contact Airbus for repair solution
+
+What is the minimum required distance between two separate damage areas on the protective cover of THS leading edge? Refer to the table below.
+50 mm
+@@250 mm
+150 mm
+
+What must be ensured before applying allowable thickness reduction limits on droop nose skin?
+@@No cracks in the droop nose skin.
+No paint scratches .
+No rivets on the skin.
+
+How long can a temporary repair remain before a permanent repair is required on droop nose skin?
+@@3600 flight cycles .
+Unlimited until the next D-check .
+500 flight hours.
+
+For the rework in droop nose, If the clad is not perforated/penetrated, how to assess the damage?
+@@The scratch is considered as a negligible damage
+Go to relevant chapter to assess the damage
+Apply a layer of surface pretreatment
+
+Which inspection method is used to verify there are no cracks after repair of allowable scratch that have penetrated the cladding in painted areas and cannot be covered by the head of a fastener on droop nose skin
+@@High-frequency eddy current (HFEC).
+X-ray imaging.
+Ultrasound scanning.
+
+What should be done if a scratch crosses a rivet head on droop nose?
+@@Replace the affected fastener
+Apply additional sealant
+Paint over the rivet
+
+To install the smallest blind aluminum rivet through the scratch in the skin of droop nose, which condition below need to make sure:
+@@The minimum distance from the material edge is 2 fastener diameters
+The minimum distance to the nearest fastener is 2 fastener diameters
+A fastener is permitted in the trailing edge skins
+
+Which Non-Destructive Testing (NDT) method must be used before performing a permanent repair on a protective cover THS leading edge to make sure no cracks?
+X-ray inspection
+Ultrasonic testing (UT)
+@@High-Frequency Eddy Current (HFEC) inspection
+
+What is the maximum allowable depth for abrasions, scratches, and corrosion in unpainted areas on slats 2 thru 7 - tracks 5 thru 17?
+0.10 mm (0.0039 in.)
+@@0.25 mm (0.0098 in.)
+0.50 mm (0.0197 in.)
+
+What is the maximum allowable size for nicks on the edges of slats 2 thru 7 - tracks 5 thru 17?
+0.25 mm (0.0098 in.)
+0.50 mm (0.0197 in.)
+@@1.00 mm (0.0394 in.)
