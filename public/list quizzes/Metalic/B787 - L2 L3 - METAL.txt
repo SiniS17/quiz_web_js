@@ -1,0 +1,659 @@
+Primary structure is
+@@Structure parts significantly transmit ground, flight and pressure load
+Structure parts that do not significantly transmit ground, flight and pressure load
+An element that contributes significantly to the carrying of flight, ground or pressure load
+
+Secondary structure is
+Structure parts significantly transmit ground, flight and pressure load
+@@Structure parts that do not significantly transmit ground, flight and pressure load
+Structure parts significantly transmit ground, flight and pressure load
+
+Principal Structural Element (PSE) is
+Structure parts significantly transmit ground, flight and pressure load
+Structure parts that do not significantly transmit ground, flight and pressure load
+@@An element that contributes significantly to the carrying of flight, ground, or pressurization loads and whose integrity is essential in maintaining the overall structural integrity of the airplane
+
+Where a list of definitions of terms can be found in SRM
+B787-A-51-00-00-01A-010A-A General Data
+B787-A-51-00-04-00A-030A-A General Data
+@@B787-A-51-00-07-00A-010A-A General Data
+
+The definitions of damage tolerant repair category A is
+@@A permanent repair for which the inspection given in the 787 Maintenance Planning Data (MPD) document and any applicable Airworthiness Directive are sufficient and no other actions are necessary
+A permanent repair for which additional inspection are necessary at the specified threshold and repeat intervals
+A time-limited repair which must be replaced or reworked within a specified time-limite . Also supplemental inspections can be necessary at a specified threshold and repeat interval
+
+The definitions of damage tolerant repair category B is
+A permanent repair for which the inspection given in the 787 Maintenance Planning Data (MPD) document and any applicable Airworthiness Directivea are sufficient and no other actions are necessary
+@@A permanent repair for which additional inspection are necessary at the specified threshold and repeat intervals
+A time-limited repair which must be replaced or reworked within a specified time-limite . Also supplemental inspections can be necessary at a specified threshold and repeat interval
+
+The definitions of damage tolerant repair category C is
+A permanent repair for which the inspection given in the 787 Maintenance Planning Data (MPD) document and any applicable Airworthiness Directives are sufficient and no other actions are necessary
+A permanent repair for which additional inspection are necessary at the specified threshold and repeat intervals
+@@A time-limited repair which must be replaced or reworked within a specified time-limite . Also supplemental inspections can be necessary at a specified threshold and repeat interval
+
+When it it necessary to use or handle any of the solvent, special cleaners, paint trippers, etchants (acid) or surface activation material, you must obey the safety precautions . Which statement below is correct
+Use solvents and acids in confined spaces without sufficient ventilation or approved respiratory protection
+@@Avoid long term or repeated contact solvents, cleaners, etchants (acid) or chemical conversion coating material with you skin
+Clean water that you can use for emergencies must be available in the immediate work area before you work with chemicals
+
+Which statement is correct for Repairable Damage
+Repairable Damage is defined as damage that is permitted with no other flight restrictions
+@@Repairable Damage is defined as damage that can be reworked or repaired
+Repairable Damaget is defined as damage where the part must be replaced
+
+Which statement is correct for Allowable Damage
+@@Allowable Damage is defined as damage that is permitted with no other flight restrictions
+Allowable Damage is defined as damage that can be reworked or repaired
+Allowable Damaget is defined as damage where the part must be replaced
+
+Which statement is correct for Replacement of Damage Part
+Replacement of Damage Par is defined as damage that is permitted with no other flight restrictions
+Replacement of Damage Par is defined as damage that can be reworked or repaired
+@@Replacement of Damage Part is defined as damage where the part must be replaced
+
+When a repair says to 'break sharp edges”, and does not specify a specific radius or chamfer, then break edges to a minimum radius or chamfer is
+0.002 in (0.05mm)
+@@0.003 in (0.08mm)
+0.004 in (0.1 mm)
+
+If the rework or repair instructions given you a limit that is a percentage of the material thickness, then make a determination of the material thickness as follow
+@@If the material is machined, chem-milled, and/or of variable thickness you will need to measure the thickness
+If the material is machined you will no need to measure the thickness.
+If the material is chem-milled you will no need to measure the thickness
+
+Which statement is correct caused by overheating
+@@Exposure to high temperature can change the initial heat-treatment/temper condition and cause a decrease in the strength of metal structure
+Exposure to medium temperature can change the initial heat-treatment/temper condition and cause a decrease in the strength of metal structure
+Exposure to low temperature can change the initial heat-treatment/temper condition and cause a decrease in the strength of metal structure
+
+Which statement is correct caused by overheating
+@@When alloy steel is affected by high temperature, a product called untempered martensite can occur . The steel surface can show cracks that are caused by the stresses from this volume difference.
+When alloy steel is affected by medium temperature, a product called untempered martensite can occur . The steel surface can show cracks that are caused by the stresses from this volume difference.
+When alloy steel is affected by low temperature, a product called untempered martensite can occur . The steel surface can show cracks that are caused by the stresses from this volume difference.
+
+Which statement is correct when installing fasteners
+The fastener insertion no need using normal hand pressure or light tapping using a nonmetallic mallet
+The fastener no need removed andan accurate check of the hole diameter, surface finish, hole straightness
+@@Fastener insertion must be done using normal hand pressure or light tapping using a nonmetallic mallet and removed andan accurate check of the hole diameter, surface finish, hole straightness
+
+Which statement is correct when installing fasteners
+@@All structural members are in sufficient alignment before inserting a bolt into the hole to prevent scraping of the fastener alignment before inserting a bolt into the hole to prevent scraping of the fastener shank or threads during installation
+Fastener insertion must not using normal hand pressure or light tapping using a nonmetallic mallet and removed andan accurate check of the hole diameter, surface finish, hole straightness
+Fastener insertion must not using normal hand pressure or light tapping using a nonmetallic mallet . Must use metal hammers, rivet guns, or equivalent impact tools
+
+What Material Designations for Corrosion Resistant Steel (CRES)
+@@3XX – Stainless steels are austenitic and can not be heat treated. These alloys can only be strengthened by cold working
+5XX – Stainless steels are austenitic and can not be heat treated. These alloys can only be strengthened by cold working
+7XX – Stainless steels are austenitic and can not be heat treated. These alloys can only be strengthened by cold working
+
+What Material Designations for Corrosion Resistant Steel (CRES)
+17–2PH - Contains 17 percent Chromium, 4 percent Nickel and 4 percent Copper (AISI 630)
+17–3PH - Contains 17 percent Chromium, 4 percent Nickel and 4 percent Copper (AISI 630)
+@@17–4PH - Contains 17 percent Chromium, 4 percent Nickel and 4 percent Copper (AISI 630)
+
+What Material Designations for Corrosion Resistant Steel (CRES)
+17–5PH - Contains 17 percent Chromium, 7 percent Nickel and 1 percent Aluminum (AISI 631)
+17–6PH - Contains 17 percent Chromium, 7 percent Nickel and 1 percent Aluminum (AISI 631)
+@@17–7PH - Contains 17 percent Chromium, 7 percent Nickel and 1 percent Aluminum (AISI 631)
+
+What Material Designations for Corrosion Resistant Steel (CRES)
+5–3PH - Contains 15 percent Chromium, 5 percent Nickel and 4 percent Copper
+5–4PH - Contains 15 percent Chromium, 5 percent Nickel and 4 percent Copper
+@@5–5PH - Contains 15 percent Chromium, 5 percent Nickel and 4 percent Copper
+
+The aluminum alloys used in aircraft construction are usually hardened by which method
+Cold-working
+@@Heat treatment
+Aging
+
+The aluminum alloys most frequently used in sheet metal are
+2000 and 6000 series alloys
+@@2000 and 7000 series alloys
+6000 and 7000 series alloys
+
+The 7000 series alloys are used for
+Fatigue-critical tension applications
+High resistant to wear and corrosion applications
+@@High strength tension or compression applications
+
+The 2000 series alloys are used for
+High strength tension or compression applications
+@@Fatigue-critical tension applications
+High resistant to wear and corrosion applications
+
+If an –0 follows the alloy identification, it shows that the material is
+Heat treated with more strain hardening
+Heat treated without strain hardening
+@@Not heat treated. The alloy is in the annealed condition
+
+Which statement is correct to apply corrosion protection below the head area and shank body of fastener
+@@Apply sealant to the entire shank and thread of the fasterner
+Apply sealant to shank body of fastener only
+Apply sealant to thread of fastener only
+
+Where can find the Heat Treatment guidance process in the documents
+SOPM
+SRM
+@@BAC
+
+Where can find the Chemical Conversion Coating for Aluminum guidance process in the documents
+@@SOPM
+SRM
+AMM
+
+Where can find Apply Sealing General guidance process in the documents
+CMM
+@@SOPM
+SRM
+
+Where can find Shot Peening guidance process in the documents
+SRM
+CMM
+@@BAC
+
+Where can find Forming, Straightening and Fitting Metal Part guidance process in the documents
+@@BAC
+SRM
+SOPM
+
+Where can find Dimpling and Countersinking guidance process in the documents
+AMM
+AMM
+@@BAC
+
+Where can find Solid Rivet Installation guidance process in the documents
+AMM
+@@BAC
+SRM
+
+Where can find Bolt and Nut installation guidance process in the documents
+@@BAC
+SRM
+AMM
+
+Where can find Installation of Fastener in Fuel Tank guidance process in the documents
+CMM
+@@AMM
+SRM
+
+Where can find Blind Fastener Installation guidance process in the documents
+AMM
+@@BAC
+SRM
+
+Where can find apply sealing in Fuel Tank guidance process in the documents
+SRM
+CMM
+@@AMM
+
+Where can find Rivet Installation in Titanium guidance process in the documents
+SOPM
+SRM
+@@BAC
+
+How many classes of cold-working procudures
+One classes
+Two classes
+@@Three classes
+
+Which statement is correct
+@@Class I cold-working cannot be used as an alternative for Class II or Class III cold-working
+Class I cold-working can be used as an alternative for Class II cold-working
+Class I cold-working can be used as an alternative for Class III cold-working
+
+Which statement is correct
+Class II cold-working can be used as an alternative for Class I cold-working
+@@Class II cold-working cannot be used as an alternative for Class I or Class III cold-working
+Class II cold-working can be used as an alternative for Class III cold-working
+
+Which statement is correct
+Class III cold-working can be used as an alternative for Class I cold-working
+Class III cold-working can be used as an alternative for Class II cold-working
+@@Class III cold-working cannot be used as an alternative for Class I or Class II cold-working
+
+What material is used for solid rivets that require no further treatment after manufacturing
+US material 2017
+@@US material 2117
+US material 2024
+
+Which material is used for rivets where high strength is necessary
+US material 2117
+@@US material 2024
+US material 2017
+
+When removing the collar or nut, does the hex-drive need to be replaced
+no need replace
+@@must be replace
+It depends on whether the nut is broken or not
+
+The designation for the temper of aluminum alloys is in the form T4 means
+@@Solution heat treated and naturally aged
+Solution heat treated and artificially aged
+Solution heat treated, cold worked, naturally aged
+
+If an –W follows the alloy identification, it shows that the material is
+@@Solution heat treated and quenched
+Solution heat treated and naturally aged
+Solution heat treated and artificially aged
+
+Can BACR15CE or NAS1097 rivets shaved or modified (e.g., sanding, griding, etc.) to meet the flushness requirements without design Engineering approval
+Yes
+@@Not allowed
+Depends on height
+
+When shaving 100 degree countersunk head rivets of BACR15CE or NAS1097, What is the allowable protrusion height with dia 4.8mm
+0.003in (0.0762mm)
+0.004in (0.1016mm)
+@@0.005in (0.127mm)
+
+When shaving 100 degree countersunk head rivets of MS20426, What is the allowable protrusion height with dia 4.8mm
+0.006in (0.1524mm)
+0.008in (0.2032mm)
+@@0.010in (0.254mm)
+
+When a piece of aluminum alloys is heated in a furnace, then quenched in cold water, it is said to have been
+@@Solution heat-treated
+Annealing
+Precipitation heat treated
+
+Where can find the Countersunk guidance process in the documents
+@@BAC
+SRM
+SOPM
+
+The form of heat treatment that softens a metal is called
+Normalizing
+Tempering
+@@Annealing
+
+Where can find the Gap limit for installed bolts and screw guidance process in the documents
+SRM
+@@BAC
+AMM
+
+What is the purpose of cold working
+@@increase the fatigue properties of fastener holes
+increase the surface hardness ot the hole
+Make it smooth for easier bolt installation
+
+Except for SRM, Where else can find cold working data
+AMM
+SOPM
+@@BAC
+
+When you do a repair or rework procedure that breaks through or damages the existing finishes. What need to be done
+@@apply a protective treatment
+apply a paint coating
+Apply sealant
+
+What is the main purpose of apply a protective treatment
+The surface gets an pure metal coating
+@@provides a base for the paint to stick to and inhibits corrosion on the surface of the part
+Get good surface for paint coating
+
+Where can find removal or application of Corrosion Inhibiting Material guidance process in the documents
+SOPM
+@@AMM
+BAC
+
+On Windows - Section 41 - Flight Compartment - Structure : What is the first step when dealing with the damaged area ?
+@@The first step is to access the damaged area and use the applicable AMM references as necessary
+The first step is to access the damaged area and use the applicable SRM references as necessary
+The first step is to access the damaged area and use the applicable CMM references as necessary
+
+What should be considered about surface roughness when removing damage ?
+Ensure that the surface roughness in the damage removal area is 120 microinches (3.048 micrometers) Ra or smoother
+@@Ensure that the surface roughness in the damage removal area is 125 microinches (3.2 micrometers) Ra or smoother
+Ensure that the surface roughness in the damage removal area is 125 microinches (3.302 micrometers) Ra or smoother
+
+Where can the cleaning procedures be found in the documentation ?
+@@SOPM
+AMM
+SRM
+
+On Passenger Window Titanium Foil Erosion Protection : If there is a scratch, what is the length limits ?
+Maximum 0.25in (6.35mm)
+Maximum 0.50in (12.7mm)
+@@No, there is no length limit for surface scratches
+
+On Passenger Window Titanium Foil Erosion Protection : If lightning strike damage with a maximum hole diameter of 0.10 in (2.54 mm) or maximum area of 0.01 in2 (6.45 mm2) . What needs to be done ?
+@@Do a resin-sweep repair
+Contact Boeing for further instructions
+Replace Titanium Foil Erosion Protection
+
+What should be done if the hole size is larger than 0.10 in. (2.54 mm) or the area is larger than 0.01 in² (6.45 mm²) ?
+Replace Titanium Foil Erosion Protection
+Do a resin-sweep repair
+@@Contact Boeing for further instructions
+
+ON B787 A/C, PASSENGER ENTRY DOOR INTERMETDIATE FRAMES ARE MADE FROM:
+CARBON FIBER REINFORCED EPOXY SHEET
+@@ALUMINUM ALLOY
+TITANINUM ALLOY
+
+ON B787 A/C, PASSENGER ENTRY DOOR STOP FITTING ARE MADE FROM:
+CARBON FIBER REINFORCED EPOXY SHEET AND ALUMINUM ALLOY
+GLASS FIBER REINFORCED EPOXY SHEET AND ALUMINUM ALLOY
+@@TITANINUM ALLOY AND ALUMINUM ALLOY
+
+ON B787 A/C, WHICH METHOD IS USED TO MAKE SURE THAT ALL OF THE DAMAGE HAS BEEN REMOVED AND DOES NOT HAVE CRACKS AFTER REMOVE THE DAMAGE ON METAL PARTS OF PAX DOOR STRUCTURE?
+@@HIGH FREQUENCY EDDY CURRENT (HFEC). PENETRANT INSPECTION IS PERMITTED ALTERNATIVE.
+ULTRA SONIC INSPECTION. PENETRANT INSPECTION IS PERMITTED ALTERNATIVE.
+HIGH FREQUENCY EDDY CURRENT (HFEC). ULTRA SONIC INSPECTION IS PERMITTED ALTERNATIVE.
+
+ON B787 A/C, WHERE DAMAGE HAS BEEN REMOVED FROM THE TITANIUM FINISHED SURFACE, DO THE STEPS THAT FOLLOW: (1) PREPARE THE SURFACE WITH A CHEMICAL CONVERSION COATING (2) APPLY ONE COAT OF BMS10-103, TYPE I PRIMER (3) APPLY ONE COAT OF BMS10-60, TYPE II GLOSS ENAMEL COATING
+(1), (2) AND (3)
+@@(2) AND (3)
+(1) AND (3)
+
+ON B787 A/C, THROUGH THICKNESS EDGE DAMAGE ON PASSENGER ENTRY DOOR INTERMETDIATE FRAMES IS
+NOT PERMITTED
+MAXIMUM ALLOWABLE DEPTH X = 3.8 mm FOR ALL ZONE
+@@MAXIMUM ALLOWABLE DEPTH X = 3.8 mm FOR SPECIFIC ZONE
+
+ON B787 A/C, CRACK ON PASSENGER ENTRY DOOR INTERMETDIATE FRAMES IS
+@@NOT PERMITTED
+MAXIMUM ALLOWABLE LENGTH L = 12.7 mm FOR ALL ZONE
+MAXIMUM ALLOWABLE LENGTH L = 12.7 mm FOR SPECIFIC ZONE
+
+ON B787 A/C, DENT ON PASSENGER ENTRY DOOR FRAMES IS
+@@NOT PERMITTED
+MAXIMUM ALLOWABLE DEPTH X = 0.4 mm FOR ALL ZONE
+MAXIMUM ALLOWABLE DEPTH X = 0.4 mm FOR SPECIFIC ZONE
+
+ON B787 A/C, DENT ON PASSENGER ENTRY DOOR EDGE CORNER PROTECTOR IS
+NOT PERMITTED
+MAXIMUM ALLOWABLE DEPTH X = 0.4 mm FOR ALL ZONE
+@@MAXIMUM ALLOWABLE DEPTH X = 0.4 mm FOR SPECIFIC AREA
+
+ON B787 A/C,HOLE ON PASSENGER ENTRY DOOR STRUCTURE IS PERMITTED
+YES, BUT IN SPECIFIC ZONE ONLY
+YES, IF IT IS STOP-CRACK HOLE AND IN SPECIFIC ZONE ONLY
+@@NO, IT IS NOT PERMITTED
+
+ON B787 A/C, LARGE CARGO DOOR SEAL RETAINER MADE FROM
+CARBON FIBER REINFORCED EPOXY SHEET
+@@ALUMINUM ALLOY
+TITANINUM ALLOY
+
+ON B787 A/C, BULK CARGO DOOR STRUCTURES, EXCEPT DOOR SKIN, MADE FROM
+@@CFRP SOLID LAMINATE WITH GFRP PLIES OR ALUMINUM ALLOY
+ALUMINUM ALLOY ONLY
+TITANINUM ALLOY AND ALUMINUM ALLOY
+
+ON B787 A/C, NOSE LANDING GEAR SEAL RETAINER MADE FROM
+CARBON FIBER REINFORCED EPOXY SHEET
+@@ALUMINUM ALLOY
+TITANINUM ALLOY
+
+ON B787 A/C, NOSE LANDING GEAR EDGE PROTECTOR MADE FROM
+CARBON FIBER REINFORCED EPOXY SHEET
+ALUMINUM ALLOY
+@@TITANINUM ALLOY
+
+ON B787 A/C, APS DOOR SKIN MADE FROM
+CARBON FIBER REINFORCED EPOXY SHEET
+ALUMINUM ALLOY
+@@TITANINUM ALLOY
+
+ON B787 A/C, HEAT DAMAGE ON APS DOOR SKIN IS
+UNLIMITED DAMAGE
+MAXIMUM 800 MM2 ONLY
+@@MUST CONTACT BOEING
+
+ON B787 A/C, PASSENGER/ENTRY DOOR SCUFF PLATE MADE FROM:
+@@TITANIUM ALLOY
+STAINLESS STEEL
+CARBON FIBER REINFORCED EPOXY SHEET
+
+ON B787 A/C, PASSENGER/ENTRY DOOR SEAL DEPRESSOR MADE FROM:
+@@ALUMINUM ALLOY
+TITANIUM ALLOY
+STAINLESS STEEL
+
+ON B787 A/C, SEAT TRACK MADE FROM:
+ALUMINUM ALLOY
+@@TITANIUM ALLOY
+CARBON FIBER REINFORCED EPOXY
+
+ON B787 A/C, WHICH STRUCTURES IN CARGO COMPARTMENT MADE FROM ALUMINUM ALLOY:
+CARGO FLOOR BEAM
+CARGO STANCHION
+@@ROLLER TRAY
+
+ON B787 A/C, WHICH CABIN FLOOR STRUCTURES MADE FROM ALUMINUM ALLOY:
+FLOOR BEAM
+@@STABILIZATION STRAP AND STANCHION
+FRAME FITTING
+
+ON B787 A/C, DENT DAMAGE ON PASSENGER/ENTRY DOOR SEAL DEPRESSOR IS
+PERMITTED UP TO DEPTH = 0.38 mm
+PERMITTED UP TO DEPTH = 0.76 mm
+@@NOT PERMITTED
+
+WHEN EVALUATE DAMAGE ON B787 PASSENGER/ENTRY DOOR METALLIC STRUCTURE, WHICH FOLLOWING STATEMENT IS TRUE?
+@@DAMAGE DEPTH IS MEASURED FROM THE BARE SURFACE OF THE PART (PAINT OR PRIMER THICKNESS IS NOT INCLUDED)
+PERFORM A DOOR FUNCTION CHECK AND DOOR SEAL CHECK IS NOT NECESSARY
+INITIAL DAMAGE OR DAMAGE REMOVAL CAN COME IN CONTACT WITH OTHER DAMAGE
+
+ON B787 A/C, AFT PRESSURE BULKHEAD T-CHORD FITTING MADE FROM:
+ALUMINUM ALLOY
+@@TITANIUM ALLOY
+CARBON FIBER REINFORCED EPOXY
+
+ON B787 A/C, APS FIREWALL BULKHEAD WEB MADE FROM:
+ALUMINUM ALLOY
+@@TITANIUM ALLOY
+CARBON FIBER REINFORCED EPOXY
+
+B787 TAILCONE WELDMENT MADE FROM
+ALUMINUM ALLOY
+@@TITANIUM ALLOY
+STAINLESS STEEL
+
+B787 BELLY FAIRING SUPPORT STRUCTURE MADE FROM
+@@ALUMINUM ALLOY
+TITANIUM ALLOY
+CARBON FIBER REINFORCED EPOXY
+
+B787 INTERCOSTAL OF SECTION 48 MADE FROM
+@@ALUMINUM ALLOY
+TITANIUM ALLOY
+BOTH A AND B
+
+B787 TAILCONE MUFFLER SKIN WITH HOLES DAMAGE IS
+NOT ACCEPTABLE
+ONLY 01 HOLE PERMITTED
+@@ALLOWABLE IF MAX DIA.=6.3 mm
+
+B787 TAILCONE MUFFLER SKIN WITH CRACK IS
+@@NOT ACCEPTABLE
+ONLY 01 CRACK PERMITTED
+ALLOWABLE IF MAX LENGTH =6.3 mm
+
+B787 FITTING AND GUSSET USUALLY MADE FROM
+@@ALUMINUM ALLOY AND TITANIUM ALLOY
+TITANIUM ALLOY ONLY
+STAINLESS STEEL AND TITANIUM ALLOY
+
+WHAT IS MATERIAL FOR INLET COWL LISPSKIN ON A/C B787
+CFRP
+GFRP
+7075-T62 ALU SHEET
+@@2219-T62 ALU SHEET
+
+WHAT IS MATERIAL FOR INLET COWL INNER BARELL BOND PANEL ON A/C B787
+@@CFRP
+GFRP
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+
+HOW MANY SEGMENTS ON INLET COWL LISPSKIN ON A/C B787
+2
+3
+@@4
+5
+
+WHAT DOES THE COMPOSIT STRUCTURE OF FAN COWL ON A/C B787
+LAMINATE COMPOSIT STRUCTURE
+SANDWICH COMPOSITE STRUCTURE WITH ALUMINUM CORE
+SANDWICH COMPOSITE STRUCTURE WITH NOMEX CORE
+@@SANDWICH COMPOSITE STRUCTURE WITH ALUMINUM CORE AND NOMEX CORE
+
+WHAT IS MATERIAL FOR TRANSLATING SLEEVE OUTER COWL SKIN ON A/C B787
+CFRP
+GFRP
+@@CFRP HONEYCOMB SANDWICH WITH ALUMINUM CORE AND NOMEX CORE
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+
+WHAT IS THE CORE IN THE SANDWICH STRUCTURE OF TRANSLATING SLEEVE OUTER ACOUNSTIC PANEL ON A/C B787
+ALUMINUM CORE
+NOMEX CORE
+@@ALUMINUM CORE AND NOMEX CORE
+CFRP
+
+WHAT IS MATERIAL OF AFT CENTERBODY SKIN -PRIMERY EXHAUST
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@TI 6-2-4-2 TITANIUM SHEET
+TI-6AL-4V TITANIUM SHEET
+
+WHAT IS MATERIAL OF PYLON TORQUE BOX STRUCTURE SIDE SKIN
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+@@TI-6AL-4V TITANIUM SHEET
+
+WHAT IS MATERIAL OF FIRE SEAL DEPRESSOR AT PYLON HEAT SHIELD
+TI 6-2-4-2 TITANIUM SHEET
+@@MV330Y- NICKEL ALLOY 625
+TI-6AL-4V TITANIUM SHEET
+MT286Y 301 SOLUTION TREATED STAINLESS STEEL
+
+WHAT IS MATERIAL OF FORWARD ENGINE MOUNT BULKHEAD IN PYLON TORQUE BOX STRUCTURE
+TI 6-2-4-2 TITANIUM SHEET
+MT286Y 301 SOLUTION TREATED STAINLESS STEEL
+@@7050- T7451 DIE FORGING
+7075-T62 ALU SHEET
+
+WHAT IS MATERIAL OF BIFURCATION ACCESS DOOR ON THRUST REVERSER ON B787
+@@2219-T851 ALU PLATE
+CFRP
+GFRP
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+
+THRUST REVERSER -AFT CORE COWL UPPER AND LOWER SKIN ON B787 MADE FROM
+TI 6-2-4-2 TITANIUM SHEET
+MV330Y- NICKEL ALLOY 625
+@@TI-6AL-4V TITANIUM SHEET
+CFRP
+
+WHAT IS MATERIAL OF BLOCKER DOOR ON THRUST REVERSER ON B787
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+@@CFRP HONEYCOMB SANDWICH WITH ALUMINUM CORE
+GFRP SOLID LAMINATE
+CFRP SOLID LAMINATE
+
+WHAT IS MATERIAL OF HEAT SHIELD -BOTTOM PANEL OF PYLON- HEAT SHIELD SEGMENT ON B787
+@@TI 6-2-4-2 TITANIUM SHEET
+TI-6AL-4V TITANIUM SHEET
+MV330Y- NICKEL ALLOY 625
+2219-T851 ALU PLATE
+
+WHAT IS MATERIAL OF HEAT SHIELD -SIDE PANEL OF PYLON-HEAT SHIELD SEGMENT ON B787
+TI 6-2-4-2 TITANIUM SHEET
+@@TI-6AL-4V TITANIUM SHEET
+MV330Y- NICKEL ALLOY 625
+2219-T851 ALU PLATE
+
+WHAT IS THE CORE IN THE SANDWICH STRUCTURE OF HORIZONTAL STABILIZER LEADING EDGE PANEL ON A/C B787
+ALUMINUM CORE
+NOMEX CORE
+@@ARAMID CORE
+GFRP
+
+WHAT IS THE MATERIAL OF HORIZONTAL STABILIZER LEADING EDGE OUTER SKIN ON A/C B787
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+@@M0004742 .TI- COMPURE 55 .Annealed Titanium Alloy Sheet
+
+WHAT IS THE MATERIAL OF HORIZONTAL STABILIZER TIP FAIRING FORWARD CAP ON A/C B787
+@@6061-T4 ALUMINUM ALLOY
+7075-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+2219-T62 ALU SHEET
+
+WHAT IS THE MATERIAL OF HORIZONTAL STABILIZER AUXILIARY BOX RIBS ON A/C B787
+6061-T4 ALUMINUM ALLOY
+TI 6-2-4-2 TITANIUM SHEET
+@@7050- T7451 ALUMINUM ALLOY PLATE
+7075-T62 ALU SHEET
+
+WHAT IS THE MATERIAL OF HORIZONTAL STABILIZER TRAILING EDGE RIBS ON A/C B787
+7075-T62 ALU SHEET
+@@7050- T7451 ALUMINUM ALLOY PLATE
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+
+WHAT IS THE MATERIAL OF VERTICAL STABILIZER -MAIN TORQUE BOX SKIN PANEL ON A/C B787
+@@CFRP SOLID LAMINATE WITH GFRP PLIES
+GFRP SOLID LAMINATE
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+CFRP HONEYCOMB SANDWICH WITH ALUMINUM CORE AND NOMEX CORE
+
+WHAT IS THE MATERIAL OF VERTICAL STABILIZER LEADING EDGE OUTER SKIN ON A/C B787
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+@@M0004742 .TI- COMPURE 55 .Annealed Titanium Alloy Sheet
+
+WHAT IS THE MATERIAL OF VERTICAL STABILIZER -MAIN TORQUE BOX FRONT SPAR ON A/C B787
+@@CFRP SOLID LAMINATE WITH GFRP ISOLATE PLIES
+GFRP SOLID LAMINATE
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+CFRP HONEYCOMB SANDWICH WITH ALUMINUM CORE AND NOMEX CORE
+
+WHAT IS THE MATERIAL OF ELEVATOR SKIN ON A/C B787
+CFRP SOLID LAMINATE WITH GFRP ISOLATE PLIES
+@@CFRP HONEYCOMB SANDWICH WITH GFRP PLIES AND ARAMID CORE
+CFRP HONEYCOMB SANDWICH WITH NOMEX CORE
+GFRP SOLID LAMINATE
+
+HOW MANY STATIC DISCHARGERS ON EACH ELEVATOR ON A/C B787
+4
+5
+@@7
+8
+
+WHAT IS THE MATERIAL OF ELEVATOR LIGHTNING PROTECTION STRIP SKIN ON A/C B787
+2219-T62 ALU SHEET
+@@6061-T4 ALUMINUM ALLOY
+7075-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+
+WHAT IS THE MATERIAL OF ELEVATOR LEADING EDGE RIBS ON A/C B787
+GFRP SOLID LAMINATE
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@CFRP SOLID LAMINATE
+
+WHAT IS THE MATERIAL OF TIP BALANCE HORN ON RUDDER ON A/C B787
+@@7050- T7451 ALUMINUM ALLOY PLATE
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+
+WHAT IS THE MATERIAL OF TIP BALANCE WEIGHT ON RUDDER ON A/C B787
+7050- T7451 ALUMINUM ALLOY PLATE
+@@15-5PH SOLUTION TREATED STAINLESS STEEL
+2219-T62 ALU SHEET
+TI 6-2-4-2 TITANIUM SHEET
+
+WHAT IS THE MATERIAL OF RUDDER SKIN PANEL ON A/C B787
+GFRP SOLID LAMINATE
+GFRP HONEYCOMB SANDWICH WITH ARAMID CORE
+@@CFRP HONEYCOMB SANDWICH WITH ARAMID CORE
+CFRP SOLID LAMINATE WITH GFRP PLIES
