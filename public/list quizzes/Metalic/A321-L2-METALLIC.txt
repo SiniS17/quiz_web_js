@@ -1,0 +1,934 @@
+What is the primary function of anodizing (CAA, TSA, SAA) in aircraft structures?
+To increase the electrical conductivity of aluminum
+@@To provide corrosion resistance and improve paint adhesion
+To enhance the mechanical strength of aluminum
+
+Why must subsequent paint coatings be applied within 16 hours after anodizing?
+@@To prevent contamination and ensure maximum adhesion
+To allow for surface oxidation that enhances durability
+To prevent the anodized layer from absorbing moisture
+
+What is the primary difference between CAA and TSA anodizing layers?
+@@CAA produces a gray layer, while TSA results in a transparent coating
+TSA provides better corrosion resistance than CAA
+CAA requires an additional chemical conversion step
+
+Why is chemical conversion coating (Alodine) sometimes preferred over anodizing in field repairs?
+@@It is easier to apply in areas where post-application cleaning is difficult
+It provides superior corrosion resistance compared to anodizing
+It enhances electrical conductivity for bonding applications
+
+What safety precautions must be taken when performing anodizing procedures?
+Ensure the area is kept at high humidity to prevent static buildup
+@@Wear protective clothing, gloves, goggles, and ensure good airflow in the work area
+Apply an oil-based barrier before handling chemical solutions
+
+Why is phosphoric acid non-tank anodizing (PANTA) used in bonded repairs?
+It increases the load-bearing capacity of the bonded joint
+@@It enhances corrosion resistance while ensuring good adhesion for bonding primer
+It provides an alternative to chemical etching before bonding
+
+What is the recommended alternative when cadmium plating is not feasible for steel components?
+@@Brush cadmium plating or phosphating + paint
+Zinc spraying with a secondary primer
+Nickel plating followed by epoxy coating
+
+What is the purpose of using an adhesion promoter before applying a sealant on protected metal surfaces?
+@@To improve the bonding strength and prevent delamination
+To accelerate the curing process of the sealant
+To ensure uniform surface coloration
+
+What must be done before applying wash primer to a surface?
+@@Ensure the surface is cleaned with a non-aqueous cleaner and shows bright metal
+Allow the metal to develop a natural oxide layer for better adhesion
+Heat the surface to improve primer penetration
+
+What is a critical inspection step after cadmium plating is applied?
+@@Use adhesive tape to check for proper adhesion of the cadmium layer
+Perform an ultrasonic thickness measurement
+Conduct a spark test to verify electrical conductivity
+
+What are the two primary electrochemical processes that define corrosion?
+@@The metal oxidizes anodically, and the corrosive agent reduces cathodically
+The metal absorbs moisture, and the oxygen reacts with the metal
+The metal becomes passive, and the corrosive agent neutralizes
+
+Why does marine atmosphere accelerate corrosion in aluminum alloys?
+@@Sodium chloride in the air acts as a strong electrolyte
+Saltwater increases the acidity of aluminum
+Magnesium ions in seawater react with aluminum oxide
+
+What is the primary mechanism by which galvanic corrosion occurs?
+@@When two dissimilar metals are in contact with an electrolyte
+When a metal is exposed to high humidity for prolonged periods
+When oxidation creates a protective layer on the surface
+
+What is the most common cause of pitting corrosion on aircraft structures?
+@@Localized breakdown of a protective coating in the presence of an electrolyte
+High-temperature oxidation in oxygen-rich environments
+Exposure to high mechanical stress in humid conditions
+
+Which type of corrosion can occur with no visible surface indications?
+@@Intergranular corrosion
+Pitting corrosion
+Filiform corrosion
+
+What is the primary risk of stress corrosion cracking (SCC)?
+@@It can lead to sudden structural failure under low stress
+It causes visible surface deformation before failure
+It only affects non-heat-treated metals
+
+What is the most effective method to prevent filiform corrosion?
+@@Ensuring an intact and well-adhered protective coating
+Applying a sacrificial zinc layer
+Keeping the aircraft exposed to dry air
+
+Which type of corrosion is specifically caused by repeated small movements between two surfaces?
+@@Fretting corrosion
+Biological corrosion
+Exfoliation corrosion
+
+What condition makes aluminum alloys especially susceptible to alkaline corrosion?
+@@Exposure to alkaline solutions without corrosion inhibitors
+Contact with chloride-rich environments
+Direct electrical contact with carbon fiber materials
+
+What is the most effective corrosion protection measure during aircraft assembly?
+@@Using corrosion-resistant materials and applying protective coatings
+Applying grease to all metal surfaces
+Sealing all fastener joints with adhesives
+
+Which method is used to detect early-stage corrosion in aircraft structures?
+@@Eddy current inspection
+Ultrasonic thickness measurement
+High-energy X-ray imaging
+
+Why must aircraft drainage systems be maintained regularly?
+@@To prevent moisture accumulation that could lead to corrosion
+To prevent ice buildup in cold weather conditions
+To maintain aerodynamic efficiency
+
+What is the function of a sacrificial coating in corrosion prevention?
+@@It corrodes first, protecting the base metal underneath
+It forms a waterproof barrier over the aircraft structure
+It neutralizes acidic contaminants before they reach the metal surface
+
+Which type of corrosion protection is specifically applied to mating surfaces?
+@@Sealants
+Anodizing
+Cadmium plating
+
+What environmental factor increases the risk of biological corrosion in aircraft fuel tanks?
+@@Presence of water contaminated with microorganisms
+Exposure to fluctuating temperatures
+Lack of oxygen in fuel storage areas
+
+What is the primary purpose of chemical conversion coatings on aluminum alloys?
+@@To enhance corrosion resistance and improve paint adhesion
+To increase the mechanical strength of the aluminum
+To reduce the risk of galvanic corrosion in fuel tanks
+
+Which protective measure is required for fasteners to prevent galvanic corrosion?
+@@Installing them with wet sealant
+Using only aluminum fasteners on aluminum structures
+Applying a thin layer of grease before installation
+
+What is the main reason for periodic aircraft washing in corrosion prevention?
+@@To remove accumulated contaminants that could initiate corrosion
+To enhance the appearance of the aircraft
+To maintain airflow efficiency over the fuselage
+
+Why should metal tools not be used to remove unwanted material from aircraft surfaces?
+To leave scratches that interfere with aerodynamics
+@@They can cause damage to the surface of the component
+Metal tools react chemically with paint coatings
+
+Which of the following aircraft areas is typically NOT painted?
+The fuselage underbelly for aerodynamic reasons
+@@The leading edge of slats and engine inlet cowl
+The entire stabilizer for weight reduction
+
+What is the primary function of the topcoat polyurethane used in aircraft paint coatings?
+@@To protect the aircraft against environmental damage
+To improve the electrical conductivity of the aircraft
+To enhance the reflectivity of the aircraft for visibility
+
+What is the role of Chromic Acid Anodizing (CAA) in aircraft painting?
+@@It provides corrosion protection before paint application
+It enhances the mechanical strength of the aircraft skin
+It increases paint adhesion by roughening the surface
+
+Which of the following external aircraft surfaces requires the application of a UV-resistant clear coat?
+The leading edges of wings
+@@The radome/fuselage junction
+The passenger doors
+
+Which part of the aircraft does NOT typically require repainting after a modification?
+@@Ball lock fittings
+Fuselage panels
+Landing gear fairings
+
+What is the primary reason for using polyurethane-based topcoats on aircraft?
+To increase electrical conductivity
+@@To enhance durability and chemical resistance
+To facilitate easier paint removal
+
+Why is a primer with chromate used in some aircraft areas?
+@@To provide enhanced corrosion protection
+To improve the aerodynamics of the aircraft
+To facilitate easier removal of the topcoat when necessary
+
+What is the primary reason for not painting the APU exhaust area?
+@@High temperatures would degrade the paint
+Paint would increase exhaust velocity
+To reduce aircraft weight
+
+Which pre-treatment process is applied to unclad aluminum surfaces before painting?
+@@Chromic Acid Anodizing (CAA)
+Electroplating
+Phosphate conversion coating
+
+Which component requires special protection from erosion with a UV-resistant clear coat?
+@@The radome/fuselage junction
+The wing leading edge
+The tail cone
+
+What type of paint is used for high-heat areas like engine nacelles?
+@@Material No. 04EAC2 + Material No. 04JAA3
+Material No. 04JME4
+Material No. 10ABC1
+
+Why must aluminum alloy rivets be refrigerated immediately after quenching?
+@@To delay the natural aging process
+To increase their hardness immediately
+To prevent oxidation before installation
+
+What is the maximum allowed quench delay for aluminum alloy rivets after heat treatment?
+@@15 seconds for 2017A and 2024 rivets
+20 seconds for all rivet types
+25 seconds for 3.1324 alloy rivets
+
+What happens if a heat-treated rivet exceeds its allowable refrigeration storage time?
+It must be installed immediately regardless of age
+@@It must undergo a reheat treatment process before use
+It can still be used if it is cleaned properly
+
+What is the recommended soaking temperature for 2017A aluminum alloy rivets during heat treatment?
+465°C ± 5°C
+@@495°C ± 5°C
+525°C ± 5°C
+
+Why must aluminum alloy parts be free of lubricants before heat treatment?
+@@To prevent contamination during the heat treatment process
+To enhance material ductility after quenching
+To increase soaking time in the furnace
+
+What is the mandatory post-treatment for aluminum alloy rivets after quenching?
+@@Chemical conversion coating for corrosion protection
+Immediate mechanical stress testing
+Rapid reinstallation without further processing
+
+What is the maximum number of heat treatment cycles allowed for a single rivet?
+@@2 cycles
+3 cycles
+4 cycles
+
+After heat treatment, how long must 2XXX series solid rivets naturally age before flight?
+@@96 hours at room temperature
+48 hours with controlled humidity
+24 hours if stored below -20°C
+
+Why must the initial water quench bath temperature be controlled between 15°C and 32°C?
+To avoid rapid cooling that causes surface cracks
+@@To ensure proper quenching and minimize residual stress
+To increase thermal expansion for better mechanical properties
+
+What must be verified after heat treatment to ensure correct material properties?
+@@Tensile test or hardness and conductivity tests
+Visual inspection of color change
+Measurement of the material's mass before and after quenching
+
+What is the preferred method for paint removal in large areas with heavy corrosion?
+@@Use of chemical paint strippers
+Mechanical sanding with emery cloth
+Abrasive blasting with aluminum oxide
+
+Why must bare aluminum or steel be coated or plated within 24 hours after corrosion removal?
+@@To prevent reoccurrence of corrosion in exposed areas
+To ensure better adhesion of paint coatings
+To meet Airbus structural guidelines
+
+What is the correct corrosion removal method for carbon steel aircraft parts?
+@@Use emery cloth, stainless steel brushes, or abrasive blasting
+Apply a protective oil coating and monitor regularly
+Use a high-speed rotary file to remove corroded material
+
+What is a critical safety hazard when removing corrosion from titanium alloys?
+@@Titanium shavings can ignite and pose an extreme fire hazard
+High-speed grinding generates toxic titanium dust
+Excessive heat can cause hydrogen embrittlement
+
+What type of corrosion is most commonly found on carbon steel components?
+@@Red iron rust due to atmospheric exposure
+White powdery oxidation
+Black pitting corrosion
+
+How can corrosion under cadmium-plated parts be treated without removing the coating?
+@@By using the "DALIC" process or phosphating treatment
+Applying a protective clear coat
+Polishing with a fine abrasive pad
+
+What is the recommended method to remove light corrosion from aluminum alloy surfaces?
+@@Using emery cloth (Grade 240-400)
+Wire brushing with stainless steel
+Chemical etching followed by polishing
+
+What is a major risk of using carbon steel brushes on aluminum surfaces?
+@@Embedding of dissimilar metal particles, leading to further corrosion
+Excessive removal of aluminum surface layers
+Weakening of the aluminum structure due to over-polishing
+
+Why is peening recommended after corrosion removal in large areas?
+@@To restore compressive stresses and improve fatigue resistance
+To smooth the surface for easier painting
+To reduce surface roughness for better aerodynamics
+
+What is the correct procedure when using a wire brush for corrosion removal?
+@@Use only stainless steel or aluminum oxide-coated brushes
+Apply chemical cleaning agents before using the brush
+Brush in a circular motion to maximize surface coverage
+
+What must be done before re-coating or plating an area that has undergone corrosion repair?
+@@Inspect the area using a 10x magnifying glass for any remaining corrosion
+Apply a chemical conversion coating to neutralize any remaining oxidized material
+Polish the area to a mirror-like finish before applying protection
+
+What is the primary purpose of applying sealant over a repaired corrosion area?
+@@To prevent moisture ingress and further corrosion
+To enhance the appearance of the repaired area
+To improve mechanical strength
+
+Why must paint stripper wastes containing hydrogen peroxide be collected in partially filled plastic drums with water?
+To prevent chemical reactions with other waste materials
+@@To avoid an exothermic reaction and spontaneous combustion
+To ensure proper evaporation of volatile compounds
+
+What is the primary safety concern when using high-pressure cleaner equipment for paint removal?
+@@It must not supply a solid stream of water to prevent surface damage
+It can cause excessive removal of primer coatings
+The water temperature must not exceed 80°C to avoid thermal shock
+
+What must be done before applying chemical paint strippers to an aircraft?
+Remove all fasteners to prevent chemical entrapment
+@@Ensure the aircraft is de-energized and grounded
+Heat the paint surface to enhance stripping efficiency
+
+Why must external skin panel joints in fuel tank areas be masked during paint stripping?
+To protect fuel tank sealants from chemical degradation
+To ensure an even paint thickness after repainting
+@@To prevent damage to the skin joint sealant beads, which would require renewal
+
+What is the recommended method to prevent damage to the aircraft skin when cutting protective films or tapes?
+@@Use scissors or a metal plate (0.6 mm thick for metal, 2 mm thick for plastic) between the film and the aircraft skin
+Apply high-temperature adhesive before cutting to prevent tearing
+Use high-speed rotary blades with ceramic coatings
+
+When using methylene chloride-based paint stripper, what is the critical time limit for its removal?
+Within 60 minutes of application
+@@Within 30 minutes of application
+Only after the paint has fully detached from the surface
+
+What is the correct order of operations for chemical paint stripping of metallic structures?
+@@Apply paint stripper, remove residues within 30 minutes, rinse, clean, and lightly abrade the surface
+Heat the paint layer, apply stripper, scrub, and then rinse with solvent
+Remove topcoat first using mechanical abrasion, then apply stripper to the primer layer
+
+Why should aluminum tape be used to protect high-strength steel fasteners during chemical stripping?
+@@To prevent chemical reactions that could weaken the fasteners
+To enhance heat dissipation during the stripping process
+To allow for easier identification of fasteners after stripping
+
+What is the reason for limiting chemical paint stripping to a maximum of five times on fuselage metallic structures?
+Excessive chemical stripping reduces aerodynamic efficiency
+@@Repeated exposure to aggressive strippers may degrade corrosion protection
+The adhesive bonding between skin layers weakens after multiple stripping cycles
+
+What is the primary purpose of applying a barrier coating over a slow-drying sealant?
+@@To prevent debris and swarf from sticking to the sealant before it cures
+To accelerate the curing process by reducing exposure to air
+To enhance adhesion between multiple sealant layers
+
+What defines the "Application Life" of a sealant?
+The total time a sealant takes to reach full cure
+@@The period during which the sealant remains suitable for application after mixing
+The maximum time within which a joint must be sealed after sealant application
+
+What is the key function of an adhesion promoter in sealing repairs?
+@@To improve the bonding of the sealant to the surface
+To act as an additional protective layer over the sealant
+To prevent premature drying of the sealant
+
+What does the "Initial Cure Time" refer to in sealing repairs?
+@@The minimum period before a sealed joint can be pressure tested
+The total duration required for the sealant to reach full hardness
+The time required for the sealant to be completely touch-dry
+
+What is the purpose of an interfay sealant?
+@@To prevent fluid ingress between contacting surfaces before assembly
+To reduce surface friction between assembled parts
+To provide additional mechanical reinforcement to joints
+
+Why must the baseline temperature and humidity be considered when determining the cure time of a sealant?
+@@Both temperature and humidity influence the sealant's application, tack-free, and curing times
+High humidity always results in faster curing, regardless of temperature
+Only temperature affects the curing time of a sealant
+
+Why must a breakable joint be sealed differently from a permanent joint?
+@@To ensure the joint can be easily disassembled when necessary
+To improve the overall strength of the structure
+To prevent any future loosening of the joint
+
+What is the primary risk of applying sealant outside the recommended environmental conditions?
+@@Improper curing leading to reduced adhesion and performance
+Increased viscosity making application easier but less effective
+Longer pot life resulting in slower sealant degradation
+
+What is a "Leak Path" in the context of sealing repairs?
+@@A route through which a fluid, such as fuel or water, can escape from a sealed area
+The direction in which excess sealant is expected to flow during application
+A controlled channel for pressure equalization in fuel tanks
+
+What is the correct process for mixing a two-part sealant?
+Mix until the sealant becomes thicker than its original state
+@@Ensure that the base and curing agent are fully blended into a homogeneous mixture
+Allow the base and curing agent to settle before mixing to improve application time
+
+What method can be used to accelerate sealant curing without causing defects?
+Increasing air circulation at ambient temperature
+@@Using infrared radiation or catalytic combustion heating devices
+Applying a secondary fast-drying sealant layer over the uncured material
+
+What is the consequence of applying excessive heat to a sealant during curing?
+@@It can cause bubbling due to trapped solvents
+It results in incomplete polymerization, making the sealant weak
+It reduces the adhesion strength of the sealant
+
+What is the most critical factor when overcoating a sealant?
+Ensuring the sealant is completely cured before overcoating
+@@Applying overcoating after the initial tack-free time to prevent contamination
+Using only solvent-based overcoatings for maximum protection
+
+What should be done if a sealant is stored at a temperature below its recommended range?
+@@It must be thawed at controlled temperatures before application
+It should be discarded immediately to avoid adhesion failures
+It must be heated quickly using a microwave to reach application temperature
+
+Why is the use of microwave ovens for sealant thawing controlled?
+@@To prevent uneven heating, which can cause temperature variations in the sealant
+Because microwave radiation affects the chemical composition of sealants
+To ensure the sealant remains sterile before application
+
+Why should metal tools not be used to remove old sealant from a repair area?
+@@They can damage the surface of the component
+They leave behind conductive residues that interfere with bonding
+They react chemically with sealant residues
+
+What is the required overlap length when chamfering the edges of remaining sealant in a repair?
+@@13 mm (0.512 in.)
+10 mm (0.393 in.)
+15 mm (0.591 in.)
+
+What is the most important precaution when applying sealant to fastener holes?
+Ensure the hole is filled completely before inserting the fastener
+@@Prevent air bubbles from forming under the sealant layer
+Clean the hole with high-pressure air before applying sealant
+
+Why must masking materials be removed after a sealing repair is completed?
+@@To prevent obstruction of critical aircraft systems, such as pitot heads and static ports
+To avoid altering the weight distribution of the structure
+To ensure uniform airflow over the repaired surface
+
+What safety measure must be followed when working with sealants in a closed area?
+@@Use air circulation equipment or a clean-air mask
+Work for no more than 15 minutes before exiting the area
+Ensure the area is kept at a temperature below 20°C
+
+What must be done before applying sealant to an anchor nut?
+@@Clean the anchor nut and adjacent area with non-aqueous cleaner
+Apply primer before applying sealant
+Roughen the surface using emery cloth
+
+What is the purpose of applying a bead seal along the edges of a repair?
+@@To prevent leaks by ensuring a continuous barrier
+To enhance the mechanical strength of the joint
+To increase the flexibility of the repair structure
+
+What must be done if protective finish damage is found during sealant repair?
+@@Repair the protective finish before continuing the sealant repair
+Proceed with sealing and apply the protective layer later
+Apply an additional layer of sealant to compensate for the damage
+
+Why is it necessary to apply wet sealant when installing fasteners in a sealed repair?
+@@To ensure proper adhesion and prevent leaks around the fastener
+To increase the electrical conductivity of the joint
+To facilitate easier removal of the fastener in the future
+
+Why must sealant be covered with a polythene sheet after application?
+@@To keep the sealant clean until it has cured
+To accelerate the curing process by maintaining moisture
+To ensure an even distribution of applied sealant
+
+Why is it critical to follow strict fuel safety procedures before performing fuel tank sealing repairs?
+@@To prevent injury and avoid damage to the aircraft
+To ensure the sealant cures properly inside the fuel tank
+To maintain optimal fuel flow efficiency
+
+What must be done if a fuel tank leak is caused by structural damage rather than failed sealant?
+@@The structural issue must be repaired before resealing
+Apply an additional layer of sealant over the leak area
+Use a temporary external patch until the next maintenance cycle
+
+What is the recommended method for removing damaged sealant in a fuel tank?
+@@Using a non-metallic scraper made of hard wood, plastic, or laminated fiber block
+Sanding with fine-grit abrasive paper
+Heating the sealant to soften it before removal
+
+In repair of fuel tank sealant, why should cleaned surfaces be wiped with a dry cloth after using a non-aqueous cleaner?
+@@To remove any remaining condensation before applying sealant
+To enhance the bonding strength of the new sealant
+To prevent static buildup inside the fuel tank
+
+What precaution must be taken when working inside a fuel tank to prevent contamination?
+@@Ensure no unwanted materials enter fuel and/or air passages
+Use only solvent-resistant gloves while handling sealants
+Maintain a minimum humidity level inside the fuel tank
+
+What is the purpose of using an adhesion promoter during fuel tank sealing repairs?
+@@To improve the bond strength between the sealant and the substrate
+To accelerate the curing process of the applied sealant
+To prevent sealant from absorbing fuel contaminants
+
+Why is it important to inspect fasteners in the fuel tank before applying new sealant?
+@@Leaking fasteners may require replacement before sealing
+Fasteners must be coated with an additional layer of corrosion inhibitor
+Loose fasteners must be tightened to prevent future leaks
+
+What is the minimum overlap distance required when applying a bead repair over existing sealant in fuel tank application?
+@@12 mm (0.47 in.)
+6 mm (0.24 in.)
+18 mm (0.71 in.)
+
+How should mixed sealant be stored if not used immediately?
+@@It must be covered to prevent premature curing
+It should be refrigerated to extend its pot life
+It must be placed in a vacuum-sealed container
+
+Why is it recommended to perform a helium detection procedure after sealing repairs?
+@@To ensure that all leaks have been properly sealed
+To remove any trapped air inside the sealant
+To test the pressure resistance of the sealed area
+
+What is the primary reason for maintaining aerodynamic smoothness on the aircraft's external surface?
+To improve the visual appearance of the aircraft
+To ensure passenger comfort during turbulence
+@@To maintain high aircraft performance by reducing drag
+
+Which area of the aircraft requires the highest level of aerodynamic smoothness?
+Area B
+@@Area A
+Area C
+
+When performing fuselage skin repairs, why must fasteners on external surfaces be flush?
+@@To minimize aerodynamic disturbances and drag
+To facilitate faster installation of panels
+To prevent moisture from entering the fuselage
+
+What is the permissible maximum step for a positive mismatch in Area A (excluding seam joints)?
+@@+0.8 mm (+0.031 in.)
++1.0 mm (+0.039 in.)
++1.5 mm (+0.059 in.)
+
+What precautions should be taken when working on the external aircraft surface to prevent damage?
+Use steel-toed boots for protection
+@@Wear soft-soled shoes and cover the area with rubber mats
+Apply sealant before beginning repairs
+
+Which type of fastener can be recessed below the surface in Area A?
+Standard rivets
+@@Countersunk blind rivets and bolts
+Protruding head rivets
+
+Why are sealing repairs critical in the region of static ports and pitot probes?
+@@To ensure accurate air data measurements
+To prevent rainwater ingress
+To reduce structural fatigue
+
+How much of a component's measurements are allowed to be out of tolerance under sealing repair guidelines?
+30%
+@@20%
+40%
+
+In which case should special washers be used under bolts?
+@@On composite surfaces
+On aluminum structures
+On angled surfaces where flushness must be maintained
+
+What is the permissible maximum step tolerance for Area B in the fuselage?
++0.8 mm
+@@+1.0 mm
++1.2 mm
+
+How should gaps in fixed structural areas be treated?
+@@They must be filled
+They can be left open if within tolerance
+They should be covered with tape
+
+What is the allowable negative step tolerance in Area A?
+-0.5 mm
+@@-0.8 mm
+-1.0 mm
+
+When sealing repairs involve butt joints, what is the maximum allowable gap in Area A?
+0.5 mm
+@@1.0 mm
+1.5 mm
+
+Which type of structural deviation is more critical for aerodynamic performance?
+@@Positive step mismatch
+Negative step mismatch
+Gaps between panels
+
+Which component requires the most stringent step and gap tolerances?
+@@Pylon and nacelle
+Fuselage
+Stabilizers
+
+How should sealing repairs be inspected to ensure compliance?
+@@Using measurement tools for step and gap analysis
+Visual inspection only
+By pressing on the repaired area to check for movement
+
+What is the consequence of exceeding step tolerances in sealing repairs?
+@@Increased aerodynamic drag and reduced performance
+No significant impact if within 50% over tolerance
+Structural failure
+
+Which measurement is used to determine if sealing repair tolerances are met?
+@@Mean absolute deviation from reference surface
+Maximum deviation only
+Average of positive and negative deviations
+
+What corrective action should be taken if a gap exceeds the permissible tolerance?
+@@Apply filler material to bring it within specifications
+Leave it if it's less than double the limit
+Replace the entire panel
+
+Which type of damage is most likely to occur due to electro-chemical reactions?
+@@Corrosion
+Gouge
+Distortion
+
+What is the primary risk of hidden damage in aircraft structures?
+Reduced aerodynamic efficiency
+@@Failure of the repair or surrounding structure
+Increased weight due to additional reinforcement
+
+A localized heat indication with black discoloration after a lightning strike is classified as what type of damage?
+@@Burn mark
+Crease
+Fretting
+
+Which of the following is NOT a step in determining damage classification?
+Removing unwanted material from the surface
+@@Applying a primer coat to protect the area
+Checking for secondary damage
+
+What is the key difference between a dent and a gouge?
+A dent affects composite materials, while a gouge only affects metal
+@@A dent does not result in a cross-sectional area change, whereas a gouge does
+A dent is always deeper than a gouge
+
+Which type of damage is most likely to result from impact with a sharp object?
+Distortion
+@@Scratch
+Burn mark
+
+What should be done if the total paint scheme is missing only from fastener heads?
+Leave it as is since it's not structurally significant
+@@Restore the paint scheme at the first opportunity to prevent corrosion
+Replace the affected fasteners
+
+What type of damage classification requires immediate replacement of the component?
+@@Non-repairable damage
+Allowable damage
+Secondary damage
+
+What type of damage results in fine black powder staining at joint interfaces?
+Corrosion
+@@Fretting
+Burn mark
+
+What measurement tool is recommended for assessing skin waviness?
+Vernier caliper
+@@Dial gauge
+Ultrasonic thickness gauge
+
+A small decrease of material at the edge of a component due to a knock is classified as what?
+@@Nick
+Scratch
+Indentation
+
+What is a major characteristic of mechanical distortion in aircraft structures?
+@@It results in misalignment or change of shape
+It always involves material loss
+It is usually caused by electro-chemical reactions
+
+What tool should be used to check for remaining material thickness after blending out corrosion?
+@@Feeler gauge or dial gauge
+Micrometer
+Ultrasonic scanner
+
+What should be done first before measuring the depth of a blended-out corrosion area?
+@@Remove the paint from the adjacent area
+Apply a corrosion inhibitor
+Increase blending depth to ensure evenness
+
+When examining a dent, what is the first step?
+@@Ensure that there is no hidden damage around the area
+Apply paint to prevent corrosion
+Fill the dent with an approved filler
+
+What damage is characterized by being pushed out, with smooth edges and no cross-sectional area change?
+@@Bulge
+Crease
+Indentation
+
+What is the primary criterion for classifying damage as "minor"?
+@@It does not affect structural integrity or aircraft performance
+It is limited to non-load-bearing components
+It does not require any surface treatment after repair
+
+Why is it crucial to inspect the surrounding area when repairing minor damage?
+@@To detect hidden damage that could propagate and affect structural integrity
+To confirm that no other repairs were previously done
+To ensure that the area is free of contaminants before applying sealant
+
+What must be done if a minor dent does not meet the allowable limits?
+It must be smoothed out using a mechanical roller
+@@A reinforcement patch or filler must be applied
+It can be left untreated if it does not visually affect the aircraft
+
+What is the most critical factor when blending out minor surface damage?
+@@Maintaining an acceptable surface contour without excessive material removal
+Using a polishing compound to restore the aesthetic finish
+Ensuring the damaged area is at least 2 mm deep before sanding
+
+Which tool should be used to measure the depth of minor dents before repair?
+@@Dial gauge or depth micrometer
+Ultrasonic thickness gauge
+Vernier caliper
+
+Why should rivets in minor repairs be installed with the same material and strength class as the original?
+To maintain consistency in material selection
+@@To ensure proper load distribution and avoid stress concentrations
+Because alternative materials are not allowed for structural repairs
+
+What is the preferred method for repairing small surface scratches on aluminum structures?
+Applying an epoxy-based filler
+@@Blending and applying corrosion protection
+Welding the affected area to restore strength
+
+Why is it important to ensure fastener holes are properly prepared in minor repairs?
+@@To prevent stress concentrations that can lead to crack propagation
+To make it easier to insert fasteners during reassembly
+To eliminate the need for additional structural reinforcements
+
+In minor damage repairs, when is cold working required?
+When damage is located near a primary load path
+@@When restoring the strength of fastener holes after re-drilling
+Only when specified by the aircraft manufacturer
+
+What is the acceptable depth limit for a minor dent in a fuselage skin panel?
+@@It varies depending on aircraft zone and panel thickness
+It should not exceed 2 mm regardless of the location
+Any depth is acceptable as long as the dent is not near a fastener hole
+
+What should be done if minor damage repair requires painting?
+Apply a thick layer of primer to ensure durability
+@@Follow standard aircraft painting procedures to restore surface protection
+Use only a single coat of paint to avoid weight increase
+
+Why must sealants be reapplied after some minor repairs?
+@@To restore environmental and corrosion protection
+To enhance the appearance of the repaired area
+To increase the adhesive properties of fasteners
+
+When using adhesive bonding for minor damage repair, what is the most critical step?
+Applying pressure to the bonded area immediately after curing
+@@Ensuring proper surface preparation for adhesion
+Allowing the adhesive to air dry before assembly
+
+What is the main reason for limiting the depth of blending during minor damage repairs?
+To speed up the repair process
+@@To maintain structural integrity and avoid excessive material removal
+To ensure the repair blends seamlessly with the surrounding surface
+
+What is the primary criterion for classifying damage as negligible?
+@@It does not affect structural integrity, aerodynamic performance, or system function
+It does not require immediate repair and can be monitored
+It affects only non-load-bearing components
+
+If a dent in the fuselage is within allowable negligible damage limits, what is the required corrective action?
+@@No repair is required, but the area must be documented for future reference
+The dent must be blended out to restore smoothness
+A structural reinforcement patch must be applied
+
+What is the primary reason for defining negligible damage in structural repair?
+@@To avoid unnecessary repairs that do not affect safety or performance
+To allow operators to extend maintenance intervals
+To standardize cosmetic repairs across the fleet
+
+How should negligible damage be documented?
+@@Recorded in the aircraft maintenance log for future reference
+Not documented, as no corrective action is needed
+Reported to the manufacturer for approval
+
+What factor determines if a crack in a non-load-bearing fairing is considered negligible?
+@@If it does not propagate and does not affect function
+If it is less than 25 mm in length
+If it is located more than 100 mm from a structural joint
+
+In what situation can corrosion be classified as negligible damage?
+@@If it is superficial and does not reduce material thickness beyond allowable limits
+If it is detected only on secondary structures
+If it does not spread within 6 months of detection
+
+What should be done if negligible damage is found near a structural joint?
+@@It must be evaluated to ensure it does not affect joint integrity
+It can be left untreated as long as it does not exceed limits
+The joint must be reinforced with an additional fastener
+
+Why is negligible damage classification critical for airline operations?
+@@It minimizes unnecessary downtime for non-critical repairs
+It ensures that every instance of damage undergoes full structural analysis
+It allows operators to defer repairs indefinitely
+
+If negligible damage is found on a pressurized fuselage panel, what should be done?
+@@Verify that it is within allowable limits and document it
+Immediately install a doubler to reinforce the area
+Perform a pressure test to confirm no air leaks
+
+Why must corrosion be removed completely before starting a repair?
+@@Any remaining corrosion can act as a starting point for further degradation
+It improves the appearance of the repair area
+It helps in better adhesion of paint coatings
+
+When can fasteners be left in place during corrosion repair?
+If they are made of stainless steel or titanium
+@@If no visible corrosion is present on the exposed surrounding skin (25 mm around the fastener head)
+When they are covered by a corrosion-inhibiting coating
+
+What is the recommended procedure if corrosion is found under an anchor nut?
+Leave the nut in place and treat the corrosion around it
+@@Remove the anchor nut, clean the area, and apply sealant before reinstallation
+Use a corrosion-inhibiting spray and monitor the area
+
+When conducting a sealing repair in an area with external damage that exceeds allowable limits, what must be done prior to resealing?
+Apply the sealant immediately to avoid contamination.
+@@Blend the damage to within allowable limits or request repair instructions.
+Increase the sealant thickness to compensate for the damage.
+
+Why is it critical to maintain surface cleanliness prior to applying sealant during a rework process?
+@@To ensure proper adhesion and long-term durability of the seal.
+To speed up the drying process of the sealant.
+To match the color tone with surrounding areas.
+
+Which of the following conditions invalidates the existing seal and mandates full removal before resealing?
+The sealant has minor discoloration.
+The sealant is over 6 months old.
+@@The sealant is cracked, lifting, or non-adherent.
+
+If the blend-out process causes material thickness to fall below minimum limits, what action must be taken?
+Continue the repair with added sealant.
+@@Contact Engineering for structural evaluation and repair instruction.
+Document the deviation and proceed.
+
+In sealing rework of a skin panel, which scenario is acceptable without further action?
+@@Damage is within limits and existing sealant is fully intact.
+Damage is out of limits, but no cracks are visible.
+Blending has been done, but surface was not cleaned.
+
+During blend-out, if heat buildup becomes a concern, what must be done?
+Use a higher-speed grinder for faster work.
+Apply sealant immediately to cool the area.
+@@Allow the area to cool to prevent material degradation.
+
+When inspecting a dent on the fuselage skin, what is the primary factor that determines whether the dent is allowable or not?
+The material type of the skin
+@@The size and location of the dent relative to structural elements
+The time the dent has existed
+
+Why is it critical to assess whether a dent contains a sharp feature or crease?
+It affects the appearance of the aircraft
+@@It may indicate cracking or stress concentration
+It reduces the sealing material's adhesion
+
+A dent is discovered at a skin lap joint. What should be the first course of action?
+@@Assess for joint displacement and potential hidden damage
+Measure only the dent depth
+Apply a temporary patch
+
+Which of the following conditions requires repair regardless of dent size?
+Dent near the cargo door
+Dent on the belly fairing
+@@Dent containing a crack or sharp crease
+
+In determining if a dent needs repair, why is the diameter-to-depth ratio important?
+@@It helps determine the severity and potential stress concentration
+It identifies if the aircraft has flown with damage
+It relates to aircraft skin color
+
+If corrosion is found at the site of a dent, what is the appropriate maintenance action?
+Neutralize corrosion, ignore the dent
+@@Remove corrosion and assess structural thickness before deciding on repair
+Replace the surrounding panel automatically
+
+During the repair of the bottom skin, why is it essential to perform a Fluorescent Penetrant Inspection (FPI) on the surrounding structure before proceeding?
+To detect corrosion not visible during visual inspection.
+@@To detect cracks or defects that may have formed during the damage event.
+To verify the heat treatment condition of the aluminum alloy.
+
+Why must the technician blend the edges of the cut-out to a radius minimum?
+@@To reduce stress concentrations and prevent crack initiation.
+To allow easier alignment with the repair doubler.
+To maintain the aerodynamic profile of the slat skin.
+
+The selection of 2024-T3 Alclad aluminum alloy for the repair doubler is primarily based on which of the following considerations?
+@@Compatibility with existing structure and high fatigue strength.
+Ease of forming and welding on aircraft skin.
+Low cost and wide availability.
+
+What is the purpose of removing the paint and corrosion protection from around the damage area before starting the repair?
+To allow for bonding of adhesives.
+@@To allow accurate inspection and good fastener seating.
+To expose the area for electrical continuity testing.
+
+When positioning the external doubler, why is it important to align it symmetrically over the cut-out?
+To simplify the drilling of fastener holes.
+To balance the airflow over the slat.
+@@To ensure even load transfer across the skin and doubler.
+
+Why is the installation sequence of fasteners in a specific pattern important during the doubler installation?
+To comply with visual inspection protocols.
+@@To avoid deformation or distortion of the doubler and ensure even clamping pressure.
+To reduce the amount of sealant required.
+
+Why is visual alignment of the doubler relative to structural landmarks (e.g., rib, stiffener) important?
+For cosmetic symmetry.
+@@To maintain original load paths and minimize load eccentricity.
+To match previously installed repairs.
+
+If the original damage extends beyond the defined zone adjacent to the hold-down rib, what is the technician's most appropriate action?
+Use a larger doubler than defined in the SRM.
+@@Reassess and escalate the repair to Engineering per SRM restrictions.
+Use two adjacent doublers to cover both zones.
