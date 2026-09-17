@@ -1,0 +1,523 @@
+How much zones system is divice
+2 zones system
+@@3 zones system
+4 zones system
+
+How many numbers define the zone
+@@three-digit number
+two-digit number
+four-digit number
+
+What are the zones in the zones system
+Major Zones and Sections - Mainor Sub-Zones - Specific Zones
+Major Zones and Sections - Mainr Sub-Zones - Specific Zones
+@@Major Zones and Sections - Major Sub-Zones - Specific Zones
+
+How many main zones does the plane
+6 Zones
+@@8 Zones
+7 Zones
+
+What is the zone 300
+Landing gear and landing gear doos
+@@Tail Fuselage and Stabilizers
+Power Plants and Nacelles
+
+What is Major Zones and Section
+@@Main zone
+Sub - zone
+Specific Zones
+
+What is the zone 400
+Tail Fuselage and Stabilizers
+@@Power Plants and Nacelles
+Landing gear and landing gear doos
+
+Which statement is applicable when using a sketch for making a part
+The sketch may be used only if supplemented with three-view orthographic projection drawings
+The sketch need not show all necessary construction details
+@@The sketch must show all information to manufacture the part
+
+Any part of the aircrafts structure in which failure would cause loss of control , is termed
+Secondary structure
+@@Primary structure
+Monocoque structure
+
+To protection of aluminum surface using
+Chromic Acid Anodizing (CAA)
+Chromic Acid Anodizing (CAA)
+@@Sulfuric Acid Anodizing (SAA) or Chromic Acid Anodizing (CAA)
+
+To pretreatment of surface using chemical conversion coating method must
+Allow the solution to stand for a minimum of 30 minutes before use
+@@Allow the solution to stand for a minimum of 1 hour before use
+Allow the solution to stand for a minimum of 2 hour before use
+
+After perform pretreatment of surface if painting is required
+Apply the required paint coatings as soon as possible but within 4 hours
+Apply the required paint coatings as soon as possible but within 8 hours
+@@Apply the required paint coatings as soon as possible but within 16 hours
+
+How many types of corrosion
+@@6 types
+7 types
+8 types
+
+Corrosion appears and develops in the form of small insignificant cavities containing an acid solution preventing the protective oxide film from reforming is called
+uniform corrosion
+@@Pitting corrosion
+Intergranular or intercrystalline corrosion
+
+It only occurs if the layer of oxide has been deposited by the corrosive agent , is called
+Galvanic corrosion
+@@uniform corrosion
+Stress corrosion
+
+It is caused by the potential difference between this area and the grain boundaries and grain matrix , is called
+@@Intergranular or intercrystalline corrosion
+Exfoliation or layer corrosion
+Intergranular corrosion
+
+It occurs in structures with grains of small thickness with respect to the width and causes lamination and surface flaking , is called
+uniform corrosion
+Intergranular or intercrystalline corrosion
+@@Exfoliation or layer corrosion
+
+It appears as the initiation and propagation of intergranular cracks which can cause the rupture of the part , is called
+@@Stress corrosion
+Pitting corrosion
+Galvanic corrosion
+
+Creation of a cell between two different metals and corrosion of the most anodic metal , is called
+Stress corrosion
+@@Galvanic corrosion
+Intergranular or intercrystalline corrosion
+
+In heat treatment of aluminum alloy sheet, soaking time depend of
+Material character
+Temperature
+@@Sheet thickness
+
+This process is performed after quenching and consists of heating the alloy to a certain temperature and maintaining the temperature for certain time in a convection oven , is called
+Age Hardening
+Recovery Annealing
+@@Tempering
+
+After quenching all alloy harden when placed at ambient temperature , is called
+Normalizing
+@@Age Hardening
+Stress Relieving
+
+After taking out the batch from the oven, it is to be cooled rapidly in a bath , is called
+@@Quenching
+Tempering
+Normalizing
+
+This process consists of heating the alloy to a certain temperature and maintaining the temperature for certain time in a convection oven. After that it is cooled in free air , is called
+@@Recovery Annealing
+Age Hardening
+Tempering
+
+This process also consists of heating the material to a certain temperature and maintaining the temperature for certain time in a convection oven. After that it is to be cooled in free air
+Age Hardening
+Normalizing
+@@Stress Relieving
+
+Before the material to be solution heat treated is inserted, the temperature of the system must be indicated by the temperature measuring instrumentation as being uniform and to within
+± 3°C ( ± 5.4°F ) of the required temperature
+@@± 5 ° C ( ± 9° F) of the required temperature
+± 10°C ( ± 18°F) of the required temperature
+
+What are the conditions for checking the T3 status after heat treatment
+@@It is solution heat treated coldworked and naturally aged to a subsequently stable condition
+It is solution heat treated and naturally aged to a substantially stable condition
+It is solution heat treated and artificially aged
+
+What are the conditions for checking the T4 status after heat treatment
+It is solution heat treated coldworked and naturally aged to a subsequently stable condition
+@@It is solution heat treated and naturally aged to a substantially stable condition
+It is solution heat treated and artificially aged
+
+What are the conditions for checking the T6 status after heat treatment
+It is solution heat treated coldworked and naturally agedto a subsequently stable condition
+It is solution heat treated and naturally aged to a substantially stable condition
+@@It is solution heat treated and artificially aged
+
+It is applied to wrought products which are annealed to obtain the lowest strength temper and to cast products which are annealed to improve ductility and dimensional stability , What is temper of products
+@@T0
+T3
+T6
+
+What is the major alloying ingredient in 2XXX
+@@Copper
+Zinc
+Magnesium
+
+What is the major alloying ingredient in 7XXX
+Copper
+@@Zinc
+Magnesium
+
+What is the major alloying ingredient in 5XXX
+Copper
+Zinc
+@@Magnesium
+
+When a bolt of the correct grip-length is not available and an overlength bolt must be used with washer , The limitation are
+Two washer 1.6 mm (1/16 in.) thick, or four washers 0.4 mm ( 0.016 in.) thick, can be used
+Two washer 1.6 mm (1/16 in.) thick, or two washers 0.4 mm ( 0.016 in.) thick, can be used
+@@One washer 1.6 mm (0.063 in.) thick, or two washers 0.8 mm (0.031 in.) thick, can be used
+
+This is the period of time that is often referred to as 'Pot Life', and is the time that sealant remains suitable for application after it has been mixed , is called
+@@Application Life
+Initial CureTime
+Tack Free Time
+
+A protective coating may be applied to protect the sealant in service. This wil protect the sealant against the effects of phosphate ester hydraulic fluid , is called
+Interfay sealant
+@@Protective Coating
+Overcoating
+
+A layer of quick-drying sealant is applied over a layer of slow-drying sealant before this sealant has fully cured. This is usually done to prevent swarf and other repair debris sticking to the original sealant, this allows the repair work to continue, if necessary, after a short time , is called
+Protective Coating
+Overcoating
+@@Barrier Coating
+
+This refers to the change of a sealant from its original mixed condition to its final condition. This is usually caused by a chemical action when the two parts of a sealant are mixed together , is called
+@@Cure
+Fillet
+Initial Cure Time
+
+Referred to as a bead and is formed when sealant is applied into gaps or corners in the structure. The bead can be formed from sealant that is applied for this purpose, or from the interfay sealant that is squeezed out when a joint is assembled,is called
+Interfay sealant
+Leak Path
+@@Fillet
+
+This is the minimum period of time required before a sealant is cured enough to permit a sealed joint to be pressure tested , is called
+Tack Free Time
+Application Life
+@@Initial CureTime
+
+This is the period of time measured from when the sealant is mixed until its surface should be "touch dry" , is called
+Initial CureTime
+@@Tack Free Time
+Application Life
+
+This term refers to the application of a brushing thickness sealant over a joint , is called
+@@Overcoating
+Protective Coating
+Barrier Coating
+
+This is the period of time within which a joint that must be sealed, must be riveted, bolted or temporarily fastened, after the sealant has been applied to the contacting surfaces of the joint , is called
+Tack Free Time
+@@Work Life
+Application Life
+
+A layer of sealant applied to the contacting (faying) surfaces of repair parts before they are assembled , is called
+Leak Path
+Fillet
+@@Interfay sealant
+
+This is the path along which a fluid, for example, fuel or water, can get out of or into a sealed area , is called
+@@Leak Path
+Interfay sealant
+Barrier Coating
+
+A joint that can be easily disassembled , is called
+Fillet
+@@Breakable Joint
+Leak Path
+
+Which statement is correct when carry out removal CHERRYMAX rivets
+@@Make an accurate mark with a centre punch in the centre of the end of the pin. This will give a location for the twist-drill
+Put the applicable twist-drill (in a drill-machine) into the hole in the pilot-drill guide end of the special tool
+Drill nearly through the rivet head with a twist-drill that is the same diameter as the twist- drill used to make the original hole
+
+Which statement is correct when carry out installation CHERRYMAX rivets
+Get the correct installation tool (hexagonal or countersunk head) for the applicable Bolt- Blind
+@@Get the correct installation tool. Make sure that the tool has the correct driving attachments for the type and diameter of the blind rivet
+Put the applicable installation tool onto the rivet mandrel. Make sure that the tool is perpendicular to the surface of the material
+
+How many methods are there to remove AVDEL rivets
+one method
+@@two methods
+three methods
+
+What is the primary material used for the ribs of the ATR72 ?
+@@The ribs are made from aluminum alloy 7175-T7351
+The ribs are made from aluminum alloy 7075-T651
+The ribs are made from aluminum alloy 7075-T6511
+
+What is the primary material used for Rear Spar of the center box ?
+The ribs are made from aluminum alloy 7075-T651
+The ribs are made from aluminum alloy 2024T42
+@@The ribs are made from aluminum alloy 2024T3
+
+Which section of the SRM covers the repair of the front spar ?
+The 572310-300 series, which covers rib repairs, is used for front spar repairs
+@@The 571210-300 series contains repair schemes for cracks and corrosion in the front spar
+The 571400-300 series, related to wing skin repairs, applies to front spar repair
+
+Where can you find repair procedures for the upper surface skin of the ATR72 ?
+@@In section 571410-300, which details repair schemes for corrosion and cracks on the upper surface skin
+The 573000-300 series deals with landing gear structure, not wing skin repairs
+The 572400-300 series covers engine components, not wing skin repairs
+
+What section would you reference for trailing edge repairs on the ATR72 ?
+Section 571310-300, which deals with rib repairs, is used for trailing edge repairs
+Section 573000-300, related to wing tips, is applicable to trailing edge repairs
+@@Section 575000-300, which provides repair schemes for trailing edge components
+
+Which section of the SRM describes the removal and installation of wing ribs ?
+Section 571100-400, related to center box repairs, is used for wing ribs
+@@Section 571310-300, which details procedures for rib removal and installation
+Section 575000-400, which covers trailing edge repairs, applies to wing ribs
+
+CARGO COMPARTMENT DOOR OF ATR72 IS STAY IN
+@@LEFT SIDE OF A/C
+RIGHT SIDE OF A/C
+DEPEND ON A/C CONFIG
+
+SERVICE DOOR OF ATR72 IS STAY IN
+LEFT SIDE OF A/C
+@@RIGHT SIDE OF A/C
+BOTH 02 SIDE
+
+PASSENGER /CREW DOOR OF ATR72 IS STAY IN
+@@LEFT SIDE OF A/C
+RIGHT SIDE OF A/C
+BOTH 02 SIDE
+
+PASSENGER COMPARTMENT EMERGENCY EXIT OF ATR72 IS STAY IN
+LEFT SIDE OF A/C
+RIGHT SIDE OF A/C
+@@BOTH 02 SIDE
+
+FLIGHT COMPARTMENT ESCAPE HATCH OF ATR72 IS STAY IN
+FLIGHT COMPARTMENT LEFT SIDE
+@@FLIGHT COMPARTMENT RIGHT SIDE
+FLIGHT COMPARTMENT OVERHEAD
+
+AFT AVIONIC COMPARTMENT ACCESS DOOR OF ATR72 IS MADE WHICH
+@@ALUMINUM ALLOY EXTERNAL AND INTERNAL PANEL
+ALUMINUM ALLOY EXTERNAL PANEL AND CFRP INTERNAL PANEL
+ALUMINUM ALLOY EXTERNAL PANEL AND GFRP INTERNAL PANEL
+
+PASSENGER /CREW DOOR EXTERNAL SKIN OF ATR72 MADE FROM
+@@2024-T3 ALUMINUM ALLOY
+7075-T62 ALUMINUM ALLOY
+7075-T0 ALUMINUM ALLOY
+
+PASSENGER /CREW DOOR STRUCTURE OF ATR72 MADE FROM
+2024-T3 ALUMINUM ALLOY
+@@7075-T62 ALUMINUM ALLOY
+7075-T0 ALUMINUM ALLOY
+
+PASSENGER /CREW DOOR STOP FITTING OF ATR72 MADE FROM
+2024-T3 ALUMINUM ALLOY
+7075-T62 ALUMINUM ALLOY
+@@Ti-6AL-4V TITANINUM ALLOY
+
+STOP FITTING OF PASSENGER COMPARTMENT EMERGENCY EXIT ON ATR72 MADE FROM
+7075-T62 ALUMINUM ALLOY
+Ti-6AL-4V TITANINUM ALLOY
+@@7075-T7351 ALUMINUM ALLOY
+
+FITTING OF SERVICE DOOR ON ATR72 MADE FROM
+7075-T62 ALUMINUM ALLOY
+Ti-6AL-4V TITANINUM ALLOY
+@@7075-T7351 ALUMINUM ALLOY
+
+HINGE FITTING OF CARGO COMPARTMENT DOOR ON ATR72 MADE FROM
+7075 ALUMINUM ALLOY
+15-5PH CRES
+@@ALU ALLOY OR CRES, DEPEND ON A/C MOD
+
+SERVICE DOOR STRUCTURE OF ATR72 MADE FROM
+2024 ALUMINUM ALLOY
+@@7075 ALUMINUM ALLOY
+Ti-6AL-4V TITANINUM ALLOY
+
+SEAL RETAINER OF CARGO COMPARTMENT DOOR ON ATR72 MADE FROM
+2024 ALUMINUM ALLOY
+7075 ALUMINUM ALLOY
+@@6061 ALUMINUM ALLOY
+
+ON ATR72 A/C, WHICH PARTS ARE MADE FROM 2024 ALUMINUM ALLOY
+@@DOOR EXTERNAL SKIN
+DOOR INTERNAL STRUCTURE
+DOOR FITTING
+
+FWD PRESSURE BULKHEAD OF ATR772 A/C IS
+AT STA2962/FR0
+@@AT STA2962/FR1
+AT STA2930/FR0
+
+FWD PRESSURE BULKHEAD OF ATR772 A/C MADE FROM
+@@2024 ALUMINUM ALLOY
+7075 ALUMINUM ALLOY
+Ti-6AL-4V TITANINUM ALLOY
+
+ATR72 NOSE SECTION IS
+@@BTW FR1-13
+BTW FR1-12
+BTW FR1-14
+
+ATR72 FWD SECTION IS
+BTW FR1-13
+@@BTW FR13-23
+BTW FR1-23
+
+ATR72 CENTER SECTION IS
+@@BTW FR23-29
+BTW FR13-23
+BTW FR13-35
+
+ATR72 REAR SECTION IS
+BTW FR23-29
+BTW FR42-47
+@@BTW FR29-42
+
+ATR72 TAIL SECTION IS
+BTW FR23-29
+@@BTW FR42-47
+BTW FR29-42
+
+THE LOWEST STRINGER OF ATR 72
+STRINGER 20 LH/RH
+@@STRINGER 21 LH/RH
+STRINGER 22
+
+REAR PRESSURE BULKHEAD OF ATR772 A/C IS
+@@AT STA20425/FR44
+AT STA19557/FR42
+AT STA22170/FR47
+
+REAR PRESSURE BULKHEAD SKIN OF ATR772 A/C MADE FROM
+@@2024 ALUMINUM ALLOY
+7075 ALUMINUM ALLOY
+Ti-6AL-4V TITANINUM ALLOY
+
+ATR72 FLOOR BEAM AT STA17015/FR35 MADE FROM
+@@EXTRUDE FORM NTA44770
+2024 ALUMINUM ALLOY SHEET
+7075 ALUMINUM ALLOY BULK
+
+ATR72 SEAT TRACK MADE FROM
+2024 ALUMINUM ALLOY
+@@7075 ALUMINUM ALLOY
+6061 ALUMINUM ALLOY
+
+HOW MANY MAIN PART OF STABILIZERS ON ATR72
+2
+3
+4
+@@5
+
+WHAT IS THE MATERIAL OF FRONT SPAR OF HORIZONTAL STABILIZER SPAR BOX ON ATR72
+TI 6-2-4-2 TITANIUM SHEET
+@@2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+
+WHAT IS THE MATERIAL OF RIBS OF HORIZONTAL STABILIZER SPAR BOX ON ATR72
+2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@2024-T42
+
+HOW MANY RIBS ON LH HORIZONTAL STABILIZER SPAR BOX ON ATR72
+2
+3
+@@4
+5
+
+WHAT IS THE MATERIAL OF OUTER PANEL UPPER SKIN OF HORIZONTAL STABILIZER SPAR BOX ON ATR72
+@@2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+2024-T42
+
+WHAT IS THE MATERIAL OF OUTER PANEL LOWER SKIN OF HORIZONTAL STABILIZER SPAR BOX ON ATR72
+@@2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+2024-T42
+
+HOW MANY RIBS ON LH HORIZONTAL STABILIZER LEADING EDGE ON ATR72
+5
+7
+8
+@@15
+
+WHAT IS THE MATERIAL OF HORIZONTAL STABILIZER LEADING EDGE PANEL SKIN ON ATR72
+2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@2024-T42
+
+HOW MANY FITTINGS ON LH HORIZONTAL STABILIZER TRAILING EDGE ON ATR72
+2
+@@3
+4
+5
+
+WHAT IS THE MATERIAL OF FRONT SPAR-VERTICAL STABILIZER SPAR BOX ON ATR72
+@@2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+2024-T42
+
+WHAT IS THE MATERIAL OF VERTICAL STABILIZER SPAR BOX SKIN PANELS - RH SIDE ON ATR72
+@@2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+2024-T42
+
+WHAT IS THE MATERIAL OF VERTICAL STABILIZER LEADING EDGE SKIN PANELS
+2024-T3
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@2024-T42
+
+WHAT IS MATERIAL THE ELEVATOR TAB STRUCTURE ON ATR72
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@SANDWICH HONEYCOMB
+SOLID LAMINATE
+
+WHAT IS THE CORE SANDWICH HONEYCOMB STRUCTURE OF ELEVATOR LEADING EDGE
+ALUMINUM CORE
+@@NOMEX CORE
+ARAMID CORE
+GFRP
+
+WHAT IS MATERIAL THE ELEVATOR TIP NOSE STRUCTURE ON ATR72
+2024-T3
+7075-T62 ALU SHEET
+@@7075-T73
+2024-T42
+
+WHAT IS MATERIAL THE RUDDER LEADING EDGE STRUCTURE ON ATR72
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@SANDWICH HONEYCOMB
+SOLID LAMINATE
+
+WHAT IS MATERIAL THE RUDDER TAB STRUCTURE ON ATR72
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@SANDWICH HONEYCOMB
+SOLID LAMINATE
+
+HOW MANY RUDDER ATTACH FITTING
+2
+3
+4
+@@5
+
+WHAT IS MATERIAL HORIZONTAL-TO-VERTICAL STABILIZER FAIRINGS
+7075-T62 ALU SHEET
+2219-T62 ALU SHEET
+@@SANDWICH HONEYCOMB
+SOLID LAMINATE
