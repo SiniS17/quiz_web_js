@@ -436,7 +436,7 @@ Harness test (menu mode)
 How do you check for no fault of the Oil Debris Monitoring System of LEAP-1A:
 FADEC test (menu mode)
 Idle test (menu mode)
-FADEC test (menu mode), verify that the message "ENGXB ODMS SENSOR MONITOR" is not displayed.
+@@FADEC test (menu mode), verify that the message "ENGXB ODMS SENSOR MONITOR" is not displayed.
 
 Where is the OPTS of LEAP-1A transmits EGN oil temperature and pressure to:
 ECU
@@ -445,7 +445,7 @@ DMC
 
 How to Oil Debris Reset and purpose chip count ?
 On EEC channel A and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
-On EEC channel B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
+@@On EEC channel B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
 Both EEC channel A+B and count number of metallic chips that have been detected by the ODMS for the cumulative count during all flights
 
 With oil pressure lower than 17.4 psi (1.20 bar) to 29 psi (2.00 bar)  depeding N2 speed above ilde
