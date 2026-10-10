@@ -318,7 +318,7 @@ Throttle control levers are at -20 degree
 Throttle control levers are at 25 degree
 
 What statement is correct?
-The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 0.5 degree TRA
+@@The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 0.5 degree TRA
 The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1.5 degree TRA
 The accuracy of the throttle control unit (error between the input lever position and the resolver angle) is 1 degree TRA
 
