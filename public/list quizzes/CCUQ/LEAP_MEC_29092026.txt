@@ -47,6 +47,7 @@ How many holds open rod of Eng Leap 1-A nacelle:
 1 rod for Fan Cowl and 1 rod for Reverser
 @@2 rod for Fan Cowl and 1 rod for Reverser
 2 rod for Fan Cowl and 2 rod for Reverser
+
 How many strake installed on Engine Leap 1-A Fan Cowl door:
 1 for each Engine, on the right Fan cowl door
 1 for each Engine, on the left Fan cowl door
