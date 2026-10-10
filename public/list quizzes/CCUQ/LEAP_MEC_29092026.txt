@@ -126,6 +126,7 @@ The fuel LPSOV is controlled to open/close by:
 An electric motor
 @@A dual electric motor
 A dual servo fuel motor
+
 The fuel temp sensor of engine fuel system is:
 @@Downstream of fuel flow meter
 Upstream of the fuel flow meter
